@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Scott.5.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2024-03-09</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Scott.5.2</idno>
+			<fn>books/scott.5.2.xml</fn>
+			<shortTitle>The Rules of Whist</shortTitle>
+			<shortImprint>printed for Cox</shortImprint>
+			<description>"fifth" edition, second issue</description>
+			<pubYear>1810</pubYear>
+			<pubDate>1810</pubDate>
+			<evidence>title</evidence>
+			<edition>5</edition>
+			<issue>2</issue>
+			<categoryID>40</categoryID>
+			<workID>20</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<respGroup seq="2">Cox</respGroup>
+				<persName>
+					<forename>D.</forename>
+					<surname>Cox</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="1">Gale</respGroup>
+				<orgName>Gale and Curtis</orgName>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>1</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>1484</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.1089</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>MBAt</holder>
+				<shelfmark>C64</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>On A1v and B12v there is a stamped (not letterpress) colophon "T. Plummer, Seeting-Lane, London." It seems likely that Plummer printed only the cancel title. </note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>8</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>8</leaves>
+						<alteration>
+							<alterationType>±</alterationType>
+							<sigRef>A1</sigRef>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<leaves>8</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$1–4</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>16</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>i</start>
+						<end>iii</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>iv</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>v</start>
+						<end>vi</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>7</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>8</start>
+						<end>32</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart>THE RULES OF WHIST. | [short reverse oxford rule] | BEING | A COMPENDIUM  | OF | EASY RULES, | NECESSARY TO BE KNOWN BY | </titlePart>
+			<titlePart rend="italic">EVERY WHIST PLAYER: | </titlePart>
+			<titlePart>WITH | MAXIMS, |  </titlePart>
+			<titlePart rend="italic">BY GENERAL SCOTT. | </titlePart>
+			<titlePart>[short rule | SIXTH EDITION. | [short oxford rule] | He diverted himself, as </titlePart>
+			<titlePart rend="italic">usual, </titlePart>
+			<titlePart>with the conversation of his Friends; | and </titlePart>
+			<titlePart rend="italic">sometimes, </titlePart>
+			<titlePart>in the evening, with a party, at his </titlePart>
+			<titlePart rend="italic">favourite | Game </titlePart>
+			<titlePart>of WHIST. | </titlePart>
+			<titlePart rend="italic">Dr Smith's Life of Hume. | </titlePart>
+			<titlePart>[short reverse oxford rule] | LONDON: | PRINTED FOR COX, ST. THOMAS'S STREET, BOROUGH. | AND GALE AND CURTIS, PATERNOSTER ROW. | 1810. | [short rule] | {</titlePart>
+			<titlePart rend="italic">Price One Shilling.</titlePart>
+			<titlePart>}</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>ii</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>32</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="scott.5.1.xml">Scott.5.1</contentPart>
+					<contentPart> (1799)</contentPart>
+				</content>
+			</section>
+		</sections>
+	</text>
+</entry>

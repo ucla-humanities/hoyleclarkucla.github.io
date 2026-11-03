@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Pocket.C</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-12-22</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Pocket.C</idno>
+            <fn>books/pocket.c.xml</fn>
+            <shortTitle>The New Pocket Hoyle Parts I and II</shortTitle>
+            <description>with fifth edition of Part I</description>
+            <pubYear>1808</pubYear>
+            <pubDate>1808</pubDate>
+            <evidence>included work</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>100</workID>
+            <subWorkID>3</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <collectedParts>
+            <collectedPart>
+                <idno>Pocket.5</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Pocket2.1.1</idno>
+            </collectedPart>
+        </collectedParts>
+        <respStmt>
+            <respItem respType="editor">
+                <persName>
+                    <forename>Charles</forename>
+                    <surname>Jackson</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Cheltenham Chronicle and Gloucestershire Advertiser</publication>
+                <pubDate>1809-10-12</pubDate>
+                <notes>
+                    <note>The following new and valuable books are also published by Robert Scholey...The New Pocket Hoyle; or Companion to the Card Table...price 3s. 6d...The Same; Part the Second; completing Hoyle, and containing the Gentleman's Games...price 4s. 6d. The above are to be had together, in one vol. 7s. 6d."</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>7</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>97</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="false" isCollection="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H G8L</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+</entry>

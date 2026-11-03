@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\exdc.xml</fn><home>../index.xml</home></footer><id>EXDc</id><fn>exdc</fn><name>Devon County Library</name><location>Exeter, England</location><books><book><id>Jones.8-2</id><fn>../books/jones.8-2.xml</fn><shortTitle>Mr. Hoyle's Game of Chess</shortTitle><shortImprint>printed for R. Baldwin et al</shortImprint><description>extracted from the eighth London edition</description><pubDate>1808</pubDate><shelfmarks><shelfmark>794.1</shelfmark></shelfmarks></book></books></holder>

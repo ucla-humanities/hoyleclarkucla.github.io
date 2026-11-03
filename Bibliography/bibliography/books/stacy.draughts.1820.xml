@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Stacy.Draughts.1820</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-10-24</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Stacy.Draughts.1820</idno>
+			<fn>books/stacy.draughts.1820.xml</fn>
+			<shortTitle>A Treatise on the Game of Draughts</shortTitle>
+			<shortImprint>printed for the booksellers, by John Stacy</shortImprint>
+			<pubYear>1820</pubYear>
+			<pubDate>1820</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>40</workID>
+			<subWorkID>40</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>John</forename>
+					<surname>Stacy</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+		</respStmt>
+		<holdings>
+			<holding isSeen="true">
+				<holder>L</holder>
+				<shelfmark>RB.23.a.12258</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>HAG</holder>
+				<shelfmark>XDA 322</shelfmark>
+				<surrogate url="https://books.google.com/books?id=o1dVAAAAcAAJ">Google</surrogate>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>12.2</height>
+				<width>6.4</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>unsigned</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>3</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+						<end>24</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart>HOYLE ABRIDGED!! | [short oxford rule] | A TREATISE | ON THE | </titlePart>
+			<titlePart rend="blackletter">Game of Draughts; | </titlePart>
+			<titlePart>OR, | </titlePart>
+			<titlePart rend="italic">Short Rules for Short Memories. | </titlePart>
+			<titlePart>WITH THE | LAWS OF THE GAME AND EXERCISES. | ALSO OF | CONSTITUTIONAL CHECKERS, | AND | </titlePart>
+			<titlePart rend="italic">POLISH DRAUGHTS. | </titlePart>
+			<titlePart>[short rule] | BY BOB SHORT. | [short rule] | [printer's device] | </titlePart>
+			<titlePart rend="blackletter">London: | </titlePart>
+			<titlePart>PRINTED FOR THE BOOKSELLERS, | BY JOHN STACY, NORWICH. | [short rule] | 1820.</titlePart>
+		</titlePage>
+		<titlePage titleType="label">
+			<titlePart>[oxford rule] | BOB SHORT'S RULES | FOR | SHORT MEMORIES | AT THE | </titlePart>
+			<titlePart rend="smallcap">Game of Draughts. | </titlePart>
+			<titlePart>[short oxford rule] | </titlePart>
+			<titlePart rend="italic">Price Sixpence. | </titlePart>
+			<titlePart>[reverse oxford rule]</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A10v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>20</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF DRAUGHTS. | [...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Draughts</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A11r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>21</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A11v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>22</pageRef>
+					</pageTo>
+					<contentPart>‘CONSTITUTIONAL CHECKERS. | [...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Constitutional Checkers</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A11v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>22</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<contentPart>‘THE GAME | OF | </contentPart>
+					<contentPart rend="blackletter">Polish Draughts. | </contentPart>
+					<contentPart>[...] | [colophon]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Polish Draughts</game>
+				</gamesCovered>
+			</section>
+		</sections>
+		<plates>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>A3r</sigRef>
+				<pageRef>5</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>Draught Table.</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘[short oxford rule] | STACY, PRINTER, NORWICH.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

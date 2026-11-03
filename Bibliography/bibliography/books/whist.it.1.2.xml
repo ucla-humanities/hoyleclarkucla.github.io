@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+    <fileDesc>
+        <title>Whist.It.1.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-09</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.It.1.2</idno>
+            <fn>books/whist.it.1.2.xml</fn>
+            <shortTitle>Il Giuoco del Whist</shortTitle>
+            <shortImprint>dalla tipografia Manini e Rivolta</shortImprint>
+            <description>first edition, second issue</description>
+            <pubYear>1821</pubYear>
+            <pubDate>1821</pubDate>
+            <evidence>copyright</evidence>
+            <edition>1</edition>
+            <issue>2</issue>
+            <categoryID>80</categoryID>
+            <workID>50</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>it</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Manini e Rivolta</orgName>
+            </respItem>
+        </respStmt>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>lir.</unit>
+                </priceComponent>
+                <evidence>wrapper</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>Lensi</reference>
+                <idno>62</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="false">
+                <holder>GAm</holder>
+                <shelfmark>FA.19.U.324</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NAve</holder>
+                <surrogate url="https://books.google.com/books?id=nKL1ZcC5FBAC">Google</surrogate>
+            </holding>
+            <holding isSeen="false">
+                <holder>VENm</holder>
+                <shelfmark>ANT 18232</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>VENm</holder>
+                <shelfmark>ANT 20120</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CtY-BR</holder>
+                <shelfmark>2009 1757</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>This is a reissue of </note>
+            <note url="whist.it.1.1.xml">Whist.It.1.1</note>
+            <note> apparently with a cancel title and a 48 page almanac for the year 1822.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <titlePage titleType="title">
+            <titlePart>IL GIUOCO | DEL WHIST | TRADOTTO | DALL'INGLESE | </titlePart>
+            <titlePart rend="italic">Almanacco | Per l'anno 1822. | </titlePart>
+            <titlePart>[short rule] | MILANO | Dalla Tipografia </titlePart>
+            <titlePart rend="smallcap">Manini </titlePart>
+            <titlePart>e </titlePart>
+            <titlePart rend="smallcap">Rivolta | </titlePart>
+            <titlePart rend="italic">Contrada di Bassano Porrone | Num. </titlePart>
+            <titlePart>1726.</titlePart>
+        </titlePage>
+    </text>
+</entry>

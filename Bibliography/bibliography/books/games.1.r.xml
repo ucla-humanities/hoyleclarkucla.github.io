@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Games.1.R</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-04-30</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Games.1.R</idno>
+            <fn>books/games.1.r.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>printed for Francis Robertson</shortImprint>
+            <description>Edinburgh reprint of Whist, the "twelfth" edition</description>
+            <pubYear>1767</pubYear>
+            <pubDate>1767-06-20</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>2</workID>
+            <subWorkID>3</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Francis</forename>
+                    <surname>Robertson</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Caledonian Mercury</publication>
+                <pubDate>1767-06-20</pubDate>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <holdings>
+            <holding isSeen="true">
+                <holder>BFl</holder>
+                <shelfmark>I.795/HOYL (b1163081)</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The only known copy at the Linen Hall Library lacks pages 25 through 42. </note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>π</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>2</dupSeq>
+                        <sigStart>π</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>L</sigEnd>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>M</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>+</anomType>
+                        <sigRef>A1</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>48</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>6</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>90</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>A SHORT | TREATISE | On the GAME of | WHIST. | CONTAINING | The LAWS
+                of the GAME: | AND ALSO | A DICTIONARY for WHIST, | Which reſolves all the </titlePart>
+            <titlePart rend="smallcap">Critical Cases </titlePart>
+            <titlePart>that | may happen at this Game. | </titlePart>
+            <titlePart rend="smallcap">to this Edition is also added, | </titlePart>
+            <titlePart>An ARTIFICIAL
+                MEMORY for thoſe | who play at </titlePart>
+            <titlePart rend="smallcap">Whist. | </titlePart>
+            <titlePart>By EDMOND HOYLE, Gent. | [rule] | </titlePart>
+            <titlePart rend="smallcap">The Twelfth Edition. | </titlePart>
+            <titlePart>[rule] | EDINBURGH: | Printed for </titlePart>
+            <titlePart rend="smallcap">Francis Robertson, </titlePart>
+            <titlePart>Bookſeller, | Parliament Cloſe. M,DCC,LXVII.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>π2v</sigRef>
+                    </sigTo>
+                    <contentPart>‘THE | CONTENTS | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>π2v</sigRef>
+                    </sigTo>
+                    <RTPart>‘The CONTENTS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>M1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>90</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | A SHORT | TREATISE | On the GAME of | WHIST. |
+                        [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>M1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>90</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A ſhort </RTPart>
+                    <RTPart rend="smallcap">Treatise </RTPart>
+                    <RTPart rend="italic">on | the </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart rend="smallcap">Whist.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+        </sections>
+    </text>
+</entry>

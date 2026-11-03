@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Nl.2.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-12-20</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Nl.2.1</idno>
+            <fn>books/whist.nl.2.1.xml</fn>
+            <shortTitle>Onderwijs in het Whist</shortTitle>
+            <shortImprint>bij Gartman, Vermandel en Holtrop</shortImprint>
+            <description>second edition, first issue</description>
+            <pubYear>1810</pubYear>
+            <pubDate>1810</pubDate>
+            <evidence>title</evidence>
+            <edition>2</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>20</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>nl</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Gartman, Vermandel en Holtrop</orgName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>769</idno>
+            </bibl>
+            <!-- 
+            <bibl>
+                <reference>Rather</reference>
+                <idno>R</idno>
+            </bibl>
+             -->
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.O53 1810</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1243.O58</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1775</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>AMu</holder>
+                <shelfmark>OTM: O 06-1983</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>AMu</holder>
+                <shelfmark>UBM: 1220 E 10</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>GROu</holder>
+                <shelfmark>M.V.O. S 4</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>GROu</holder>
+                <shelfmark>OG 'AL 36</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>HAG</holder>
+                <shelfmark>9208 G 1</shelfmark>
+                <surrogate url="https://books.google.com/books?id=fkpUAAAAcAAJ">Google</surrogate>
+            </holding>
+            <holding isSeen="false">
+                <holder>LEI</holder>
+                <shelfmark>3 6832 E 19</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LT</holder>
+                <shelfmark>Wb 782</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NlA</holder>
+                <shelfmark>Rozet Magazijn 300, 53 C 35</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>TNMS</holder>
+                <shelfmark>458</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>∗</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>P</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>Q</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>∗5</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>Q4</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>130</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>v</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>vi</start>
+                        <end>xii</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>246</end>
+                    </pageRange>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>2</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.nl.2.1">
+            <titlePart>ONDERWIJS | IN HET | WHIST-, OMBER-, | QUADRILLE-, PIKET- | EN | BOSTON-SPEL, | ZOO ALS DIT ALLES HIER TE LANDE | GESPEELD WORDT; | NAAR | HOYLE EN PAYNE. | TWEEDE VERBETERDE DRUK. | [short rule] | AMSTERDAM | bij Gartman, Vermandel en Holtrop. | 1810.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>∗2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>iv</pageRef>
+                    </pageTo>
+                    <contentPart>‘[short rule] | Het </contentPart>
+                    <contentPart rend="italic">Kaartſpe </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>v</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>∗5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>ix</pageRef>
+                    </pageTo>
+                    <contentPart>‘[short rule] | INHOUD. | WHIST. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>∗3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vi</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>∗6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>xii</pageRef>
+                    </pageTo>
+                    <RTPart>‘INHOUD.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>x</pageRef>
+                    </pageFrom>
+                    <contentPart>‘OMBER. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>xi</pageRef>
+                    </pageFrom>
+                    <contentPart>‘QUADRILLE | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>xii</pageRef>
+                    </pageFrom>
+                    <contentPart>‘PIKET. | [...] | BOSTON. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>130</pageRef>
+                    </pageTo>
+                    <contentPart>‘ONDERWIJS | IN HET | WHIST-SPEL. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>131</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>158</pageRef>
+                    </pageTo>
+                    <contentPart>‘ONDERWIJS | IN HET | OMBER-SPEL. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Hombre</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>K8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>159</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>M6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>188</pageRef>
+                    </pageTo>
+                    <contentPart>‘ONDERRICHT | IN HET | QUADRILLE-SPEL. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>M7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>189</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>P6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>236</pageRef>
+                    </pageTo>
+                    <contentPart>‘ONDERWIJS | IN HET | PIKET-SPEL. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>P7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>237</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>Q3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>246</pageRef>
+                    </pageTo>
+                    <contentPart>‘ONDERWIJS | IN HET | BOSTON. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Boston</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>Q4r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>Q4v</sigRef>
+                    </sigTo>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+        <plates>
+            <plate>
+                <plateRelation>opposite</plateRelation>
+                <sigRef>M6v</sigRef>
+                <pageRef>188</pageRef>
+                <plateType>letterpress</plateType>
+                <notes>
+                    <note>folded quarter sheet printed on both sides: </note>
+                    <note rend="italic">‘Tarif bij het Quadrilleſpelen met honneurs. | </note>
+                    <note> [...]’</note>
+                </notes>
+            </plate>
+        </plates>
+    </text>
+</entry>

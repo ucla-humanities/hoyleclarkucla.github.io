@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Harris.Whist.1809</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-10-23</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Harris.Whist.1809</idno>
+			<fn>books/harris.whist.1809.xml</fn>
+			<shortTitle>Short Rules for Whist</shortTitle>
+			<shortImprint>for J. Harris</shortImprint>
+			<statedEdition>"twenty-second" edition</statedEdition>
+			<pubYear>1809</pubYear>
+			<pubDate>1809</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>10</workID>
+			<subWorkID>10</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Withy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>John</forename>
+					<surname>Harris</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Henry</forename>
+					<surname>Bryer</surname>
+				</persName>
+			</respItem>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Opie Microfiche 017:088</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>11.8</height>
+				<width>5.7</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>A2</sigRef>
+					</anomSignature>
+				</anomSignatures>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>2</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>3</start>
+						<end>8</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>9</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>10</start>
+						<end>11</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>12</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>13</start>
+						<end>24</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart>HOYLE ABRIDGED. | OR, | </titlePart>
+			<titlePart rend="italic">SHORT RULES | </titlePart>
+			<titlePart>FOR | SHORT MEMORIES | AT THE | GAME OF WHIST. | WITH THE | </titlePart>
+			<titlePart rend="italic">LAWS OF THE GAME, &amp;c | Adapated either for the Head or Pocket. | </titlePart>
+			<titlePart>By BOB SHORT. | THE TWENTY-SECOND EDITION. | [short rule] | Printed for the Benefit of Fami-|lies, to prevent Scolding; | For </titlePart>
+			<titlePart rend="smallcap">J. Harris, </titlePart>
+			<titlePart>Successor to </titlePart>
+			<titlePart rend="smallcap">E. New-|bery, </titlePart>
+			<titlePart>at the Corner of St. | Paul's Church-Yard. | 1809. | </titlePart>
+			<titlePart rend="italic">Price Sixpence. | </titlePart>
+			<titlePart>{Entered at Stationers' Hall.}</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>‘H. Bryer, Printer, | Bridge-Street, Blackfriars.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">TO THE PUBLIC. | </contentPart>
+					<contentPart>[...] | </contentPart>
+					<contentPart rend="italic">BOB SHORT.</contentPart>
+					<contentPart>’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">Just published, | </contentPart>
+					<contentPart>NEW EDITIONS, | OF THE FOLLOWING APPROVED LITTLE WORKS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>8</pageRef>
+					</pageTo>
+					<contentPart>‘[reverse oxford rule] | DEDICATION. | [short rule] | </contentPart>
+					<contentPart rend="italic">TO THE FOUR KINGS. | </contentPart>
+					<contentPart>[...] | Your devoted Slave. | BOB SHORT. | </contentPart>
+					<contentPart rend="italic">Baker's Coffee-House, | Exchange Alley, | Jan. </contentPart>
+					<contentPart> 1, 1793.’</contentPart>
+				</content>
+				<subject>
+					<subject1>Bob Short Address</subject1>
+					<subject2>1793-01-01 Baker's Coffee-house</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>9</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF WHIST. | [...] | [colophon]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+		</sections>
+		<colophon>
+			<notes>
+				<note>‘</note>
+				<note rend="italic">H. Bryer, Printer, | Bridge-Street, Blackfriars.</note>
+					<note>’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

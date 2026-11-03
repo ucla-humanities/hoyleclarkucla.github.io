@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>Need to verify contents; check catchwords; handle Rather I</todo>
+    <fileDesc>
+        <title>Whist.Fr.B.1781.Fournier</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.B.1781.Fournier</idno>
+            <fn>books/whist.fr.b.1781.fournier.xml</fn>
+            <shortTitle>Traité du Jeu de Whisk</shortTitle>
+            <shortImprint>Chez Fournier</shortImprint>
+            <statedEdition>"sixieme" edition</statedEdition>
+            <pubYear>1781</pubYear>
+            <pubDate>1781</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <orgName>Chez Fournier</orgName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Depaulis</reference>
+                <idno>122</idno>
+            </bibl>
+            <!--             <bibl>
+                <reference>Rather</reference>
+                <idno>I</idno>
+            </bibl> -->
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.H69 1781</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "B++" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>18</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>H</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>I</sigStart>
+                        <leaves>6</leaves>
+                        <alteration>
+                            <alterationType>−</alterationType>
+                            <sigRef>I6</sigRef>
+                            <note> missing, blank?</note>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>53</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>ii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iii</start>
+                        <end>vi</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>7</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>8</start>
+                        <end>106</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>TRAITÉ | </titlePart>
+            <titlePart rend="italic">DU JEU | </titlePart>
+            <titlePart>DU WHISK, | </titlePart>
+            <titlePart rend="italic">Contenant les Loix de ce Jeu, des | Règles pour le bien
+                jouer, des | Calculs pour en connaître les | chances, &amp; la ſolution de
+                pluſieurs | cas embarraſſans. | </titlePart>
+            <titlePart>Trad. de l'Anglais d'Edmond Hoyle. | </titlePart>
+            <titlePart rend="italic">Sixieme Edition, revue, corrigée &amp; | augmentée. | </titlePart>
+            <titlePart>[tailpiece] | A AMSTERDAM, | </titlePart>
+            <titlePart rend="italic">&amp; ſe trouve à PARIS, | </titlePart>
+            <titlePart>Chez </titlePart>
+            <titlePart rend="smallcap">Fournier, </titlePart>
+            <titlePart>Libraire, rue du | Hurepoix, près du Pont ſaint Michel, | à la Providence. | 
+                [oxford rule] | M. DCC. LXXXI.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>publisher's advertisement</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>vi</pageRef>
+                    </pageTo>
+                    <contentPart>‘[oxford rule] | INTRODUCTION. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>7</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | TRAITÉ | DU JEU DU WHIST, | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>8</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Traité du Jeu | du Whisk.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>I5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>106</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Traité du Jeu, &amp;c.’</RTPart>
+                </RT>
+            </section>
+        </sections>
+    </text>
+</entry>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Whist.It.1823.Balatresi</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-17</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Whist.It.1823.Balatresi</idno>
+			<fn>books/whist.it.1823.balatresi.xml</fn>
+			<shortTitle>Regole di Hoyle per il Giuoco di Whist</shortTitle>
+			<shortImprint>Tipografia e Libreria Balatresi</shortImprint>
+			<statedEdition>seconda edizione</statedEdition>
+			<pubYear>1823</pubYear>
+			<pubDate>1823</pubDate>
+			<evidence>title</evidence>
+			<edition>2</edition>
+			<issue>1</issue>
+			<categoryID>80</categoryID>
+			<workID>50</workID>
+			<subWorkID>30</subWorkID>
+			<textLang>it</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Withy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<orgName>Tipografia e Libreria Balatresi</orgName>
+			</respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>Lensi</reference>
+				<idno>75</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>2194</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>LT</holder>
+				<shelfmark>Wb 697</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation isNumeric="true">			
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>1</sigStart>
+						<sigEnd>2</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$1</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>3</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+						<end>23</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>24</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="whist.it.1823.balatresi">
+			<titlePart>REGOLE DI HOYLE | PER IL GIUOCO DI WHIST | COMPENDIATE | DA BOB SHORT | </titlePart>
+			<titlePart rend="italic">E TRADOTTE IN ITALIANO | </titlePart>
+			<titlePart>PER LA PRIMA VOLTA | </titlePart>
+			<titlePart rend="italic">Da una dilettante di detto gioco. | </titlePart>
+			<titlePart>SECONDA EDIZIONE. | [short rule] | FIRENZE | Tipografia e Libreria Balatresi | 1823</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>1.1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>1.1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>1.2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>2.6r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>23</pageRef>
+					</pageTo>
+					<contentPart rend="italic">‘GIUOCO DI WHIST | [...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>2.6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>24</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+		</sections>
+	</text>
+</entry>

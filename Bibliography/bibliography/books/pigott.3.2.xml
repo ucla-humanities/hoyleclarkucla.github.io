@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+	<fileDesc>
+		<title>Pigott.3.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2021-06-30</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pigott.3.2</idno>
+			<fn>books/pigott.3.2.xml</fn>
+			<shortTitle>Pigott's New Hoyle</shortTitle>
+			<shortImprint>printed for J. Ridgway</shortImprint>
+			<statedEdition>"tenth" edition</statedEdition>
+			<description>third London edition, second issue</description>
+			<pubYear>1803</pubYear>
+			<pubDate>1803</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>3</edition>
+			<issue>2</issue>
+			<categoryID>30</categoryID>
+			<workID>90</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Pigott</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>The Star</publication>
+				<pubDate>1803-08-26</pubDate>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>3</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<notes>
+			<note>The only evidence for this "tenth" edition is the existence of a "</note>
+			<note url="pigott.3.1.xml">ninth</note>
+			<note>" edition and a "</note>
+			<note url="pigott.3.3.xml">eleventh</note>
+			<note>" which appear to be the same setting of type and the one newspaper advertisement mentioned above. </note>
+		</notes>
+	</bookDesc>
+</entry>

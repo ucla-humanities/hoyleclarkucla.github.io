@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Fr.0.1751.Boucherie</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.0.1751.Boucherie</idno>
+            <fn>books/whist.fr.0.1751.boucherie.xml</fn>
+            <shortTitle>Traité du Jeu de Whist</shortTitle>
+            <shortImprint>Chez Jean-Joseph Boucherie</shortImprint>
+            <description>first edition in French</description>
+            <pubYear>1751</pubYear>
+            <pubDate>1751</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Jean-Joseph</forename>
+                    <surname>Boucherie</surname>
+                </persName>
+            </respItem>
+            <respItem respType="translator">
+                <persName>
+                    <forename>Pierre Balthazar Maximilien</forename>
+                    <surname>Malebranche</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="false">
+                <holder>Bodard</holder>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "M" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>π</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>C</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>D</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>32</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>8</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>ii</start>
+                        <end>iv</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>50</end>
+                    </pageRange>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>2</start>
+                    </pageRange>
+                </pageRanges>
+                <pagingErrors>
+                    <pagingError>
+                        <start>49</start>
+                        <badPage>59</badPage>
+                    </pagingError>
+                </pagingErrors>
+            </pagination>
+        </collation>
+        <titlePage titleType="halfTitle">
+            <titlePart>TRAITÉ | DU JEU | DE WHIST.</titlePart>
+        </titlePage>
+        <titlePage titleType="title" imageFN="whist.fr.0.1751.boucherie">
+            <titlePart rend="red">TRAITÉ </titlePart>
+            <titlePart>| DU JEU | </titlePart>
+            <titlePart rend="red">DE WHIST. </titlePart>
+            <titlePart>| CONTENANT | </titlePart>
+            <titlePart rend="italic">Les Calculs qui montrent d'une certitude morale à |
+                jouer tel Jeu que ce puiſſe être. | L'Explication &amp; l'Application de ces
+                Calculs. | Les Loix du Jeu. | Les Regles generales &amp; particulieres à
+                obſerver, &amp;c. | </titlePart>
+            <titlePart rend="red">AVEC </titlePart>
+            <titlePart>| Un Supplement à ce Traité promis par l'Auteur, | Traduit de
+                l'Anglois. | </titlePart>
+            <titlePart rend="red">Par </titlePart>
+            <titlePart rend="smallcapred">P. B. M. Malebranche. </titlePart>
+            <titlePart>| [tailpiece] | </titlePart>
+            <titlePart rend="red">A BRUXELLES, </titlePart>
+            <titlePart>| Chez </titlePart>
+            <titlePart rend="smallcapred">Jean-Joseph Boucherie, </titlePart>
+            <titlePart>Impri-|meur &amp; Libraire ruë de l'Empereur. | [short oxford rule] | </titlePart>
+            <titlePart rend="red">M. DCC. LI.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <contentPart>half title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π3r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>π4v</sigRef>
+                    </sigTo>
+                    <contentPart>‘[headpiece] | AUX AMATEURS | DU JEU | DE WHIST. |
+                        [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>π6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>iv</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | PREFACE | </contentPart>
+                    <contentPart rend="italic">DU TRADUCTEUR. </contentPart>
+                    <contentPart>| [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>π5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>π6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>iv</pageRef>
+                    </pageTo>
+                    <RTPart>‘PREFACE.’</RTPart>
+                </RT>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>50</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | TRAITÉ | DU JEU | DE WHIST. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D2r</sigRef>
+                    </sigFrom>
+                    <contentPart>Errata</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D2v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

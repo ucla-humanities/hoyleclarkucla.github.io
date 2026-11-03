@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\c-s.xml</fn><home>../index.xml</home></footer><id>C-S</id><fn>c-s</fn><name>California State Library-Sutro</name><location>San Francisco, California</location><books><book><id>Withy.Quadrille.1</id><fn>../books/withy.quadrille.1.xml</fn><shortTitle>Short Rules for Quadrille</shortTitle><shortImprint>printed for, and sold by the Author</shortImprint><description>first London edition</description><pubDate>1793</pubDate><shelfmarks><shelfmark>795.4S55 CG</shelfmark></shelfmarks></book></books></holder>

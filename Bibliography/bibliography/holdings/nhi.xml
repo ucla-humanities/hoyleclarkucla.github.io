@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\nhi.xml</fn><home>../index.xml</home></footer><id>NHi</id><fn>nhi</fn><name>New York Historical Society</name><location>New York, New York</location><books><book><id>Waite.1.3</id><fn>../books/waite.1.3.xml</fn><shortTitle>Hoyle's Games Improved</shortTitle><shortImprint>printed &amp; sold by G. &amp; R. Waite</shortImprint><description>first American edition, third issue</description><pubDate>1819</pubDate><shelfmarks><shelfmark>Y 1819.H</shelfmark></shelfmarks></book></books></holder>

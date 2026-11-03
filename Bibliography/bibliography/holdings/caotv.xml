@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\caotv.xml</fn><home>../index.xml</home></footer><id>CaOTV</id><fn>caotv</fn><name>Victoria University</name><location>Toronto, Ontario</location><books><book><id>Polite.2</id><fn>../books/polite.2.xml</fn><shortTitle>The Polite Gamester</shortTitle><shortImprint>printed by Peter Hoey</shortImprint><statedEdition>"tenth" edition</statedEdition><description>second Dublin edition</description><pubDate>1787</pubDate><shelfmarks><shelfmark>Blake no.1161</shelfmark></shelfmarks></book></books></holder>

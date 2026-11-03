@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Games.1.5</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2024-05-09</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Games.1.5</idno>
+			<fn>books/games.1.5.xml</fn>
+			<shortTitle>Mr. Hoyle's Treatises</shortTitle>
+			<shortImprint>printed for T. Osborne and sold by W. Reeve</shortImprint>
+			<statedEdition>"tenth" edition</statedEdition>
+			<description>first London edition, fifth issue</description>
+			<pubYear>1755</pubYear>
+			<pubDate>1755-12-24</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>5</issue>
+			<categoryID>30</categoryID>
+			<workID>2</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Osborne</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>James</forename>
+					<surname>Hodges</surname>
+				</persName>
+				<evidence>advertisement</evidence>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="1">Baldwin</respGroup>
+				<persName>
+					<forename>Richard</forename>
+					<surname>Baldwin</surname>
+				</persName>
+				<evidence>advertisement</evidence>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Gardner</surname>
+				</persName>
+				<evidence>ornaments</evidence>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Public Advertiser</publication>
+				<pubDate>1755-12-24</pubDate>
+				<notes>
+					<note>"Just published, the tenth edition (price only three shillings in marble
+						binding)...printed for T. Osborne...J. Hodges...and R. Baldwin; and sold by
+						all booksellers in Great-Britain and Ireland."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>3</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T87518</idno>
+			</bibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>802</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>39</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>ABu</holder>
+				<shelfmark>SB 79541 Hoy</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>L</holder>
+				<shelfmark>7912.a.74</shelfmark>
+				<surrogate>ECCO</surrogate>
+			</holding>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.554</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Vet. A5.f.211</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Copisarow</holder>
+			</holding>
+			<holding isSeen="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H F55L</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1241.H8 A9 c.2</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>2050</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>Cq</holder>
+				<shelfmark>G.27.38</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>Om</holder>
+				<shelfmark>50.E.10.</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>AMu</holder>
+				<shelfmark>OTM: OK 06-1703</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>CaNSHD</holder>
+				<shelfmark>GV1277.H89 1755</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>TxCM</holder>
+				<shelfmark>GV1277.H89 1755</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>TxHU</holder>
+				<shelfmark>GV1277.H89 1755</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>AuVU</holder>
+				<shelfmark>795.41 H867</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>The final reissue of </note>
+			<note url="games.1.1.xml">Games.1.1</note>
+			<note> with a cancel section title for the "tenth" edition of whist.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>1</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>D</sigEnd>
+						<leaves>12</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>E</sigStart>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>F</sigStart>
+						<sigEnd>L</sigEnd>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>B6</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>F1</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>G2</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>G3</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>I5</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>I6</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>L5</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>L6</sigRef>
+					</anomSignature>
+				</anomSignatures>
+				<signingErrors>
+					<signingError>
+						<sigRef>F3</sigRef>
+						<badSig>A3</badSig>
+					</signingError>
+					<signingError>
+						<sigRef>F5</sigRef>
+						<badSig>A5</badSig>
+					</signingError>
+				</signingErrors>
+			</collationFormula>
+			<totalLeaves>115</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>2</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>84</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>97</start>
+						<end>99</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>100</start>
+						<end>123</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>124</start>
+						<end>127</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>128</start>
+						<end>177</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>178</start>
+						<end>180</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>181</start>
+						<end>224</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>225</start>
+						<end>240</end>
+						<note>[=228]</note>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="section" sectionID="Whist" imageFN="games.1.5">
+			<titlePart>A SHORT | TREATISE | On the GAME of | WHIST. | CONTAINING, | The LAWS
+				of the GAME: | AND ALSO | Some RULES, whereby a Beginner may, with due |
+				Attention to them, attain to the Playing it well. | </titlePart>
+			<titlePart rend="smallcap">Calculations </titlePart>
+			<titlePart>for thoſe who will bet the Odds on | any Points of the Score of the
+				Game then playing | and depending. | </titlePart>
+			<titlePart rend="smallcap">Cases </titlePart>
+			<titlePart>ſtated, to ſhew what may be effected by a very | good Player in
+				critical Parts of the Game. | </titlePart>
+			<titlePart rend="smallcap">References </titlePart>
+			<titlePart>to </titlePart>
+			<titlePart rend="smallcap">Cases, </titlePart>
+			<titlePart rend="italic">viz. </titlePart>
+			<titlePart>at the End of the Rule, | you are directed how to find them. | </titlePart>
+			<titlePart rend="smallcap">Calculations, </titlePart>
+			<titlePart>directing with moral Certainty, how | to play well any Hand or Game,
+				by ſhewing the | Chances of your Partner’s having 1, 2, or 3 certain |
+				Cards. | With Variety of </titlePart>
+			<titlePart/>
+			<titlePart rend="smallcap">Cases </titlePart>
+			<titlePart>added in the Appendix. | [rule] | </titlePart>
+			<titlePart rend="italic">By </titlePart>
+			<titlePart>EDMOND HOYLE, </titlePart>
+			<titlePart rend="italic">Gent. | </titlePart>
+			<titlePart>[rule] | The </titlePart>
+			<titlePart rend="smallcap">Tenth Edition, </titlePart>
+			<titlePart>with great </titlePart>
+			<titlePart rend="smallcap">Additions. | </titlePart>
+			<titlePart>The Laws of the Game, and an Explanation of the | Calculations which
+				are neceſſary to be underſtood | by thoſe who would play it well. | And
+				alſo, | A </titlePart>
+			<titlePart rend="smallcap">Dictionary </titlePart>
+			<titlePart>for </titlePart>
+			<titlePart rend="smallcap">Whist, </titlePart>
+			<titlePart rend="italic">which reſolves almoſt all | the critical Caſes that may
+				happen at the Game. | </titlePart>
+			<titlePart>To which is added, | An ARTIFICIAL MEMORY: | Or, an eaſy Method of
+				aſſiſting the Memory of thoſe | that play at the GAME of WHIST. | And
+				ſeveral </titlePart>
+			<titlePart rend="smallcap">Cases, </titlePart>
+			<titlePart>not hitherto publiſhed. | To this Edition are alſo added, | A whole
+				Chapter of thirteen new </titlePart>
+			<titlePart rend="smallcap">Caſes, </titlePart>
+			<titlePart>never | publiſh'd before. | [rule] | </titlePart>
+			<titlePart rend="italic">LONDON: | </titlePart>
+			<titlePart>Printed for </titlePart>
+			<titlePart rend="smallcap">T. Osborne, </titlePart>
+			<titlePart>at </titlePart>
+			<titlePart rend="italic">Gray's Inn</titlePart>
+			<titlePart>; and ſold by | </titlePart>
+			<titlePart rend="smallcap">W. Reeve, </titlePart>
+			<titlePart>in </titlePart>
+			<titlePart rend="italic">Fleet-Street. </titlePart>
+			<titlePart>1755.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<contentPart>section title whist</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<contentPart>‘ADVERTISEMENT. | [...] | To the READER. | [...] | [autographs of Edmond Hoyle and
+						Thomas Osborne]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>240</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="games.1.1.xml">Games.1.1</contentPart>
+					<contentPart> (1748)</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>240</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="games.1.1.xml">Games.1.1</RTPart>
+					<RTPart> (1748)</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>Quadrille</game>
+					<game>Piquet</game>
+					<game>Chess</game>
+					<game>Backgammon</game>
+				</gamesCovered>
+			</section>
+		</sections>
+	</text>
+</entry>

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Pt.3</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-30</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Pt.3</idno>
+            <fn>books/whist.pt.3.xml</fn>
+            <shortTitle>Breve Tratado do Jogo do Whist</shortTitle>
+            <shortImprint>Na Officina de Jozé da Silva Nazareth</shortImprint>
+            <description>third edition</description>
+            <pubYear>1784</pubYear>
+            <pubDate>1784</pubDate>
+            <evidence>title</evidence>
+            <edition>3</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>60</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>pt</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Nazareth</respGroup>
+                <persName>
+                    <forename>Jozé da Silva</forename>
+                    <surname>Nazareth</surname>
+                </persName>
+            </respItem>
+            <respItem respType="translator">
+                <persName>
+                    <forename>Luiz de Vasconcellos</forename>
+                    <surname>Botelho</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1750</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LB</holder>
+                <shelfmark>B.A. 4646 P.</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NvLN</holder>
+                <shelfmark>GV1277.B74 1784</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>H</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>I</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–2</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>I2</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>68</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>3</start>
+                        <end>134</end>
+                    </pageRange>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>2</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.pt.3">
+            <titlePart>BREVE TRATADO | DO JOGO | DO | WHIST. | Novamente correcto, e emendado | neſta ultima impreſſaõ | [tailpiece] | LISBOA, | Na Officina de Jozé da Silva Nazareth. | </titlePart>
+            <titlePart rend="smallcap">Anno M.dcc.lxxxiv. | </titlePart>
+            <titlePart rend="italic">Com licença da Real Meza Cenſoria.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>134</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | BREVE TRATADO | DO JOGO | DO | WHIST. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>134</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Breve Tratado | do Jogo do whiſt.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘do Jogo de Whiſt.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>B5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>26</pageRef>
+                    </pageFrom>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>C1v</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>34</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>D3v</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>54</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>D6v</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>60</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>E7v</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>78</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>F5v</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>90</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>F6v</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>92</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>H1v</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>114</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <RTPart rend="italic">‘Breve Tratado.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>C1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>33</pageRef>
+                    </pageFrom>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>E5r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>73</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <RTPart rend="italic">‘do Jogo do whiſti.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>C2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>35</pageRef>
+                    </pageFrom>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>D7r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>61</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>F3r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>85</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>H5r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>121</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <RTPart rend="italic">‘do Jogo di whiſt .’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>C5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>41</pageRef>
+                    </pageFrom>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>E6r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>75</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>H2r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>115</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <RTPart rend="italic">‘do Jogo do Whiſt .’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I4r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>I4v</sigRef>
+                    </sigTo>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>B6v</sigRef>
+                <pageRef>28</pageRef>
+                <cwFoot>XXIX.</cwFoot>
+                <cwHead>XXIX</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>D8r</sigRef>
+                <pageRef>63</pageRef>
+                <cwFoot>paſsar</cwFoot>
+                <cwHead>paſſar</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

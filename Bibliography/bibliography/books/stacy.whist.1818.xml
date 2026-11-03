@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+	<fileDesc>
+		<title>Stacy.Whist.1818</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-10-24</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Stacy.Whist.1818</idno>
+			<fn>books/stacy.whist.1818.xml</fn>
+			<shortTitle>Short Rules for Whist</shortTitle>
+			<shortImprint>printed for B. Reynolds</shortImprint>
+			<pubYear>1818</pubYear>
+			<pubDate>1818</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>40</workID>
+			<subWorkID>10</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Withy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short, Jun.</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>B.</forename>
+					<surname>Reynolds</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>John</forename>
+					<surname>Stacy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>John</forename>
+					<surname>Stacy</surname>
+				</persName>
+				<evidence>inferred</evidence>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>inferred</evidence>
+			</price>
+		</prices>
+		<notes>
+			<note>A copy of this book was offered by bookseller Phillip Pirages in catalogue 46 item 824 (2001) and catalogue 59 item 264 (2001). Pirages consigned this book to 
+				Swann Auction Gallery where it sold in sale 2247, </note>
+			<note url="https://catalogue.swanngalleries.com/Lots/auction-lot/(BINDING)-[Hoyle-Edmond]-Hoyle-Abridged;-or-Short-Rules-for-?saleno=2247&amp;lotNo=204&amp;refNo=646324">lot 204</note>
+			<note>, on May 12, 2011.</note>
+		</notes>
+	</bookDesc>
+</entry>

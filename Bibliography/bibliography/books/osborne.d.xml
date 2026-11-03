@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Osborne.D</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-11-02</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Osborne.D</idno>
+            <fn>books/osborne.d.xml</fn>
+            <shortTitle>Collection</shortTitle>
+            <shortImprint>printed for Thomas Osborne et al</shortImprint>
+            <description>fourth collection</description>
+            <pubYear>1747</pubYear>
+            <pubDate>1747</pubDate>
+            <evidence>included work</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>20</categoryID>
+            <workID>3</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <collectedParts>
+            <collectedPart>
+                <idno>Whist.7</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Laws.2</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Piquet.2</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Quadrille.1.2</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Backgammon.2</idno>
+            </collectedPart>
+        </collectedParts>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Osborne</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>5</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <holdings>
+            <holding isSeen="true">
+                <holder>DLC</holder>
+                <shelfmark>GV1277.H89 1747</shelfmark>
+                <holdingParts>
+                    <holdingPart seq="1">
+                        <idno>Whist.7</idno>
+                    </holdingPart>
+                    <holdingPart seq="2">
+                        <idno>Quadrille.1.2</idno>
+                    </holdingPart>
+                    <holdingPart seq="3">
+                        <idno>Piquet.2</idno>
+                    </holdingPart>
+                    <holdingPart seq="4">
+                        <idno>Backgammon.2</idno>
+                    </holdingPart>
+                </holdingParts>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1277.H69 1747b</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2112</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Beauchene</holder>
+                <holdingParts>
+                    <holdingPart seq="1">
+                        <idno>Whist.7</idno>
+                    </holdingPart>
+                    <holdingPart seq="2">
+                        <idno>Backgammon.2</idno>
+                    </holdingPart>
+                    <holdingPart seq="3">
+                        <idno>Piquet.2</idno>
+                    </holdingPart>
+                    <holdingPart seq="4">
+                        <idno>Quadrille.1.2</idno>
+                    </holdingPart>
+                </holdingParts>
+            </holding>
+        </holdings>
+    </bookDesc>
+</entry>

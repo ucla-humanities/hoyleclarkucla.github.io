@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Piquet.D.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-07-08</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Piquet.D.1</idno>
+            <fn>books/piquet.d.1.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Piquet</shortTitle>
+            <shortImprint>printed for George and Alexander Ewing</shortImprint>
+            <description>first Dublin edition</description>
+            <pubYear>1744</pubYear>
+            <pubDate>1744-05-01</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>60</categoryID>
+            <workID>10</workID>
+            <subWorkID>40</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Ewing</respGroup>
+                <persName>
+                    <forename>George and Alexander</forename>
+                    <surname>Ewing</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>The Dublin Courant</publication>
+                <pubDate>1744-05-01</pubDate>
+                <notes>
+                    <note>"This day is published...Price 6d. halfpenny"</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>6.5</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T88041</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>790</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>19</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true" isCollection="true">
+                <holder>L</holder>
+                <shelfmark>7917 de.73</shelfmark>
+                <surrogate>ECCO</surrogate>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.541(3)</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.570(4)</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.571(4)</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1201.H83 1743</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F45D</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1609</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>C</holder>
+                <shelfmark>Hib.7.745.29</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="false">
+                <holder>Du</holder>
+                <shelfmark>34.R.11/3</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>HAG</holder>
+                <shelfmark>KW 60 J 110</shelfmark>
+                <notes>
+                    <note> (</note>
+                    <note url="http://books.google.com/books?id=63tdAAAAcAAJ ">Google</note>
+                    <note>)</note>
+                </notes>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>CaOTP</holder>
+                <shelfmark>795 H598</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>ICD</holder>
+                <shelfmark>SPC. 795 H868P</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>LU</holder>
+                <shelfmark>GV1243.H7</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>WaS</holder>
+                <shelfmark>R795 H852P</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>AuNU</holder>
+                <shelfmark>RB 4645.44</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>4</sequence>
+            </holding>
+
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>E</sigEnd>
+                        <leaves>8/4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>F</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>G</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>36</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>68</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="piquet.d.1">
+            <titlePart>A SHORT | TREATISE | On the GAME of | PIQUET. | Directing with Moral
+                Certainty how to | diſcard any Hand to Advantage, by | ſhewing the Chances
+                of taking in any | one, two, three, four, or five certain | Cards. | </titlePart>
+            <titlePart rend="italic">Computations </titlePart>
+            <titlePart>for thoſe who Bet their | Money at the Game. Alſo the Laws | </titlePart>
+            <titlePart>of the GAME. | </titlePart>
+            <titlePart>To which are added, | Some </titlePart>
+            <titlePart rend="italic">Rules </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="italic">Obſervations </titlePart>
+            <titlePart>for playing | well at CHESS. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmund Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[double rule] | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">George </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">Alexander Ewing, | </titlePart>
+            <titlePart>at the </titlePart>
+            <titlePart rend="italic">Angel </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="italic">Bible </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-Street, </titlePart>
+            <titlePart>1744.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <contentPart>‘CONTENTS for </contentPart>
+                    <contentPart rend="italic">PIQUET. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <contentPart>‘CONTENTS for CHESS. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>47</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | A | TREATISE | On the GAME of | PIQUET. |
+                        [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>47</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A Treatiſe on </RTPart>
+                    <RTPart rend="smallcap">Piquet.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>48</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>68</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | SOME | Rules </contentPart>
+                    <contentPart rend="italic">and </contentPart>
+                    <contentPart>Obſservations | FOR | </contentPart>
+                    <contentPart rend="italic">Playing well at </contentPart>
+                    <contentPart>CHESS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>E4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>48</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G2r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>67</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Rules and Obſervations | for playing at </RTPart>
+                    <RTPart>CHESS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Chess</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>F4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>56</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Rules and Obſervations.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>G1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>66</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Rules and Obſervatsons’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>G2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>68</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">Rules and Obſervations &amp;c.</RTPart>
+                </RT>
+            </section>
+        </sections>
+    </text>
+</entry>

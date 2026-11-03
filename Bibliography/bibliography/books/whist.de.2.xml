@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+    <fileDesc>
+        <title>Whist.De.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-12-29</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.De.2</idno>
+            <fn>books/whist.de.2.xml</fn>
+            <shortTitle>Kurzgefaßte Anweisung zum Whist-Spiele</shortTitle>
+            <description>second edition</description>
+            <pubYear>1768</pubYear>
+            <pubDate>1768</pubDate>
+            <evidence>title</evidence>
+            <edition>2</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>40</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>de</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="false">
+                <holder>DE-17</holder>
+                <shelfmark>31/1083</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+</entry>

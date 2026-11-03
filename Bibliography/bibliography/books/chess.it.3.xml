@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Chess.It.3</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-01-15</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Chess.It.3</idno>
+            <fn>books/chess.it.3.xml</fn>
+            <shortTitle>Il Giuoco degli Scacchi</shortTitle>
+            <shortImprint>Tipografia Del Giglio</shortImprint>
+            <statedEdition>edizione III</statedEdition>
+            <pubYear>1832</pubYear>
+            <pubDate>1832</pubDate>
+            <evidence>title</evidence>
+            <edition>3</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>50</workID>
+            <subWorkID>20</subWorkID>
+            <textLang>it</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Tipografia Del Giglio</orgName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>OCl</holder>
+                <shelfmark>789I J2H</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>PPL</holder>
+                <shelfmark>62280.D.3</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2143</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>FLB</holder>
+                <shelfmark>SEDE Misc.716 .17</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>HAG</holder>
+                <shelfmark>KW 364 E 74</shelfmark>
+                <surrogate url="https://books.google.com/books?id=ngFeAAAAcAAJ">Google</surrogate>
+            </holding>
+            <holding isSeen="false">
+                <holder>ICR</holder>
+                <shelfmark>Fiskesafn 794.1 Hoy</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NN</holder>
+                <shelfmark>MZE p.v. 17, no. 3</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>ViU</holder>
+                <shelfmark>XX(1862271.1)</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>unsigned</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>12</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>3</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>5</start>
+                        <end>24</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="chess.it.3">
+            <titlePart>IL GIUOCO | DEGLI SCACCHI | CON ALCUNE | REGOLE ED OSSERVAZIONI | PER BEN GIUOCARLO | DEL | </titlePart>
+            <titlePart rend="italic">Signore Hoyle Inglese | </titlePart>
+            <titlePart>[short rule] | </titlePart>
+            <titlePart rend="italic">EDIZIONE III. | </titlePart>
+            <titlePart>[short rule] | [tailpiece] | FIRENZE | TIPOGRRAFIA DEL GIGLIO | 1832.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <contentPart>‘AI DILETTANTI | DEL GIUOCO | DEGLI SCACCHI | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>24</pageRef>
+                    </pageTo>
+                    <contentPart>‘REGOLE | ED OSSERVAZIONI | PER BEN GIUOCARE | A SCACCHI | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Chess</game>
+                </gamesCovered>
+            </section>
+        </sections>
+    </text>
+</entry>

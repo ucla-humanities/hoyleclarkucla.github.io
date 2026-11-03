@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+    <fileDesc>
+        <title>Whist.Fr.C.1776.Bollen</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-02-21</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.C.1776.Bollen</idno>
+            <fn>books/whist.fr.c.1776.bollen.xml</fn>
+            <shortTitle>Traité du Jeu de Whist</shortTitle>
+            <shortImprint>Chez Bollen</shortImprint>
+            <description>a Liège</description>
+            <pubYear>1776</pubYear>
+            <pubDate>1776</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Chez Bollen</orgName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="false">
+                <holder>BeLU</holder>
+                <shelfmark>XIX.51.2</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>FrCC</holder>
+                <shelfmark>GT 19818</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Beauchene</holder>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "C" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <titlePage titleType="title">
+            <titlePart>TRAITÉ | DU JEU | DE WHIST, | </titlePart>
+            <titlePart rend="smallcap">Traduit de l'Anglios | </titlePart>
+            <titlePart rend="italic">D'EDMOND HOYLE, | </titlePart>
+            <titlePart>NOUVELLE ÉDITION AUGMENTÉE. | [tailpiece] | A LIEGE, | Chez BOLLEN, Fils,
+                Imprimeur-Libraire, Outre-| Meuſe. | &amp; à S P A en temps de Saiſon. | [short
+                oxford rule] | M. DCC. LXXVI.</titlePart>
+        </titlePage>
+    </text>
+</entry>

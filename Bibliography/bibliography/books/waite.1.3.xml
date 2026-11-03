@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Waite.1.3</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2018-06-03</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Waite.1.3</idno>
+            <fn>books/waite.1.3.xml</fn>
+            <shortTitle>Hoyle's Games Improved</shortTitle>
+            <shortImprint>printed &amp; sold by G. &amp; R. Waite</shortImprint>
+            <description>first American edition, third issue</description>
+            <pubYear>1819</pubYear>
+            <pubDate>1819</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>3</issue>
+            <categoryID>70</categoryID>
+            <workID>50</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>George and Robert</forename>
+                    <surname>Waite</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>George and Robert</forename>
+                    <surname>Waite</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1.50</amount>
+                    <unit>$</unit>
+                </priceComponent>
+                <evidence>inferred</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>683</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>830</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>108</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H H9n</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NHi</holder>
+                <shelfmark>Y 1819.H</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>A reissue of </note>
+            <note url="waite.1.1.xml">Waite.1.1</note>
+            <note> with the same setting of type. </note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>T</sigEnd>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="false">
+                        <sigStart>U</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>V</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>W</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>X</sigStart>
+                        <multSigEnd>2</multSigEnd>
+                        <sigEnd>B</sigEnd>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <multSigStart>2</multSigStart>
+                        <sigStart>C</sigStart>
+                        <sigEnd>F</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>140</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                        <end>viii</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>83</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>84</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>85</start>
+                        <end>98</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>99</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>100</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>101</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>102</start>
+                        <end>121</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>122</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>123</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>124</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>125</start>
+                        <end>130</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>131</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>132</start>
+                        <end>134</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>135</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>136</start>
+                        <end>144</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>145</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>146</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>147</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>148</start>
+                        <end>150</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>151</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>152</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>153</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>154</start>
+                        <end>155</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>156</start>
+                        <end>157</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>158</start>
+                        <end>164</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>165</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>166</start>
+                        <end>168</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>169</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>170</start>
+                        <end>184</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>185</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>186</start>
+                        <end>193</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>194</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>195</start>
+                        <end>200</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>201</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>202</start>
+                        <end>203</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>204</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>205</start>
+                        <end>208</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>209</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>210</start>
+                        <end>235</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>236</start>
+                        <end>237</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>238</start>
+                        <end>272</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>[within a double rectangular border] HOYLE's GAMES | </titlePart>
+            <titlePart rend="italic">IMPROVED; | </titlePart>
+            <titlePart>CONTAINING | [10 lines to left of rule] </titlePart>
+            <titlePart rend="italic">Whist, | Piquet, | Quadrille, | Lansquenet, | Pharo, |
+                Rouge et-Noir, | Cribbage, | Matrimony, | Cassino, | Put, | </titlePart>
+            <titlePart>[10 lines to right of rule] </titlePart>
+            <titlePart rend="italic">All Fours, | Speculation, | Draughts, | Hazard, |
+                Billiards, | Brag, | Cricket, | Tenis, | Back Gammon, | Chess. | </titlePart>
+            <titlePart>[short oxford rule] | TO THE ABOVE ARE ADDED ALL THE MODERN | IMPROVEMENTS, AND RULES ADMITTED | BY THE FIRST PLAYERS. | [short reverse oxford rule] | </titlePart>
+            <titlePart rend="italic">NEW-YORK: | </titlePart>
+            <titlePart>PRINTED &amp; SOLD BY G. &amp; R. WAITE, | No. 54, Maiden-Lane. | ············· | 1819.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <multSig>2</multSig>
+                        <sigRef>F8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>272</pageRef>
+                    </pageTo>
+                    <contentPart>See </contentPart>
+                    <contentPart url="waite.1.1.xml">Waite.1.1</contentPart>
+                    <contentPart> (1816)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <multSig>2</multSig>
+                        <sigRef>F8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>272</pageRef>
+                    </pageTo>
+                    <RTPart>See </RTPart>
+                    <RTPart url="waite.1.1.xml">Waite.1.1</RTPart>
+                    <RTPart> (1816)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Dummy Whist</game>
+                    <game>Piquet</game>
+                    <game>Vingt-Un</game>
+                    <game>Quadrille</game>
+                    <game>Mediateur</game>
+                    <game>Lansquenet</game>
+                    <game>Faro</game>
+                    <game>Rouge et Noir</game>
+                    <game>Cribbage</game>
+                    <game>Cassino</game>
+                    <game>Put</game>
+                    <game>All Fours</game>
+                    <game>Speculation</game>
+                    <game>Draughts</game>
+                    <game>Hazard</game>
+                    <game>Billiards</game>
+                    <game>Brag</game>
+                    <game>Cricket</game>
+                    <game>Tennis</game>
+                    <game>Backgammon</game>
+                    <game>Chess</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Mathews on</subject2>
+                </subject>
+                <subject>
+                    <subject1>Piquet</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Chess</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+            </section>
+        </sections>
+    </text>
+</entry>

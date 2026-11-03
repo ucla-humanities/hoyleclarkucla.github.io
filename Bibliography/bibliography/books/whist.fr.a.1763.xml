@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+    <fileDesc>
+        <title>Whist.Fr.A.1763</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.A.1763</idno>
+            <fn>books/whist.fr.a.1763.xml</fn>
+            <shortTitle>Le Jeu de Whist</shortTitle>
+            <shortImprint>A  Paris</shortImprint>
+            <pubYear>1763</pubYear>
+            <pubDate>1763</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Depaulis</reference>
+                <idno>92</idno>
+            </bibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T229787</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="false">
+                <holder>Pa</holder>
+                <shelfmark>8-S-16648</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Pa</holder>
+                <shelfmark>8-S-16649</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Pa</holder>
+                <shelfmark>8-S-16650</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "A" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <titlePage titleType="title">
+            <titlePart>LE JEU | </titlePart>
+            <titlePart rend="italic">DE WHIST | </titlePart>
+            <titlePart>DE M. HOYLE, | </titlePart>
+            <titlePart rend="italic">OUVRAGE COMPLET, | </titlePart>
+            <titlePart>Dans lequel eſt contenu la méthode pour jouer &amp; | pour parier
+                d'une façon égale &amp; avantageuſe. | </titlePart>
+            <titlePart rend="italic">Avec les Loix du Jeu. | </titlePart>
+            <titlePart>ONZIÉME ÉDITION. | </titlePart>
+            <titlePart rend="italic">Signé de la main même de l'Auteur | </titlePart>
+            <titlePart rend="italsmallcap">Edmond Hoyle. | </titlePart>
+            <titlePart>Exemplaire unique, par conſéquent, | qo'on ne peut apprécier. |
+                [short rule] | Audax Iapeti genus, | Ignem fraude malâ gentibus intulit. </titlePart>
+            <titlePart rend="smallcap">Hor. L. I. | </titlePart>
+            <titlePart>[short rule] | [ornament] | A LONDRES. | [short rule] | </titlePart>
+            <titlePart rend="italic">Traduit de l'Angloîs, | </titlePart>
+            <titlePart>A PARIS. | [short oxford rule] | M. DCC. LXIII.</titlePart>
+        </titlePage>
+    </text>
+</entry>

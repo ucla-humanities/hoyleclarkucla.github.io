@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\caoty.xml</fn><home>../index.xml</home></footer><id>CaOTY</id><fn>caoty</fn><name>York University</name><location>North York, Ontario</location><books><book><id>Games.1.2</id><fn>../books/games.1.2.xml</fn><shortTitle>The Accurate Gamester's Companion</shortTitle><shortImprint>printed for Tho. Osborne and sold by W. Reeve</shortImprint><statedEdition>"ninth" edition</statedEdition><description>first London edition, second issue</description><pubDate>1748</pubDate><shelfmarks><shelfmark>SJG 0340</shelfmark></shelfmarks></book></books></holder>

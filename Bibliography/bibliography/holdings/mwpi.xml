@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\mwpi.xml</fn><home>../index.xml</home></footer><id>MWPI</id><fn>mwpi</fn><name>Worcester Polytechnic Institute</name><location>Worcester, Massachusetts</location><books><book><id>Borradaile.1.3</id><fn>../books/borradaile.1.3.xml</fn><shortTitle>Hoyle's Improved Edition</shortTitle><shortImprint>Thomas, Cowperthwait &amp; Co.</shortImprint><description>first American edition, third issue, by Thomas, Cowperthwait &amp; Co.</description><pubDate>1838</pubDate><shelfmarks><shelfmark>GV1243.H6 1838</shelfmark></shelfmarks></book></books></holder>

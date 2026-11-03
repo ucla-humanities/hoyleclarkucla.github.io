@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Multum.3</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-04-28</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Multum.3</idno>
+			<fn>books/multum.3.xml</fn>
+			<shortTitle>Multum in Parvo, or Hoyle Abridged</shortTitle>
+			<shortImprint>Christopher and Jennett</shortImprint>
+			<description>third Stockton edition</description>
+			<pubYear>1820</pubYear>
+			<pubDate>1820</pubDate>
+			<evidence>inferred</evidence>
+			<edition>3</edition>
+			<issue>1</issue>
+			<categoryID>45</categoryID>
+			<workID>10</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<orgName>Christopher &amp; Jennett</orgName>
+				<evidence>title</evidence>
+			</respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>833</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>111</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Copisarow</holder>
+			</holding>
+			<holding isSeen="false">
+				<holder>L</holder>
+				<shelfmark>D-7913.de.5</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>VtMiM</holder>
+				<shelfmark>GV1243.H6 1820</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>32</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>2</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>C</sigEnd>
+						<leaves>16</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>D</sigStart>
+						<leaves>12</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<sigRef>D12</sigRef>
+						</alteration>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>45</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>22</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>23</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>24</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>25</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>26</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>27</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>28</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>29</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>30</start>
+						<end>34</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>35</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>36</start>
+						<end>50</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>51</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>52</start>
+						<end>53</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>54</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>55</start>
+						<end>56</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>57</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>58</start>
+						<end>61</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>62</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>63</start>
+						<end>66</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>67</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>68</start>
+						<end>69</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>70</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>71</start>
+						<end>72</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>73</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>74</start>
+						<end>84</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>85</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>86</start>
+						<end>90</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="wrapper">
+			<titlePart>[within a decorative border] </titlePart>
+			<titlePart rend="smallcap">Multum in Parvo; | </titlePart>
+			<titlePart>OR, | </titlePart>
+			<titlePart rend="italic">HOYLE | </titlePart>
+			<titlePart>Abridged. | [short double rule] | </titlePart>
+			<titlePart rend="blackletter">Third Edition, | </titlePart>
+			<titlePart rend="italic">WITH CONSIDERABLE | ADDITIONS.</titlePart>
+		</titlePage>
+		<titlePage titleType="title">
+			<titlePart>Multum in Parvo; | OR | </titlePart>
+			<titlePart rend="italic">HOYLE | </titlePart>
+			<titlePart rend="blackletter">Abridged: | </titlePart>
+			<titlePart>WITH | RULES AND DIRECTIONS | FOR THE | </titlePart>
+			<titlePart rend="italic">Various Games; | </titlePart>
+			<titlePart>Also, Laws, Calculations, &amp;c. | ........ | </titlePart>
+			<titlePart rend="italsmallcap">Third Edition, | </titlePart>
+			<titlePart>With considerable Additions. | ........ | </titlePart>
+			<titlePart rend="italsmallcap">Printed by | </titlePart>
+			<titlePart>CHRISTOPHER AND JENNETT, | STOCKTON.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>‘[rule] | CONTENTS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B9v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>22</pageRef>
+					</pageTo>
+					<contentPart>‘[oxford rule] | </contentPart>
+					<contentPart rend="italic">WHIST. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>6</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B9v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>22</pageRef>
+					</pageTo>
+					<RTPart>‘WHIST.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B10r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>23</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B10v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">SPECULATION. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B10v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>24</pageRef>
+					</pageFrom>
+					<RTPart>‘SPECULATION.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Speculation</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B11r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>25</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B11v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>26</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">CONNEXIONS. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B11v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>26</pageRef>
+					</pageFrom>
+					<RTPart>‘CONNEXIONS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Connexions</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B12r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>27</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>28</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">MATRIMONY. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B12v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>28</pageRef>
+					</pageFrom>
+					<RTPart>‘MATRIMONY.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Connexions</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B13r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>29</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B15v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>34</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">CASSINO. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B13v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>30</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B15v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>34</pageRef>
+					</pageTo>
+					<RTPart>‘CASSINO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Cassino</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B16r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>35</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C7v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>50</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">CRIBBAGE. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B16v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>36</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C7v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>50</pageRef>
+					</pageTo>
+					<RTPart>‘CRIBBAGE.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Cribbage</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>C8r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>51</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C9r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>53</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">PUT. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>C8v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>52</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C9r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>53</pageRef>
+					</pageTo>
+					<RTPart>‘PUT.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Put</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>C9v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>54</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C10v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>56</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">LOO. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>C10r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>55</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C10v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>56</pageRef>
+					</pageTo>
+					<RTPart>‘LOO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Loo</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>C11r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>57</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C13r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>61</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">VINGT-UN. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>C11v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>58</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C13r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>61</pageRef>
+					</pageTo>
+					<RTPart>‘VINGT-UN.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Vingt-Un</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>C13v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>62</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C15v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>66</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">BRAG. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>C14r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>63</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C15v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>66</pageRef>
+					</pageTo>
+					<RTPart>‘BRAG.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Brag</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>C16r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>67</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D1r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>69</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">ALL-FOURS. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>C16v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>68</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D1r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>69</pageRef>
+					</pageTo>
+					<RTPart>‘ALL-FOURS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>All Fours</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>D1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>70</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>72</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">DOMINO. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>D2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>71</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>72</pageRef>
+					</pageTo>
+					<RTPart>‘DOMINO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Domino</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>D3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>73</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>84</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">DRAUGHTS. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>D3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>74</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>84</pageRef>
+					</pageTo>
+					<RTPart>‘DRAUGHTS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Draughts</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>D9r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>85</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D11v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>90</pageRef>
+					</pageTo>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">CRICKET. | </contentPart>
+					<contentPart>[...] | [colophon]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>D9v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>86</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D11v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>90</pageRef>
+					</pageTo>
+					<RTPart>‘CRICKET.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Cricket</game>
+				</gamesCovered>
+			</section>
+		</sections>
+		<plates>
+			<plate plateLocation="Frontispiece">
+				<plateRelation>opposite</plateRelation>
+				<sigRef>A1r</sigRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>suit symbol for a spade inside a crowned wreath</note>
+				</notes>
+			</plate>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>D3r</sigRef>
+				<pageRef>73</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>draughts board</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘[oxford rule] | Christopher &amp; Jennett, Printers, Stockton.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

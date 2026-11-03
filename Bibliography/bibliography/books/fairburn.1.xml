@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Fairburn.1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2021-12-30</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Fairburn.1</idno>
+			<fn>books/fairburn.1.xml</fn>
+			<shortTitle>Hoyle's Games in Miniature</shortTitle>
+			<shortImprint>printed for John Fairburn</shortImprint>
+			<description>printed for John Fairburn</description>
+			<pubYear>1820</pubYear>
+			<pubDate isUncertain="true">1820</pubDate>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>45</categoryID>
+			<workID>25</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<persName>
+					<forename>John</forename>
+					<surname>Fairburn</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>William</forename>
+					<surname>Marchant</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Vet. A6 e.2269</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>10.1</height>
+				<width>6.7</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<sigEnd>D</sigEnd>
+						<leaves>8</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$1–2</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>32</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>22</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>23</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>24</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>25</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>26</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>27</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>28</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>29</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>30</start>
+						<end>34</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>35</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>36</start>
+						<end>50</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>51</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>52</start>
+						<end>53</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>54</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>55</start>
+						<end>56</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>57</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>58</start>
+						<end>61</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>62</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>63</start>
+						<end>64</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="wrapper">
+			<titlePart>HOYLE'S | GAMES, | IN | MINIATURE | CONTAINING | RULES AND DIRECTIONS | FOR | [five lines to left of rule] WHIST, | PUT, | SEPCULATION, | CONNEXIONS, | MATRIMONY, | [five lines to right of rule] CRIBBAGE, | LOO, | CASSINO, | VINGT-UN, | ALL-FOURS. | [short rule] | </titlePart>
+			<titlePart rend="smallcap">By BOB SHORT, Jun. | </titlePart>
+			<titlePart>[short rule] | </titlePart>
+			<titlePart rend="italic">LONDON: | </titlePart>
+			<titlePart>Printed for JOHN FAIRBURN, 2, Broadway, | Ludgate-Hill. | (PRICE SIXPENCE.)</titlePart>
+		</titlePage>
+		<titlePage titleType="title">
+			<titlePart>HOYLE'S | GAMES, | IN | MINIATURE, | CONTAINING | RULES AND DIRECTIONS | FOR | [five lines to left of rule] WHIST, | PUT, | SEPCULATION, | CONNEXIONS, | MATRIMONY, | [five lines to right of rule] CRIBBAGE, | LOO, | CASSINO, | VINGT-UN, | ALL-FOURS. | [short rule] </titlePart>
+			<titlePart rend="smallcap">By BOB SHORT, Jun. | </titlePart>
+			<titlePart>[short rule] | </titlePart>
+			<titlePart rend="italic">LONDON: | </titlePart>
+			<titlePart>Printed for JOHN FAIRBURN, 2, Broadway, | Ludgate-Hill. | (PRICE SIXPENCE.)</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>‘[short oxford rule] | W. Marchant, Printer, | Ingram-Court, London.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>‘CONTENTS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>22</pageRef>
+					</pageTo>
+					<contentPart>‘[oxford rule] | WHIST. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>6</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>22</pageRef>
+					</pageTo>
+					<RTPart>‘WHIST.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>23</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<contentPart>‘SPECULATION. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>24</pageRef>
+					</pageFrom>
+					<RTPart>‘SPECULATION.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Speculation</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>25</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>26</pageRef>
+					</pageTo>
+					<contentPart>‘CONNEXIONS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>26</pageRef>
+					</pageFrom>
+					<RTPart>‘CONNEXIONS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Connexions</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>27</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>28</pageRef>
+					</pageTo>
+					<contentPart>‘MATRIMONY. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>28</pageRef>
+					</pageFrom>
+					<RTPart>‘MATRIMONY.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Matrimony</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B7r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>29</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C1v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>34</pageRef>
+					</pageTo>
+					<contentPart>‘CASSINO. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B7v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>30</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C1v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>34</pageRef>
+					</pageTo>
+					<RTPart>‘CASSINO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Cassino</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>C2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>35</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D1v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>50</pageRef>
+					</pageTo>
+					<contentPart>‘CRIBBAGE. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>C2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>35</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D1v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>50</pageRef>
+					</pageTo>
+					<RTPart>‘CRIBBAGE.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Cribbage</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>D2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>51</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>53</pageRef>
+					</pageTo>
+					<contentPart>‘PUT. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>D2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>52</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>53</pageRef>
+					</pageTo>
+					<RTPart>‘PUT.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Put</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>D3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>54</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>56</pageRef>
+					</pageTo>
+					<contentPart>‘LOO. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>D4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>55</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>56</pageRef>
+					</pageTo>
+					<RTPart>‘LOO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Loo</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>D5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>57</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D7r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>61</pageRef>
+					</pageTo>
+					<contentPart>‘VINGT-UN. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>D5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>58</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D7r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>61</pageRef>
+					</pageTo>
+					<RTPart>‘VINGT-UN.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Vingt-Un</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>D7v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>62</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>64</pageRef>
+					</pageTo>
+					<contentPart>‘ALL-FOURS. | [...] | [colophon]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>D8r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>63</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>64</pageRef>
+					</pageTo>
+					<RTPart>‘ALL-FOURS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>All Fours</game>
+				</gamesCovered>
+			</section>
+		</sections>
+		<plates>
+			<plate plateLocation="Frontispiece">
+				<plateRelation>opposite</plateRelation>
+				<sigRef>A1r</sigRef>
+				<pageRef>1</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>A hand-colored array of playing cards</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘[rule] | W. Marchant, Printer, Ingram-Court, London.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

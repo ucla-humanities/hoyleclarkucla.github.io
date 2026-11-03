@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+	<fileDesc>
+		<title>Richardson.Chess.1826</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-06-27</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Richardson.Chess.1826</idno>
+			<fn>books/richardson.chess.1826.xml</fn>
+			<shortTitle>A Treatise on the Game of Chess</shortTitle>
+			<shortImprint>printed and published by Thomas Richardson</shortImprint>
+			<pubYear>1826</pubYear>
+			<pubDate>1826</pubDate>
+			<evidence>dedication</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>30</workID>
+			<subWorkID>30</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="printer">
+				<respGroup seq="1">Richardson</respGroup>
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Richardson</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>122</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="false">
+				<holder>OCl</holder>
+				<shelfmark>789.07 I6S</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>AuVSL</holder>
+				<shelfmark>794.1 SH8H</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+</entry>

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Games.1.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2025-04-29</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Games.1.2</idno>
+			<fn>books/games.1.2.xml</fn>
+			<shortTitle>The Accurate Gamester's Companion</shortTitle>
+			<shortImprint>printed for Tho. Osborne and sold by W. Reeve</shortImprint>
+			<statedEdition>"ninth" edition</statedEdition>
+			<description>first London edition, second issue</description>
+			<pubYear>1748</pubYear>
+			<pubDate>1748-11-21</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>2</issue>
+			<categoryID>30</categoryID>
+			<workID>2</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Osborne</surname>
+				</persName>
+			</respItem>
+			<respItem respType="distributor">
+				<persName>
+					<forename>William</forename>
+					<surname>Reeve</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Gardner</surname>
+				</persName>
+				<evidence>ornaments</evidence>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>General Advertiser</publication>
+				<pubDate>1748-11-21</pubDate>
+				<notes>
+					<note>"This day is publish'd, in a neat pocket volume, the ninth edition, (price
+						only 3s. in marble binding)...Mr. Hoyle's Games Complete."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>3</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T87516</idno>
+			</bibl>
+			<bibl>
+				<reference>Horr</reference>
+				<idno>672</idno>
+			</bibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>801</idno>
+			</bibl>
+			<bibl>
+				<reference>Marshall</reference>
+				<idno>NQ 7.08.343</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>31</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>BFl</holder>
+				<shelfmark>I.795/HOYL (b1124953)</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>L</holder>
+				<shelfmark>58.b.18</shelfmark>
+				<surrogate>ECCO</surrogate>
+			</holding>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.551</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Onu</holder>
+				<shelfmark>SpC CB26</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Copisarow</holder>
+			</holding>
+			<holding isSeen="true">
+				<holder>NvLN</holder>
+				<shelfmark>GV1243.H69 1748</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H F48L2</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>PPL</holder>
+				<shelfmark>Iu Hoyl Accu Game 1748</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1241.H8 A9 c.1</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1766</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1786</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>C</holder>
+				<shelfmark>7415.d.41</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>AMu</holder>
+				<shelfmark>OTM: OK 06-1706</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>CLU-C</holder>
+				<shelfmark>GV1241.H86 1748*</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>CaOONL</holder>
+				<shelfmark>GV1241.H6 1748 </shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>CaOTY</holder>
+				<shelfmark>SJG 0340</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>CtY-SM</holder>
+				<shelfmark>WA 19334</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>A reissue of </note>
+			<note url="games.1.1.xml">Games.1.1</note>
+			<note> with a prelimary bifolium including a collected title page. There are copies
+				preserving the original half title. </note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>π</sigStart>
+						<leaves>2</leaves>
+					</gatheringRange>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>2</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<sigRef>A1</sigRef>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>D</sigEnd>
+						<leaves>12</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>E</sigStart>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>F</sigStart>
+						<sigEnd>L</sigEnd>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>B6</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>F1</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>G2</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>G3</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>I5</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>I6</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>L5</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>L6</sigRef>
+					</anomSignature>
+				</anomSignatures>
+				<signingErrors>
+					<signingError>
+						<sigRef>F3</sigRef>
+						<badSig>A3</badSig>
+					</signingError>
+					<signingError>
+						<sigRef>F5</sigRef>
+						<badSig>A5</badSig>
+					</signingError>
+				</signingErrors>
+			</collationFormula>
+			<totalLeaves>117</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>6</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>84</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>97</start>
+						<end>99</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>100</start>
+						<end>123</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>124</start>
+						<end>127</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>128</start>
+						<end>177</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>178</start>
+						<end>180</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>181</start>
+						<end>224</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>225</start>
+						<end>240</end>
+						<note>[=228]</note>
+						</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="games.1.2">
+			<titlePart>THE | </titlePart>
+			<titlePart rend="red">Accurate Gameſter's </titlePart>
+			<titlePart>| COMPANION: | Containing infallible Rules for playing | </titlePart>
+			<titlePart rend="red">The </titlePart>
+			<titlePart rend="smallcapred">Game </titlePart>
+			<titlePart rend="red">of WHIST </titlePart>
+			<titlePart>| TO PERFECTION | </titlePart>
+			<titlePart rend="red">In all its Branches. </titlePart>
+			<titlePart>| Treated in an eaſy Manner, and | illuſtrated with Variety of Caſes.
+				| </titlePart>
+			<titlePart rend="red">Alſo the </titlePart>
+			<titlePart rend="smallcapred">Laws </titlePart>
+			<titlePart rend="red">of the GAME, </titlePart>
+			<titlePart>| </titlePart>
+			<titlePart rend="red">Calculations relative to it, &amp;</titlePart>
+			<titlePart rend="italicred">c. | </titlePart>
+			<titlePart>The </titlePart>
+			<titlePart rend="smallcap">Ninth Edition </titlePart>
+			<titlePart>improv'd. | To which are added, | </titlePart>
+			<titlePart rend="red">The Games of </titlePart>
+			<titlePart rend="smallcapred">Quadrille, Piquet, Chess </titlePart>
+			<titlePart>| </titlePart>
+			<titlePart rend="red">and </titlePart>
+			<titlePart rend="smallcapred">Back-Gammon, </titlePart>
+			<titlePart rend="red">fully explain'd. </titlePart>
+			<titlePart>| </titlePart>
+			<titlePart rend="red">Likewiſe, a </titlePart>
+			<titlePart rend="smallcapred">Dictionary </titlePart>
+			<titlePart rend="red">for WHIST, </titlePart>
+			<titlePart>| </titlePart>
+			<titlePart rend="red">And an artificial Memory. </titlePart>
+			<titlePart>| The whole founded on the Experience of | </titlePart>
+			<titlePart rend="italicred">EDMOND HOYLE, </titlePart>
+			<titlePart rend="red">Gent. </titlePart>
+			<titlePart rend="italic">| LONDON: </titlePart>
+			<titlePart>Printed for </titlePart>
+			<titlePart rend="smallcap">Tho. Osborne: | </titlePart>
+			<titlePart>And Sold by </titlePart>
+			<titlePart rend="smallcap">W. Reeve, </titlePart>
+			<titlePart>at </titlePart>
+			<titlePart rend="italic">Shakeſpear's-Head, </titlePart>
+			<titlePart>near | </titlePart>
+			<titlePart rend="italic">Serjeant's-Inn-Gate, </titlePart>
+			<titlePart>in </titlePart>
+			<titlePart rend="italic">Fleet-Street. </titlePart>
+			<titlePart>1748. | </titlePart>
+			<titlePart rend="red">(Price Three Shillings.)</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1r</sigRef>
+					</sigFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1v</sigRef>
+					</sigFrom>
+					<contentPart>Advertisement of books printed for and sold by William
+						Reeve</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π2r</sigRef>
+					</sigFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π2v</sigRef>
+					</sigFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<sigTo>
+						<sigRef>A2v</sigRef>
+					</sigTo>
+					<contentPart>see </contentPart>
+					<contentPart url="games.1.1.xml">Games.1.1</contentPart>
+					<contentPart> (1748)</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<sigTo>
+						<sigRef>A2v</sigRef>
+					</sigTo>
+					<RTPart>see </RTPart>
+					<RTPart url="games.1.1.xml">Games.1.1</RTPart>
+					<RTPart> (1748)</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>240</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="games.1.1.xml">Games.1.1</contentPart>
+					<contentPart> (1748)</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>240</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="games.1.1.xml">Games.1.1</RTPart>
+					<RTPart> (1748)</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>Quadrille</game>
+					<game>Piquet</game>
+					<game>Chess</game>
+					<game>Backgammon</game>
+				</gamesCovered>
+			</section>
+		</sections>
+	</text>
+</entry>

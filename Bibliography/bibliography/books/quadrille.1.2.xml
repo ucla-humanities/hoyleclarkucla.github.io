@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>Which copy is on ECCO. ECCO2? Not visible from USF</todo>
+    <fileDesc>
+        <title>Quadrille.1.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-07-24</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Quadrille.1.2</idno>
+            <fn>books/quadrille.1.2.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Quadrille</shortTitle>
+            <shortImprint>printed for T. Osborne et al</shortImprint>
+            <description>first London edition, second issue</description>
+            <pubYear>1745</pubYear>
+            <pubDate>1745-11-09</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>2</issue>
+            			<categoryID>10</categoryID>
+            <workID>6</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Osborne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Hildyard</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>M.</forename>
+                    <surname>Bryson</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Leake</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Watts</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>London Evening Post</publication>
+                <pubDate>1745-10-26</pubDate>
+                <notes>
+                    <note>"A Treatise on the Game of Quadrille , price 1s." Advertised with </note>
+                    <note url="whist.6.xml">Whist.6</note>
+                    <note>, </note>
+                    <note url="piquet.1.2.xml">Piquet.1.2</note>
+                    <note>, </note>
+                    <note url="backgammon.2.xml">Backgammon.2</note>
+                    <note>, </note>
+                    <note url="laws.2.xml">Laws.2</note>
+                    <note>, and Osborne </note>
+                    <note url="../osborne.xml">collection</note>
+                    <note>.</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T179997</idno>
+            </bibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>652</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>782</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>22</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.544(2)</shelfmark>
+                <idno>Osborne.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.546(2)</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Copisarow</holder>
+                <idno>Osborne.B</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>CSFU</holder>
+                <shelfmark>GV1277.H89 1746</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>DLC</holder>
+                <shelfmark>GV1277.H89 1746</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>DLC</holder>
+                <shelfmark>GV1277.H89 1747</shelfmark>
+                <idno>Osborne.D</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.H69 1746</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1277.H69 1747b</shelfmark>
+                <idno>Osborne.D</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1295.H68 1745</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F46L</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>PPL</holder>
+                <shelfmark>Iu Hoyl Allen 333 no.2</shelfmark>
+                <idno>Osborne.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1617</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1787</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>2097</shelfmark>
+                <idno>Osborne.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>Sings</holder>
+                <idno>Osborne.B</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>Beauchene</holder>
+                <idno>Osborne.B</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>Beauchene</holder>
+                <idno>Osborne.D</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="false">
+                <holder>IU</holder>
+                <shelfmark>795.49 H85S</shelfmark>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>AuVSL</holder>
+                <shelfmark>793 H85 (1746)</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>2</sequence>
+            </holding>
+        </holdings>
+        <notes>
+            <note>When Thomas Osborne acquired the Hoyle copyright from Francis Cogan, he also
+                acquired some unsold stock and issued it with cancel titles. See also </note>
+            <note url="p\">Piquet.1.2</note>
+            <note>. In this reissue, B11 was deleted because it contained advertisements of other
+                books printed for Cogan, introducing the catchword anomoly at B10.</note>
+            <note rend="paragraph"/>
+            <note>DLC [GV1277.H89 1747] is unusual in that it retains the two leaves intended be
+                deleted, A2 and B11, and has the replacement title bound before the half
+                title.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>12</leaves>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>A2</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <leaves>12</leaves>
+                        <alteration>
+                            <alterationType>−</alterationType>
+                            <sigRef>B11</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>A2</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>23</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>5</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>6</start>
+                        <end>44</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>47</start>
+                        <end>48</end>
+                        <note>=46</note>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="quadrille.1.2">
+            <titlePart>A SHORT | TREATISE | On the GAME of | </titlePart>
+            <titlePart rend="smallcap">Quadrille. | </titlePart>
+            <titlePart>SHEWING | The Odds of winning or loſing moſt | Games that are
+                commonly played; | either by calling a King, or by play-|ing </titlePart>
+            <titlePart rend="italic">Sans Prendre. | </titlePart>
+            <titlePart>To which is added, | The LAWS of the GAME. | [rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmond Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">LONDON: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">T. Osborne, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Gray's Inn; | </titlePart>
+            <titlePart rend="smallcap">J. Hildyard, </titlePart>
+            <titlePart>at </titlePart>
+            <titlePart rend="italic">York; </titlePart>
+            <titlePart rend="smallcap">M. Bryson, </titlePart>
+            <titlePart>at | </titlePart>
+            <titlePart rend="italic">Newcaſtle; </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">J. Leake, </titlePart>
+            <titlePart>at </titlePart>
+            <titlePart rend="italic">Bath, </titlePart>
+            <titlePart>1745. | {</titlePart>
+            <titlePart rend="italic">Price One Shilling.</titlePart>
+            <titlePart>}</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>2</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="quadrille.1.1.xml">Quadrille.1.1</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B10v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>44</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="quadrille.1.1.xml">Quadrille.1.1</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>6</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B10v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>44</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="quadrille.1.1.xml">Quadrille.1.1</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B12r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>47</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>48</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="quadrille.1.1.xml">Quadrille.1.1</contentPart>
+                </content>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>B10v</sigRef>
+                <pageRef>44</pageRef>
+                <cwFoot>To</cwFoot>
+                <cwHead>none</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

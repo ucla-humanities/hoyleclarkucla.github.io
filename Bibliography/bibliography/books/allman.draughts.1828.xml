@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Allman.Draughts.1828</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Allman.Draughts.1828</idno>
+			<fn>books/allman.draughts.1828.xml</fn>
+			<shortTitle>A Treatise on the Game of Draughts</shortTitle>
+			<shortImprint>printed for T. and J. Allman</shortImprint>
+			<pubYear>1828</pubYear>
+			<pubDate>1828</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>50</workID>
+			<subWorkID>40</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short, Jun.</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="1">Allman</respGroup>
+				<persName>
+					<forename>T. and J.</forename>
+					<surname>Allman</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>John</forename>
+					<surname>M'Gowan</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>label</evidence>
+			</price>
+		</prices>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1779</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>Pages 22 and 23 are interchanged due to an imposition error.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>11.1</height>
+				<width>6.4</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>unsigned</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>23</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>24</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="label" imageFN="allman.draughts.1828.label">
+			<titlePart>[rule] | SHORT'S | TREATISE ON THE GAME | OF | DRAUGHTS: | WITH | LAWS OF THE GAME. | [short rule] | </titlePart>
+			<titlePart rend="italic">Price Sixpence. | </titlePart>
+			<titlePart>[rule]</titlePart>
+		</titlePage>
+		<titlePage titleType="title" imageFN="allman.draughts.1828">
+			<titlePart>HOYLE ABRIDGED. | [short rule] | A TREATISE | ON THE | GAME OF DRAUGHTS; | OR, | SHORT RULES FOR SHORT MEMORIES. | WITH THE | LAWS OF THE GAME | AND EXERCISES. | [short oxford rule] | BY BOB SHORT, JUN. | [woodblock] | LONDON : | PRINTED FOR T. AND J. ALLMAN, | GREAT QUEEN STREET, LINCOLN'S INN FIELDS. | [short rule] | 1828.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>‘DEDICATION. | [...] | BOB SHORT | LONG'S HOTEL, | NOV. 4, 1818.’</contentPart>
+				</content>
+				<subject>
+					<subject1>Bob Short Address</subject1>
+					<subject2>1818-11-04 Long's Hotel</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A12r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>23</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF DRAUGHTS. | [...] | [colophon]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Draughts</game>
+					<game>Polish Draughts</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A12v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>24</pageRef>
+					</pageFrom>
+					<contentPart>‘JUST PUBLISHED. | NEW EDITIONS | OF THE | FOLLOWING APPROVED WORKS. | [...]’</contentPart>
+				</content>
+			</section>
+		</sections>
+		<colophon>
+			<notes>
+				<note rend="italic">‘J. M'Gowan, Great Windmill Street.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Allman.Backgammon.1819</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-10-24</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Allman.Backgammon.1819</idno>
+			<fn>books/allman.backgammon.1819.xml</fn>
+			<shortTitle>A Treatise on Backgammon</shortTitle>
+			<shortImprint>printed for T. and J. Allman</shortImprint>
+			<pubYear>1819</pubYear>
+			<pubDate>1819</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>50</workID>
+			<subWorkID>20</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short, Jun.</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="1">Allman</respGroup>
+				<persName>
+					<forename>T. and J.</forename>
+					<surname>Allman</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>John</forename>
+					<surname>Arliss</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>British Press</publication>
+				<pubDate>1819-02-26</pubDate>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+				<evidence>label</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>1712</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel g.241</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>11.5</height>
+				<width>6.5</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$4</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>24</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="label">
+			<titlePart>[within a decorative border] BOB SHORT ON THE GAME | OF | </titlePart>
+			<titlePart rend="blackletter">Back=Gammon, | </titlePart>
+			<titlePart>WITH | </titlePart>
+			<titlePart rend="italic">LAWS OF THE GAME. | </titlePart>
+			<titlePart>[short oxford rule] | </titlePart>
+			<titlePart rend="italic">Price Sixpence.</titlePart>
+		</titlePage>
+		<titlePage titleType="title">
+			<titlePart>HOYLE ABRIDGED. | [short rule] | A TREATISE | ON | BACK-GAMMON; | OR, | SHORT RULES FOR SHORT MEMORIES. | WITH THE | LAWS OF THE GAME. | ADAPTED | EITHER FOR THE HEAD OR POCKET. | [short rule] | BY BOB SHORT, JUN. | [short rule] | </titlePart>
+			<titlePart rend="italic">Printed for the Benefit of Familes, to | prevent Wrangling. | </titlePart>
+			<titlePart>[woodblock] | LONDON: | PRINTED FOR T. AND J. ALLMAN, | PRINCES-STREET, HANOVER-SQUARE; | AND R. NEWBY, CAMBRIDGE. | 1819.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>‘DEDICATION. | [short rule] | TO THE PUBLIC. | [...] | BOB SHORT, </contentPart>
+					<contentPart rend="smallcap">Jun. | </contentPart>
+					<contentPart rend="italic">Long's Hotel, Nov. </contentPart>
+					<contentPart>4, 1818.’</contentPart>
+				</content>
+				<subject>
+					<subject1>Bob Short Address</subject1>
+					<subject2>1818-11-04 Long's Hotel</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>‘JUST PUBLISHED, | NEW EDITIONS | OF THE FOLLOWING APPROVED WORKS. | [...] [advertisements for </contentPart>
+					<contentPart url="allman.whist.1819.xml">Allman.Whist.1819</contentPart>
+					<contentPart> and </contentPart>
+					<contentPart url="allman.draughts.1819.xml">Allman.Draughts.1819</contentPart>
+					<contentPart>]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<contentPart>‘A TREATISE | ON | BACK-GAMMON. | [...] | [colophon]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Backgammon</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Backgammon</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+			</section>
+		</sections>
+		<colophon>
+			<notes>
+				<note>‘[rule] | J. Arliss, Printer, 38 Newgate-street. | [rule]’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

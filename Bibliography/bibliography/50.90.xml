@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="books/xsl/title.xsl"?>
+<work><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>bibliography/50.90.xml</fn><home>index.xml</home></footer><shortTitle>printed for T. North</shortTitle><shortImprint>by Cowie &amp; Strange</shortImprint><subWork><name>Whist</name><books><book><idno>North.Whist.1829</idno><fn>books/north.whist.1829.xml</fn><shortTitle>Short Rules for Whist</shortTitle><shortImprint>published by T. North</shortImprint><pubYear>1829</pubYear><pubDate>1829</pubDate><evidence>title</evidence><edition>1</edition><issue>1</issue><categoryID>50</categoryID><workID>90</workID><subWorkID>10</subWorkID><textLang>en</textLang></book></books></subWork></work>

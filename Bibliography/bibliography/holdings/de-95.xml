@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\de-95.xml</fn><home>../index.xml</home></footer><id>DE-95</id><fn>de-95</fn><name>Stiftung Tierärztlichen Hochschule</name><location>Hannover, Germany</location><books><book><id>Jones.9-3</id><fn>../books/jones.9-3.xml</fn><shortTitle>Hoyle's Guide to the Turf</shortTitle><shortImprint>printed for W. Lowndes et al</shortImprint><description>extracted from the ninth London edition</description><pubDate>1814</pubDate><shelfmarks><shelfmark>R15 Mon 9817</shelfmark></shelfmarks></book></books></holder>

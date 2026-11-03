@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Richardson.Draughts.1818</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Richardson.Draughts.1818</idno>
+			<fn>books/richardson.draughts.1818.xml</fn>
+			<shortTitle>A Treatise on the Game of Draughts</shortTitle>
+			<shortImprint>published by Thomas Richardson</shortImprint>
+			<pubYear>1818</pubYear>
+			<pubDate>1818</pubDate>
+			<evidence>dedication</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>30</workID>
+			<subWorkID>40</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="printer">
+				<respGroup seq="1">Richardson</respGroup>
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Richardson</surname>
+				</persName>
+			</respItem>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short, Junior</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>125</idno>
+				<notes>
+					<note> (with a date of 1827, otherwise unrecorded)</note>
+				</notes>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>Jessel g.247</shelfmark>
+				<sequence>3</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>Copisarow</holder>
+				<copies>2</copies>
+				<idno>Richardson.Games.1818</idno>
+				<sequence>3</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>Levy</holder>
+				<shelfmark>1291</shelfmark>
+				<idno>Richardson.Games.1818</idno>
+				<sequence>3</sequence>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>10.6</height>
+				<width>6.3</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>16</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>unsigned</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>16</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>7</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>8</start>
+						<end>31</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>32</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="richardson.draughts.1818">
+			<titlePart>HOYLE ABRIDGED. | [short rule] | A TREATISE | ON THE | GAME OF DRAUGHTS: | OR, | SHORT RULES FOR SHORT MEMORIES, | WITH THE | LAWS OF THE GAME, |  AND EXERCISES. | [short rule] | </titlePart>
+			<titlePart rend="italic">BY BOB SHORT, JUNIOR. | </titlePart>
+			<titlePart>[woodblock] | DERBY: | PUBLISHED BY THOMAS RICHARDSON.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A1v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>2</pageRef>
+					</pageTo>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<contentPart>‘DEDICATION. | [short rule] | THIS LITTLE WORK IS HUMBLY DEDI-|CATED TO THE PUBLIC, | BY THEIR VERY OBEDIENT, | HUMBLE SERVANT, | BOB SHORT. | LONG'S HOTEL. | NOV. 4, 1818.’</contentPart>
+				</content>
+				<subject>
+					<subject1>Bob Short Address</subject1>
+					<subject2>1818-11-04 Long's Hotel</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>6</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>7</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A14r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>27</pageRef>
+					</pageTo>
+					<contentPart>‘THE | </contentPart>
+					<contentPart rend="italic">Game of Draughts. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>8</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A14r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>27</pageRef>
+					</pageTo>
+					<RTPart>‘A TREATISE ON THE | GAME OF DRAUGHTS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Draughts</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A14v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>28</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A16r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>31</pageRef>
+					</pageTo>
+					<contentPart>‘THE GAME | OF | POLISH DRAUGHTS. | [...] | [colophon]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A15r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>29</pageRef>
+					</pageFrom>
+					<RTPart>‘GAME OF DRAUGHTS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Polish Draughts</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<RT>
+					<sigFrom>
+						<sigRef>A15v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>30</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A16r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>31</pageRef>
+					</pageTo>
+					<RTPart>‘A TREATISE ON THE | GAME OF DRAUGHTS.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A16v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>32</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+		</sections>
+		<plates>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>A2r</sigRef>
+				<pageRef>3</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>A couple playing draughts</note>
+				</notes>
+			</plate>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>A6r</sigRef>
+				<pageRef>11</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>The Draughts Board</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘Printed by Thomas Richardson, Derby’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

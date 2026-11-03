@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<todo>need to discuss the ad on the final page. need to discuss the NvLN copy</todo>
+	<fileDesc>
+		<title>Backgammon.D.2*</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2025-03-28</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Backgammon.D.2*</idno>
+			<fn>books/backgammon.d.2.xml</fn>
+			<shortTitle>A Short Treatise on the Game of Backgammon</shortTitle>
+			<shortImprint>printed for George and Alexander Ewing</shortImprint>
+			<description>second Dublin edition</description>
+			<pubYear>1753</pubYear>
+			<pubDate>1753</pubDate>
+			<evidence>title</evidence>
+			<edition>2</edition>
+			<issue>1</issue>
+			<categoryID>60</categoryID>
+			<workID>10</workID>
+			<subWorkID>20</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="2">Ewing</respGroup>
+				<persName>
+					<forename>George and Alexander</forename>
+					<surname>Ewing</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Richard</forename>
+					<surname>Reilly</surname>
+				</persName>
+			<evidence>ornaments</evidence></respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T118621</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true" isCollection="true">
+				<holder>D</holder>
+				<shelfmark>393.h3</shelfmark>
+				<idno>Polite.B</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>D</holder>
+				<shelfmark>Dublin1761(21)</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>L</holder>
+				<shelfmark>1607/4733</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>L</holder>
+				<shelfmark>1607/528</shelfmark>
+				<surrogate>ECCO</surrogate>
+				<idno>Polite.C</idno>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.572</shelfmark>
+				<idno>Polite.B</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.574</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>NvLN</holder>
+				<shelfmark>GV1241.H86 1761</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>NvLN</holder>
+				<shelfmark>GV1469.B2 H6 1753</shelfmark>
+				<idno>Polite.C</idno>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H F61D</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1241.H8P 1752b c.1</shelfmark>
+				<idno>Polite.B</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1241.H8P 1752b c.2</shelfmark>
+				<idno>Polite.B</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1241.H8P 1761</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>Levy</holder>
+				<shelfmark>1745</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>Levy</holder>
+				<shelfmark>1804</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>C</holder>
+				<shelfmark>Hib.7.761.25</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>HAG</holder>
+				<shelfmark>KW 364 G 168</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>LU-S</holder>
+				<shelfmark>GV1241.H86 1761</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>NNStJ</holder>
+				<shelfmark>GV1241.H86 1761</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>NNU-F</holder>
+				<shelfmark>789.87H F61D</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>NjP</holder>
+				<shelfmark>GV1241.H86 1761</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>RP</holder>
+				<shelfmark>795 H868 1761 SpecColT</shelfmark>
+				<idno>Polite.C</idno>
+				<sequence>4</sequence>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<sigEnd>D</sigEnd>
+						<leaves>8/4</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>24</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>2</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>3</start>
+						<end>47</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>48</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="backgammon.d.2">
+			<titlePart rend="roman">A SHORT | TREATISE | On the </titlePart>
+			<titlePart rend="smallcap">Game </titlePart>
+			<titlePart rend="roman">of | </titlePart>
+			<titlePart rend="italic">Back-Gammon. | </titlePart>
+			<titlePart rend="roman">CONTAINING, | [11 lines to left of rule] A TABLE of the
+				thirty-ſix | Chances, with Directions how | to find out the Odds of being |
+				hit, upon ſingle, or double | Dice. | Rules whereby a Beginner may, | with
+				due Attention to them, | attain playing it well. | The ſeveral Stages for
+				carrying | your Men home, in order to | loſe no Point. | [11 lines to right of
+				rule] How to find out who is forward-|eſt to win a Hit. | Caſes ſtated for
+				Back-Games, | with Directions how to play | for one. | Caſes ſtated, how to
+				know when | you may have the better of | ſaving a Gammon by running. |
+				Variety of Caſes of Curioſity | and Inſtruction. | The Laws of the Game. |
+				[rule] | By </titlePart>
+			<titlePart rend="italic">EDMOND HOYLE, </titlePart>
+			<titlePart rend="roman">Gent. | [rule] | [</titlePart>
+			<titlePart url="https://compositor.bham.ac.uk/ornaments/817787">tailpiece</titlePart>
+			<titlePart>] | [double rule] | </titlePart>
+			<titlePart rend="italic">DUBLIN: </titlePart>
+			<titlePart rend="roman">| Printed for </titlePart>
+			<titlePart rend="smallcap">George </titlePart>
+			<titlePart>and </titlePart>
+			<titlePart rend="smallcap">Alexander Ewing, | </titlePart>
+			<titlePart rend="roman">at the </titlePart>
+			<titlePart rend="italic">Angel </titlePart>
+			<titlePart rend="roman">and </titlePart>
+			<titlePart rend="italic">Bible </titlePart>
+			<titlePart>in </titlePart>
+			<titlePart rend="italic">Dame-Street. | </titlePart>
+			<titlePart>[short rule] | </titlePart>
+			<titlePart rend="smallcap">M dcc liii.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart rend="roman">title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart rend="roman">blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>43</pageRef>
+					</pageTo>
+					<contentPart rend="roman">‘[double rule] | A </contentPart>
+					<contentPart rend="smallcap">Short | </contentPart>
+					<contentPart>TREATISE | On the GAME of | </contentPart>
+					<contentPart rend="italic">Back-Gammon. </contentPart>
+					<contentPart>| [...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Backgammon</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>D2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>44</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D4r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>47</pageRef>
+					</pageTo>
+					<contentPart rend="roman">‘[double rule] | An </contentPart>
+					<contentPart rend="smallcap">Alphabetical | </contentPart>
+					<contentPart rend="roman">TABLE | OF THE | CONTENTS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>D4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>48</pageRef>
+					</pageFrom>
+					<contentPart rend="roman">advertisements for piquet, whist, memory, quadrille
+						with no prices</contentPart>
+				</content>
+			</section>
+		</sections>
+	</text>
+</entry>

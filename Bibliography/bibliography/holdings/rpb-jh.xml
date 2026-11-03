@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\rpb-jh.xml</fn><home>../index.xml</home></footer><id>RPB-JH</id><fn>rpb-jh</fn><name>Brown University John Hay Library</name><location>Providence, Rhode Island</location><books><book><id>Chances.1.1</id><fn>../books/chances.1.1.xml</fn><shortTitle>The Doctrine of Chances</shortTitle><shortImprint>sold by J. Jolliff</shortImprint><description>first London edition, first issue</description><pubDate>1754</pubDate><shelfmarks><shelfmark>QA273.H85</shelfmark></shelfmarks></book></books></holder>

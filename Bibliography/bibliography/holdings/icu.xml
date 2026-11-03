@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\icu.xml</fn><home>../index.xml</home></footer><id>ICU</id><fn>icu</fn><name>University of Chicago</name><location>Chicago, Illinois</location><books><book><id>Memory.1</id><fn>../books/memory.1.xml</fn><shortTitle>An Artificial Memory at the Game of Whist</shortTitle><shortImprint>printed for F. Cogan</shortImprint><description>first London edition</description><pubDate>1743</pubDate><shelfmarks><shelfmark>GV1277.H89 1743</shelfmark></shelfmarks></book></books></holder>

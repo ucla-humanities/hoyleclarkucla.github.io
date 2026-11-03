@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+	<fileDesc>
+		<title>Laws.1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2016-06-02</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Laws.1</idno>
+			<fn>books/laws.1.xml</fn>
+			<shortTitle>The Laws of the Game of Whist Designed for Framing</shortTitle>
+			<shortImprint>printed for F. Cogan</shortImprint>
+			<description>first London edition</description>
+			<pubYear>1743</pubYear>
+			<pubDate>1743-03-05</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+						<categoryID>10</categoryID>
+			<workID>2</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Francis</forename>
+					<surname>Cogan</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>General Evening Post</publication>
+				<pubDate>1743-03-05</pubDate>
+				<notes>
+					<note>“At the particular desire of several persons of quaility, the laws of the game are printed on a fine imperial paper, proper to be framed or made screens of that the players may have 'em before them to refer to, if any disputes should arise. Price 2s. 6d.”</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>2</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>785</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>10</idno>
+			</bibl>
+		</listBibl>
+		<notes>
+			<note>No copy of the separately published Laws of Whist printed for Francis Cogan are known to survive. Nonetheless, I am convinced that they were printed for reasons that appear in my </note>
+			<note url="http://edmondhoyle.blogspot.com/2012/11/unusual-bibliographical-evidence.html">essay</note>
+			<note> "Unusual Bibliographical Evidence."</note>
+		</notes>
+	</bookDesc>
+</entry>

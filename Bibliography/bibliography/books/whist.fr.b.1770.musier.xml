@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>Can't handle string for idno in Rather E.</todo>
+    <fileDesc>
+        <title>Whist.Fr.B.1770.Musier</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.B.1770.Musier</idno>
+            <fn>books/whist.fr.b.1770.musier.xml</fn>
+            <shortTitle>Traité du Jeu de Whisk</shortTitle>
+            <shortImprint>Chez Musier Fils</shortImprint>
+            <statedEdition>"cinquieme" edition</statedEdition>
+            <pubYear>1770</pubYear>
+            <pubDate>1770</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <orgName>Chez Musier fils</orgName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Depaulis</reference>
+                <idno>106</idno>
+            </bibl>
+            <!--             <bibl>
+                <reference>Rather</reference>
+                <idno>E</idno>
+            </bibl> -->
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.587</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1204</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>BNF</holder>
+                <shelfmark>V-41821</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>FDBm</holder>
+                <shelfmark>2835</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>FRB</holder>
+                <shelfmark>Rés.Diancourt PP 291</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LT</holder>
+                <shelfmark>Wb 701</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Bodard</holder>
+            </holding>
+            <holding isSeen="false">
+                <holder>NNC-RB</holder>
+                <shelfmark>B795 H85</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>In the signature A4, the letter A is rotated 90 degrees counter-clockwise. </note>
+            <note rend="paragraph"></note>
+            <note>Translation "B++" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>24</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>E</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>G</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>G2</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>64</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                        <end>vi</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>7</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>8</start>
+                        <end>127</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>128</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.fr.b.1770.musier">
+            <titlePart>TRAITE | DU JEU | DU WHISK, | </titlePart>
+            <titlePart rend="italic">Contenant les Loix de ce Jeu, | des Règles pour le bien
+                jouer, | des Calculs pour en connaître | les chances &amp; la ſolution de |
+                pluſieurs cas embarraſſans. | </titlePart>
+            <titlePart>Traduit de l'Anglais d'Edmond Hoyle. | </titlePart>
+            <titlePart rend="italic">Cinquieme Edition, revue, corrigée &amp; augmentée. | </titlePart>
+            <titlePart>[tailpiece] | A AMSTERDAM, | </titlePart>
+            <titlePart rend="italic">&amp; ſe trouve à </titlePart>
+            <titlePart>PARIS, | Chez </titlePart>
+            <titlePart rend="smallcap">Musier </titlePart>
+            <titlePart>fils, Libraire, Quay des | Auguſtins, au coin de la rue Pavée. |
+                [short oxford rule] | M. DCC. LXX.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>vi</pageRef>
+                    </pageTo>
+                    <contentPart>‘[row of type orn] | INTRODUCTION. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>7</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>124</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | TRAITÉ | DU JEU DU WHIST, | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>8</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>124</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Traité du Jeu | du Whisk.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>A5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>10</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Traite du Jeu’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>A10r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>19</pageRef>
+                    </pageFrom>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>B1r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>25</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>C4r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>55</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>E3r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>101</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <RTPart rend="italic">‘du Whish.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>A11r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>21</pageRef>
+                    </pageFrom>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>C12r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>71</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <RTPart rend="italic">‘au Whisk.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>125</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>127</pageRef>
+                    </pageTo>
+                    <contentPart>‘[oxford rule] | </contentPart>
+                    <contentPart rend="italic">TABLE | </contentPart>
+                    <contentPart>DES CHAPITRES’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>128</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

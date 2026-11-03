@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\uu.xml</fn><home>../index.xml</home></footer><id>UU</id><fn>uu</fn><name>University of Utah</name><location>Salt Lake City, Utah</location><books><book><id>Jones.7</id><fn>../books/jones.7.xml</fn><shortTitle>Hoyle's Games Improved</shortTitle><shortImprint>printed for R. Baldwin et al</shortImprint><description>seventh London edition</description><pubDate>1803</pubDate><shelfmarks><shelfmark>GV1243.H86 1803</shelfmark></shelfmarks></book></books></holder>

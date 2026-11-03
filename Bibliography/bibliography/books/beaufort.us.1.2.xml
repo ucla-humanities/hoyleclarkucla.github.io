@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Beaufort.US.1.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-28</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Beaufort.US.1.2</idno>
+            <fn>books/beaufort.us.1.2.xml</fn>
+            <shortTitle>Hoyle's Games Improved</shortTitle>
+            <shortImprint>printed for and sold by William Prichard</shortImprint>
+            <description>first American edition, New York issue</description>
+            <pubYear>1796</pubYear>
+            <pubDate>1796</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>2</issue>
+            <categoryID>70</categoryID>
+            <workID>10</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="editor">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Beaufort</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Prichard</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Spotswood</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>W12792</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>76</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>MWA</holder>
+                <shelfmark>DB</shelfmark>
+                <surrogate>Evans</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>ViU</holder>
+                <shelfmark>GV1201.B38 1796</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2180</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>MoSW</holder>
+                <shelfmark>Spec GV1201.B38 1796b</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The same setting of type as </note>
+            <note url="beaufort.us.1.1.xml">Beaufort.US.1.1</note>
+            <note> (Boston) and </note>
+            <note url="beaufort.us.1.3.xml">Beaufort.US.1.3</note>
+            <note> (Philadelphia).</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>18</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>S</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <signingErrors>
+                    <signingError>
+                        <sigRef>S3</sigRef>
+                        <badSig>S2</badSig>
+                    </signingError>
+                </signingErrors>
+            </collationFormula>
+            <totalLeaves>108</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                        <end>v</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>vi</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>vii</start>
+                        <end>xi</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>xii</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>18</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>19</start>
+                        <end>20</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>21</start>
+                        <end>74</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>75</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>76</start>
+                        <end>118</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>119</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>120</start>
+                        <end>142</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>143</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>144</start>
+                        <end>165</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>166</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>167</start>
+                        <end>175</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>176</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>177</start>
+                        <end>194</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>195</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>196</start>
+                        <end>204</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="beaufort.us.1.2">
+            <titlePart>HOYLE's GAMES | IMPROVED: | BEING | </titlePart>
+            <titlePart rend="smallcap">Practical Treatises </titlePart>
+            <titlePart>on the follow-|ing </titlePart>
+            <titlePart rend="smallcap">Fashionable Games, Viz. | </titlePart>
+            <titlePart>[four lines to left of rule] WHIST | QUADRILLE | PIQUET | BACK-GAMMON
+                | [four lines to right of rule] CHESS | BILLIARDS | AND | TENNIS. | WITH | The
+                eſtabliſhed </titlePart>
+            <titlePart rend="smallcap">Rules </titlePart>
+            <titlePart>of </titlePart>
+            <titlePart rend="smallcap">Game. | </titlePart>
+            <titlePart>[rule] | By JAMES BEAUFORT, </titlePart>
+            <titlePart rend="smallcap">Esq. | </titlePart>
+            <titlePart>Of </titlePart>
+            <titlePart rend="smallcap">Cavendish-Square. | </titlePart>
+            <titlePart>[oxford rule] | </titlePart>
+            <titlePart rend="italic">NEW YORK: | </titlePart>
+            <titlePart>PRINTED FOR AND SOLD BY WILLIAM PRICHARD; | SOLD ALSO BY PRICHARD AND DAVIDSON, | RICHMOND. | [short oxford rule] | 1796.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>S6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>204</pageRef>
+                    </pageTo>
+                    <contentPart>See </contentPart>
+                    <contentPart url="beaufort.us.1.1.xml">Beaufort.US.1.1</contentPart>
+                    <contentPart> (1796)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>S6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>204</pageRef>
+                    </pageTo>
+                    <RTPart>See </RTPart>
+                    <RTPart url="beaufort.us.1.1.xml">Beaufort.US.1.1</RTPart>
+                    <RTPart> (1796)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Quadrille</game>
+                    <game>Piquet</game>
+                    <game>Backgammon</game>
+                    <game>Chess</game>
+                    <game>Billiards</game>
+                    <game>Tennis</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Quadrille</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Piquet</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Backgammon</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Chess</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+        </sections>
+    </text>
+</entry>

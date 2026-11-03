@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Smith.1.3</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2018-05-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Smith.1.3</idno>
+			<fn>books/smith.1.3.xml</fn>
+			<shortTitle>The New Pocket Hoyle</shortTitle>
+			<shortImprint>published by I. Smith</shortImprint>
+			<description>another London impression</description>
+			<pubYear>nd</pubYear>
+			<pubDate>nd</pubDate>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>40</categoryID>
+			<workID>40</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Joseph</forename>
+					<surname>Smith</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Joseph</forename>
+					<surname>Smith</surname>
+				</persName>
+				<evidence>title</evidence>
+			</respItem>
+		</respStmt>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1834</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>HAG</holder>
+				<shelfmark>KW 363 D 43</shelfmark>
+				<surrogate url="http://books.google.com/books?id=mfNdAAAAcAAJ">Google</surrogate>
+			</holding>
+		</holdings>
+		<notes>
+			<note>The same setting of type as </note>
+			<note url="smith.1.1.xml">Smith.1.1</note>
+			<note> with the A gathering including the letterpress title page replaced by a frontispiece and engraved title page. In this impression, there is no colophon on page 160</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>16</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>B</sigStart>
+						<leaves>8</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>C</sigStart>
+						<sigEnd>L</sigEnd>
+						<leaves>8</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$1</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>80</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>i</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>ii</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>3</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>5</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>160</end>
+					</pageRange>
+				</pageRanges>
+				<pagingErrors>
+					<pagingError>
+						<start>110</start>
+						<badPage>10</badPage>
+					</pagingError>
+					<pagingError>
+						<start>111</start>
+						<badPage>11</badPage>
+					</pagingError>
+				</pagingErrors>
+			</pagination>
+		</collation>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>160</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="smith.1.1.xml">Smith.1.1</contentPart>
+					<contentPart/>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>160</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="smith.1.1.xml">Smith.1.1</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>All Fours</game>
+					<game>Cassino</game>
+					<game>Cribbage</game>
+					<game>Connexions</game>
+					<game>Lansquenet</game>
+					<game>Matrimony</game>
+					<game>Piquet</game>
+					<game>Put</game>
+					<game>Faro</game>
+					<game>Quadrille</game>
+					<game>Quinze</game>
+					<game>Rouge et Noir</game>
+					<game>Lottery</game>
+					<game>Speculation</game>
+					<game>Vingt-Un</game>
+					<game>Loo</game>
+					<game>Brag</game>
+					<game>Pope Joan</game>
+					<game>Commerce</game>
+					<game>Chess</game>
+					<game>Backgammon</game>
+					<game>Draughts</game>
+					<game>Billiards</game>
+					<game>Cricket</game>
+					<game>Tennis</game>
+					<game>Golf</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+				<subject>
+					<subject1>Piquet</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Quadrille</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Quadrille</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+				<subject>
+					<subject1>Chess</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Backgammon</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Draughts</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+				<subject>
+					<subject1>Cricket</subject1>
+					<subject2>laws of</subject2>
+				</subject>
+				<subject>
+					<subject1>Gaming</subject1>
+					<subject2>laws of (statute)</subject2>
+				</subject>
+			</section>
+		</sections>
+		<plates>
+			<plate plateLocation="Frontispiece">
+				<plateRelation>before</plateRelation>
+				<sigRef>B1r</sigRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note>Four women seated at a whist table with a man dealing the cards</note>
+				</notes>
+			</plate>
+			<plate plateLocation="Title">
+				<plateRelation>before</plateRelation>
+				<sigRef>B1r</sigRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note>‘THE | NEW POCKET | HOYLE. | [Three men at a billiards table] | </note>
+					<note rend="italic">Billiards | </note>
+					<note rend="blackletter">London. | </note>
+					<note rend="italic">Published by I. Smith, 193, High Holborn.’</note>
+				</notes>
+			</plate>
+		</plates>
+	</text>
+</entry>

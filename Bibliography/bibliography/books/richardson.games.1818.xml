@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Richardson.Games.1818</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Richardson.Games.1818</idno>
+			<fn>books/richardson.games.1818.xml</fn>
+			<shortTitle>Hoyle's Games</shortTitle>
+			<shortImprint>printed and published by Thomas Richardson</shortImprint>
+			<pubYear>1818</pubYear>
+			<pubDate>1818</pubDate>
+			<evidence>dedication</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>30</workID>
+			<subWorkID>50</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<collectedParts>
+			<collectedPart>
+				<idno>Richardson.Whist.1818</idno>
+			</collectedPart>
+			<collectedPart>
+				<idno>Richardson.Chess.1818</idno>
+			</collectedPart>
+			<collectedPart>
+				<idno>Richardson.Draughts.1818</idno>
+			</collectedPart>
+			<collectedPart>
+				<idno>Richardson.Backgammon.1818</idno>
+			</collectedPart>
+		</collectedParts>
+		<respStmt>
+			<respItem respType="printer">
+				<respGroup seq="1">Richardson</respGroup>
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Richardson</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>1717</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel g.247</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Copisarow</holder>
+				<copies>2</copies>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1291</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>The Oxford copy lacks a collected title page, but begins with the title page for whist. </note>
+			<note rend="paragraph"></note>
+			<note>One of the Copisarow copies has a different collected title page with the imprint London: Richardson and Son, 172, Fleet Street; 9, Capel Street, Dublin; and Derby.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>10.6</height>
+				<width>6.3</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>π</sigStart>
+						<leaves>1</leaves>
+					</gatheringRange>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>16</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<sigRef>A1</sigRef>
+						</alteration>
+						<alteration>
+							<alterationType>−</alterationType>
+							<sigRef>A2</sigRef>
+						</alteration>
+						<alteration>
+							<alterationType>−</alterationType>
+							<sigRef>A16</sigRef>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="false">
+						<dupSeq>2</dupSeq>
+						<sigStart>A</sigStart>
+						<leaves>16</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<dupSeq>2</dupSeq>
+							<sigRef>A1</sigRef>
+						</alteration>
+						<alteration>
+							<alterationType>−</alterationType>
+							<dupSeq>2</dupSeq>
+							<sigRef>A16</sigRef>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="false">
+						<dupSeq>3</dupSeq>
+						<sigStart>A</sigStart>
+						<leaves>16</leaves>
+					</gatheringRange>
+					<gatheringRange signed="false">
+						<dupSeq>4</dupSeq>
+						<sigStart>A</sigStart>
+						<leaves>16</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<dupSeq>4</dupSeq>
+							<sigRef>A1</sigRef>
+						</alteration>
+						<alteration>
+							<alterationType>−</alterationType>
+							<dupSeq>4</dupSeq>
+							<sigRef>A16</sigRef>
+						</alteration>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>unsigned</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>58</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>2</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>5</start>
+						<end>7</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>8</start>
+						<end>9</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>10</start>
+						<end>11</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>12</start>
+						<end>30</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<dupSeq>2</dupSeq>
+						<start>1</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<dupSeq>2</dupSeq>
+						<start>6</start>
+						<end>26</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<dupSeq>2</dupSeq>
+						<start>27</start>
+						<end>28</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<dupSeq>3</dupSeq>
+						<start>1</start>
+						<end>7</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<dupSeq>3</dupSeq>
+						<start>8</start>
+						<end>31</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<dupSeq>3</dupSeq>
+						<start>32</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<dupSeq>4</dupSeq>
+						<start>3</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<dupSeq>4</dupSeq>
+						<start>6</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<dupSeq>4</dupSeq>
+						<start>7</start>
+						<end>30</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="richardson.games.1818">
+			<titlePart>[within a rectangular border] HOYLE"S GAMES; | Containing | WHIST, CHESS, DRAUGHTS, | AND | BACK-GAMMON, | With the Last New Rules established at London | and Bath, | </titlePart>
+			<titlePart rend="italic">Adapted either for the Head or Pocket. | </titlePart>
+			<titlePart>[woodblock] | DERBY: | Printed and published by | THOMAS RICHARDSON; | and sold by | HURST, CHANCE, AND CO., LONDON.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1r</sigRef>
+					</sigFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1v</sigRef>
+					</sigFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A15v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>30</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="richardson.whist.1818.xml">Richardson.Whist.1818</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>8</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A15v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>30</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="richardson.whist.1818.xml">Richardson.Whist.1818</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<dupSeqSig>2</dupSeqSig>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<dupSeqSig>2</dupSeqSig>
+						<sigRef>A15v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>28</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="richardson.chess.1818.xml">Richardson.Chess.1818</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Chess</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Chess</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<dupSeqSig>3</dupSeqSig>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>3</dupSeqPage>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<dupSeqSig>3</dupSeqSig>
+						<sigRef>A16v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>3</dupSeqPage>
+						<pageRef>32</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="richardson.draughts.1818.xml">Richardson.Draughts.1818</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<dupSeqSig>3</dupSeqSig>
+						<sigRef>A4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>3</dupSeqPage>
+						<pageRef>8</pageRef>
+					</pageFrom>
+					<sigTo>
+						<dupSeqSig>3</dupSeqSig>
+						<sigRef>A16r</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>3</dupSeqPage>
+						<pageRef>31</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="richardson.draughts.1818.xml">Richardson.Draughts.1818</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Draughts</game>
+					<game>Polish Draughts</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<dupSeqSig>4</dupSeqSig>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>4</dupSeqPage>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<dupSeqSig>4</dupSeqSig>
+						<sigRef>A15v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>4</dupSeqPage>
+						<pageRef>30</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="richardson.backgammon.1818.xml">Richardson.Backgammon.1818</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<dupSeqSig>4</dupSeqSig>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>4</dupSeqPage>
+						<pageRef>6</pageRef>
+					</pageFrom>
+					<sigTo>
+						<dupSeqSig>4</dupSeqSig>
+						<sigRef>A15v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>4</dupSeqPage>
+						<pageRef>30</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="richardson.backgammon.1818.xml">Richardson.Backgammon.1818</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Backgammon</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Backgammon</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+			</section>
+		</sections>
+		<plates>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>π1r</sigRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>Two couples playing whist</note>
+				</notes>
+			</plate>
+		</plates>
+	</text>
+</entry>

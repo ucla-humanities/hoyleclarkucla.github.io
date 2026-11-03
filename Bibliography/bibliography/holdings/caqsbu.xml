@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\caqsbu.xml</fn><home>../index.xml</home></footer><id>CaQSBU</id><fn>caqsbu</fn><name>Bishop University</name><location>Sherbrooke, Quebec</location><books><book><id>Borradaile.1.1</id><fn>../books/borradaile.1.1.xml</fn><shortTitle>Hoyle's Improved Edition</shortTitle><shortImprint>published by W. C. Borradaile</shortImprint><description>first American edition, first issue, by Borradaile</description><pubDate>1830</pubDate><shelfmarks><shelfmark>GV1243.H87 1830</shelfmark></shelfmarks></book></books></holder>

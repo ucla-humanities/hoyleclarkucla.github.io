@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Whist.Fr.1765</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-17</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Whist.Fr.B.1765</idno>
+			<fn>books/whist.fr.b.1765.xml</fn>
+			<shortTitle>Traité Abergé du Jeu de Whist</shortTitle>
+			<shortImprint>mp</shortImprint>
+			<pubYear>1765</pubYear>
+			<pubDate>1765</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>80</categoryID>
+			<workID>30</workID>
+			<subWorkID>10</subWorkID>
+			<textLang>fr</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<holdings>
+			<holding isSeen="true">
+				<holder>CLU-C</holder>
+				<shelfmark>X 95155C2</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>AMu</holder>
+				<shelfmark>OTM: O 61-5751</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>DE-3</holder>
+				<shelfmark>Ha 7230</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>Translation "B" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+			<note rend="italic">The Playing Card</note>
+			<note>, Volume 43, Number 4, page 226.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>16</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<sigEnd>G</sigEnd>
+						<leaves>8</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>H</sigStart>
+						<leaves>2</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$1–5</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>A5</sigRef>
+					</anomSignature>
+				</anomSignatures>
+			</collationFormula>
+			<totalLeaves>58</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>3</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+						<end>116</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart>Traité | abergé | du Jeu | de WHIST, | contenant les loix de ce Jeu &amp; 
+				des Re-|gles pour le bien jouer, | avce divers Calculs | pour en connoitre les | Chances, | et | 
+				pluſiers cas difficiles | dont on montre la ſolution; | </titlePart>
+			<titlePart rend="italic">par Edmond Hoyle. | </titlePart>
+			<titlePart>[tailpiece] | [rule] | Traduit de l'Anglois. 1765.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>5</pageRef>
+					</pageTo>
+					<contentPart>‘[headpiece] | L'Auteur de ce Traité, promit au pu-|blic dès la premiere Edition [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>6</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>12</pageRef>
+					</pageTo>
+					<contentPart>‘[row of type ornaments] | </contentPart>
+					<contentPart rend="italic">Explication &amp; application de ces Calculs, </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>12</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>H2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>116</pageRef>
+					</pageTo>
+					<contentPart>‘[...] | </contentPart>
+					<contentPart rend="italic">Quelque Regles Generales que les Com-|mençants doivent obſerver. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+			</section>
+		</sections>
+	</text>
+</entry>

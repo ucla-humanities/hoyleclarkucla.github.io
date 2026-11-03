@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Ru.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-08-30</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Ru.1</idno>
+            <fn>books/whist.ru.1.xml</fn>
+            <shortTitle>Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>St. Petersburg</shortImprint>
+            <description>first edition in Russian</description>
+            <pubYear>1769</pubYear>
+            <pubDate>1769</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>70</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>ru</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="translator">
+                <persName>
+                    <forename>A. M.</forename>
+                    <surname>Saltykov</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>DLC</holder>
+                <shelfmark>GV1277.H897</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>RUMoLSU</holder>
+            </holding>
+            <holding isSeen="false">
+                <holder>RuMoPIB</holder>
+            </holding>
+            <holding isSeen="false">
+                <holder>RuSpRNB</holder>
+                <shelfmark>18.114.4.19</shelfmark>
+                <surrogate url="https://vivaldi.nlr.ru/bx000018004/view/#page=">National Library of Russia</surrogate>
+            </holding>
+        </holdings>
+        <notes>
+            <note>A translation of </note>
+            <note url="whist.fr.wagner.1761.xml">Whist.Fr.Wagner.1761</note>
+            <note> with a glossary of terms and  an introduction. See Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+            <note rend="paragraph"/>
+            <note>The print run was 300 copies. See Paul Keenan, "Card-playing and Gambling in
+                Eighteenth-century Russia" in </note>
+            <note rend="italic">European History Quarterly </note>
+            <note>42(3) 386-403 (2012).</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>А</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>Б</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>В</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>Г</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>25</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>4</start>
+                        <end>6</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>7</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>8</start>
+                        <end>14</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>15</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>16</start>
+                        <end>50</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>сокращенное описанïе | выбранное изъ сочиненïя | </titlePart>
+            <titlePart rend="italic">Г. Гоиля | </titlePart>
+            <titlePart>О ИГРѢ НАЗЫВАЕМОЙ | ВИСТЪ | обнародованное въ Англіи | въ 1750 году | </titlePart>
+            <titlePart>Переведенное, съ Аглинскаго языка на | Французской, </titlePart>
+            <titlePart>а съ Французскаго на Рос-|сïйской, |</titlePart>
+            <titlePart>съ прибавленïемъ нѣкоторыхъ ну-| жныхъ примѣчанïй отъ перевод-|чика
+                на сей языкъ, | </titlePart>
+
+            <titlePart>включенными въ тѣхъ отдѣленïяхъ, въ ко-|торыхъ
+                по мнѣнïю его оные надобны; </titlePart>
+            <titlePart>а | при томъ и обстоятельное описанïе са-|мыхъ
+                начальныхъ правилъ сей игры, | для тѣхъ, кои совсемъ оной не | знаютъ. | </titlePart>
+            <titlePart>[tailpiece] | [rule] | Въ Санктпетербургѣ 1769 года.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>А1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>А1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>А2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>А3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>6</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | Изъясненïе словъ чужестранныхъ, упо-|требляемыхъ по привычкѣ въ сей | игрѣ, [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>А4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>7</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>Г1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>50</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | ОПИСАНІЕ ПЕРВЫХЪ НАЧАЛЪ ИГРЫ | НАЗЫВАЕМОЙ | ВИСТЪ. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+            </section>
+        </sections>
+    </text>
+</entry>

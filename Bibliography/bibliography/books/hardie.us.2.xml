@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+    <fileDesc>
+        <title>Hardie.US.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2013-11-08</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Hardie.US.2</idno>
+            <fn>books/hardie.us.2.xml</fn>
+            <shortTitle>Hoyle Made Familiar</shortTitle>
+            <shortImprint>W. Mather</shortImprint>
+            <description>second edition</description>
+            <pubYear>1839</pubYear>
+            <pubDate>1839</pubDate>
+            <evidence>title</evidence>
+            <edition>2</edition>
+            <issue>1</issue>
+            <categoryID>70</categoryID>
+            <workID>90</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Hardie</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+            	<persName>
+            		<forename>W.</forename>
+            		<surname>Mather</surname>
+            	</persName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>145</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="false">
+                <holder>GEU</holder>
+            	<shelfmark>2013 768</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NvLN</holder>
+            	<shelfmark>GV1243.T74 1839</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+</entry>

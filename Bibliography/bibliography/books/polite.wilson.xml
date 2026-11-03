@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Polite.Wilson</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-30</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Polite.Wilson</idno>
+            <fn>books/polite.wilson.xml</fn>
+            <shortTitle>The Polite Gamester</shortTitle>
+            <shortImprint>printed for Peter Wilson</shortImprint>
+            <description>first Wilson collection</description>
+            <pubYear>1752</pubYear>
+            <pubDate>1752-02-17</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>60</categoryID>
+            <workID>20</workID>
+            <subWorkID>90</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Peter</forename>
+                    <surname>Wilson</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Dublin Esdall's News-Letter</publication>
+                <pubDate>1752-02-17</pubDate>
+                <notes>
+                    <note>“This day is published, by Peter Wilson, opposite the old Horse Guard, in
+                        Dame-Street, [Price a British Shilling,] The Polite Gamester: containing
+                        short treatises on the games of whist quadrille, back-gammon, piquet and
+                        chess; together with an artificial memory; or, an easy method of assisting
+                        the memory of those that play at the game of whist; By Edmund Hoyle,
+                        Gent.—Note, his treatise on the game of whist with his artificial memory,
+                        may be had stitched together. Price 4d.”</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>811</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.573</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Copisarow</holder>
+                <notes>
+                    <note> (with </note>
+                    <note url="whist.d.wilson.1.xml">Whist.D.Wilson.1</note>
+                    <note> instead of </note>
+                    <note url="whist.d.wilson.2.xml">Whist.D.Wilson.2</note>
+                    <note>).</note>
+                </notes>
+            </holding>
+            <holding isSeen="true">
+                <holder>CSmH</holder>
+                <shelfmark>356641</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.H86 1752</shelfmark>
+                <notes>
+                    <note> (with </note>
+                    <note url="brag.d.1.xml">Brag.D.1</note>
+                    <note>)</note>
+                </notes>
+            </holding>
+            <holding isSeen="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F52D</shelfmark>
+                <notes>
+                    <note> (with </note>
+                    <note url="brag.d.1.xml">Brag.D.1</note>
+                    <note>)</note>
+                </notes>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1241.H8P 1752a</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1770</shelfmark>
+                <notes>
+                    <note> (with </note>
+                    <note url="whist.d.wilson.1.xml">Whist.D.Wilson.1</note>
+                    <note> instead of </note>
+                    <note url="whist.d.wilson.2.xml">Whist.D.Wilson.2</note>
+                    <note>).</note>
+                </notes>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1791</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Gsu</holder>
+                <shelfmark>Special Coll. Anderson</shelfmark>
+                <notes>
+                    <note> (with </note>
+                    <note url="brag.d.1.xml">Brag.D.1</note>
+                    <note>)</note>
+                </notes>
+            </holding>
+        </holdings>
+        <notes>
+            <note>This normal makeup includes the second issue of </note>
+            <note url="whist.d.wilson.2.xml">Whist.D.Wilson.2</note>
+            <note> although copies can be found with the first issue, </note>
+            <note url="whist.d.wilson.1.xml">Whist.D.Wilson.1</note>
+            <note>. Some copies include </note>
+            <note url="brag.d.1.xml">Brag.D.1</note>
+            <note>.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>π</sigStart>
+                        <leaves>1</leaves>
+                        <note>=E2?</note>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>D</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>E</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>F</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>2</dupSeq>
+                        <sigStart>A</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>3</dupSeq>
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>3</dupSeq>
+                        <sigStart>B</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>4</dupSeq>
+                        <sigStart>A</sigStart>
+                        <sigEnd>B</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>4</dupSeq>
+                        <sigStart>C</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>5</dupSeq>
+                        <sigStart>A</sigStart>
+                        <sigEnd>C</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <signingErrors>
+                    <signingError>
+                        <sigRef>F1</sigRef>
+                        <badSig>F2</badSig>
+                    </signingError>
+                    <signingError>
+                        <sigRef>F2</sigRef>
+                        <badSig>F3</badSig>
+                    </signingError>
+                </signingErrors>
+            </collationFormula>
+            <totalLeaves>72</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>6</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>45</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>46</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>2</dupSeq>
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <dupSeq>2</dupSeq>
+                        <start>4</start>
+                        <end>8</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>3</dupSeq>
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>3</dupSeq>
+                        <start>4</start>
+                        <end>16</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>4</dupSeq>
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <dupSeq>4</dupSeq>
+                        <start>4</start>
+                        <end>28</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>4</dupSeq>
+                        <start>29</start>
+                        <end>32</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>5</dupSeq>
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <dupSeq>5</dupSeq>
+                        <start>4</start>
+                        <end>33</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>5</dupSeq>
+                        <start>34</start>
+                        <end>36</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="polite.wilson">
+            <titlePart>THE | Polite Gameſter: | CONTAINING, | SHORT TREATISES | On the </titlePart>
+            <titlePart rend="smallcap">Games </titlePart>
+            <titlePart>of | [2 lines braced to right] WHIST, | QUADRILLE, | [two lines braced
+                to left] BACK-GAMMON, | PIQUET and CHESS. | TOGETHER WITH | An Artificial
+                Memory, | OR, AN | Eaſy Method of aſſiſting the Me-|mory of thoſe that Play
+                at the </titlePart>
+            <titlePart rend="smallcap">Game </titlePart>
+            <titlePart>of | WHIST. | [rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmund Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[double rule] | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">Peter Wilson, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-Street. | </titlePart>
+            <titlePart>M,DCC,LII.</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Whist">
+            <titlePart>see </titlePart>
+            <titlePart url="whist.d.wilson.1.xml">Whist.D.Wilson.1</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Memory">
+            <titlePart>see </titlePart>
+            <titlePart url="whist.d.wilson.1.xml">Whist.D.Wilson.1</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Quadrille">
+            <titlePart>A SHORT | TREATISE | On the GAME of | </titlePart>
+            <titlePart rend="italic">QUADRILLE. | </titlePart>
+            <titlePart>SHEWING | The Odds of winning or loſing moſt | Games that are
+                commonly played; either by | calling a King, or by playing </titlePart>
+            <titlePart rend="italic">Sans Prendre. | </titlePart>
+            <titlePart>To which is added | The LAWS of the GAME. | By </titlePart>
+            <titlePart rend="italic">EDMOND HOYLE, </titlePart>
+            <titlePart>Gent. | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">Peter Wilson, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-ſtreet. | </titlePart>
+            <titlePart>M, DCC, LII.</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Backgammon">
+            <titlePart rend="roman">A SHORT | TREATISE | On the Game of | BACK-GAMMON. |
+                CONTAINING, | A </titlePart>
+            <titlePart rend="smallcap">Table </titlePart>
+            <titlePart rend="roman">of the thirty-ſix Chances, with Directions | how to find
+                out the Odds of being hit, upon ſingle, | or double Dice. | Rules whereby a
+                Beginner may, with due Attention | to them, attain playing it well. | The
+                ſeveral Stages for carrying your Men home, in | order to loſe no Point. |
+                How to find out who is forwardeſt to win a Hit. | Caſes ſtated for
+                Back-Games, with Directions how | to play for one. | Caſes ſtated, how to
+                know when you may have the | better of ſaving a Gammon by running. | Variety
+                of Caſes of Curioſity and Inſtruction. | The Laws of the Game. | By </titlePart>
+            <titlePart rend="italic">EDMOND HOYLE, </titlePart>
+            <titlePart rend="roman">Gent. | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">Peter Wilson, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-ſtreet. | </titlePart>
+            <titlePart>M, DCC, LII.</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Piquet">
+            <titlePart>A SHORT | TREATISE | On the GAME of | </titlePart>
+            <titlePart rend="italic">PIQUET. | </titlePart>
+            <titlePart>Directing with Moral Certainty how to | diſcard any Hand to
+                Advantage, by ſhewing the | Chances of taking in any one, two, three, four,
+                | or five certain Cards. | </titlePart>
+            <titlePart rend="smallcap">Computations </titlePart>
+            <titlePart>for thoſe who Bet their Money | at the Game. | Alſo the LAWS of the
+                GAME. | To which are added, | Some </titlePart>
+            <titlePart rend="smallcap">Rules </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">Obſervations </titlePart>
+            <titlePart>for playing well | at CHESS. | By </titlePart>
+            <titlePart rend="italic">EDMOND HOYLE, </titlePart>
+            <titlePart>Gent. | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">Peter Wilson, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-ſtreet. | </titlePart>
+            <titlePart>M, DCC LII.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <contentPart>collected title page</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.d.wilson.2.xml">Whist.D.Wilson.2</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>46</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.d.wilson.2.xml">Whist.D.Wilson.2</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>section title memory</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.d.wilson.1.xml">Whist.D.Wilson.1</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>section title quadrille </contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>‘CONTENTS. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>B6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>16</pageRef>
+                    </pageTo>
+                    <contentPart>‘A | TREATISE | On the </contentPart>
+                    <contentPart rend="smallcap">Game </contentPart>
+                    <contentPart>of | </contentPart>
+                    <contentPart rend="italic">QUADRILLE. | </contentPart>
+                    <contentPart>[..]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>B6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>15</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A ſhort Treatiſe on the | Game of </RTPart>
+                    <RTPart rend="smallcap">Quadrille.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>B6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>16</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘A ſhort Treatiſe on the, &amp;c.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>4</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>4</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>section title backgammon</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>4</dupSeqSig>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>4</dupSeqPage>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>4</dupSeqSig>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>4</dupSeqPage>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>4</dupSeqSig>
+                        <sigRef>C2r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>4</dupSeqPage>
+                        <pageRef>27</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | A Short | TREATISE | On the Game of | </contentPart>
+                    <contentPart rend="italic">BACK-GAMMON. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Backgammon</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>4</dupSeqSig>
+                        <sigRef>C2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>4</dupSeqPage>
+                        <pageRef>28</pageRef>
+                    </pageFrom>
+                    <contentPart>‘THE | LAWS | OF | BACK-GAMMON. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>4</dupSeqSig>
+                        <sigRef>C3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>4</dupSeqPage>
+                        <pageRef>29</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>4</dupSeqSig>
+                        <sigRef>C4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>4</dupSeqPage>
+                        <pageRef>31</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | An </contentPart>
+                    <contentPart rend="smallcap">Alphabetical | </contentPart>
+                    <contentPart>TABLE | OF THE | CONTENTS. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>4</dupSeqSig>
+                        <sigRef>C4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>4</dupSeqPage>
+                        <pageRef>32</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>section title piquet</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>B6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>23</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | A | TREATISE | On the GAME of | PIQUET. |
+                        [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>B6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>23</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A Treatiſe on </RTPart>
+                    <RTPart rend="smallcap">Piquet.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>B6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>24</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>C4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>32</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | SOME | </contentPart>
+                    <contentPart rend="smallcap">Rules </contentPart>
+                    <contentPart rend="italic">and </contentPart>
+                    <contentPart rend="smallcap">Observations | </contentPart>
+                    <contentPart>FOR | </contentPart>
+                    <contentPart rend="italic">Playing well at </contentPart>
+                    <contentPart>CHESS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>C1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>25</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>C4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>32</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Rules and Obſervations | for playing at </RTPart>
+                    <RTPart>CHESS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Chess</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>C5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>33</pageRef>
+                    </pageFrom>
+                    <contentPart>‘LAWS </contentPart>
+                    <contentPart rend="italic">at </contentPart>
+                    <contentPart>CHESS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>C5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>33</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘for playing at </RTPart>
+                    <RTPart>CHESS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>C5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>34</pageRef>
+                    </pageFrom>
+                    <contentPart>‘CONTENTS | FOR | </contentPart>
+                    <contentPart rend="italic">PIQUET. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>C6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>35</pageRef>
+                    </pageFrom>
+                    <contentPart>‘CONTENTS | FOR | </contentPart>
+                    <contentPart rend="italic">CHESS. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>C6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>36</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <dupSeqSig>3</dupSeqSig>
+                <sigRef>A2r</sigRef>
+                <dupSeqPage>3</dupSeqPage>
+                <pageRef>3</pageRef>
+                <cwFoot>King</cwFoot>
+                <cwHead>Clubs</cwHead>
+            </catchword>
+            <catchword>
+                <dupSeqSig>4</dupSeqSig>
+                <sigRef>A5r</sigRef>
+                <dupSeqPage>4</dupSeqPage>
+                <pageRef>9</pageRef>
+                <cwFoot>Six</cwFoot>
+                <cwHead>XI. Six</cwHead>
+            </catchword>
+            <catchword>
+                <dupSeqSig>4</dupSeqSig>
+                <sigRef>C3v</sigRef>
+                <dupSeqPage>4</dupSeqPage>
+                <pageRef>30</pageRef>
+                <cwFoot rend="italic">an</cwFoot>
+                <cwHead>Hitting,</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

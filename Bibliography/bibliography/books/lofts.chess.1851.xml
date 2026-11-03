@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Lofts.Chess.1851</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-10-25</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Lofts.Chess.1851</idno>
+			<fn>books/lofts.chess.1851.xml</fn>
+			<shortTitle>A Treatise on the Game of Chess</shortTitle>
+			<shortImprint>printed and published by John Lofts</shortImprint>
+			<pubYear>1851</pubYear>
+			<pubDate>1851</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>110</workID>
+			<subWorkID>30</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>John</forename>
+					<surname>Lofts</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>John</forename>
+					<surname>Lofts</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Reynold's Newspaper</publication>
+				<pubDate>1852-08-22</pubDate>
+				<notes>
+					<note>"Just published, only Twopence each, Hoyle's Games, the Game of Billiards, Game of Chess, the Game of Draughts, Backgammon, the Game of Cricket, Game of Whist..."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>2</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>134</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>OCl</holder>
+				<shelfmark>789.07 JS</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>CtY</holder>
+				<shelfmark>2014 1954</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>16</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>16</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>unsigned</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>16</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>31</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>32</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart>‘HOYLE ABRIDGED. | [short rule] | A TREATISE | ON THE | GAME OF CHESS; | OR, | </titlePart>
+			<titlePart rend="blackletter">Short Rules for Short Memories. </titlePart>
+			<titlePart>| WITH TTHE | LAWS OF THE GAME | AND | LECTURES, | </titlePart>
+			<titlePart rend="smallcap">Adapted either for the head or pocket. | </titlePart>
+			<titlePart>[short rule] | BY BOB SHORT. | [short rule] | </titlePart>
+			<titlePart rend="italic">Printed for the Benefit of Families, to prevent | Scolding. </titlePart>
+			<titlePart>| [short rule] | LONDON: | PRINTED AND PUBLISHED BY J. LOFTS, 368, STRAND.’</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>plate</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A16v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>32</pageRef>
+					</pageTo>
+					<contentPart>text</contentPart>
+				</content>
+			</section>
+		</sections>
+		<plates>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>A1v</sigRef>
+				<pageRef>2</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>Chess Men and The Chess Board</note>
+				</notes>
+			</plate>
+		</plates>
+	</text>
+</entry>

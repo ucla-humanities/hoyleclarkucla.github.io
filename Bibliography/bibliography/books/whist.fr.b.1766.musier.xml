@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+    <fileDesc>
+        <title>Whist.Fr.B.1766.Musier</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.B.1766.Musier</idno>
+            <fn>books/whist.fr.b.1766.musier.xml</fn>
+            <shortTitle>Almanach du Whisk</shortTitle>
+            <shortImprint>Chez Musier Fils</shortImprint>
+            <pubYear>1766</pubYear>
+            <pubDate>1766</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <orgName>Chez Musier fils</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Chez Fournier</orgName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Depaulis</reference>
+                <idno>103</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="false">
+                <holder>BNF</holder>
+                <shelfmark>KH-109-4</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Beauchene</holder>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "B+" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <titlePage titleType="title">
+            <titlePart>ALMANACH | </titlePart>
+            <titlePart rend="italic">DU WHISK, | OU | </titlePart>
+            <titlePart>TRAITÉ | DU | JEU DU WHISK, | </titlePart>
+            <titlePart rend="italic">Contenant les Loix de ce Jeu, &amp; des | Règles pour le bien jouer. | </titlePart>
+            <titlePart>PAR EDMOND HOYLE. | </titlePart>
+            <titlePart rend="italic">Traduit de l'Anglais. | </titlePart>
+            <titlePart>[rule] | Nouvelle Edition revue, corrigée, &amp; augmentée. | [rule] | [tailpiece] | A AMSTERDAM, | </titlePart>
+            <titlePart rend="italic">&amp; ſe trouve à Paris, | </titlePart>
+            <titlePart>Chez [four lines to right of bracket] | </titlePart>
+            <titlePart rend="smallcap">Musier </titlePart>
+            <titlePart>fils, Libraire, quai des Auguſtins, | au coin de la rue Pavée. | </titlePart>
+            <titlePart rend="smallcap">Fournier, </titlePart>
+            <titlePart>Libraire, rue du Hurepoix, | la Providence. | [oxford rule] | M. DCC.
+                LXVI.</titlePart>
+        </titlePage>
+    </text>
+</entry>

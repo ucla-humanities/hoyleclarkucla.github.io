@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\chfkub.xml</fn><home>../index.xml</home></footer><id>CHFKUB</id><fn>chfkub</fn><name>Bibliothèque Cantonale et Universitaire</name><location>Fribourg, Switzerland</location><books><book><id>Whist.Fr.1.1761.Wagner</id><fn>../books/whist.fr.1.1761.wagner.xml</fn><shortTitle>Abrégé du traité de Hoyle</shortTitle><shortImprint>Chez Abr. Wagner</shortImprint><pubDate>1761</pubDate><shelfmarks><shelfmark>AEF Carton 31 IV.19</shelfmark></shelfmarks></book></books></holder>

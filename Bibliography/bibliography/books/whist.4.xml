@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.4</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-01-04</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.4</idno>
+            <fn>books/whist.4.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>printed for F. Cogan</shortImprint>
+            <description>fourth London edition</description>
+            <pubYear>1743</pubYear>
+            <pubDate>1743-06-29</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>4</edition>
+            <issue>1</issue>
+            			<categoryID>10</categoryID>
+            <workID>1</workID>
+            <subWorkID>11</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Francis</forename>
+                    <surname>Cogan</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Charles</forename>
+                    <surname>Jephson</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>London Daily Post and General Advertiser</publication>
+                <pubDate>1743-06-29</pubDate>
+                <notes>
+                    <note>"In a neat pocket size, done up in fine gold emboss'd paper, and gilt on
+                        the leaves, price 2.s, the fourth edition, of A Short Treatise on the Game
+                        of Whist" Advertised with </note>
+                    <note url="backgammon.1.xml">Backgammon.1</note>
+                    <note> and </note>
+                    <note url="laws.1.xml">Laws.1</note>
+                    <note>.</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>2</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>N15048</idno>
+            </bibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>645</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>772</idno>
+            </bibl>
+            <bibl>
+                <reference>Marshall</reference>
+                <idno>NQ 7.08.144</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>7</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.537</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.538</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.539</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TxU</holder>
+                <shelfmark>GV1277.H89 1743c GTE</shelfmark>
+                <idno>Cogan.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>Fox</holder>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1343</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1537</shelfmark>
+                <idno>Cogan.B</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1682</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2171</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NT</holder>
+                <shelfmark>NOS</shelfmark>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>InU-Li</holder>
+                <shelfmark>GV1277.H89 1743</shelfmark>
+                <idno>Cogan.C</idno>
+                <sequence>1</sequence>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>D</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>E</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>A2</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+                <signingErrors>
+                    <signingError>
+                        <sigRef>B4</sigRef>
+                        <badSig>B5</badSig>
+                    </signingError>
+                </signingErrors>
+            </collationFormula>
+            <totalLeaves>52</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>8</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>96</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.4">
+            <titlePart>A SHORT | TREATISE | On the </titlePart>
+            <titlePart rend="smallcap">Game </titlePart>
+            <titlePart>of | WHIST. | CONTAINING | The LAWS of the GAME: | AND ALSO | Some </titlePart>
+            <titlePart rend="smallcap">Rules, </titlePart>
+            <titlePart>whereby a Beginner may, | with due Attention to them, attain to | the
+                Playing it well. | </titlePart>
+            <titlePart rend="smallcap">Calculations </titlePart>
+            <titlePart>for thoſe who will Bet the | Odds on any Point of the Score of the |
+                Game then playing and depending. | </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>ſtated, to ſhew what may be effected | by a very good Player in
+                Critical Parts | of the Game. | </titlePart>
+            <titlePart rend="smallcap">References </titlePart>
+            <titlePart>to </titlePart>
+            <titlePart rend="smallcap">Cases, </titlePart>
+            <titlePart rend="italic">viz. </titlePart>
+            <titlePart>at the End of | the Rule you are directed how to find them. | </titlePart>
+            <titlePart rend="smallcap">Calculations, </titlePart>
+            <titlePart>directing with moral Certainty, | how to play well any Hand or Game,
+                by ſhewing | the Chances of your Partner's having | 1, 2, or 3 Certain
+                Cards. | With Variety of Caſes added in the Appendix. | [rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmond Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. </titlePart>
+            <titlePart>| [rule] | </titlePart>
+            <titlePart rend="smallcap">The Fourth Edition. | </titlePart>
+            <titlePart>With great Additions to the </titlePart>
+            <titlePart rend="italic">Laws of the Game, </titlePart>
+            <titlePart>and an | Explanation of the Calculations which are neceſſary to be |
+                underſtood by thoſe who would play it well, </titlePart>
+            <titlePart rend="italic">&amp;c. &amp;c. </titlePart>
+            <titlePart>| [rule] | </titlePart>
+            <titlePart rend="italic">LONDON. </titlePart>
+            <titlePart>| Printed for </titlePart>
+            <titlePart rend="smallcap">F. Cogan </titlePart>
+            <titlePart>at the </titlePart>
+            <titlePart rend="italic">Middle-Temple-gate. </titlePart>
+            <titlePart>| MDCCXLIII. | (Price Two Shillings.)</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>‘TO THE | READER. | ... | [autograph of Edmond Hoyle]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <contentPart>Advertisement</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <contentPart>‘THE CONTENTS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <RTPart>‘The CONTENTS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>96</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/446153">headpiece</contentPart>
+                    <contentPart>] | A SHORT | TREATISE | On the GAME of | WHIST. |
+                        [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>95</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A ſhort </RTPart>
+                    <RTPart rend="smallcap">Treatise </RTPart>
+                    <RTPart rend="italic">on | the </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart rend="smallcap">Whist.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>E4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>96</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘A ſhort </RTPart>
+                    <RTPart rend="smallcap">Treatise </RTPart>
+                    <RTPart rend="italic">&amp;c.’</RTPart>
+                </RT>
+            </section>
+        </sections>
+    </text>
+</entry>

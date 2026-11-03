@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Jones.8-1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-18</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.8-1</idno>
+            <fn>books/jones.8-1.xml</fn>
+            <shortTitle>Companion to the Card Table</shortTitle>
+            <shortImprint>printed for R. Baldwin et al</shortImprint>
+            <description>extracted from the eighth London edition</description>
+            <pubYear>1808</pubYear>
+            <pubDate>1808-03-09</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>8</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <copiesPrinted>1000</copiesPrinted>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <respGroup seq="2">Baldwin</respGroup>
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Baldwin I</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lowndes</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="4">Wilkie</respGroup>
+                <orgName>Wilkie and Robinson</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Scatcherd</respGroup>
+                <orgName>Scatcherd and Letterman</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Longman</respGroup>
+                <orgName>Longman, Hurst, Rees, and Orme</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Lackington</respGroup>
+                <orgName>Lackington, Allen and Co.</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Stewart</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Crosby</respGroup>
+                <orgName>B. Crosby and Co.</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Joseph</forename>
+                    <surname>Mawman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Charles</forename>
+                    <surname>Whittingham</surname>
+                </persName>
+                <evidence>Chiswick Press Papers</evidence>
+                <evidence>colophon</evidence>
+                <evidence>Longman Archives</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Hereford Journal</publication>
+                <pubDate>1808-03-09</pubDate>
+                <notes>
+                    <note>"...Of whom may be had, likewise just published...Hoyle's Games Improved,
+                        and selected as a Companion to the Card Table, consisting of practical
+                        treatises on twenty-two fashionable games; wherein are comprised
+                        calculations for betting upon equal or advantageous terms. Price 3s. sewed,
+                        in a case like an almanack, with gilt edges." </note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>3</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+                <evidence>slip case</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>927</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>94</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.607</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1243.H88 1808</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>0079</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The card games from </note>
+            <note url="jones.8.xml">Jones.8</note>
+            <note>, almost entirely from the same setting of type, although here, gathering O is imposed in twelves. </note>
+            <note rend="paragraph"></note>
+            <note>Just as </note>
+            <note url="jones.7-1.xml">Jones.7-1</note>
+            <note> appears to have been published before </note>
+            <note url="jones.7.xml">Jones.7</note>
+            <note>, it would appear that this book was published before </note>
+            <note url="jones.8.xml">Jones.8</note>
+            <note>. Provincial advertisements appears as early as 1808-03-09, while the Longman Archive gives a publication date of 1808-05-24. J. Walker and James Asperne do not appear on the imprint of this book, but do appear on the imprint of Jones Hoyles beginning with </note>
+            <note url="jones.8.xml">Jones.8</note>
+            <note>.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>18</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>N</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>O</sigStart>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1,3</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>O3</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+                <signaturePattern>$3 as '$2'</signaturePattern>
+                <signingErrors>
+                    <signingError>
+                        <sigRef>O5</sigRef>
+                        <badSig>O2</badSig>
+                    </signingError>
+                </signingErrors>
+            </collationFormula>
+            <totalLeaves>86</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iv</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>166</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>167</start>
+                        <end>168</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="jones.8-1">
+            <titlePart>HOYLE'S GAMES | IMPROVED AND SELECTED | AS A | COMPANION | TO | </titlePart>
+            <titlePart rend="italic">THE CARD TABLE | </titlePart>
+            <titlePart>CONSISTING OF | PRACTICAL TREATISES ON | [7 lines to left of rule]
+                WHIST | QUADRILLE | PIQUET | QUINZE | VINGT-UN | LANSQUENET | FARO or PHARO
+                | [7 lines between two rules] ROUGE &amp; NOIR | CRIBBAGE | MATRIMONY |
+                CASSINO | CONNEXIONS | REVERSIS | PUT | [7 lines to right of rule]
+                ALL-FOURS | SPECULATION | LOO or LUE | LOTTERY | COMMERCE | POPE | BRAG |
+                AND DOMINO | </titlePart>
+            <titlePart>WHEREIN ARE COMPRISED | CALCULATIONS FOR BETTING | UPON | </titlePart>
+            <titlePart rend="italic">EQUAL OR ADVANTAGEOUS TERMS | </titlePart>
+            <titlePart>[short oxford rule] | </titlePart>
+            <titlePart rend="italic">LONDON | </titlePart>
+            <titlePart>PRINTED FOR R. BALDWIN; W. LOWNDES; WILKIE AND ROBINSON; | SCATCHERD
+                AND LETTERMAN; LONGMAN, HURST, REES AND | ORME; W. STEWART; B. CROSBY AND
+                CO.; LACKINGTON, ALLEN | AND CO.; AND J. MAWMAN | [short rule] | 1808
+            </titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+                <subject>
+                    <subject1>Slip case</subject1>
+                    <subject2>book issued in</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>‘C. WHITTINGHAM, Printer, | 103, </contentPart>
+                    <contentPart rend="italic">Goswell Street.’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <contentPart>"The proprietors of Hoyle's Games Improved, ambitious of retaining
+                        that patronage which those who endeavour to serve or amuse the public
+                        generally acquire, have had the whole work carefully revised and enlarged,
+                        together with, as they hope, material corrections throughout; and supposing
+                        that the same might properly be divided into nearly two equal portions, one
+                        calculated for the card table, and most suitable to the ladies; the other
+                        appropriate to the male sex, as containing games that require stronger
+                        exertions, or more intense application; therefore they, the proprietors, now
+                        re-publish, in a convenient size and elegant manner, that part which they
+                        trust will prove most acceptable to their fair country-women, intending soon
+                        to print the remainder in a similar form, so as to give a complete edition
+                        of a book containing the most fashionable games both of skill and
+                        chance."</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <contentPart rend="italic">‘CONTENTS. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>156</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="jones.8.xml">Jones.8</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>156</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="jones.8.xml">Jones.8</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Dummy Whist</game>
+                    <game>Quadrille</game>
+                    <game>Mediateur</game>
+                    <game>Piquet</game>
+                    <game>Quinze</game>
+                    <game>Vingt-Un</game>
+                    <game>Lansquenet</game>
+                    <game>Faro</game>
+                    <game>Rouge et Noir</game>
+                    <game>Cribbage</game>
+                    <game>Matrimony</game>
+                    <game>Cassino</game>
+                    <game>Connexions</game>
+                    <game>Reversis</game>
+                    <game>Put</game>
+                    <game>All Fours</game>
+                    <game>Speculation</game>
+                    <game>Loo</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+                <subject>
+                    <subject1>Piquet</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>156</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O7r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>157</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF LOTTERY. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>156</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O7r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>157</pageRef>
+                    </pageTo>
+                    <RTPart>‘LOTTERY.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Lottery</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>158</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>160</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE GAME OF COMMERCE. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>158</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>160</pageRef>
+                    </pageTo>
+                    <RTPart>‘COMMERCE.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Commerce</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O9r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>161</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>162</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE GAME OF POPE, </contentPart>
+                    <contentPart rend="smallcap">or </contentPart>
+                    <contentPart>POPE JOAN. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O9r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>161</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>162</pageRef>
+                    </pageTo>
+                    <RTPart>‘POPE, </RTPart>
+                    <RTPart rend="smallcap">or </RTPart>
+                    <RTPart>POPE JOAN.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Pope Joan</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O10r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>163</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O11r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>165</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE GAME OF BRAG. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O10r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>163</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O10v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>164</pageRef>
+                    </pageTo>
+                    <RTPart>‘BRAG.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Brag</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O11r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>165</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O11v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>166</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF DOMINO. | [...] | [colophon]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O11r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>165</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O11v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>166</pageRef>
+                    </pageTo>
+                    <RTPart>‘DOMINO.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Domino</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O12r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>167</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>168</pageRef>
+                    </pageTo>
+                    <contentPart>‘BOOKS | </contentPart>
+                    <contentPart rend="italic">PRINTED FOR W. LOWNDES. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O12v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>168</pageRef>
+                    </pageFrom>
+                    <RTPart>‘BOOKS PRINTED FOR W. LOWNDES.’</RTPart>
+                </RT>
+            </section>
+        </sections>
+        <plates>
+            <plate>
+                <plateRelation>on</plateRelation>
+                <sigRef>M4v</sigRef>
+                <pageRef>128</pageRef>
+                <plateType>woodblock</plateType>
+                <notes>
+                    <note>a tapis or cloth covering the Rouge et Noir table</note>
+                </notes>
+            </plate>
+        </plates>
+        <colophon>
+            <notes>
+                <note>‘[oxford rule] | C. WHITTINGHAM, Printer, 103 </note>
+                <note rend="italic">Goswell Street. | </note>
+                <note>[reverse oxford rule]’</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

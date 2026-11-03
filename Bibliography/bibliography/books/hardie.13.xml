@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Hardie.13</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-12-26</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Hardie.13</idno>
+            <fn>books/hardie.13.xml</fn>
+            <shortTitle>Hoyle's Games Made Familiar</shortTitle>
+            <shortImprint>Ward &amp; Lock</shortImprint>
+            <description>thirteenth impression ("twelfth edition")</description>
+            <pubYear>1855</pubYear>
+            <pubDate>1855</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>12</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>130</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Hardie</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Ward &amp; Lock</orgName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>The Morning Post</publication>
+                <pubDate>1855-06-11</pubDate>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <holdings>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>7926.c.29</shelfmark>
+                <surrogate url="https://books.google.com/books?id=jxhdAAAAcAAJ">Google</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>Copisarow</holder>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2195</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The same setting of type as </note>
+            <note url="hardie.2.xml">Hardie.2</note>
+            <note> with new preliminaries and the added material from </note> 
+                <note url="hardie.4.xml">Hardie.4</note>
+            <note> on the last three leaves. </note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>32</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                      <sigStart>B</sigStart>
+                        <sigEnd>G</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>H</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="false">
+                        <sigStart>I</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>64</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>iii</start>
+                        <end>vi</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>vii</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>viii</start>
+                        <end>x</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>4</start>
+                        <end>5</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>6</start>
+                        <end>112</end>
+                    </pageRange>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>8</start>
+                        <note> =128</note>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="hardie.13">
+            <titlePart>HOYLE'S GAMES | MADE FAMILIAR; | BEING | </titlePart>
+            <titlePart rend="blackletter">A Companion to the Card Table; | </titlePart>
+            <titlePart>CONTAINING THE ESTABLISHED RULES AND PRACTICE OF | THIRTY CARD GAMES. | BY EIDRAH TREBOR, ESQ. | TWELFTH EDITION. | “I am sorry I have not learnt to play cards. It is very | useful in life; it generates kindness and consolidates | society.— </titlePart>
+            <titlePart rend="smallcap">Dr. Johnson. | </titlePart>
+            <titlePart>LONDON: | WARD AND LOCK, 158, FLEET STREET</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <contentPart rend="blackletter">‘Entered in Stationers Hall.’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>v</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>vii</pageRef>
+                    </pageTo>
+                    <contentPart>‘CONTENTS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vi</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>vii</pageRef>
+                    </pageTo>
+                    <RTPart>‘CONTENTS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>viii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ix</pageRef>
+                    </pageFrom>
+                    <contentPart>‘ADVERTISEMENT. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>x</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="hardie.2.xml">Hardie.2</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="hardie.2.xml">Hardie.2</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>107</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>112</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="hardie.4.xml">Hardie.4</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>H4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>107</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>112</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="hardie.4.xml">Hardie.4</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Dummy Whist</game>
+                    <game>Catch the Ten</game>
+                    <game>Boston</game>
+                    <game>Quadrille</game>
+                    <game>Reversis</game>
+                    <game>Piquet</game>
+                    <game>Cribbage</game>
+                    <game>Cassino</game>
+                    <game>All Fours</game>
+                    <game>Put</game>
+                    <game>Five and Ten</game>
+                    <game>Loo</game>
+                    <game>Brag</game>
+                    <game>Vingt-Un</game>
+                    <game>Quinze</game>
+                    <game>Thirty One</game>
+                    <game>Snip Snap Snorem</game>
+                    <game>Commit</game>
+                    <game>Pope Joan</game>
+                    <game>Matrimony</game>
+                    <game>Lottery</game>
+                    <game>Speculation</game>
+                    <game>Commerce</game>
+                    <game>Lift Smoke</game>
+                    <game>Earl of Coventry</game>
+                    <game>Connexions</game>
+                    <game>Lansquenet</game>
+                    <game>Faro</game>
+                    <game>Rouge et Noir</game>
+                    <game>Ecarté</game>
+                    <game>Short Whist</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I1r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>I4r</sigRef>
+                    </sigTo>
+                    <contentPart>‘EDUCATIONAL WORKS | PUBLISHED BY | WARD &amp; LOCK, 158, FLEET STREET. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>I1v</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>I4r</sigRef>
+                    </sigTo>
+                    <RTPart>‘WARD &amp; LOCK'S EDUCATIONAL WORKS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I4v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+        <plates>
+            <plate plateLocation="Frontispiece">
+                <plateRelation>before</plateRelation>
+                <sigRef>A1r</sigRef>
+                <plateType>engraving</plateType>
+                <notes>
+                    <note>Two couples at card table with two females spectators. A different engraving from </note>
+                    <note url="hardie.11.xml">Hardie.11</note>
+                    <note>.</note>
+                </notes>
+            </plate>
+            <plate>
+                <plateRelation>on</plateRelation>
+                <sigRef>H1r</sigRef>
+                <pageRef>101</pageRef>
+                <plateType>woodblock</plateType>
+                <notes>
+                    <note>a tapis or cloth covering the Rouge et Noir table</note>
+                </notes>
+            </plate>
+        </plates>
+    </text>
+</entry>

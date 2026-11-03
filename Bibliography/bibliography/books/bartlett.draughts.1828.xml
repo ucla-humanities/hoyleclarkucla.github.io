@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+	<fileDesc>
+		<title>Bartlett.Draughts.1828</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2018-05-30</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Bartlett.Draughts.1828</idno>
+			<fn>books/bartlett.draughts.1828.xml</fn>
+			<shortTitle>A Treatise on Draughts</shortTitle>
+			<shortImprint>published by Caleb Bartlett</shortImprint>
+			<pubYear>1828</pubYear>
+			<pubDate>1828</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>70</categoryID>
+			<workID>75</workID>
+			<subWorkID>40</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Caleb</forename>
+					<surname>Bartlett</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>128</idno>
+			</bibl>
+		</listBibl>
+		<notes>
+			<note>Rather is the only source for this book. </note>
+		</notes>
+	</bookDesc>
+</entry>

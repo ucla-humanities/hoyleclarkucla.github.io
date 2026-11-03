@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\cq.xml</fn><home>../index.xml</home></footer><id>Cq</id><fn>cq</fn><name>Cambridge University Queens’ College</name><location>Cambridge, England</location><books><book><id>Games.1.5</id><fn>../books/games.1.5.xml</fn><shortTitle>Mr. Hoyle's Treatises</shortTitle><shortImprint>printed for T. Osborne and sold by W. Reeve</shortImprint><statedEdition>"tenth" edition</statedEdition><description>first London edition, fifth issue</description><pubDate>1755</pubDate><shelfmarks><shelfmark>G.27.38</shelfmark></shelfmarks></book></books></holder>

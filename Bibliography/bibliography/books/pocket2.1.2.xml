@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Pocket2.1.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-12-22</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pocket2.1.2</idno>
+			<fn>books/pocket2.1.2.xml</fn>
+			<shortTitle>The New Pocket Hoyle Part II</shortTitle>
+			<shortImprint>printed for W. Taylor</shortImprint>
+			<description>first London edition, second issue</description>
+			<pubYear>1820</pubYear>
+			<pubDate>1820</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>2</issue>
+			<categoryID>30</categoryID>
+			<workID>100</workID>
+			<subWorkID>2</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<persName>
+					<forename>W.</forename>
+					<surname>Taylor</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Davison</surname>
+				</persName>
+				<evidence>title</evidence>
+				<evidence>colophon</evidence>
+			</respItem>
+			<respItem respType="editor">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Jackson</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>Horr</reference>
+				<idno>728</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>113</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H I0J2</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1229.N59 1820</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>2181</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>LU</holder>
+				<shelfmark>GV1243.N48 1820</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>A reissue of </note>
+			<note url="pocket2.1.1.xml">Pocket2.1.1</note>
+			<note> (1807) without an extra engraved title page, but with a cancel title. </note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation usesU="true">
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>1</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<multSigEnd>2</multSigEnd>
+						<sigEnd>I</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>187</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>2</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>35</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>36</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>37</start>
+						<end>41</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>42</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>43</start>
+						<end>51</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>52</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>53</start>
+						<end>93</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>94</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>95</start>
+						<end>101</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>102</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>103</start>
+						<end>106</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>107</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>108</start>
+						<end>172</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>173</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>174</start>
+						<end>240</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>241</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>242</start>
+						<end>256</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>257</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>258</start>
+						<end>371</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>372</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="pocket2.1.2">
+			<titlePart>THE NEW | POCKET HOYLE. | CONSISTING OF | GENTLEMEN'S GAMES; | VIZ. |
+				[five lines to left of double rule] BILLIARDS, | CHESS. | CRICKET, | TENNIS,
+				| COCKING, [five lines to right to double rule] BACKGAMMON, | DRAUGHTS, |
+				HAZARD, | GOFF, | HORSE RACING. | Accurately displaying | THE | RULES AND
+				PRACTICE, | </titlePart>
+			<titlePart rend="italic">As admitted and established by the first | Players in
+				the Kingdom. | </titlePart>
+			<titlePart>[short decorative rule] | WITH A VARIETY OF NEW IMPROVEMENTS | By CHARLES
+				JACKSON, </titlePart>
+			<titlePart rend="smallcap">Esq. | </titlePart>
+			<titlePart>[short decorative rule] | LONDON; | Printed for W. Taylor, Russel Court, Bridges
+				| Street, Covent Garden. | ······ | 1820. </titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<contentPart>title</contentPart>
+				</content>
+				<subject>
+					<subject1>Slip case</subject1>
+					<subject2>book issued in</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>I6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>372</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="pocket2.1.1.xml">Pocket2.1.1</contentPart>
+					<contentPart> (1807)</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>I6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>372</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="pocket2.1.1.xml">Pocket2.1.1</RTPart>
+					<RTPart> (1807)</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Draughts</game>
+					<game>Cricket</game>
+					<game>Tennis</game>
+					<game>Backgammon</game>
+					<game>Hazard</game>
+					<game>Golf</game>
+					<game>Game Cocks</game>
+					<game>Chess</game>
+					<game>Horse Racing</game>
+					<game>Billiards</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Draughts</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+				<subject>
+					<subject1>Cricket</subject1>
+					<subject2>laws of</subject2>
+				</subject>
+			</section>
+		</sections>
+		<colophon>
+			<notes>
+				<note>‘T. Davison, Whitefriars.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>There is new material on whist on pages 71-84. Is it from Mathews? Scott?</todo>
+    <fileDesc>
+        <title>Jones.9-3</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2018-06-03</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.9-3</idno>
+            <fn>books/jones.9-3.xml</fn>
+            <shortTitle>Hoyle's Guide to the Turf</shortTitle>
+            <shortImprint>printed for W. Lowndes et al</shortImprint>
+            <description>extracted from the ninth London edition</description>
+            <pubYear>1814</pubYear>
+            <pubDate>1813-12-24</pubDate>
+            <evidence>Longman Archives</evidence>
+            <edition>9</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <copiesPrinted>2000</copiesPrinted>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>T.</forename>
+                    <surname>Gard</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lowndes</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="4">Wilkie</respGroup>
+                <orgName>Wilkie and Robinson</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>J.</forename>
+                    <surname>Walker</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Scatcherd</respGroup>
+                <orgName>Scatcherd and Letterman</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Longman</respGroup>
+                <orgName>Longman, Hurst, Rees, Orme, and Brown</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Lackington</respGroup>
+                <orgName>Lackington, Allen and Co.</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Stewart</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Crosby</respGroup>
+                <persName>
+                    <forename>Benjamin and Richard</forename>
+                    <surname>Crosby</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>J.</forename>
+                    <surname>Richardson</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Joseph</forename>
+                    <surname>Mawman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Asperne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Baldwin</respGroup>
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Baldwin II</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Gale</respGroup>
+                <orgName>Gale, Curtis and Fenner</orgName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Thomas Curson</forename>
+                    <surname>Hansard</surname>
+                </persName>
+                <evidence>colophon</evidence>
+                <evidence>Longman Archives</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>The Morning Chronicle</publication>
+                <pubDate>1814-01-04</pubDate>
+                <notes>
+                    <note>"In a pocket volume, price 7s. 6d. bound, a corrected edition of Charles
+                        Jones's Hoyle's Games Improved...from whom may be had, several of the
+                        above-mentioned games, printed in separate pamphlets."</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>38446 f.60</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DE-95</holder>
+                <shelfmark>R15 Mon 9817</shelfmark>
+                <surrogate url="http://viewer.tiho-hannover.de/viewer/ppnresolver?id=PPN781116228">Stiftung Tierärztlichen Hochschule</surrogate>
+            </holding>
+        </holdings>
+        <notes>
+            <note>A separate issue of pages 460-502 of </note>
+            <note url="Jones.9.xml">Jones.9</note>
+            <note> with the same setting of type, although reimposed.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>18</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>D</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="false">
+                        <sigStart>E</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1,3</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>25</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>4</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>5</start>
+                        <end>48</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>49</start>
+                        <end>50</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>HOYLE'S | </titlePart>
+            <titlePart rend="italic">GUIDE TO THE TURF | </titlePart>
+            <titlePart>CONTAINING | ARTICLES, RULES, AND ORDERS | AT | HORSE RACES | WITH | </titlePart>
+            <titlePart rend="italic">TABLES FOR BETTING | </titlePart>
+            <titlePart>Mathematically calculated | </titlePart>
+            
+            <titlePart rend="smallcap">By T. GARD | </titlePart>
+            <titlePart>[short oxford rule] | </titlePart>
+            <titlePart rend="blackletter">London | </titlePart>
+            <titlePart>PRINTED FOR W. LOWNDES; WILKIE AND ROBINSON; J. | WALKER AND CO;
+                SCATCHERD AND LETTERMAN; LONG-|MAN, HURST, REES, ORME AND BROWN;
+                LACKINGTON, | ALLEN AND CO.; W. STEWART; B. AND R. CROSBY; J. | RICHARDSON;
+                J. MAWMAN; J; ASPERNE; GALE, CURTIS | AND FENNER; AND R. BALDWIN | [short
+                rule] | 1814</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[rule] | Printed by Hansard, jun. Peterborough-court,
+                        Fleet-street, London. | </contentPart>
+                    <contentPart>[rule].’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <contentPart rend="italic">‘CONTENTS. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>48</pageRef>
+                    </pageTo>
+                    <contentPart rend="italic">‘HORSE-RACING | </contentPart>
+                    <contentPart>[...] | [colophon]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>6</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>48</pageRef>
+                    </pageTo>
+                    <RTPart>‘HORSE-RACING.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Horse Racing</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>C3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>29</pageRef>
+                    </pageFrom>
+                    <RTPart>blank</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>49</pageRef>
+                    </pageFrom>
+                    <contentPart rend="italic">‘Published by the same Proprietors, price 7s. 6d. |
+                        bound, | </contentPart>
+                    <contentPart>[title page for </contentPart>
+                    <contentPart url="jones.9.xml">Jones.9</contentPart>
+                    <contentPart> without the imprint].’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>50</pageRef>
+                    </pageFrom>
+                    <contentPart>advertisements, much like those on pages iii-iv of </contentPart>
+                    <contentPart url="jones.9.xml">Jones.9</contentPart>
+                    <contentPart>.</contentPart>
+                </content>
+            </section>
+        </sections>
+        <colophon>
+            <notes>
+                <note>‘[rule] | Printed by T. C. </note>
+                <note rend="smallcap">Hansard, </note>
+                <note>Peterborough Court, | Fleet Street, </note>
+                <note rend="smallcap">London. | </note>
+                <note>[rule].’</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

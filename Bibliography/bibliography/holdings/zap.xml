@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\zap.xml</fn><home>../index.xml</home></footer><id>ZAP</id><fn>zap</fn><name>Auckland Public Library</name><location>Auckland, New Zealand</location><books><book><id>Jones.3</id><fn>../books/jones.3.xml</fn><shortTitle>Hoyle's Games Improved</shortTitle><shortImprint>printed for J. F. and C. Rivington et al</shortImprint><description>third London edition</description><pubDate>1786</pubDate><shelfmarks><shelfmark>1786 HOYL</shelfmark></shelfmarks></book></books></holder>

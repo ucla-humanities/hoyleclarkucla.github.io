@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\ichi.xml</fn><home>../index.xml</home></footer><id>ICHi</id><fn>ichi</fn><name>Chicago Historical Society</name><location>Chicago, Illinois</location><books><book><id>Cotton.1</id><fn>../books/cotton.1.xml</fn><shortTitle>Hoyle's Games Improved</shortTitle><shortImprint>published by Edward Cotton</shortImprint><description>first American edition</description><pubDate>1814</pubDate><shelfmarks><shelfmark>GV1243.H7 1814</shelfmark></shelfmarks></book></books></holder>

@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Pigott.1.3</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2025-04-29</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pigott.1.3</idno>
+			<fn>books/pigott.1.3.xml</fn>
+			<shortTitle>Pigott's New Hoyle</shortTitle>
+			<shortImprint>printed for James Ridgway</shortImprint>
+			<statedEdition>"third" edition</statedEdition>
+			<description>first London edition, third issue</description>
+			<pubYear>1796</pubYear>
+			<pubDate>1796-04-22</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>3</issue>
+			<categoryID>30</categoryID>
+			<workID>90</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Pigott</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>James</forename>
+					<surname>Ridgway</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Morning Post and Fashionable World</publication>
+				<pubDate>1796-04-22</pubDate>
+				<notes>
+					<note>"Pigott's New Hoyle, with the statute laws on gaming, &amp;c. This day is
+						published, price 3s. bound...the third edition, corrected and enlarged; to
+						which is added, an epitome of the statute laws on gaming, with the different
+						cases of contested bets, bonds, and other securities which have been legally
+						argued and determined...N. B. A Caution.—The public is respectfully
+						cautioned to be particular in asking for Piggott's New Hoyle, as an attempt
+						has been made to introduce a mutilated edition of this work into
+						circulation."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>3</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T179917</idno>
+			</bibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>1333</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>73</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>BFl</holder>
+				<shelfmark>I.795/PIGO (b1125012)</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.614</shelfmark>
+				<surrogate>ECCO</surrogate>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1805</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation usesU="true">
+			<format>18</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>π</sigStart>
+						<leaves>1</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>4</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>U</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>X</sigStart>
+						<leaves>6</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<sigRef>X6</sigRef>
+							<note> missing, blank?</note>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<!-- See Bowers p221 for use of χ here -->
+						<dupSeq>χ</dupSeq>
+						<sigStart>Y</sigStart>
+						<leaves>2</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>Y</sigStart>
+						<sigEnd>Z</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<multSigStart>2</multSigStart>
+						<sigStart>A</sigStart>
+						<leaves>6</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<multSig>2</multSig>
+							<sigRef>A6</sigRef>
+							<note> missing, blank?</note>
+						</alteration>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>B1</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>B2</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>+</anomType>
+						<sigRef>A3</sigRef>
+					</anomSignature>
+				</anomSignatures>
+				<signingErrors>
+					<signingError>
+						<sigRef>I3</sigRef>
+						<badSig>I2</badSig>
+					</signingError>
+				</signingErrors>
+			</collationFormula>
+			<totalLeaves>143</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>i</start>
+						<end>iii</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>iv</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>v</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>vi</start>
+						<end>x</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>238</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>239</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>240</start>
+						<end>271</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>272</start>
+						<end>276</end>
+					</pageRange>
+				</pageRanges>
+				<pagingErrors>
+					<pagingError>
+						<start>21</start>
+						<badPage>22</badPage>
+					</pagingError>
+				</pagingErrors>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="pigott.1.3">
+			<titlePart rend="italic">PIGOTT's | </titlePart>
+			<titlePart>NEW HOYLE, | OR THE | GENERAL REPOSITORY OF | GAMES; | CONTAINING | </titlePart>
+			<titlePart rend="italic">Rules and Inſtructions for playing | </titlePart>
+			<titlePart>[seven lines to left] WHIST, | PIQUET, | QUINZE, | GOFF, | DRAUGHTS,
+				| CRICKET, | QUADRILLE | [seven lines in center] FARO, | HAZARD, | ROUGE ET
+				NOIR, | LANSQUENET, | BACKGAMMON, | CHESS, | TENNIS, | [seven lines to right]
+				CRIBBAGE, | CASSINO, | CONNECTIONS | ALL FOUR, | PUT, | MATRIMONY, | &amp;c.
+				&amp;c. | With Tables of Odds, Calculations for betting advantage-|ouſly, and
+				their Laws as eſtabliſhed at </titlePart>
+			<titlePart rend="italic">Brookes's, | White's, D'Aubigny's, Scavoir Vivre,
+				Miles's, Paynes's, | Phillips's, </titlePart>
+			<titlePart>the Jockey Club, and every other faſhion|able Subſcription Houſe. |
+				From the Manuſcript of the late | CHARLES PIGOTT, </titlePart>
+			<titlePart rend="smallcap">Esq. | </titlePart>
+			<titlePart>The Third Edition, Corrected and Enlarged. | To which is added, an
+				Epitome of the Statute Laws on | Gaming, with the different Caſes of
+				conteſted Bets, | Bonds, and other Securities, which have been legally |
+				argued and determined. | [short rule] | LONDON: | Printed for </titlePart>
+			<titlePart rend="smallcap">James Ridgway, </titlePart>
+			<titlePart rend="italic">York Street, St. James's | Square. | </titlePart>
+			<titlePart>[inverted] &#8258; </titlePart>
+			<titlePart rend="italic">The Public are reſpectfully cautioned to be
+				parti-|cular in aſking for </titlePart>
+			<titlePart>PIGOTT's NEW HOYLE, </titlePart>
+			<titlePart rend="italic">as | an inſidious attempt has been made to introduce a </titlePart>
+			<titlePart>mu-|tilated </titlePart>
+			<titlePart rend="italic">edition of this work into circulation.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>ii</pageRef>
+					</pageFrom>
+					<contentPart>‘[inverted] &#8258; </contentPart>
+					<contentPart rend="italic">The exporter of this work will be | entitled to a </contentPart>
+					<contentPart>DRAWBACK, </contentPart>
+					<contentPart rend="italic">as the paper on | which it is printed is marked
+						according to | Act of Parliament.’</contentPart>
+				</content>
+				<subject>
+					<subject1>Paper</subject1>
+					<subject2>drawback</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>X5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>238</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="pigott.1.1.xml">Pigott.1.1</contentPart>
+					<contentPart> (1796)</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>X5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>238</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="pigott.1.1.xml">Pigott.1.1</RTPart>
+					<RTPart> (1796)</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>Quadrille</game>
+					<game>Cribbage</game>
+					<game>Piquet</game>
+					<game>Matrimony</game>
+					<game>Lansquenet</game>
+					<game>Quinze</game>
+					<game>Chess</game>
+					<game>Backgammon</game>
+					<game>Draughts</game>
+					<game>Billiards</game>
+					<game>Cricket</game>
+					<game>Tennis</game>
+					<game>Golf</game>
+					<game>Faro</game>
+					<game>Hazard</game>
+					<game>Rouge et Noir</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+				<subject>
+					<subject1>Draughts</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<dupSeqSig>χ</dupSeqSig>
+						<sigRef>Y1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>239</pageRef>
+					</pageFrom>
+					<sigTo>
+						<dupSeqSig>χ</dupSeqSig>
+						<sigRef>Y2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>242</pageRef>
+					</pageTo>
+					<contentPart>‘ADDENDA. | [short rule] | THE GAME OF CASSINO. |
+						[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<dupSeqSig>χ</dupSeqSig>
+						<sigRef>Y1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>240</pageRef>
+					</pageFrom>
+					<sigTo>
+						<dupSeqSig>χ</dupSeqSig>
+						<sigRef>Y2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>242</pageRef>
+					</pageTo>
+					<RTPart>‘CASSINO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Cassino</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Y1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>243</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Y2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>245</pageRef>
+					</pageTo>
+					<contentPart>‘THE GAME OF ALL FOUR, | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Y1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>244</pageRef>
+					</pageFrom>
+					<RTPart>‘ALL FOUR’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>All Fours</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Y2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>245</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Y2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>246</pageRef>
+					</pageTo>
+					<contentPart>‘[...] | THE GAME OF CONNECTIONS, | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Y2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>245</pageRef>
+					</pageFrom>
+					<RTPart>‘CONNECTIONS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Connexions</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Y2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>246</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Y3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>248</pageRef>
+					</pageTo>
+					<contentPart>‘[...] | THE GAME OF PUT, | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Y2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>246</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Y3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>248</pageRef>
+					</pageTo>
+					<RTPart>‘PUT.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Put</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Y4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>249</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>A3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>271</pageRef>
+					</pageTo>
+					<contentPart>‘AN | EPITOME | OF THE | </contentPart>
+					<contentPart rend="italic">STATUTE LAWS | </contentPart>
+					<contentPart>ON | GAMING, | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Y4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>250</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>A3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>271</pageRef>
+					</pageTo>
+					<RTPart>‘LAWS ON GAMING.’</RTPart>
+				</RT>
+				<subject>
+					<subject1>Gaming</subject1>
+					<subject2>laws of (statute)</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>272</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>A5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>276</pageRef>
+					</pageTo>
+					<contentPart rend="italic">‘Books Sold by </contentPart>
+					<contentPart rend="smallcap">James Ridgway, </contentPart>
+					<contentPart rend="italic">York | Street, St. James's Square. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>A4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>273</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>A5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>276</pageRef>
+					</pageTo>
+					<RTPart rend="italic">‘Books Sold by J. Ridgway.’</RTPart>
+				</RT>
+			</section>
+		</sections>
+		<plates>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>N4v</sigRef>
+				<pageRef>140</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note rend="smallcap">‘[...] | The Draught Table.’</note>
+				</notes>
+			</plate>
+		</plates>
+		<catchwords>
+			<catchword>
+				<sigRef>D6v</sigRef>
+				<pageRef>36</pageRef>
+				<cwFoot>4 to</cwFoot>
+				<cwHead>8 to</cwHead>
+			</catchword>
+			<catchword>
+				<sigRef>I1v</sigRef>
+				<pageRef>86</pageRef>
+				<cwFoot>ſort,</cwFoot>
+				<cwHead>ſort</cwHead>
+			</catchword>
+			<catchword>
+				<sigRef>Z5r</sigRef>
+				<pageRef>263</pageRef>
+				<cwFoot>ed</cwFoot>
+				<cwHead>ted</cwHead>
+			</catchword>
+		</catchwords>
+		<pressFigures>
+			<pressFigure>
+				<sigRef>B6r</sigRef>
+				<pageRef>11</pageRef>
+				<forme>i</forme>
+				<mark>4</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>D4v</sigRef>
+				<pageRef>32</pageRef>
+				<forme>o</forme>
+				<mark>1</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>E4r</sigRef>
+				<pageRef>43</pageRef>
+				<forme>i</forme>
+				<mark>4</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>E4v</sigRef>
+				<pageRef>44</pageRef>
+				<forme>o</forme>
+				<mark>3</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>I1v</sigRef>
+				<pageRef>86</pageRef>
+				<forme>i</forme>
+				<mark>1</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>I4r</sigRef>
+				<pageRef>91</pageRef>
+				<forme>i</forme>
+				<mark>3</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>M3v</sigRef>
+				<pageRef>126</pageRef>
+				<forme>i</forme>
+				<mark>1</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>M4v</sigRef>
+				<pageRef>128</pageRef>
+				<forme>o</forme>
+				<mark>3</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>Q6v</sigRef>
+				<pageRef>180</pageRef>
+				<forme>o</forme>
+				<mark>3</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>T3r</sigRef>
+				<pageRef>209</pageRef>
+				<forme>o</forme>
+				<mark>1</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>X3v</sigRef>
+				<pageRef>234</pageRef>
+				<forme>i</forme>
+				<mark>3</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>Y3v</sigRef>
+				<pageRef>248</pageRef>
+				<forme>i</forme>
+				<mark>1</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>Z6r</sigRef>
+				<pageRef>265</pageRef>
+				<forme>i</forme>
+				<mark>2</mark>
+			</pressFigure>
+		</pressFigures>
+	</text>
+</entry>

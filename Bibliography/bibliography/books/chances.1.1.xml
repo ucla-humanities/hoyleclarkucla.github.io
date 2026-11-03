@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Chances.1.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2021-06-29</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Chances.1.1</idno>
+            <fn>books/chances.1.1.xml</fn>
+            <shortTitle>The Doctrine of Chances</shortTitle>
+            <shortImprint>sold by J. Jolliff</shortImprint>
+            <description>first London edition, first issue</description>
+            <pubYear>1754</pubYear>
+            <pubDate>1754-06-14</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>10</categoryID>
+            <workID>8</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Henry</forename>
+                    <surname>Woodfall</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="dedicatee">
+                <orgName>Earl of Egmont</orgName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Public Advertiser</publication>
+                <pubDate>1754-01-23</pubDate>
+                <notes>
+                    <note>"Next month will be published, by subscription, at half a guinea, The
+                        Doctrine of Chances made easy to those who understand vulgar arithmetick
+                        only. By Mr. Hoyle. Subscriptions taken in by the author, and Mr.
+                        Jolliffe..."</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Public Advertiser</publication>
+                <pubDate>1754-03-12</pubDate>
+                <notes>
+                    <note>"Speedily will be published, by subscription; at half a guinea..."</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="advertisement">
+                <publication>The Daily Advertiser</publication>
+                <pubDate>1754-06-14</pubDate>
+                <notes>
+                    <note>"This day is publish'd, (price 10s. 6d.) An essay towards making the
+                        doctrine of chances easy...to which are added, tables on annuities for
+                        lives. &amp;c."</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="review">
+                <publication>The Monthly Reivew</publication>
+                <pubDate>1754-05</pubDate>
+                <notes>
+                    <note>"Mr. Hoyle's abilities for works of this sort are well known to the
+                        public." (</note>
+                    <note url="http://books.google.com/books?id=hRgyAQAAMAAJ&amp;pg=PA391">Google</note>
+                    <note>)</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="notice">
+                <publication>The Scots Magazine</publication>
+                <pubDate>1754-06</pubDate>
+                <notes>
+                    <note>(p310)</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>10</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+                <evidence>review</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T87530</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>794</idno>
+            </bibl>
+            <bibl>
+                <reference>Marshall</reference>
+                <idno>NQ 7:08:404</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>38</idno>
+            </bibl>
+            <bibl>
+                <reference>Todhunter</reference>
+                <idno>p322</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>8535.b.30</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel e.646(1)</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Stigler</holder>
+            </holding>
+            <holding isSeen="false">
+                <holder>Lu*</holder>
+                <shelfmark>DeM L.2.1 (B.P.3)</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>BNF</holder>
+                <shelfmark>V-20484</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>MiU</holder>
+                <shelfmark>QA273.H87</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>RPB-JH</holder>
+                <shelfmark>QA273.H85</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The imprint "sold by" J. Jolliff (sic) rather than "printed for" suggests that
+                Jolliffe was a distributor and not the publisher. It is likely that Hoyle was the
+                publisher.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>I</sigEnd>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>K</sigStart>
+                        <leaves>4</leaves>
+                        <alteration>
+                            <alterationType>+</alterationType>
+                            <sigRef>K4</sigRef>
+                            <count>1</count>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>41</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                        <end>viii</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>73</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>74</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>AN | ESSAY | </titlePart>
+            <titlePart rend="smallcap">Towards making the | </titlePart>
+            <titlePart>DOCTRINE | OF | CHANCES | Eaſy to thoſe who underſtand Vulgar | </titlePart>
+            <titlePart rend="smallcap">Arithmetick </titlePart>
+            <titlePart>only : | To which is added, | Some Uſeful TABLES on </titlePart>
+            <titlePart rend="smallcap">Annui-|ties </titlePart>
+            <titlePart>for </titlePart>
+            <titlePart rend="smallcap">Lives, </titlePart>
+            <titlePart rend="italic">&amp;c. &amp;c. &amp;c. </titlePart>
+            <titlePart> | [rule] | By Mr. </titlePart>
+            <titlePart rend="italic">HOYLE. </titlePart>
+            <titlePart> | [double rule] | </titlePart>
+            <titlePart rend="italic">LONDON: | </titlePart>
+            <titlePart>Sold by </titlePart>
+            <titlePart rend="smallcap">J. Jolliff, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">St. James's-Street. | </titlePart>
+            <titlePart>(Price Half a Guinea.) | No Copies of this Book are Genuine, but thoſe | that are ſigned by the </titlePart>
+            <titlePart rend="smallcap">Author.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title with autograph of Edmond Hoyle at the foot</contentPart>
+                </content>
+                <subject>
+                    <subject1>Chances</subject1>
+                    <subject2>Doctrine of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>iv</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/82733">headpiece</contentPart>
+                    <contentPart> Goulden 40] | TO THE | RIGHT HONOURABLE | THE | EARL of
+                        EGMONT. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘DEDICATION.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>v</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>viii</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/82627">headpiece</contentPart>
+                    <contentPart>] | THE | PREFACE. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vi</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>viii</pageRef>
+                    </pageTo>
+                    <RTPart>‘The </RTPart>
+                    <RTPart rend="italic">PREFACE.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K4+1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>73</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/82747">headpiece</contentPart>
+                    <contentPart> Goulden 40] | AN | ESSAY | ON THE | </contentPart>
+                    <contentPart rend="smallcap">Doctrine </contentPart>
+                    <contentPart>of </contentPart>
+                    <contentPart rend="smallcap">Chances, </contentPart>
+                    <contentPart rend="italic">&amp;c. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K4+1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>73</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘An </RTPart>
+                    <RTPart rend="smallcap">Essay </RTPart>
+                    <RTPart rend="italic">on the | </RTPart>
+                    <RTPart rend="smallcap">Doctrine </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart rend="smallcap">Chances.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>K4+1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>74</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>C2r</sigRef>
+                <pageRef>11</pageRef>
+                <cwFoot>Thus</cwFoot>
+                <cwHead>Thus,</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>D1r</sigRef>
+                <pageRef>17</pageRef>
+                <cwFoot rend="italic">Firſt,</cwFoot>
+                <cwHead rend="italic">Firſt</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

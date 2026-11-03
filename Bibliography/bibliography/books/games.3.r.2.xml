@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Games.3.R.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2024-10-10</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Games.3.R.2</idno>
+			<fn>books/games.3.r.2.xml</fn>
+			<shortTitle>Mr. Hoyle's Games</shortTitle>
+			<shortImprint>printed for J. Brambles et al, by H. Mozley</shortImprint>
+			<description>London reprint of third edition</description>
+			<pubYear>1807</pubYear>
+			<pubDate>1807</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>30</categoryID>
+			<workID>2</workID>
+			<subWorkID>3</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>J.</forename>
+					<surname>Brambles</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>A.</forename>
+					<surname>Meggitt</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>J.</forename>
+					<surname>Waters</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Henry</forename>
+					<surname>Mozley</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>Horr</reference>
+				<idno>681</idno>
+			</bibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>826</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>92</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>3843 g.3</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H G7L</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>0085</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>NN</holder>
+				<shelfmark>MZ (Hoyle. Games of whist, etc. 1807)</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>A reprint of </note>
+			<note url="games.3.xml">Games.3</note>
+			<note>, the "twelfth" edition (1760), without the updates from </note>
+			<note url="games.4.xml">Games.4</note>
+			<note>, the "thirteenth" edition (1763). Nor did it comtain any of the post-Donaldson
+				improvements.</note>
+			<note rend="paragraph"/>
+			<note>The printer, Henry Mozley, appears to be the son of the Henry Mozley who
+				published </note>
+			<note url="beaufort.2.xml">Beaufort.2</note>
+			<note> (1788).</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>18</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<sigEnd>C</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>E</sigStart>
+						<sigEnd>Q</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>R</sigStart>
+						<leaves>8</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>98</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>3</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+						<end>87</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>88</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>89</start>
+						<end>109</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>110</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>111</start>
+						<end>140</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>141</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>142</start>
+						<end>154</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>155</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>156</start>
+						<end>195</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>196</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="games.3.r.2">
+			<titlePart>MR. HOYLE'S | GAMES | OF | [3 lines to left of double rule] WHIST, |
+				QUADRILLE, | PIQUET, | [3 lines to right of double rule] CHESS, | AND |
+				BACKGAMMON, | COMPLETE. | In which are contained, | THE METHOD OF PLAYING
+				AND BETTING | AT THOSE GAMES, UPON EQUAL OR | ADVANTAGEOUS TERMS. |
+				INCLUDING | THE LAWS OF THE SEVERAL GAMES; | To which are now added, | TWO
+				NEW CASES AT WHIST. | ALSO, | THE NEW LAWS OF THE GAME OF WHIST, | </titlePart>
+			<titlePart rend="italic">As played at White's and Saunders' Chocolate | Houses.
+				| </titlePart>
+			<titlePart>[short rule] | </titlePart>
+			<titlePart rend="italic">LONDON: | </titlePart>
+			<titlePart>PRINTED FOR J. BRAMBLES, A. MEGGITT, AND | J. WATERS, BY H. MOZLEY,
+				GAINSBOROUGH. | 1807.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>I2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>87</pageRef>
+					</pageTo>
+					<contentPart>‘[oxford rule] | A SHORT TREATISE | ON THE GAME OF | WHIST. |
+						[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>I2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>87</pageRef>
+					</pageTo>
+					<RTPart>‘WHIST.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>I2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>88</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L1r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>109</pageRef>
+					</pageTo>
+					<contentPart>‘[oxford rule] | A | SHORT TREATISE | ON THE | GAME OF QUADRILLE; |
+						SHOWING | The odds of Winning or Losing most </contentPart>
+					<contentPart rend="smallcap">Games | </contentPart>
+					<contentPart>that are commonly Played, either by Calling | a King, or by Playing </contentPart>
+					<contentPart rend="italic">Sans Prendre. | </contentPart>
+					<contentPart>TO WHICH ARE ADDED, | THE LAWS OF THE GAME. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>I3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>89</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L1r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>109</pageRef>
+					</pageTo>
+					<RTPart>‘QUADRILLE.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Quadrille</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>L1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>110</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>N4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>140</pageRef>
+					</pageTo>
+					<contentPart>‘A | SHORT TREATISE | ON THE | GAME OF | PIQUET; |
+						DIRECTING, | With moral Certainty, how to discard any | Hand to Advantage,
+						by showing the Chances | of taking in any one, two, three, four, or | five
+						certain Cards. | </contentPart>
+					<contentPart rend="smallcap">Computations </contentPart>
+					<contentPart>for those who Bet their Money | at the </contentPart>
+					<contentPart rend="smallcap">Game. | </contentPart>
+					<contentPart>ALSO, | THE LAWS OF THE GAME. | TO WHICH ARE ADDED, | SOME RULES AND
+						OBSERVATIONS FOR | PLAYING WELL AT CHESS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>L2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>111</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>N4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>140</pageRef>
+					</pageTo>
+					<RTPart>‘PIQUET.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Piquet</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>N5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>141</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>O5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>154</pageRef>
+					</pageTo>
+					<contentPart>‘SOME | RULES AND OBSERVATIONS | FOR | PLAYING WELL
+						AT CHESS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>N5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>142</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>O5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>154</pageRef>
+					</pageTo>
+					<RTPart>‘CHESS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Chess</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>O6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>155</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>R7r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>193</pageRef>
+					</pageTo>
+					<contentPart>‘A | SHORT TREATISE | ON THE GAME OF | BACK-GAMMON, | CONTAINING, |
+						A </contentPart>
+					<contentPart rend="smallcap">Table </contentPart>
+					<contentPart>of the thirty-ſix Chances, with directions how | to find out the
+						Odds of being hit, upon ſingle or | double Dice. | Rules whereby a Beginner
+						may, with due attention to | them, attain playing it well. | The ſeveral
+						Stages for carrying your Men home, in | order to loſe no Point. | How to
+						find out who is forwardeſt to win a Hit. | Caſes ſtated for Back-Games, with
+						directions how to | play for one. | Caſes ſtated, how to know when you may
+						have the bet-|ter of ſaving a Gammon by running. | Variety of Caſes of
+						Curioſity and Inſtruction. | The Laws of the Game. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>O6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>156</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>R8r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>195</pageRef>
+					</pageTo>
+					<RTPart>‘BACK-GAMMON.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Backgammon</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>R7v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>194</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>R8r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>195</pageRef>
+					</pageTo>
+					<contentPart>‘TWO NEW CASES AT WHIST. | [...] | [colophon]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>R8v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>196</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+		</sections>
+		<colophon>
+			<notes>
+				<note>‘Printed by H. Mozley, Gainſborough.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

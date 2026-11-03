@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Pocket2.1.1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2025-01-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pocket2.1.1</idno>
+			<fn>books/pocket2.1.1.xml</fn>
+			<shortTitle>The New Pocket Hoyle Part II</shortTitle>
+			<shortImprint>printed by T. Davison for R. Scholey et al</shortImprint>
+			<description>first London edition</description>
+			<pubYear>1808</pubYear>
+			<pubDate>1808-07-27</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>30</categoryID>
+			<workID>100</workID>
+			<subWorkID>2</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Scholey</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="2">Vernor</respGroup>
+				<orgName>Vernor, Hood, and Sharpe</orgName>
+			</respItem>
+			<respItem respType="publisher">
+				<orgName>Lane and Newman</orgName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="1">Hughes</respGroup>
+				<persName>
+					<forename>T. and R.</forename>
+					<surname>Hughes</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Clement</forename>
+					<surname>Chapple</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Henry Delahoy</forename>
+					<surname>Symonds</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>C.</forename>
+					<surname>Booker</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="2">Scatcherd</respGroup>
+				<orgName>Scatcherd and Letterman</orgName>
+			</respItem>
+			<respItem respType="publisher">
+				<orgName>Wilson and Spence</orgName>
+			</respItem>
+			<respItem respType="publisher">
+				<orgName>Mundell and Co.</orgName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Davison</surname>
+				</persName>
+				<evidence>title</evidence>
+				<evidence>colophon</evidence>
+			</respItem>
+			<respItem respType="editor">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Jackson</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Morning Post</publication>
+				<pubDate>1808-07-27</pubDate>
+				<notes>
+					<note>"...A Companion to the Turf, the Billiard-Table, and the Card-Room.—This
+						day is published, price 4.s 6d. in a case for the pocket; or in morocco,
+						with a tuck to serve as a pocketbook 7s. bound; in morocco, with a silver
+						lock, 9s. The New Pocket Hoyle, Part the Second...The above, with the first
+						part, containing all the games on the cards, form the most copious and
+						correct edition of Hoyle now extant, having been carefully revised by
+						Charles Jackson, Esq. The treatise on the game of billiards having been
+						greatly enlarged, and that on racing having been furnished with everything
+						necessary to be known by any one attending the course, either as an amateur
+						or for casual recreation."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>4</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<note>in a case</note>
+				<evidence>advertisement</evidence>
+			</price>
+			<price>
+				<priceComponent>
+					<amount>7</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<note>in morocco</note>
+				<evidence>advertisement</evidence>
+			</price>
+			<price>
+				<priceComponent>
+					<amount>9</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<note>in morocco with a silver lock</note>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>881</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.623</shelfmark>
+				<idno>Pocket.A</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.625</shelfmark>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>Copisarow</holder>
+				<idno>Pocket.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>PPL</holder>
+				<shelfmark>Iu Hoyl 62060.D</shelfmark>
+				<idno>Pocket.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1229.N59 1808</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1043</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1638</shelfmark>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>Levy</holder>
+				<shelfmark>1730</shelfmark>
+				<idno>Pocket.A</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>D</holder>
+				<shelfmark>J 393</shelfmark>
+				<idno>Pocket.A</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>L</holder>
+				<shelfmark>D-7915.aaa.14</shelfmark>
+				<idno>Pocket.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>HAG</holder>
+				<shelfmark>KW 363 D 40</shelfmark>
+				<surrogate url="https://books.google.com/books?id=jvNdAAAAcAAJ">Google</surrogate>
+				<idno>Pocket.A</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>CaOTP</holder>
+				<shelfmark>794 H59 1807-08</shelfmark>
+				<idno>Pocket.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false">
+				<holder>CaOTP</holder>
+				<shelfmark>794.2 H598</shelfmark>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>CtY-SM</holder>
+				<shelfmark>NLp57 807h</shelfmark>
+				<idno>Pocket.A</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>NvLN</holder>
+				<shelfmark>GV1201.H83 1807</shelfmark>
+				<idno>Pocket.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H G7L4</shelfmark>
+				<idno>Pocket.A</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H G7L5</shelfmark>
+				<idno>Pocket.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H G8L</shelfmark>
+				<idno>Pocket.C</idno>
+				<sequence>2</sequence>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation usesU="true">
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>π</sigStart>
+						<leaves>1</leaves>
+					</gatheringRange>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>1</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<multSigEnd>2</multSigEnd>
+						<sigEnd>I</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>188</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>4</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>35</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>36</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>37</start>
+						<end>41</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>42</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>43</start>
+						<end>51</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>52</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>53</start>
+						<end>93</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>94</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>95</start>
+						<end>101</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>102</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>103</start>
+						<end>106</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>107</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>108</start>
+						<end>172</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>173</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>174</start>
+						<end>240</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>241</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>242</start>
+						<end>256</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>257</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>258</start>
+						<end>371</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>372</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="slipcase" imageFN="pocket2.1.1.slipcase"/>
+		<titlePage titleType="engravedTitle" imageFN="pocket2.1.1.engraved.title"/>
+		<titlePage titleType="halfTitle">
+			<titlePart>THE NEW | POCKET HOYLE. | [short rule] | PART II.</titlePart>
+		</titlePage>
+		<titlePage titleType="title" imageFN="pocket2.1.1">
+			<titlePart>THE NEW | POCKET HOYLE. | PART II. | CONSISTING OF | GENTLEMEN'S
+				GAMES; | VIZ. | [five lines to left of double rule] BILLIARDS, | CHESS, |
+				CRICKET, | TENNIS, | COCKING, | [five lines to right of double rule]
+				BACKGAMMON, | DRAUGHTS, | HAZARD, | GOFF, | HORSE RACING. | Accurately
+				displaying | THE | RULES AND PRACTICE, | </titlePart>
+			<titlePart rend="italic">As admitted and established by the first | Players in
+				the Kingdom. | </titlePart>
+			<titlePart>[short rule] | WITH A VARIETY OF NEW IMPROVEMENTS BY | CHARLES
+				JACKSON, </titlePart>
+			<titlePart rend="smallcap">Esq. | </titlePart>
+			<titlePart>[short rule] | THIS, WITH THE CARD GAMES, FORMS A COMPLETE | AND
+				IMPROVED EDITION OF | HOYLE. | [short reverse oxford rule] | LONDON: | Printed by T.
+				Davison, Whitefriars; | For R. Scholey, Vernor, Hood, and Sharpe, Lane and
+				Newman, | T. and R. Hughes, C. Chapple, H. D. Symonds. C. Booker, |
+				Scatcherd and Letterman; Wilson and Spence, York; and | Mundell and Co.
+				Edinburgh. | 1808.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1r</sigRef>
+					</sigFrom>
+					<contentPart>half title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1v</sigRef>
+					</sigFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<contentPart>title</contentPart>
+				</content>
+				<subject>
+					<subject1>Slip case</subject1>
+					<subject2>book issued in</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D6r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>35</pageRef>
+					</pageTo>
+					<contentPart>‘HOYLE'S GAMES. | PART II. | [short rule] | THE GAME OF DRAUGHTS, |
+						ACCORDING TO MR. PAYNE. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>D6r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>35</pageRef>
+					</pageTo>
+					<RTPart>‘DRAUGHTS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Draughts</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Draughts</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>D6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>36</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>E3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>41</pageRef>
+					</pageTo>
+					<contentPart>‘LAWS OF CRICKET. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>E1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>37</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>E3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>41</pageRef>
+					</pageTo>
+					<RTPart>‘CRICKET.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Cricket</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Cricket</subject1>
+					<subject2>laws of</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>E3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>42</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>F2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>51</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF TENNIS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>E4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>43</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>F2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>51</pageRef>
+					</pageTo>
+					<RTPart>‘TENNIS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Tennis</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>F2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>52</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>I5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>93</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF BACK-GAMMON. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>F3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>53</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>I5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>93</pageRef>
+					</pageTo>
+					<RTPart>‘BACK-GAMMON’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Backgammon</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>I5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>94</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>K3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>101</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF HAZARD. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>I6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>95</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>K3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>101</pageRef>
+					</pageTo>
+					<RTPart>‘HAZARD.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Hazard</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>K3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>102</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>K5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>106</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF GOFF, OR GOLF. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>K4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>103</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>K5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>106</pageRef>
+					</pageTo>
+					<RTPart>‘GOFF, OR GOLF.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Golf</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>K6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>107</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>N5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>142</pageRef>
+					</pageTo>
+					<contentPart>‘COCKING | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>K6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>108</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>N5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>142</pageRef>
+					</pageTo>
+					<RTPart>‘COCKING.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Game Cocks</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>N6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>143</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>X6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>240</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF CHESS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>N6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>144</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>X6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>240</pageRef>
+					</pageTo>
+					<RTPart>‘CHESS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Chess</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Y1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>241</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Y2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>244</pageRef>
+					</pageTo>
+					<contentPart>‘KING'S PLATE ARTICLES | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Y1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>242</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Y2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>243</pageRef>
+					</pageTo>
+					<RTPart>‘KING'S PLATE | ARTICLES.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Horse Racing</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<RT>
+					<sigFrom>
+						<sigRef>Y2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>244</pageRef>
+					</pageFrom>
+					<RTPart>‘KING'S PLATE ARTICLES.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Y3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>245</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Y3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>246</pageRef>
+					</pageTo>
+					<contentPart>‘FORM OF A CERTIFICATE | OF HAVING WON | </contentPart>
+					<contentPart rend="italic">A KING'S PLATE. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Y3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>246</pageRef>
+					</pageFrom>
+					<RTPart>‘CERTIFICATE.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Y4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>247</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Y6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>252</pageRef>
+					</pageTo>
+					<contentPart>‘TABLE | SHEWING | What Weights Horses are to Carry... |
+						[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Y4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>248</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Y6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>252</pageRef>
+					</pageTo>
+					<RTPart>‘TABLE OF WEIGHTS.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Z1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>253</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>A3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>270</pageRef>
+					</pageTo>
+					<contentPart>‘RULES AND ORDERS | OF | </contentPart>
+					<contentPart rend="italic">THE JOCKEY CLUB. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Z1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>254</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>A3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>269</pageRef>
+					</pageTo>
+					<RTPart>‘RULES AND ORDERS OF | THE JOCKEY CLUB.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<RT>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>270</pageRef>
+					</pageFrom>
+					<RTPart>‘RULES AND ORDERS, &amp;c.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>A4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>271</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>A6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>276</pageRef>
+					</pageTo>
+					<contentPart>‘RULES | CONCERNING | </contentPart>
+					<contentPart rend="italic">HORSE-RACING IN GENERAL, | </contentPart>
+					<contentPart>WITH A DESCRIPTION OF | A POST AND HANDICAP MATCH. |
+						[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>A4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>272</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>A6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>276</pageRef>
+					</pageTo>
+					<RTPart>‘HORSE-RACING.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>277</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>B2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>280</pageRef>
+					</pageTo>
+					<contentPart>‘COLOURS | WORN | BY THE RIDERS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>B1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>278</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>B2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>280</pageRef>
+					</pageTo>
+					<RTPart>‘COLOURS WORN BY RIDERS.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>B3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>281</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>B3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>282</pageRef>
+					</pageTo>
+					<contentPart>‘THE | EXACT LENGTHS | OF THE | COURSES AT NEWMARKET. |
+						[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>B3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>282</pageRef>
+					</pageFrom>
+					<RTPart>‘NEWMARKET COURSES.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>B4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>283</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>B5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>286</pageRef>
+					</pageTo>
+					<contentPart>‘NEW | RULES AND REGULATIONS | OF THE | </contentPart>
+					<contentPart rend="italic">JOCKEY CLUB, | </contentPart>
+					<contentPart>AND PRIVATE DECISIONS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>B4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>284</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>B5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>285</pageRef>
+					</pageTo>
+					<RTPart>‘NEW RULES OF | THE JOCKEY CLUB.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<RT>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>B5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>286</pageRef>
+					</pageFrom>
+					<RTPart>‘NEW RULES, &amp;c.’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>B6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>287</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>I6r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>371</pageRef>
+					</pageTo>
+					<contentPart>‘BILLIARDS. | [...] | [colophon]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>B6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>288</pageRef>
+					</pageFrom>
+					<sigTo>
+						<multSig>2</multSig>
+						<sigRef>I6r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>371</pageRef>
+					</pageTo>
+					<RTPart>‘BILLIARDS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Billiards</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<multSig>2</multSig>
+						<sigRef>I6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>372</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+		</sections>
+		<plates>
+			<plate plateLocation="Title">
+				<plateRelation>before</plateRelation>
+				<sigRef>A1r</sigRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note>by Kirkwoods of Edinburgh</note>
+				</notes>
+			</plate>
+			<plate>
+				<plateRelation>opposite</plateRelation>
+				<sigRef>B1r</sigRef>
+				<pageRef>1</pageRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note rend="italic">‘A Representation | of | </note>
+					<note>The Draught Board.’</note>
+				</notes>
+			</plate>
+			<plate>
+				<plateRelation>opposite</plateRelation>
+				<sigRef>F2v</sigRef>
+				<pageRef>52</pageRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note rend="italic">‘A Representation | of | </note>
+					<note>The Back Gammon Table.’</note>
+				</notes>
+			</plate>
+			<plate>
+				<plateRelation>opposite</plateRelation>
+				<sigRef>N6r</sigRef>
+				<pageRef>143</pageRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note rend="italic">‘The Cheſs Men. | </note>
+					<note>[chess men] | </note>
+					<note rend="italic">Pawn. Rook. Knight. Bishop. Queen King. | </note>
+					<note>[chess board] | </note>
+					<note rend="italic">CHESS BOARD.’</note>
+				</notes>
+			</plate>
+			<plate>
+				<plateRelation>opposite</plateRelation>
+				<multSig>2</multSig>
+				<sigRef>B6r</sigRef>
+				<pageRef>287</pageRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note rend="italic">‘Perspective View of a Billiard Table | &amp; the Game of
+						Fortification Billiards. | </note>
+					<note>[billiard table and equipment] | </note>
+					<note rend="italic">Cue | Mace | Dadley, scupt.’</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘[short rule] | T. Davison, Whitefriars.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

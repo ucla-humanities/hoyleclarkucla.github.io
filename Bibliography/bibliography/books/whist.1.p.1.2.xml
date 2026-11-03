@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Whist.1.P.1.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2024-12-16</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Whist.1.P.1.2</idno>
+			<fn>books/whist.1.p.1.2.xml</fn>
+			<shortTitle>A Short Treatise on the Game of Whist</shortTitle>
+			<shortImprint>printed for W. Webster</shortImprint>
+			<description>first piracy of the first edition, second edition</description>
+			<pubYear>1743</pubYear>
+			<pubDate>1743-02-19</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>2</edition>
+			<issue>1</issue>
+			<categoryID>10</categoryID>
+			<workID>1</workID>
+			<subWorkID>12</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>James</forename>
+					<surname>Mechell</surname>
+				</persName>
+				<evidence>Cogan v Chapelle</evidence>
+				<evidence>ornaments</evidence>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>James</forename>
+					<surname>Mechell</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>General Evening Post</publication>
+				<pubDate>1743-02-19</pubDate>
+				<notes>
+					<note>"This day was published, price 2s. A Short Treatise on the Game of
+						Whist...N. B. This has been privately sold for one guinea. By a Gentlemen.
+						Bath printed, London reprinted, for W. Webster..."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>2</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T175497</idno>
+			</bibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>775</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>3</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>L</holder>
+				<shelfmark>1471.g.39</shelfmark>
+				<surrogate>ECCO</surrogate>
+				<surrogate url="https://books.google.com/books?id=JxRgAAAAcAAJ">Google</surrogate>
+				<notes>
+					<note> (state 2)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel e.639</shelfmark>
+				<notes>
+					<note> (state 2)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel e.640</shelfmark>
+				<notes>
+					<note> (lacking gathering A)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true">
+				<holder>Copisarow</holder>
+				<notes>
+					<note> (state 3)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true">
+				<holder>ICN</holder>
+				<shelfmark>GV1277.H89 1743</shelfmark>
+				<notes>
+					<note> (state 4)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1277.H87 1743a c.1</shelfmark>
+				<notes>
+					<note> (state 2)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1277.H87 1743c</shelfmark>
+				<notes>
+					<note> (state 4)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1681</shelfmark>
+				<notes>
+					<note> (state 4)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1767</shelfmark>
+				<notes>
+					<note> (state 2)</note>
+				</notes>
+			</holding>
+			<holding isSeen="false">
+				<holder>Oa</holder>
+				<shelfmark>WX.1.7[2]</shelfmark>
+				<notes>
+					<note> (state 3)</note>
+				</notes>
+			</holding>
+			<holding isSeen="false">
+				<holder>Sings</holder>
+				<notes>
+					<note> (state 4)</note>
+				</notes>
+			</holding>
+			<holding isSeen="false">
+				<holder>NcU</holder>
+				<shelfmark>GV1277.H89</shelfmark>
+				<notes>
+					<note> (state 3)</note>
+				</notes>
+			</holding>
+		</holdings>
+		<notes>
+			<note>For a discussion of the printing variants and how they are classified, see </note>
+			<note url="whist.1.p.1.1.xml">Whist.1.P.1.1</note>
+			<note rend="paragraph"></note>
+			<note>The state of the title page A2r is noted for each holding. Only the state 4 title page,
+				illustrated and transcribed here is s stated second editions. </note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation isHalfSheet="true">
+			<format>8</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>4</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>χ</sigStart>
+						<leaves>2</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>M</sigEnd>
+						<leaves>4</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>L2</sigRef>
+					</anomSignature>
+				</anomSignatures>
+			</collationFormula>
+			<totalLeaves>50</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<dupSeq>π</dupSeq>
+						<start>1</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>8</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>9</start>
+						<end>12</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<dupSeq>1</dupSeq>
+						<start>1</start>
+						<end>86</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>87</start>
+						<end>88</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+			<totalPages>100</totalPages>
+		</collation>
+		<titlePage titleType="halfTitle">
+			<titlePart>‘A SHORT | TREATISE | On the GAME of | WHIST.’</titlePart>
+		</titlePage>
+		<titlePage titleType="title" imageFN="whist.1.p.1.2">
+			<titlePart rend="roman">A SHORT | TREATISE | On the </titlePart>
+			<titlePart rend="smallcap">Game </titlePart>
+			<titlePart>of | WHIST. | CONTAINING | The LAWS of the GAME: | AND ALSO | Some </titlePart>
+			<titlePart rend="smallcap">Rules, </titlePart>
+			<titlePart rend="roman">whereby a Beginner may, | with due Attention to them,
+				attain to | the Playing it well. | </titlePart>
+			<titlePart rend="smallcap">Calculations </titlePart>
+			<titlePart rend="roman">for thoſe who will Bet the | Odds on any Point of the
+				Score of the | Game then playing and depending. | </titlePart>
+			<titlePart rend="smallcap">Cases </titlePart>
+			<titlePart rend="roman">ſtated, to ſhew what may be effected | by a very good
+				Player in Critical Parts | of the Game. | </titlePart>
+			<titlePart rend="smallcap">References </titlePart>
+			<titlePart rend="roman">to </titlePart>
+			<titlePart rend="smallcap">Cases, </titlePart>
+			<titlePart rend="italic">viz. </titlePart>
+			<titlePart rend="roman">at the End of | the Rule you are directed how to find
+				them. | </titlePart>
+			<titlePart rend="smallcap">Calculations, </titlePart>
+			<titlePart rend="roman">directing with moral Certainty, | how to play well any
+				Hand or Game, by ſhewing | the Chances of your Partner’s having | 1, 2, or 3
+				Certain Cards. | With Variety of Caſes </titlePart>
+			<titlePart rend="roman">added in the Appendix. | [rule] | </titlePart>
+			<titlePart rend="italic">By a </titlePart>
+			<titlePart rend="smallcap">Gentleman. | </titlePart>
+			<titlePart>[rule] | The SECOND EDITION | [double rule] | </titlePart>
+			<titlePart rend="smallcap">Bath </titlePart>
+			<titlePart> printed, and </titlePart>
+			<titlePart rend="smallcap">London </titlePart>
+			<titlePart>reprinted | For </titlePart>
+			<titlePart rend="smallcap">W. Webster </titlePart>
+			<titlePart>near St. </titlePart>
+			<titlePart rend="italic">Paul's, </titlePart>
+			<titlePart> and ſold by all the | Bookſellers and Pamphlet Shops in Town and
+				Country. | MDCCXLIII.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>π</dupSeqPage>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>half title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>π</dupSeqPage>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>π</dupSeqPage>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>π</dupSeqPage>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>π</dupSeqPage>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>π</dupSeqPage>
+						<pageRef>8</pageRef>
+					</pageTo>
+					<contentPart>‘[</contentPart>
+					<contentPart url="https://compositor.bham.ac.uk/ornaments/172735">headpiece</contentPart>
+					<contentPart>] | </contentPart>
+					<contentPart rend="smallcap">Advertisement. | </contentPart>
+					<contentPart>[letter from a Gentleman at Bath]’</contentPart>
+				</content>
+				<subject>
+					<subject1>Letter from a Gentleman at Bath</subject1>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>χ1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>π</dupSeqPage>
+						<pageRef>9</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>χ2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>π</dupSeqPage>
+						<pageRef>12</pageRef>
+					</pageTo>
+					<contentPart>‘[headpiece] | THE | CONTENTS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>χ1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>π</dupSeqPage>
+						<pageRef>10</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>χ2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>π</dupSeqPage>
+						<pageRef>12</pageRef>
+					</pageTo>
+					<RTPart>‘The Contents.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>M3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>86</pageRef>
+					</pageTo>
+					<contentPart>‘[</contentPart>
+					<contentPart url="https://compositor.bham.ac.uk/ornaments/172646">headpiece</contentPart>
+					<contentPart>] | A SHORT | TREATISE | On the GAME of | WHIST. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>M4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>87</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>M4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>88</pageRef>
+					</pageTo>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+		</sections>
+		<catchwords>
+			<catchword>
+				<sigRef>A3r</sigRef>
+				<dupSeqPage>π</dupSeqPage>
+				<pageRef>5</pageRef>
+				<cwFoot rend="italic">'vai,</cwFoot>
+				<cwHead rend="italic">vail</cwHead>
+			</catchword>
+			<catchword>
+				<sigRef>H4v</sigRef>
+				<pageRef>56</pageRef>
+				<cwFoot>CHAP-</cwFoot>
+				<cwHead>CHAP.</cwHead>
+			</catchword>
+		</catchwords>
+		<pressFigures>
+			<pressFigure>
+				<sigRef>C4r</sigRef>
+				<pageRef>15</pageRef>
+				<forme>o</forme>
+				<mark>3</mark>
+			</pressFigure>
+			<pressFigure>
+				<sigRef>E2v</sigRef>
+				<pageRef>28</pageRef>
+				<forme>o</forme>
+				<mark>3</mark>
+			</pressFigure>
+		</pressFigures>
+	</text>
+</entry>

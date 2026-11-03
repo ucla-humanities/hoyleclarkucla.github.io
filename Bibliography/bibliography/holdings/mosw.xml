@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\mosw.xml</fn><home>../index.xml</home></footer><id>MoSW</id><fn>mosw</fn><name>Olin Library, Washington University</name><location>St. Louis, Missouri</location><books><book><id>Beaufort.US.1.2</id><fn>../books/beaufort.us.1.2.xml</fn><shortTitle>Hoyle's Games Improved</shortTitle><shortImprint>printed for and sold by William Prichard</shortImprint><description>first American edition, New York issue</description><pubDate>1796</pubDate><shelfmarks><shelfmark>Spec GV1201.B38 1796b</shelfmark></shelfmarks></book></books></holder>

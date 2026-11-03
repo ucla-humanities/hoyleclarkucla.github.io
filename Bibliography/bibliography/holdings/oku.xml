@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\oku.xml</fn><home>../index.xml</home></footer><id>OkU</id><fn>oku</fn><name>University of Oklahoma</name><location>Norman, Oklahoma</location><books><book><id>GH.3</id><fn>../books/gh.3.xml</fn><shortTitle>Hoyle's Games Improved and Enlarged</shortTitle><shortImprint>Longman and Co. et al</shortImprint><description>third edition</description><pubDate>1847</pubDate><shelfmarks><shelfmark>1984007-1001</shelfmark></shelfmarks></book></books></holder>

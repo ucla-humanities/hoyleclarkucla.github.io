@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Piquet.1.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-08-11</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Piquet.1.1</idno>
+            <fn>books/piquet.1.1.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Piquet</shortTitle>
+            <shortImprint>printed for F. Cogan</shortImprint>
+            <description>first London edition</description>
+            <pubYear>1744</pubYear>
+            <pubDate>1744-01-11</pubDate>
+            <evidence>Stationers' Register</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            			<categoryID>10</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Francis</forename>
+                    <surname>Cogan</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Watts</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Daily Post</publication>
+                <pubDate>1744-01-12</pubDate>
+                <notes>
+                    <note>"This day is publish'd, price 2s. 6d." Advertised with </note>
+                    <note url="whist.4.xml">Whist.4</note>
+                    <note>, </note>
+                    <note url="laws.1.xml">Laws.1</note>
+                    <note>, </note>
+                    <note url="backgammon.1.xml">Backgammon.1</note>
+                    <note>, </note>
+                    <note url="memory.1.xml">Memory.1</note>
+                    <note>.</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="notice">
+                <publication>Gentleman's Magazine</publication>
+                <pubDate>1744-01</pubDate>
+                <notes>
+                    <note>(</note>
+                    <note url="http://books.google.com/books?id=e2DPAAAAMAAJ&amp;pg=PA56">Google</note>
+                    <note>)</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="notice">
+                <publication>The Scots Magazine</publication>
+                <pubDate>1744-01</pubDate>
+                <notes>
+                    <note>(p52)</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>2</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T48220</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>779</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>15</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>ABu</holder>
+                <shelfmark>In SB 7951 Hoy</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>1040.b.40(1)</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>12 Theta 1318(4)</shelfmark>
+                <idno>Cogan.D</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>G.Pamph.1311(6)</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.543(4)</shelfmark>
+                <idno>Cogan.D</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.580(1)</shelfmark>
+                <idno>Cogan.D</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.581</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.582</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1295.P7.H69 1744</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>SAN</holder>
+                <shelfmark>GV1241.H6</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Sings</holder>
+            </holding>
+            <holding isSeen="false">
+                <holder>CtY-BR</holder>
+                <shelfmark>NLp89.P7 744h</shelfmark>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>IU</holder>
+                <shelfmark>795.41 H85S</shelfmark>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>InU-Li</holder>
+                <shelfmark>GV1277.H89 1743</shelfmark>
+                <idno>Cogan.C</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="false">
+                <holder>KU-S</holder>
+                <shelfmark>B3393</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>1744-01-11: Entered at Stationers' Hall in the names of Edmond Hoyle and Francis
+                Cogan.</note>
+            <note rend="paragraph"></note>
+            <note>In some copies, leaf C10 (pages 43-44) is cancelled. There is no textual
+                difference between the cancelled and uncancelled leaf, so possible the correction
+                was made in the press and only earlier copies were cancelled. </note>
+
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>D</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>E</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>E3</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>E4</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>42</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>79</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>80</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>A SHORT | TREATISE | On the GAME of | PIQUET. | Directing with Moral
+                Certainty how to Diſ-|card any Hand to Advantage, by ſhewing | the Chances
+                of taking in any one, two, | three, four, or five certain Cards. | </titlePart>
+            <titlePart rend="smallcap">Computations </titlePart>
+            <titlePart>for thoſe who Bet their | Money at the Game. | Alſo the </titlePart>
+            <titlePart rend="smallcap">Laws </titlePart>
+            <titlePart>of the </titlePart>
+            <titlePart rend="smallcap">Game. | </titlePart>
+            <titlePart>To which are added, | Some </titlePart>
+            <titlePart rend="smallcap">Rules </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">Observations </titlePart>
+            <titlePart>for playing | well at </titlePart>
+            <titlePart rend="smallcap">Chess. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmund Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[double rule] | LONDON: | Printed for </titlePart>
+            <titlePart rend="smallcap">F. Cogan </titlePart>
+            <titlePart>at the | </titlePart>
+            <titlePart rend="italic">Middle-Temple-Gate. </titlePart>
+            <titlePart>1744. | Price Two Shilling and Six Pence.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/1171955">headpiece</contentPart>
+                    <contentPart>] | </contentPart>
+                    <contentPart rend="smallcap">Contents </contentPart>
+                    <contentPart>for </contentPart>
+                    <contentPart rend="smallcap">Piquet. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/1171759">headpiece</contentPart>
+                    <contentPart>] | </contentPart>
+                    <contentPart rend="smallcap">Contents </contentPart>
+                    <contentPart>for </contentPart>
+                    <contentPart rend="smallcap">Chess. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>54</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | A TREATISE | On the GAME of PIQUET. |
+                        [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>54</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A Treatiſe on </RTPart>
+                    <RTPart rend="smallcap">Piquet.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Stationers' Hall</subject1>
+                    <subject2>entered at</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>55</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>79</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/1171998">headpiece</contentPart>
+                    <contentPart>] | SOME | </contentPart>
+                    <contentPart rend="smallcap">Rules </contentPart>
+                    <contentPart rend="italic">and </contentPart>
+                    <contentPart rend="smallcap">Observations | </contentPart>
+                    <contentPart>FOR | </contentPart>
+                    <contentPart rend="italic">Playing well at </contentPart>
+                    <contentPart>CHESS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>D4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>56</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>79</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Rules and Obſervations | for playing at </RTPart>
+                    <RTPart>CHESS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Chess</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>80</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

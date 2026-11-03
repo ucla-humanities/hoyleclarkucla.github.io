@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+	<fileDesc>
+		<title>Withy.Whist.B.1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2024-05-11</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Withy.Whist.B.1</idno>
+			<fn>books/withy.whist.b.1.xml</fn>
+			<shortTitle>Short Standing Rules for Whist</shortTitle>
+			<description>first London edition</description>
+			<pubYear>1785</pubYear>
+			<pubDate>1785-02-14</pubDate>
+			<evidence>Stationers' Register</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>30</categoryID>
+			<workID>7</workID>
+			<subWorkID>2</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Withy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>John</forename>
+					<surname>Wallis</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Morning Herald and Daily Advertiser</publication>
+				<pubDate>1782-01-26</pubDate>
+				<notes>
+					<note>"Puff oblique. I tell you whist is the fashionable game! This day is
+						published, price only 3d. or 2s. a dozen. A present for grown masters and
+						misses this new year. Hoyle Abridged; or Short Standing Rules for Short
+						Memories, at the Game of Whist. By Bob Short. With the laws of the game as
+						played at White's, and all public places, Printed for the benefit of private
+						families, to prevent scolding, and sold by the author at Baker's
+						Coffee-house, 'Change-allay; at Mess. Richardson and Urquhart's, under the
+						Royal Exchange; Mr. Wilkie in St. Paul's Church-yard; Mr. Bell in the Strand;
+						Mr. Fourdrinier, Charing-cross; Mr. Debrett, Piccadilly; and all other
+						bookskellers and stationers that know their own interest and pursue
+						it."</note>
+					<note rend="break"></note>
+				</notes>
+			</periodicalReference>
+			<periodicalReference periodicalType="notice">
+				<publication>Gentleman's Magazine</publication>
+				<pubDate>1785-05</pubDate>
+				<notes>
+					<note>Catalogue of New Publications, page 384:  Bob Short's Game of Whist, 3d. Wilkie. (</note>
+					<note url="https://books.google.com/books?id=lBU4AAAAYAAJ">Google Books</note>
+					<note>)</note>
+				</notes>
+			</periodicalReference>
+			<periodicalReference periodicalType="advertisement">
+				<publication>The Times</publication>
+				<pubDate>1788-01-01</pubDate>
+				<notes>
+					<note>This day is published, price fourpence, or four for a shilling, to give away. Bob Short's Rules at the Game of Whist, improved by the addition of the laws of whist, as now played at Brookes, Bath, &amp;c. Printed for John Wallis, No. 16, Ludgate-street."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>3</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+				<evidence>notice</evidence>
+			</price>
+			<price>
+				<priceComponent>
+					<amount>4</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<notes>
+			<note>This is the work that Robert Withy entered at Stationers' Hall on
+				February 14, 1785 as "A present for grown Masters &amp; Misses. Hoyle Abridged or short Standing Rules for short Memories at the Game of Whist with the laws of the Game.  by Bob
+				Short." It appears to have been advertised as early as January, 1782. No early copies survive, but see </note>
+			<note url="withy.whist.b.2.xml">Withy.B.2</note><note> (1790?), with its twenty four laws of whist, seems to be an extract. It seems likely that the text was incorporated into </note>
+			<note url="jones.3.xml">Jones.3</note>
+			<note> (1785-12-08). Interestingly, John Wilkie, one of the booksellers on the imprint of Jones.3, signed the entry in the Stationers' book of registry on behalf of the Company.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<sections>
+			<section>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+				<subject>
+					<subject1>Stationers' Hall</subject1>
+					<subject2>entered at</subject2>
+				</subject>
+			</section>
+		</sections>
+	</text>
+</entry>

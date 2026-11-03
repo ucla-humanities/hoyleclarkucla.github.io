@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Jones.6</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-04-29</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.6</idno>
+            <fn>books/jones.6.xml</fn>
+            <shortTitle>Hoyle's Games Improved</shortTitle>
+            <shortImprint>printed by M. Ritchie for R. Baldwin et al</shortImprint>
+            <description>sixth London edition</description>
+            <pubYear>1800</pubYear>
+            <pubDate>1800-05-15</pubDate>
+            <evidence>Longman Archives</evidence>
+            <edition>6</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <copiesPrinted>3000</copiesPrinted>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <respGroup seq="2">Baldwin</respGroup>
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Baldwin I</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Payne</respGroup>
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Payne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lowndes</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Wilkie</respGroup>
+                <persName>
+                    <forename>George</forename>
+                    <surname>Wilkie</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Scatcherd</respGroup>
+                <persName>
+                    <forename>James</forename>
+                    <surname>Scatcherd</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Longman</respGroup>
+                <orgName>Longman and Rees</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Newbery</respGroup>
+                <persName>
+                    <forename>Elizabeth</forename>
+                    <surname>Newbery</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Stewart</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Lee</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Hurst</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Joseph</forename>
+                    <surname>Mawman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Millar</forename>
+                    <surname>Ritchie</surname>
+                </persName>
+                <evidence>colophon</evidence>
+                <evidence>Longman Archives</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>The Star</publication>
+                <pubDate>1802-01-05</pubDate>
+                <notes>
+                    <note>Lately published, in 12mo. price 4s. bound, an new edition of Jones's
+                        Hoyle's Games Improved...The Essay on Game-Cocks, separate, price 6d. sewed
+                    </note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>4</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+                <evidence>title</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T87524</idno>
+            </bibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>738</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>921</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>80</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>BFl</holder>
+                <shelfmark>I.795/HOYL (b1124803)</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>1040.b.32</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.599</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Murray f.21</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Copisarow</holder>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.H69 1800</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H G0J</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1227.J7 1800 c.1</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1227.J7 1800 c.2</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1988</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>C</holder>
+                <shelfmark>8400.d.6</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Gu</holder>
+                <shelfmark>Mu56-g.4</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>HAG</holder>
+                <shelfmark>KW 972 F 34</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CaBVa</holder>
+                <shelfmark>790.1 H86g</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CaOHM</holder>
+                <shelfmark>B18178</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CaQMM</holder>
+                <shelfmark>GV1241.H69 1800 RBD</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CtY-BA</holder>
+                <shelfmark>GV1199.H78 1800</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>InNd</holder>
+                <shelfmark>GV1241.H62 1800</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LU</holder>
+                <shelfmark>GV1243.H854 1800</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NjP</holder>
+                <shelfmark>42845.479.121</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>AuANL</holder>
+                <shelfmark>790 HOY</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>AuANL</holder>
+                <shelfmark>RB CLI 1105</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>AuVSL</holder>
+                <shelfmark>793 H852H (1800)</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>O</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>P</sigStart>
+                        <leaves>10</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1,5</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>168</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>5</start>
+                        <end>332</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="jones.6">
+            <titlePart rend="italic">HOYLE'S | </titlePart>
+            <titlePart>GAMES | IMPROVED | CONSISTING OF PRACTICAL TREATISES ON | [12 lines
+                to left of double rule] WHIST | QUADRILLE | PIQUET | CHESS | BACK-GAMMON |
+                DRAUGHTS | CRICKET | TENNIS | QUINZE | VINGT-UN | HAZARD | LANSQUENET | 
+                [twelve lines to right of double rule] BILLIARDS | FARO OR PHARO | ROUGE
+                &amp; NOIR | CRIBBAGE | MATRIMONY | CASSINO | GOFF OR GOLF | CONNEXIONS |
+                REVERSIS | PUT | ALL-FOURS AND | SPECULATION | </titlePart>
+            <titlePart rend="italic">With an Eſſay on Game Cocks; | </titlePart>
+            <titlePart>WHEREIN ARE COMPRISED | </titlePart>
+            <titlePart rend="smallcap">Calculations </titlePart>
+            <titlePart>for </titlePart>
+            <titlePart rend="smallcap">Betting </titlePart>
+            <titlePart>upon | equal or advantageous Terms. | [reverse oxford rule] | Reviſed and
+                Corrected by CHARLES JONES, Eſq. | A NEW EDITION CONSIDERABLY ENLARGED. |
+                [oxford rule] | LONDON: | </titlePart>
+            <titlePart>Printed by </titlePart>
+            <titlePart rend="smallcap">M. Ritchie, </titlePart>
+            <titlePart>Middle Street, Cloth Fair, | For </titlePart>
+            <titlePart rend="smallcap">R. Baldwin, T. Payne, W. Lowndes, G. Wilkie, J. |
+                Scatcherd, Longman </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">Rees, E. Newbery, W. Stewart, | J. Lee, T. Hurst, </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">J. Mawman. | </titlePart>
+            <titlePart>[short rule] | 1800. | [short rule] | Price four Shillings
+                bound.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>‘☞This work being printed on paper marked agreeable | to the act,
+                        the exporter thereof will be entitled to | the drawback.’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Paper</subject1>
+                    <subject2>drawback</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <contentPart>‘CONTENTS | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <contentPart>‘THE GAME OF SPECULATION. | [...] | [inverted] ⁂ The Binder is to
+                        put the plate after page 256.’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Speculation</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>2</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE | GAME OF WHIST. | [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B2r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>3</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="italic">Twenty-four ſhort Rules for Learners. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="italic">Methods of Scoring at Whist. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>57</pageRef>
+                    </pageTo>
+                    <contentPart rend="smallcap"/>
+                    <contentPart>‘MR. HOYLE'S GAME AT WHIST. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D11r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>69</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF WHIST.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>57</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D11v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>70</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart>MR. PAYNE'S MAXIMS FOR WHIST. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Dummy Whist</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D11v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>70</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>88</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | MR. HOYLE'S GAME OF QUADRILLE. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>D11v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>70</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>87</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF QUADRILLE.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Quadrille</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>88</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E12r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>95</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF PIQUET | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>E8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>88</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F10r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>115</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF PIQUET.’</RTPart>
+                </RT>
+                <subject>
+                    <subject1>Piquet</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E12r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>95</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F9r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>113</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | MR. HOYLE'S GAME OF PIQUET. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>F9r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>113</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F10v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>116</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | LAWS OF THE GAME OF PIQUET. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>F10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>116</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F11v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>118</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF CHESS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>F10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>116</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>168</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF CHESS.’</RTPart>
+                </RT>
+                <subject>
+                    <subject1>Chess</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>F11v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>118</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>127</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | MR. HOYLE'S RULES FOR CHESS. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Chess</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>127</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | THE LAWS OF CHESS. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>128</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>169</pageRef>
+                    </pageTo>
+                    <contentPart>‘SELECT GAMES AT CHESS. | [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Chess</subject1>
+                    <subject2>Philidor on</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>169</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>170</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF BACK-GAMMON. | [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Backgammon</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>170</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>193</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="smallcap">Mr. </contentPart>
+                    <contentPart>HOYLE's | TREATISE OF BACK-GAMMON. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>I1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>169</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>193</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF BACK-GAMMON.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Backgammon</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>K1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>194</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>221</pageRef>
+                    </pageTo>
+                    <contentPart rend="smallcap">‘Mr. </contentPart>
+                    <contentPart>PAYNE's GAME OF DRAUGHTS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>K1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>194</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>220</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF DRAUGHTS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Draughts</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Draughts</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>221</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>224</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE LAWS OF CRICKET. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>L3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>221</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>223</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF CRICKET.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Cricket</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Cricket</subject1>
+                    <subject2>laws of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>224</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>228</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF TENNIS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>L4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>224</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>228</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF TENNIS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Tennis</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>229</pageRef>
+                    </pageFrom>
+                    <contentPart>‘THE GAME OF QUINZE. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Quinze</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>229</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>231</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF VINGT-UN. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>L7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>229</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>230</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF VINGT-UN.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Vingt-Un</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>231</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L10r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>235</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF HAZARD. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>L8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>231</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>234</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF HAZARD.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Hazard</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L10r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>235</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L10v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>236</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF LANSQUENET. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>L10r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>235</pageRef>
+                    </pageFrom>
+                    <RTPart>‘THE GAME OF LANSQUENET.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Lansquenet</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>236</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>274</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | MR. DEW'S GAME OF BILLIARDS | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>L10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>236</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>274</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF BILLIARDS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Billiards</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Billiards</subject1>
+                    <subject2>Dew on</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>N6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>275</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>282</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE GAME OF FARO. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>N6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>275</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>282</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF FARO.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Faro</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>N10r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>283</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N11v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>286</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE GAME OF ROUGE ET NOIR | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>N10r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>283</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N11r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>285</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF ROUGE ET NOIR.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Rouge et Noir</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>N11v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>286</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>295</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF CRIBBAGE. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>N11v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>286</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>294</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF CRIBBAGE.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Cribbage</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>295</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>296</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF MATRIMONY. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>295</pageRef>
+                    </pageFrom>
+                    <RTPart>‘THE GAME OF MATRIMONY.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Matrimony</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>296</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>299</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF CASSINO. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>296</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>298</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF CASSINO.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Cassino</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>299</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O7r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>301</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF GOFF, OR GOLF. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>299</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>300</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF GOFF, OR GOLF.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Golf</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>301</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | THE GAME OF CONNEXIONS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>301</pageRef>
+                    </pageFrom>
+                    <RTPart>‘THE GAME OF CONNEXIONS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Connexions</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>302</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>306</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE GAME OF REVERSIS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>302</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O9r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>305</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF REVERSIS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Reversis</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O9v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>306</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O10r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>307</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF PUT. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O9v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>306</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O10r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>307</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE GAME OF PUT.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Put</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>308</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O11r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>309</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE GAME OF ALL-FOURS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>308</pageRef>
+                    </pageFrom>
+                    <RTPart>‘THE GAME OF ALL-FOURS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>All Fours</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O11r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>309</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>P10v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>332</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | TREATISE ON GAME-COCKS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O11r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>309</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>P2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>316</pageRef>
+                    </pageTo>
+                    <RTPart>‘TREATISE ON GAME COCKS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Game Cocks</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Game Cocks</subject1>
+                    <subject2>Directions for Breeding</subject2>
+                </subject>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>P3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>317</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>P4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>319</pageRef>
+                    </pageTo>
+                    <RTPart>‘ORDERS, &amp;C. FOR COCKING.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>P4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>320</pageRef>
+                    </pageFrom>
+                    <RTPart>‘ARTICLES FOR A COCK MATCH.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>P5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>321</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>P5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>322</pageRef>
+                    </pageTo>
+                    <RTPart>‘KEY TO A MATCH BILL.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>P6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>323</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>P8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>327</pageRef>
+                    </pageTo>
+                    <RTPart>‘CALCULATIONS FOR COCKING.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>P10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>332</pageRef>
+                    </pageFrom>
+                    <contentPart>colophon</contentPart>
+                </content>
+            </section>
+        </sections>
+        <plates>
+            <plate>
+                <plateRelation>on</plateRelation>
+                <sigRef>I1r</sigRef>
+                <pageRef>169</pageRef>
+                <plateType>woodblock</plateType>
+                <notes>
+                    <note>a backgammon board showing the starting position</note>
+                </notes>
+            </plate>
+            <plate>
+                <plateRelation>on</plateRelation>
+                <sigRef>K1v</sigRef>
+                <pageRef>194</pageRef>
+                <plateType>woodblock</plateType>
+                <notes>
+                    <note>the draught table</note>
+                </notes>
+            </plate>
+            <plate>
+                <plateRelation>after</plateRelation>
+                <sigRef>M8v</sigRef>
+                <pageRef>256</pageRef>
+                <plateType>copperplate</plateType>
+                <notes>
+                    <note>bifolium with engravings </note>
+                    <note rend="italic">Plan of Fortification Billiards </note>
+                    <note>and </note>
+                    <note rend="italic">Perspective View of Fortification Billiards.</note>
+                </notes>
+            </plate>
+            <plate>
+                <plateRelation>on</plateRelation>
+                <sigRef>N10r</sigRef>
+                <pageRef>283</pageRef>
+                <plateType>woodblock</plateType>
+                <notes>
+                    <note>a tapis or cloth covering the Rouge et Noir table</note>
+                </notes>
+            </plate>
+        </plates>
+        <pressFigures>
+            <pressFigure>
+                <sigRef>H6r</sigRef>
+                <pageRef>155</pageRef>
+                <forme>i</forme>
+                <mark>3</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>H7r</sigRef>
+                <pageRef>157</pageRef>
+                <forme>o</forme>
+                <mark>4</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>I7v</sigRef>
+                <pageRef>182</pageRef>
+                <forme>i</forme>
+                <mark>4</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>I12v</sigRef>
+                <pageRef>192</pageRef>
+                <forme>o</forme>
+                <mark>3</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>L5v</sigRef>
+                <pageRef>226</pageRef>
+                <forme>i</forme>
+                <mark>4</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>L7r</sigRef>
+                <pageRef>229</pageRef>
+                <forme>o</forme>
+                <mark>3</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>M2r</sigRef>
+                <pageRef>243</pageRef>
+                <forme>i</forme>
+                <mark>4</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>M6v</sigRef>
+                <pageRef>252</pageRef>
+                <forme>o</forme>
+                <mark>3</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>N7r</sigRef>
+                <pageRef>277</pageRef>
+                <forme>o</forme>
+                <mark>4</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>N12r</sigRef>
+                <pageRef>287</pageRef>
+                <forme>i</forme>
+                <mark>3</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>P2r</sigRef>
+                <pageRef>315</pageRef>
+                <forme>i</forme>
+                <mark>4</mark>
+            </pressFigure>
+        </pressFigures>
+        <colophon>
+            <notes>
+                <note>‘RITCHIE, PRINTER, CLOTH FAIR.'</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

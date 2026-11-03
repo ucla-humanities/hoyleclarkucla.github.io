@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Polite.1.3</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-01-28</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Polite.1.3</idno>
+            <fn>books/polite.1.3.xml</fn>
+            <shortTitle>The Polite Gamester</shortTitle>
+            <shortImprint>printed by J. Hoey</shortImprint>
+            <description>first Dublin edition, third issue</description>
+            <pubYear>1783</pubYear>
+            <pubDate>1783</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>3</issue>
+            <categoryID>60</categoryID>
+            <workID>10</workID>
+            <subWorkID>90</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Hoey</respGroup>
+                <persName>
+                    <forename>Jane</forename>
+                    <surname>Hoey</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Ewing</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>N40437</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>815</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>62</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F83D</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1924</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NjP</holder>
+                <shelfmark>42845.475.3</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>π</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>C</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>D</sigStart>
+                        <leaves>12</leaves>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>D6</sigRef>
+                        </alteration>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>D11</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>E</sigStart>
+                        <leaves>12</leaves>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>E9</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>F</sigStart>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>G</sigStart>
+                        <leaves>12</leaves>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>G3</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>H</sigStart>
+                        <leaves>12</leaves>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>H5</sigRef>
+                        </alteration>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>H12</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>I</sigStart>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>K</sigStart>
+                        <leaves>12</leaves>
+                        <alteration>
+                            <alterationType>+</alterationType>
+                            <sigRef>K12</sigRef>
+                            <count>1</count>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>A3</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>A4</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>C3</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>C4</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>C5</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>D3</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>D4</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>D5</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>E5</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>G3</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>H5</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>114</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>10</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>58</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>59</start>
+                        <end>61</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>62</start>
+                        <end>68</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>69</start>
+                        <end>71</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>72</start>
+                        <end>88</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>89</start>
+                        <end>91</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>92</start>
+                        <end>123</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>124</start>
+                        <end>127</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>128</start>
+                        <end>151</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>152</start>
+                        <end>155</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>156</start>
+                        <end>166</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>167</start>
+                        <end>171</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>172</start>
+                        <end>217</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>218</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="polite.1.3">
+            <titlePart>THE | Polite Gameſter: | CONTAINING, | SHORT TREATISES | On the GAMES
+                of | [3 lines to left of rule] WHIST, with an | ARTIFICIAL | MEMORY, | [3
+                lines to right of rule] QUADRILLE, | BACK-GAMMON, | PIQUET and CHESS. |
+                TOGETHER WITH AN | ESSAY | TOWARDS MAKING THE | DOCTRINE of CHANCES | </titlePart>
+            <titlePart rend="smallcap">Easy </titlePart>
+            <titlePart>to thoſe who underſtand </titlePart>
+            <titlePart rend="smallcap">Vulgar | Arithmetic </titlePart>
+            <titlePart>only. | To which are added, | Some Uſeful TABLES on </titlePart>
+            <titlePart rend="smallcap">Annuities </titlePart>
+            <titlePart>for | </titlePart>
+            <titlePart rend="smallcap">Lives, </titlePart>
+            <titlePart rend="italic">&amp;c. &amp;c. &amp;c. | </titlePart>
+            <titlePart>[rule] | By EDMOND HOYLE, Gent. | [rule] | DUBLIN: | PRINTED by J.
+                HOEY, No. 19, Parliament-Street | M,DCC,LXXXIII.</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Artifical Memory">
+            <titlePart>AN | Artificial Memory. | OR, AN | EASY METHOD | OF | Aſſiſting the </titlePart>
+            <titlePart rend="smallcap">Memory </titlePart>
+            <titlePart>of thoſe that | play at the Game of </titlePart>
+            <titlePart rend="smallcap">Whist. | </titlePart>
+            <titlePart>To which are added, | Several Caſes not hitherto Publiſhed. | [rule]
+                | By EDMOND HOYLE, Gent. | [rule] | DUBLIN: | PRINTED by J. HOEY, No. 19,
+                Parliament-Street. | M,DCC,LXXXIII.</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Quadrille">
+            <titlePart>A SHORT | TREATISE | ON THE GAME OF | QUADRILLE. | SHEWING, | The
+                Odds of winning or loſing moſt Games | that are commonly played; either by
+                calling | a King, or by playing </titlePart>
+            <titlePart rend="italic">Sans Prendre. | </titlePart>
+            <titlePart>To which are added, | The LAWS of the GAME. | [rule] | By EDMOND
+                HOYLE, Gent. | [rule] | DUBLIN: | PRINTED by J. HOEY, No. 19,
+                Parliament-Street. | M,DCC,LXXXIII.</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Backgammon">
+            <titlePart rend="roman">A SHORT | TREATISE | On the GAME of | </titlePart>
+            <titlePart rend="italic">Back-Gammon. | </titlePart>
+            <titlePart>CONTAINING, | [12 lines to left of rule] A TABLE of the thirty-ſix |
+                Chances, with Directions | how to find out the Odds of | being hit, upon
+                ſingle, or | double Dice. | Rules whereby a Beginner | may, with due
+                Attention | to them, attain playing it | well. | The ſeveral Stages for
+                carrying | your Men home, in order | to loſe no Point. | [12 lines to right of
+                rule] How to find out who is for-|wardeſt to win a Hit. | Caſes ſtated for
+                Back-Games, | with Directions how to play | for one. | Caſes ſtated, how to
+                know | when you may have the | better of ſaving a Gammon | by running. |
+                Variety of Caſes of Curioſity | and Inſtruction. | The Laws of the Game. |
+                [rule] | By EDMOND HOYLE, Gent. | [rule] | [orn] | DUBLIN: | PRINTED by J.
+                HOEY, No. 19, Parliament-Street. | M,DCC,LXXXIII.</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Piquet">
+            <titlePart>A | TREATISE | ON THE GAME OF | PIQUET. | [rule] | By EDMOND HOYLE,
+                Gent. | [rule] | [orn] | DUBLIN: | PRINTED by J. HOEY, No. 19,
+                Parliament-Street. | M,DCC,LXXXIII.</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Chess">
+            <titlePart>SOME | RULES | AND | OBSERVATIONS | FOR PLAYING WELL AT | CHESS. |
+                DUBLIN: | PRINTED by J. HOEY, No. 19, Parliament-Street. |
+                M,DCC,LXXXIII.</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Doctrine of Chances">
+            <titlePart>AN | ESSAY | TOWARDS MAKING THE | DOCTRINE | OF | CHANCES | </titlePart>
+            <titlePart rend="smallcap">Easy </titlePart>
+            <titlePart>to thoſe who underſtand </titlePart>
+            <titlePart rend="smallcap">Vulgar | Arithmetic </titlePart>
+            <titlePart>only. | To which are added, | Some Uſeful TABLES on </titlePart>
+            <titlePart rend="smallcap">Annuities </titlePart>
+            <titlePart>for | </titlePart>
+            <titlePart rend="smallcap">Lives, </titlePart>
+            <titlePart rend="italic">&amp;c. &amp;c. &amp;c.| </titlePart>
+            <titlePart>[rule] | By EDMOND HOYLE, Gent. | [rule] | DUBLIN: | PRINTED by J.
+                HOEY, No. 19, Parliament-Street. | M,DCC,LXXXIII.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="polite.5.1.xml">Polite.5.1</contentPart>
+                    <contentPart> (1772)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A4r</sigRef>
+                    </sigTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="polite.5.1.xml">Polite.5.1</RTPart>
+                    <RTPart> (1772)</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>58</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="polite.5.1.xml">Polite.5.1</contentPart>
+                    <contentPart> (1772)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>58</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="polite.5.1.xml">Polite.5.1</RTPart>
+                    <RTPart> (1772)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>59</pageRef>
+                    </pageFrom>
+                    <contentPart>section title Artificial Memory</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>60</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>61</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D10v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>68</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="polite.5.1.xml">Polite.5.1</contentPart>
+                    <contentPart> (1772)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>D7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>62</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D10v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>68</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="polite.5.1.xml">Polite.5.1</RTPart>
+                    <RTPart> (1772)</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D11r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>69</pageRef>
+                    </pageFrom>
+                    <contentPart>title page quadrille</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D11v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>70</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D12r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>71</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>88</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="polite.5.1.xml">Polite.5.1</contentPart>
+                    <contentPart> (1772)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>D12v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>72</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>87</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="polite.5.1.xml">Polite.5.1</RTPart>
+                    <RTPart> (1772)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E9r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>89</pageRef>
+                    </pageFrom>
+                    <contentPart rend="roman">title page backgammon</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E9v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>90</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E10r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>91</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>124</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="polite.5.1.xml">Polite.5.1</contentPart>
+                    <contentPart> (1772)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>E10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>92</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>124</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="polite.5.1.xml">Polite.5.1</RTPart>
+                    <RTPart> (1772)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Backgammon</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>125</pageRef>
+                    </pageFrom>
+                    <contentPart>section title piquet</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>126</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>127</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>152</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="polite.5.1.xml">Polite.5.1</contentPart>
+                    <contentPart> (1772)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>G4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>128</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>151</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="polite.5.1.xml">Polite.5.1</RTPart>
+                    <RTPart> (1772)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>153</pageRef>
+                    </pageFrom>
+                    <contentPart>section title chess</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>154</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>155</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H11v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>166</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="polite.5.1.xml">Polite.5.1</contentPart>
+                    <contentPart> (1772)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>H6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>156</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H11v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>166</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="polite.5.1.xml">Polite.5.1</RTPart>
+                    <RTPart> (1772)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Chess</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H12r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>167</pageRef>
+                    </pageFrom>
+                    <contentPart>section title doctrine of chances</contentPart>
+                </content>
+                <subject>
+                    <subject1>Chances</subject1>
+                    <subject2>Doctrine of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H12v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>168</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>169</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K12+1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>218</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="polite.5.1.xml">Polite.5.1</contentPart>
+                    <contentPart> (1772)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>I2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>172</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K12+1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>217</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="polite.5.1.xml">Polite.5.1</RTPart>
+                    <RTPart> (1772)</RTPart>
+                </RT>
+            </section>
+        </sections>
+    </text>
+</entry>

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Jones.6-1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-05-12</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.6-1</idno>
+            <fn>books/jones.6-1.xml</fn>
+            <shortTitle>Directions for Breeding Game Cocks</shortTitle>
+            <shortImprint>printed by M. Ritchie for R. Baldwin et al</shortImprint>
+            <description>extracted from sixth London edition</description>
+            <pubYear>1800</pubYear>
+            <pubDate>1800-05-15</pubDate>
+            <evidence>Longman Archives</evidence>
+            <edition>6</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <copiesPrinted>500</copiesPrinted>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <respGroup seq="2">Baldwin</respGroup>
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Baldwin I</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Payne</respGroup>
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Payne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lowndes</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Wilkie</respGroup>
+                <persName>
+                    <forename>George</forename>
+                    <surname>Wilkie</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Scatcherd</respGroup>
+                <persName>
+                    <forename>James</forename>
+                    <surname>Scatcherd</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Longman</respGroup>
+                <orgName>Longman and Rees</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Newbery</respGroup>
+                <persName>
+                    <forename>Elizabeth</forename>
+                    <surname>Newbery</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Stewart</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Lee</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Hurst</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Joseph</forename>
+                    <surname>Mawman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Millar</forename>
+                    <surname>Ritchie</surname>
+                </persName>
+                <evidence>colophon</evidence>
+                <evidence>Longman Archives</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>St. James's Chronicle or the British Evening Post</publication>
+                <pubDate>1802-01-21</pubDate>
+                <notes>
+                    <note>Lately published, in 12mo. price 4s. bound, an enlarged edition of Jones's
+                        Hoyle's Games Improved...☞The Essay on Game-Cocks, separate, price 6d.
+                    </note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T493573</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>RB.23.a.35281</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>A partial reprint of ESTC </note>
+            <note url="http://datb.cerl.org/estc/T33013">T33013</note>
+            <note rend="italic">, Directions for Breeding Game Cocks</note>
+            <note>, printed by the Etheringtons for J. MacGowan, 1780. </note>
+            <note rend="paragraph"/>
+            <note>The running titles are out of synch with the text, likely becuase the type has
+                been rearranged from the last section of </note>
+            <note url="jones.6.xml">Jones.6</note>
+            <note>.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="false">
+                        <sigStart>C</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$5</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>14</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>5</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>6</start>
+                        <end>28</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="halfTitle">
+            <titlePart rend="italic">DIRECTIONS | </titlePart>
+            <titlePart>FOR | BREEDING GAME COCKS. | [reverse oxford rule] | SECOND EDITION. |
+                [oxford rule]</titlePart>
+        </titlePage>
+        <titlePage titleType="title">
+            <titlePart>DIRECTIONS | FOR | </titlePart>
+            <titlePart rend="italic">Breeding | </titlePart>
+            <titlePart>GAME-COCKS | INCLUDING THE | METHODS OF TREATING THEM | </titlePart>
+            <titlePart rend="italic">From the Time they are Hatched, till fit to fight: | </titlePart>
+            <titlePart>Beſides Articles for a Match; Key to a Match Bill; Rules and | Orders
+                as abided by at the Cock-Pit Royal | WITH | CALCULATIONS FOR BETTING. |
+                [oxford rule] | </titlePart>
+            <titlePart rend="italic">A NEW EDITION. | </titlePart>
+            <titlePart>[reverse oxford rule] | LONDON: | </titlePart>
+            <titlePart>Printed by </titlePart>
+            <titlePart rend="smallcap">M. Ritchie, </titlePart>
+            <titlePart>Middle Street, Cloth Fair, | </titlePart>
+            <titlePart rend="smallcap">For R. Baldwin, T. Payne, W. Lowndes, G. Wilkie, J. |
+                Scatcherd, Longman </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">Rees, E. Newbery, W. Stewart, | J. Lee, T. Hurst, </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">J. Mawman. | </titlePart>
+            <titlePart>[short rule] | 1800. | [short rule]</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>half title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>engraved copperplate</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>28</pageRef>
+                    </pageTo>
+                    <contentPart>‘[oxford rule] | TREATISE ON GAME-COCKS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>6</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>14</pageRef>
+                    </pageTo>
+                    <RTPart>‘TREATISE ON GAME COCKS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Game Cocks</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>B6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>13</pageRef>
+                    </pageFrom>
+                    <RTPart>‘ORDERS, &amp;C. FOR COCKING.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>15</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>17</pageRef>
+                    </pageTo>
+                    <RTPart>‘ORDERS, &amp;C. FOR COCKING.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>B7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>16</pageRef>
+                    </pageFrom>
+                    <RTPart>‘CALCULATIONS FOR COCKING.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>18</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B9r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>19</pageRef>
+                    </pageTo>
+                    <RTPart>‘KEY TO A MATCH BILL.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B9v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>20</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B11v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>24</pageRef>
+                    </pageTo>
+                    <RTPart>‘CALCULATIONS FOR COCKING.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>B9v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>20</pageRef>
+                    </pageFrom>
+                    <RTPart>‘ARTICLES FOR A COCK MATCH.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content isOn="true">
+                    <sigFrom>
+                        <sigRef>C1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>28</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | EXPLANATION OF THE PLATE. | [...] | [colophon]’</contentPart>
+                </content>
+            </section>
+        </sections>
+        <plates>
+            <plate>
+                <plateRelation>on</plateRelation>
+                <sigRef>A1v</sigRef>
+                <pageRef>2</pageRef>
+                <plateType>copperplate</plateType>
+                <notes>
+                    <note>engraving of two cocks fighting</note>
+                </notes>
+            </plate>
+        </plates>
+        <colophon>
+            <notes>
+                <note>‘RITCHIE, PRINTER, CLOTH FAIR.'</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

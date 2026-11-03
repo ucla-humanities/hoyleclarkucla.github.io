@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Ru.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-09-10</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Ru.2</idno>
+            <fn>books/whist.ru.2.xml</fn>
+            <shortTitle>Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>St. Petersburg</shortImprint>
+            <description>second edition in Russian</description>
+            <pubYear>1791</pubYear>
+            <pubDate>1791</pubDate>
+            <evidence>title</evidence>
+            <edition>2</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>70</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>ru</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="false">
+                <holder>RUMoLSU</holder>
+            </holding>
+            <holding isSeen="false">
+                <holder>RuMoPIB</holder>
+            </holding>
+            <holding isSeen="false">
+                <holder>RuSpRNB</holder>
+                <shelfmark>18.128.3.344</shelfmark>
+                <surrogate url="https://archive.org/details/1461-goil-1791-noveishii-kartochnyi-igrok-ili-kratkoe-sochinenie-o-igre-viste/mode/2up">Internet Archive</surrogate>
+                <surrogate url="https://vivaldi.nlr.ru/bx000017916/view/#page=">National Library of Russia</surrogate>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The title page notes that this is translated from the </note>
+            <note url="games.4.xml">thirteenth</note>
+            <note> edition signed in the author's own hand. The chapters match through chapter 17,
+                while chapters 18 through 20 are 19 through 21 in the original text. Chapter 21
+                combines the text of the original chapter 18 ("New Laws at Whist") and chapter 22 
+                ("The Old Laws").</note>
+            <note rend="paragraph"></note>
+            <note>The appendix contains additional calculations at whist by de Moivre.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>π</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>А</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>Б</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>В</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>Г</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>Д</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>Е</sigStart>
+                        <leaves>8</leaves>
+                        <alteration>
+                            <alterationType>+</alterationType>
+                            <sigRef>Е8</sigRef>
+                            <count>1</count>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–2</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>55</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>12</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>98</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>НОВѢЙШІЙ  | КАРТОЧНЫЙ ИГРОКЪ | ИЛИ | КРАТКОЕ СОЧИНЕНІЕ | О ИГРѢ ВИСТѢ, |  
+                содержащее | законы сей игры, правила для начинающихъ, | 
+                вычисленія для игры и держанія закладовъ | 
+                или пари, трудные случаи, словарь виста, | 
+                и художественную память, что все | 
+                пространно описывается. | 
+                Сочиненное на Аглицкомъ,| 
+                славнымъ Аглицкимъ игрокомъ, и знатнымъ | 
+                Господамъ учителемъ Виста,| 
+                Г. ЕДМОНДОМЪ ГОЙЛЕМЪ. | [short rule] | 
+                и переведенное на Россïйскïй языкъ | 
+                съ тринадцатаго изданïя, | 
+                подписаннаго собственною сочинителевою | 
+                рукою. | [rule] | 
+                Въ САНКТПЕТЕРБУРГѢ,| печатано у І. К. Шнора, 1791 го[д]а.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <contentPart>permission</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>π2v</sigRef>
+                    </sigTo>
+                    <contentPart>long title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π3r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>π4v</sigRef>
+                    </sigTo>
+                    <contentPart>‘Къ Читателю. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π5r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>π6v</sigRef>
+                    </sigTo>
+                    <contentPart>table of contents</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>А1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>Е7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>94</pageRef>
+                    </pageTo>
+                    <contentPart>‘КРАТКОЕ СОЧИНЕНІЕ | о игрѣ | ВИСТѢ. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>Е8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>95</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>Е8+1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>98</pageRef>
+                    </pageTo>
+                    <contentPart>‘ПРИБАВЛЕНІЕ | содержащее | НѢКІЯ ВЫЧИСЛЕНІЯ О ВИСТѢ | Г. де Моавря. | [...]’</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

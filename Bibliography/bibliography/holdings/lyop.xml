@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\lyop.xml</fn><home>../index.xml</home></footer><id>LYOp</id><fn>lyop</fn><name>Bibliothèque municipale de Lyons</name><location>Lyons, France</location><books><book><id>Whist.Fr.B.1767.Prault</id><fn>../books/whist.fr.b.1767.prault.xml</fn><shortTitle>Almanach du Whist</shortTitle><shortImprint>Chez G. Paschal Prault</shortImprint><pubDate>1767</pubDate><shelfmarks><shelfmark>803623</shelfmark></shelfmarks></book></books></holder>

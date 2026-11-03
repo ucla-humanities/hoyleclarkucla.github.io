@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Bartlett.Whist.1828</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Bartlett.Whist.1828</idno>
+			<fn>books/bartlett.whist.1828.xml</fn>
+			<shortTitle>Short Rules for Whist</shortTitle>
+			<shortImprint>published by Caleb Bartlett</shortImprint>
+			<pubYear>1828</pubYear>
+			<pubDate>1828</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>70</categoryID>
+			<workID>75</workID>
+			<subWorkID>10</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Withy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Caleb</forename>
+					<surname>Bartlett</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1773</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>11.6</height>
+				<width>7.4</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>unsigned</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange isUncounted="true" numbered="false">
+						<start>2</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>3</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>6</start>
+						<end>7</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>8</start>
+						<end>9</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>10</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>11</start>
+						<end>15</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>16</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>17</start>
+						<end>20</end>
+					</pageRange>
+					<pageRange isUncounted="true" numbered="false">
+						<start>2</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="label" imageFN="bartlett.whist.1828.label">
+			<titlePart>[oxford rule] | BOB SHORT'S | </titlePart>
+			<titlePart rend="blackletter">Rules for Short Memories | </titlePart>
+			<titlePart>AT THE | GAME OF WHIST. | [short rule] | Sold at 76 Bowery. | [reverse oxford rule]</titlePart>
+		</titlePage>
+		<titlePage titleType="title" imageFN="bartlett.whist.1828">
+			<titlePart>HOYLE ABRIDGED. | OR | SHORT RULES | FOR | </titlePart>
+			<titlePart rend="blackletter">Short Memories | </titlePart>
+			<titlePart>AT THE | GAME OF WHIST, | WITH THE | LAWS OF THE GAME | AND THE LAST NEW RULES AS ESTABLISHED AT | BATH AND LONDON. | </titlePart>
+			<titlePart rend="italic">Adapted either for the Head or Pocket, | </titlePart>
+			<titlePart>BY BOB SHORT. | [short rule] | Printed for the Benefit of Families, to prevent | Scolding. | [short rule] | FIRST AMERICAN EDITION. | [short rule] | </titlePart>
+			<titlePart rend="italic">NEW-YORK: | </titlePart>
+			<titlePart>PUBLISHED BY CALEB BARTLETT, No. 76 BOWERY. | [short rule] | 1828.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<contentPart>pasted to wrapper</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>‘The present improved and en-|larged edition of this little work, | is most respectfuly dedicated to | the public. | By their | very obliged, obedient, | and humble servant, | </contentPart>
+					<contentPart rend="smallcap">Bob Short, </contentPart>
+					<contentPart>Jun. | </contentPart>
+					<contentPart rend="italic">Long's Hotel, | May, 1821.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A4r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>5</pageRef>
+					</pageTo>
+					<contentPart>‘DEDICATION. | [short rule] | </contentPart>
+					<contentPart rend="italic">TO THE FOUR KINGS. | </contentPart>
+					<contentPart>[...] | Your devoted Slave, | BOB SHORT. | </contentPart>
+					<contentPart rend="italic">Baker's Coffee-House, | Exchange Alley, | Jan. 1, 1793.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>6</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>7</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A11v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>20</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF WHIST. | [...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A12r</sigRef>
+					</sigFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A12v</sigRef>
+					</sigFrom>
+					<contentPart>pasted to wrapper</contentPart>
+				</content>
+			</section>
+		</sections>
+	</text>
+</entry>

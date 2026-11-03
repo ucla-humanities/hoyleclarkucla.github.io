@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Smith.1.1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-30</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Smith.1.5</idno>
+			<fn>books/smith.1.5.xml</fn>
+			<shortTitle>The New Pocket Hoyle</shortTitle>
+			<shortImprint>T. Richardson</shortImprint>
+			<description>another London impression for T. Richardson</description>
+			<pubYear>nd</pubYear>
+			<pubDate>nd</pubDate>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>40</categoryID>
+			<workID>40</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Richardson</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1033</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>This impression includes the same frontispiece as </note>
+			<note url="smith.1.1.1xml">Smith.1.1</note>
+			<note> and a letterpress title page, with changes including a new imprint. There is no colophon on page 160.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>16</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>2</leaves>
+					</gatheringRange>
+					<gatheringRange signed="false">
+						<sigStart>B</sigStart>
+						<leaves>8</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>C</sigStart>
+						<sigEnd>L</sigEnd>
+						<leaves>8</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$1</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>82</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>4</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>i</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>ii</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>3</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>5</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>160</end>
+					</pageRange>
+				</pageRanges>
+				<pagingErrors>
+					<pagingError>
+						<start>110</start>
+						<badPage>10</badPage>
+					</pagingError>
+					<pagingError>
+						<start>111</start>
+						<badPage>11</badPage>
+					</pagingError>
+				</pagingErrors>
+			</pagination>
+		</collation>
+		<titlePage titleType="frontispiece" imageFN="smith.1.5.frontispiece"/>
+		<titlePage titleType="title" imageFN="smith.1.5">
+			<titlePart>[within a decorative frame] THE | NEW POCKET | HOYLE, | CONTAINING | EASY RULES FOR PLAYING | THE | GAMES OF | [seven lines to left of rule] Whist, | Quadrille, | Cribbage, | Piquet, | Matrimony, | Lansquenet, | Quinze, | [seven lines between rules] Chess, | Backgammon, | Draughts, | Billiards, | Cricket, | Tennis, | Goff, | [seven lines to right if rule] Faro, | Rouge et Noir, | Cassino, | Connexions, | Put, | Loo, | Speculation, | </titlePart>
+			<titlePart rend="blackletter">Laws on Gaming, &amp;c. | </titlePart>
+			<titlePart>[short rule] | </titlePart>
+			<titlePart rend="italic">LONDON: | </titlePart>
+			<titlePart>T. RICHARDSON, 245, HIGH HOLBORN. </titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<sigTo>
+						<sigRef>A1v</sigRef>
+					</sigTo>
+					<contentPart>see </contentPart>
+					<contentPart url="smith.1.1.xml">Smith.1.1</contentPart>
+					<contentPart/>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>160</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="smith.1.1.xml">Smith.1.1</contentPart>
+					<contentPart/>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>ii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>160</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="smith.1.1.xml">Smith.1.1</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>All Fours</game>
+					<game>Cassino</game>
+					<game>Cribbage</game>
+					<game>Connexions</game>
+					<game>Lansquenet</game>
+					<game>Matrimony</game>
+					<game>Piquet</game>
+					<game>Put</game>
+					<game>Faro</game>
+					<game>Quadrille</game>
+					<game>Quinze</game>
+					<game>Rouge et Noir</game>
+					<game>Lottery</game>
+					<game>Speculation</game>
+					<game>Vingt-Un</game>
+					<game>Loo</game>
+					<game>Brag</game>
+					<game>Pope Joan</game>
+					<game>Commerce</game>
+					<game>Chess</game>
+					<game>Backgammon</game>
+					<game>Draughts</game>
+					<game>Billiards</game>
+					<game>Cricket</game>
+					<game>Tennis</game>
+					<game>Golf</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+				<subject>
+					<subject1>Piquet</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Quadrille</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Quadrille</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+				<subject>
+					<subject1>Chess</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Backgammon</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Draughts</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+				<subject>
+					<subject1>Cricket</subject1>
+					<subject2>laws of</subject2>
+				</subject>
+				<subject>
+					<subject1>Gaming</subject1>
+					<subject2>laws of (statute)</subject2>
+				</subject>
+			</section>
+		</sections>
+	</text>
+</entry>

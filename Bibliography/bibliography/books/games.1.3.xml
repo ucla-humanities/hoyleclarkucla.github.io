@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Games.1.3</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2025-04-29</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Games.1.3</idno>
+			<fn>books/games.1.3.xml</fn>
+			<shortTitle>Mr. Hoyle's Treatises</shortTitle>
+			<shortImprint>printed for T. Osborne</shortImprint>
+			<statedEdition>"tenth" edition</statedEdition>
+			<description>first London edition, third issue</description>
+			<pubYear>1750</pubYear>
+			<pubDate>1749-10-21</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>3</issue>
+			<categoryID>30</categoryID>
+			<workID>2</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Osborne</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Gardner</surname>
+				</persName>
+				<evidence>ornaments</evidence>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Whitehall Evening Post or London Intelligencer</publication>
+				<pubDate>1749-10-21</pubDate>
+				<notes>
+					<note>"This day is published, the tenth edition, (price only 3s. in marbel
+						binding) to which is added thirteen new cases never before published in
+						whist, Mr. Hoyle's Games Compleat.""</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>3</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<evidence>half title</evidence>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T87519</idno>
+			</bibl>
+			<bibl>
+				<reference>Horr</reference>
+				<idno>655</idno>
+			</bibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>802</idno>
+			</bibl>
+			<bibl>
+				<reference>Marshall</reference>
+				<idno>NQ 7.08.343</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>32</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>BFl</holder>
+				<shelfmark>I.795/HOYL (b1163087)</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>E</holder>
+				<shelfmark>Grindlay.469</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>L</holder>
+				<shelfmark>7918.a.73</shelfmark>
+				<surrogate>ECCO</surrogate>
+			</holding>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.553</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Copisarow</holder>
+			</holding>
+			<holding isSeen="true">
+				<holder>NNPM</holder>
+				<shelfmark>E3 092 D 079486</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>NvLN</holder>
+				<shelfmark>GV1277.H69 1750</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H F50L</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>PPL</holder>
+				<shelfmark>Iu Hoy (Chew)</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>PPL</holder>
+				<shelfmark>Iu Hoyl Short Treat 1750</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1241.H8 A10 c.1</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>TxU</holder>
+				<shelfmark>GV1241.H6 1750</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1039</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1664</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>Lg</holder>
+				<shelfmark>H 2.3 no 32</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>NT</holder>
+				<shelfmark>SCO</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>Owa</holder>
+				<shelfmark>D.38.20</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>GOT</holder>
+				<shelfmark>8mo A.ill.291510</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>HAG</holder>
+				<shelfmark>KW 2207 F 26</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>HAG</holder>
+				<shelfmark>KW 363 D 24</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>LT</holder>
+				<shelfmark>Wb 740</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>MUbsb</holder>
+				<shelfmark>Gymn. 34</shelfmark>
+				<surrogate url="https://books.google.com/books?id=mapAAAAAcAAJ">Google</surrogate>
+			</holding>
+			<holding isSeen="false">
+				<holder>TNMS</holder>
+				<shelfmark>6344</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>DeWint</holder>
+				<shelfmark>GV1241.H86 1750 S</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>ICN</holder>
+				<shelfmark>V1639.421</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>NWM</holder>
+				<shelfmark>GV1241.H6 1750</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>NjP</holder>
+				<shelfmark>GV1277.H89 1750s</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>PP</holder>
+				<shelfmark>A795 H85</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>TxDaM</holder>
+				<shelfmark>BRA2288</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>A reissue of </note>
+			<note url="games.1.1.xml">Games.1.1</note>
+			<note> with a cancel section title for the "tenth" edition of whist. Most copies do not
+				preserve the half title. </note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>2</leaves>
+						<alteration>
+							<alterationType>±</alterationType>
+							<sigRef>A2</sigRef>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>D</sigEnd>
+						<leaves>12</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>E</sigStart>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>F</sigStart>
+						<sigEnd>L</sigEnd>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>B6</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>F1</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>G2</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>G3</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>I5</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>I6</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>L5</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>L6</sigRef>
+					</anomSignature>
+				</anomSignatures>
+				<signingErrors>
+					<signingError>
+						<sigRef>F3</sigRef>
+						<badSig>A3</badSig>
+					</signingError>
+					<signingError>
+						<sigRef>F5</sigRef>
+						<badSig>A5</badSig>
+					</signingError>
+				</signingErrors>
+			</collationFormula>
+			<totalLeaves>116</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>4</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>84</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>97</start>
+						<end>99</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>100</start>
+						<end>123</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>124</start>
+						<end>127</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>128</start>
+						<end>177</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>178</start>
+						<end>180</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>181</start>
+						<end>224</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>225</start>
+						<end>240</end>
+						<note>[=228]</note>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="section" sectionID="Whist" imageFN="games.1.3">
+			<titlePart>A SHORT | TREATISE | On the GAME of | WHIST. | CONTAINING | The LAWS
+				of the GAME: | AND ALSO | Some </titlePart>
+			<titlePart rend="smallcap">Rules, </titlePart>
+			<titlePart>whereby a Beginner may, with due | Attention to them, attain to the
+				Playing it well. | </titlePart>
+			<titlePart rend="smallcap">Calculations </titlePart>
+			<titlePart>for thoſe who will bet the Odds on any Points | of the Score of the
+				Game then playing and depending. | </titlePart>
+			<titlePart rend="smallcap">Cases </titlePart>
+			<titlePart>ſtated, to ſhew what may be effected by a very good | Player in
+				critical Parts of the Game. | </titlePart>
+			<titlePart rend="smallcap">References </titlePart>
+			<titlePart>to </titlePart>
+			<titlePart rend="smallcap">Cases, </titlePart>
+			<titlePart>viz. at the End of the Rule, you | are directed how to find them. | </titlePart>
+			<titlePart rend="smallcap">Calculations, </titlePart>
+			<titlePart>directing with moral Certainty, how to play | well any Hand or Game,
+				by ſhewing the Chances of your | Partner’s having 1, 2, or 3 certain Cards.
+				| With Variety of </titlePart>
+			<titlePart/>
+			<titlePart rend="smallcap">Cases </titlePart>
+			<titlePart>added in the Appendix. | [rule] | </titlePart>
+			<titlePart rend="italic">By </titlePart>
+			<titlePart rend="smallcap">Edmond Hoyle, </titlePart>
+			<titlePart rend="italic">Gent. | </titlePart>
+			<titlePart>[rule] | The </titlePart>
+			<titlePart rend="smallcap">Tenth Edition </titlePart>
+			<titlePart>with great </titlePart>
+			<titlePart rend="smallcap">Additions. | </titlePart>
+			<titlePart>The Laws of the Game, and an Explanation of the Calculations | which
+				are neceſſary to be underſtood by thoſe who would play | it well. | And
+				alſo, | A </titlePart>
+			<titlePart rend="smallcap">Dictionary </titlePart>
+			<titlePart>for </titlePart>
+			<titlePart rend="smallcap">Whist, </titlePart>
+			<titlePart rend="italic">which reſolves almoſt | all the critical Caſes that may
+				happen at the Game. | </titlePart>
+			<titlePart>To which is added, | An ARTIFICIAL MEMORY: | Or, an eaſy Method of
+				aſſiſting the Memory of thoſe | that play at the GAME of WHIST. | And
+				ſeveral </titlePart>
+			<titlePart rend="smallcap">Cases, </titlePart>
+			<titlePart>not hitherto publiſhed. | To this Edition are alſo added, | A whole
+				Chapter of Thirteen new Caſes, never | publiſh'd before. | [rule] | </titlePart>
+			<titlePart rend="italic">LONDON: | </titlePart>
+			<titlePart>Printed for T. </titlePart>
+			<titlePart rend="smallcap">Osborne, </titlePart>
+			<titlePart>at </titlePart>
+			<titlePart rend="italic">Gray's Inn. </titlePart>
+			<titlePart>1750.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<contentPart>see </contentPart>
+					<contentPart url="games.1.1.xml">Games.1.1</contentPart>
+					<contentPart> (1748)</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<contentPart>see </contentPart>
+					<contentPart url="games.1.1.xml">Games.1.1</contentPart>
+					<contentPart> (1748)</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<contentPart>section title whist</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<contentPart>‘ADVERTISEMENT. | [...] | To the READER. | [...] | [autographs of Edmond Hoyle and
+						Thomas Osborne]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>240</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="games.1.1.xml">Games.1.1</contentPart>
+					<contentPart> (1748)</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>L12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>240</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="games.1.1.xml">Games.1.1</RTPart>
+					<RTPart> (1748)</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>Quadrille</game>
+					<game>Piquet</game>
+					<game>Chess</game>
+					<game>Backgammon</game>
+				</gamesCovered>
+			</section>
+		</sections>
+	</text>
+</entry>

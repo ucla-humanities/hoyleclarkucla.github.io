@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Hughes.1.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2025-05-16</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Hughes.1.2</idno>
+			<fn>books/hughes.1.2.xml</fn>
+			<shortTitle>The Card Games of Hoyle</shortTitle>
+			<shortImprint>printed by T. Hughes</shortImprint>
+			<description>printed by T. Hughes</description>
+			<pubYear>1825</pubYear>
+			<pubDate>1825</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>2</issue>
+			<categoryID>45</categoryID>
+			<workID>60</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="printer">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Hughes</surname>
+				</persName>
+				<evidence>title</evidence>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="2">Hughes</respGroup>
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Hughes</surname>
+				</persName>
+				<evidence>title</evidence>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>1</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>834</idno>
+				<notes>
+					<note> (edition of 1828)</note>
+				</notes>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>127</idno>
+				<notes>
+					<note> (edition of 1828)</note>
+				</notes>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>2116</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>The book is a word-for-word reprint of </note>
+			<note rend="italic">Hoyle's Card Games, </note>
+			<note url="card.1.xml">Card.1</note>
+			<note> (1824), without the "Guide to the Turf" but with the added games in the final gathering: Specuatlion, Lottery, Loto, Boston, and Hazard. None of the added games appear in the table of contents, and only Hazard appears on the title page. </note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>16</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<sigEnd>G</sigEnd>
+						<leaves>8</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$1–2</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>G2</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>+</anomType>
+						<sigRef>B3</sigRef>
+					</anomSignature>
+				</anomSignatures>
+				<signingErrors>
+					<signingError>
+						<sigRef>A2</sigRef>
+						<badSig>B</badSig>
+					</signingError>
+					<signingError>
+						<sigRef>A4</sigRef>
+						<badSig>B3</badSig>
+					</signingError>
+					<signingError>
+						<sigRef>C3</sigRef>
+						<badSig>3</badSig>
+					</signingError>
+				</signingErrors>
+			</collationFormula>
+			<totalLeaves>56</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>2</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>13</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>16</start>
+						<end>112</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="hughes.1.2">
+			<titlePart>THE | CARD GAMES | OF | HOYLE | COMPLETE. | VIZ.: | [ten lines to left of rule] | WHIST, | ALL FOURS, | CASSINO, | CRIBBAGE, | CONNEXIONS, | LANSQUENET, | MATRIMONY, | PIQUET, | PUT, | HAZARD, OR BLIND HOOKEY. | [nine lines to right of rule] PHARO, | QUADRILLE, | QUINZE, | ROUGE ET NOIR, |VINGT-UN, | LOO, | BRAG, | POPE JOAN, | COMMERCE. | [short rule] | LONDON: | PRINTED BY T. HUGHES, 35, LUDGATE-STREET, | Corner of Stationers' Court. | Price 1s. | [short rule] | 1825. </titlePart>
+		</titlePage>
+		<titlePage titleType="frontispiece" imageFN="hughes.1.2.frontispiece"/>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<contentPart>‘CONTENTS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>G8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>112</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="hughes.1.1.xml">Hughes.1.1</contentPart>
+					<contentPart> (1824)</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>G8v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>112</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="hughes.1.1.xml">Hughes.1.1</RTPart>
+					<RTPart> (1824)</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>All Fours</game>
+					<game>Cassino</game>
+					<game>Cribbage</game>
+					<game>Connexions</game>
+					<game>Lansquenet</game>
+					<game>Matrimony</game>
+					<game>Put</game>
+					<game>Faro</game>
+					<game>Quadrille</game>
+					<game>Quinze</game>
+					<game>Rouge et Noir</game>
+					<game>Vingt-Un</game>
+					<game>Loo</game>
+					<game>Brag</game>
+					<game>Pope Joan</game>
+					<game>Commerce</game>
+					<game>Speculation</game>
+					<game>Lottery</game>
+					<game>Loto</game>
+					<game>Boston</game>
+					<game>Hazard</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+		</sections>
+		<plates>
+			<plate plateLocation="Frontispiece">
+				<plateRelation>before</plateRelation>
+				<sigRef>A1r</sigRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note>An array of playing cards, hand colored, with the title "Hoyle's Card Games Complete" including a playing card duty stamp and the imprint "London. Published by T. Hughes. 35 Ludgate Street. Nov. 17, 1825"</note>
+				</notes>
+			</plate>
+		</plates>
+	</text>
+</entry>

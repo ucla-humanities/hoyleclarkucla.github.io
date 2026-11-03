@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\mrc.xml</fn><home>../index.xml</home></footer><id>MRc</id><fn>mrc</fn><name>Manchester, Chetham’s Library</name><location>Manchester, England</location><books><book><id>Chances.2</id><fn>../books/chances.2.xml</fn><shortTitle>The Doctrine of Chances</shortTitle><shortImprint>printed for T. Osborne et al</shortImprint><statedEdition>"a new edition, corrected"</statedEdition><description>second London edition</description><pubDate>1764</pubDate><shelfmarks><shelfmark>4C1-52(1)</shelfmark></shelfmarks></book></books></holder>

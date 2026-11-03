@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Jones.10-1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2020-11-18</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.10-1</idno>
+            <fn>books/jones.10-1.xml</fn>
+            <shortTitle>Mr. Hoyle's Games of Whist &amp; Quadrille</shortTitle>
+            <shortImprint>printed for W. Lowndes et al</shortImprint>
+            <description>extracted from the tenth London edition</description>
+            <pubYear>1820</pubYear>
+            <pubDate>1820-02-01</pubDate>
+            <evidence>Longman Archives</evidence>
+            <edition>10</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <copiesPrinted>1000</copiesPrinted>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lowndes</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Longman</respGroup>
+                <orgName>Longman, Hurst, Rees, Orme, and Brown</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="4">Baldwin</respGroup>
+                <orgName>Baldwin, Cradock, and Joy</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Whittaker</respGroup>
+                <persName>
+                    <forename>G. and W. B.</forename>
+                    <surname>Whittaker</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Scatcherd</respGroup>
+                <orgName>Scatcherd and Letterman</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lackington</respGroup>
+                <orgName>Lackington, Hughes, Harding, Mavor, and Jones</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>J.</forename>
+                    <surname>Richardson</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Joseph</forename>
+                    <surname>Mawman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Asperne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Stewart</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Hamilton</respGroup>
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Hamilton</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>J.</forename>
+                    <surname>Walker</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Allman</respGroup>
+                <persName>
+                    <forename>T. and J.</forename>
+                    <surname>Allman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Hughes</respGroup>
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Hughes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <respGroup seq="1">Shackell</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Shackell</surname>
+                </persName>
+                <evidence>colophon</evidence>
+                <evidence>Longman Archives</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>The Morning Post</publication>
+                <pubDate>1820-02-11</pubDate>
+                <notes>
+                    <note>"This day is published, price 8s. bound in red sheep, a new edition,
+                        considerably enlarged, of Hoyle's Games Imrpoved...Revised and corrected. By
+                        Charles Jones. Esq...Of whom may be had, separately, Hoyle's Games Improved
+                        and Selected, as a Companion to the Card Table, price 3s. 6d. boards. or 4s.
+                        6d. in paper case, with gilt edges. Also Hoyle's Games of Whist and
+                        Quadrille, price 2s. boards."</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>2</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>817</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>110</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.627</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Copisarow</holder>
+            </holding>
+            <holding isSeen="true">
+                <holder>DLC</holder>
+                <shelfmark>GV1277.M6</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>OC</holder>
+                <shelfmark>795.1 H86.1</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>18</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>K</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>55</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange isUncounted="true" numbered="false">
+                        <start>2</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>vii</start>
+                        <end>viii</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>106</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>MR. HOYLE'S GAMES | OF | WHIST | AND | QUADRILLE. | WITH ADDITIONS
+                FROM | OTHER AMATEURS. | [short reverse oxford rule] | LONDON: | PRINTED FOR W. LOWNDES;
+                LONGMAN, HURST, REES, | ORME AND BROWN; BALDWIN, CRADDOCK, AND JOY; | G. AND
+                W. B. WHITTAKER; SCATCHERD AND LET-|TERMAN; LACKINGTON, HUGHES, HARDING,
+                MAVOR | AND JONES; J. RICHARDSON; J. MAWMAN; J. | ASPERNE; W. STEWART; T.
+                HAMILTON; J. WALKER; | T. AND J. ALLMAN, AND T. HUGHES. | [short rule] |
+                1820.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>colophon</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="jones.10.xml">Jones.10</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>viii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="jones.10.xml">Jones.10</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Dummy Whist</game>
+                    <game>Quadrille</game>
+                    <game>Mediateur</game>
+                </gamesCovered>
+            </section>
+        </sections>
+        <colophon>
+            <notes>
+                <note>‘[short rule] | W. Shackell, Printer, | 11, Johnson's-court, | Fleet-street,
+                    London.’</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

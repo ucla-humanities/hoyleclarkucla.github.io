@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Fr.1.1761.Wagner</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.1.1761.Wagner</idno>
+            <fn>books/whist.fr.1.1761.wagner.xml</fn>
+            <shortTitle>Abrégé du traité de Hoyle</shortTitle>
+            <shortImprint>Chez Abr. Wagner</shortImprint>
+            <pubYear>1761</pubYear>
+            <pubDate>1761</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Abraham</forename>
+                    <surname>Wagner</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Depaulis</reference>
+                <idno>90</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>DLC</holder>
+                <shelfmark>GV1277.H894</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CHFKUB</holder>
+                <shelfmark>AEF Carton 31 IV.19</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "X" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>B</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>16</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>3</start>
+                        <end>30</end>
+                    </pageRange>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>2</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>ABRÉGÉ | DU TRAITÉ DE | </titlePart>
+            <titlePart rend="italic">HOYLE | </titlePart>
+            <titlePart>SUR LE JEU DU | </titlePart>
+            <titlePart rend="italic">WHIST, | </titlePart>
+            <titlePart rend="smallcap">Publié en Anglois en 1750. | </titlePart>
+            <titlePart>[tailpiece] | A BERNE. | [oxford rule] | </titlePart>
+            <titlePart rend="smallcap">Chez Abr. Wagner, Fils. | </titlePart>
+            <titlePart>MDCCLXI.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>30</pageRef>
+                    </pageTo>
+                    <contentPart>‘[oxford rule] | ABRÉGÉ | </contentPart>
+                    <contentPart rend="italic">DU TRAITÉ DE HOYLE | SUR LE JEU DU WHIST | </contentPart>
+                    <contentPart>publié en Anglois en 1750. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B8r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>B8v</sigRef>
+                    </sigTo>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

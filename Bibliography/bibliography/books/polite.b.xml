@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <!--     <todo>In Dublin, check four preliminary pages. This also needs a good note explaining the make up. Also mention the destoryed British Library copy.</todo> -->
+    <fileDesc>
+        <title>Polite.B</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-01-28</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Polite.B</idno>
+            <fn>books/polite.b.xml</fn>
+            <shortTitle>The Polite Gamester</shortTitle>
+            <shortImprint>printed for G. and A. Ewing</shortImprint>
+            <description>second Ewing collection</description>
+            <pubYear>1752</pubYear>
+            <pubDate>1752</pubDate>
+            <evidence>title</evidence>
+            <edition>2</edition>
+            <issue>1</issue>
+            <categoryID>60</categoryID>
+            <workID>10</workID>
+            <subWorkID>80</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <collectedParts>
+            <collectedPart>
+                <idno>Whist.D.4</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Memory.D.2*</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Quadrille.D.2*</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Backgammon.D.2*</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Piquet.D.2*</idno>
+            </collectedPart>
+        </collectedParts>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Ewing</respGroup>
+                <persName>
+                    <forename>George and Alexander</forename>
+                    <surname>Ewing</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Dublin Journal</publication>
+                <pubDate>1752-02-22</pubDate>
+                <notes>
+                    <note>“This day is published...price 1s. 1d. in Marble Paper. With the Addition
+                        of a Dictionary of Whist: which resolves almost all the critical cases that
+                        may happen at the game: Also a whole Chapter of thirteen cases, never before
+                        publish'd. The Polite Gamester...N. B. This thirteenth edition of the game
+                        of whist, with additions, not in any other edition printed in this Kingdom,
+                        may be had separately, price 4d. ☞ Be careful to ask for the edition printed
+                        for G. and A. Ewing." </note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T218262</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>D</holder>
+                <shelfmark>393.h3</shelfmark>
+                <holdingParts>
+                    <holdingPart seq="1">
+                        <idno>Whist.D.4</idno>
+                    </holdingPart>
+                    <holdingPart seq="2">
+                        <idno>Memory.D.2*</idno>
+                    </holdingPart>
+                    <holdingPart seq="3">
+                        <idno>Quadrille.D.1</idno>
+                    </holdingPart>
+                    <holdingPart seq="4">
+                        <idno>Backgammon.D.2*</idno>
+                    </holdingPart>
+                    <holdingPart seq="5">
+                        <idno>Piquet.D.2*</idno>
+                    </holdingPart>
+                </holdingParts>
+                <notes>
+                    <note> (lacks π1.2)</note>
+                </notes>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.572</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1241.H8P 1752b c.1</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1241.H8P 1752b c.2</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TxU</holder>
+                <shelfmark>Ak.H852.B752p</shelfmark>
+                <holdingParts>
+                    <holdingPart seq="1">
+                        <idno>Whist.D.4</idno>
+                    </holdingPart>
+                    <holdingPart seq="2">
+                        <idno>Memory.D.2*</idno>
+                    </holdingPart>
+                    <holdingPart seq="3">
+                        <idno>Quadrille.D.1</idno>
+                    </holdingPart>
+                    <holdingPart seq="4">
+                        <idno>Backgammon.D.1</idno>
+                    </holdingPart>
+                    <holdingPart seq="5">
+                        <idno>Piquet.D.2*</idno>
+                    </holdingPart>
+                </holdingParts>
+            </holding>
+            <holding isSeen="false">
+                <holder>L</holder>
+                <shelfmark>D-7913.bb.52</shelfmark>
+                <notes>
+                    <note> (destroyed, exact makeup unknown)</note>
+                </notes>
+            </holding>
+            <holding isSeen="false">
+                <holder>MH-H</holder>
+                <shelfmark>SG 3652.152*</shelfmark>
+                <surrogate>ECCO</surrogate>
+                <holdingParts>
+                    <holdingPart seq="1">
+                        <idno>Whist.D.4</idno>
+                    </holdingPart>
+                    <holdingPart seq="2">
+                        <idno>Memory.D.2*</idno>
+                    </holdingPart>
+                    <holdingPart seq="3">
+                        <idno>Quadrille.D.1</idno>
+                    </holdingPart>
+                    <holdingPart seq="4">
+                        <idno>Backgammon.D.1</idno>
+                    </holdingPart>
+                    <holdingPart seq="5">
+                        <idno>Piquet.D.2*</idno>
+                    </holdingPart>
+                </holdingParts>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>π</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>C</sigEnd>
+                        <leaves>8/4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>C</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>D</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>F</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>2</dupSeq>
+                        <sigStart>A</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>3</dupSeq>
+                        <sigStart>A</sigStart>
+                        <sigEnd>B</sigEnd>
+                        <leaves>8/4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>4</dupSeq>
+                        <sigStart>A</sigStart>
+                        <sigEnd>D</sigEnd>
+                        <leaves>8/4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>5</dupSeq>
+                        <sigStart>π</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>5</dupSeq>
+                        <sigStart>A</sigStart>
+                        <sigEnd>B</sigEnd>
+                        <leaves>8/4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>5</dupSeq>
+                        <sigStart>C</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>96</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>8</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>56</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>2</dupSeq>
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <dupSeq>2</dupSeq>
+                        <start>3</start>
+                        <end>12</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>3</dupSeq>
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <dupSeq>3</dupSeq>
+                        <start>4</start>
+                        <end>23</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>3</dupSeq>
+                        <start>24</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>4</dupSeq>
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <dupSeq>4</dupSeq>
+                        <start>3</start>
+                        <end>47</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>4</dupSeq>
+                        <start>48</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>5</dupSeq>
+                        <start>1</start>
+                        <end>5</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <dupSeq>5</dupSeq>
+                        <start>6</start>
+                        <end>43</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>5</dupSeq>
+                        <start>44</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>THE | Polite Gameſter: | CONTAINING, | SHORT TREATISES | On the </titlePart>
+            <titlePart rend="smallcap">Games </titlePart>
+            <titlePart>of | [2 lines braced to right] WHIST, | QUADRILLE, | [two lines braced
+                to left] BACK-GAMMON, | PIQUET and CHESS. | TOGETHER WITH | An Artificial
+                Memory, | OR, AN | Eaſy Method of aſſiſting the Memory of | thoſe that Play
+                at the </titlePart>
+            <titlePart rend="smallcap">Game </titlePart>
+            <titlePart>of WHIST. | [rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmund Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart>A New </titlePart>
+            <titlePart rend="italic">Addition, </titlePart>
+            <titlePart>with great </titlePart>
+            <titlePart rend="italic">Additions </titlePart>
+            <titlePart>to the | </titlePart>
+            <titlePart rend="italic">Game of Whiſt; </titlePart>
+            <titlePart>among which are, </titlePart>
+            <titlePart rend="italic">A Dictio-|nary of Whiſt, </titlePart>
+            <titlePart>which reſolves almoſt all the | Critical Caſes that may happen at the
+                Game. | ALSO | A whole Chapter of thirteen New Caſes, never be-|fore
+                publiſed. | [double rule] | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for G. and A. </titlePart>
+            <titlePart rend="smallcap">Ewing </titlePart>
+            <titlePart>at the </titlePart>
+            <titlePart rend="italic">Angel </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="italic">Bible | </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-Street. </titlePart>
+            <titlePart rend="smallcap">M,dcc,lii.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <contentPart>advertisements</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2r</sigRef>
+                    </sigFrom>
+                    <contentPart>title page</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.d.4.xml">Whist.D.4</contentPart>
+                    <contentPart> (1752)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <RTPart>see </RTPart>
+                    <RTPart url="whist.d.4.xml">Whist.D.4</RTPart>
+                    <RTPart> (1752)</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>56</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.d.4.xml">Whist.D.4</contentPart>
+                    <contentPart> (1752)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>56</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="whist.d.4.xml">Whist.D.4</RTPart>
+                    <RTPart> (1752)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>12</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="memory.d.2.xml">Memory.D.2*</contentPart>
+                    <contentPart> (1751)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>12</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="memory.d.2.xml">Memory.D.2*</RTPart>
+                    <RTPart> (1751)</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>B4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>24</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="quadrille.d.2.xml">Quadrille.D.2*</contentPart>
+                    <contentPart> (1754)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>3</dupSeqSig>
+                        <sigRef>B4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>3</dupSeqPage>
+                        <pageRef>23</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="quadrille.d.2.xml">Quadrille.D.2*</RTPart>
+                    <RTPart> (1754)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>4</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>4</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>4</dupSeqSig>
+                        <sigRef>D4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>4</dupSeqPage>
+                        <pageRef>48</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="backgammon.d.2.xml">Backgammon.D.2*</contentPart>
+                    <contentPart> (1753)</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Backgammon</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>C8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>44</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="piquet.d.2.xml">Piquet.D.2*</contentPart>
+                    <contentPart> (1752)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>6</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>5</dupSeqSig>
+                        <sigRef>C8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>5</dupSeqPage>
+                        <pageRef>43</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="piquet.d.2.xml">Piquet.D.2*</RTPart>
+                    <RTPart> (1752)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+            </section>
+        </sections>
+    </text>
+</entry>

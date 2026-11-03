@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\okentu.xml</fn><home>../index.xml</home></footer><id>OKentU</id><fn>okentu</fn><name>Kent State University</name><location>Kent, Ohio</location><books><book><id>Games.7</id><fn>../books/games.7.xml</fn><shortTitle>Mr. Hoyle's Games</shortTitle><shortImprint>printed by assignment from T. Osborne</shortImprint><statedEdition>"sixteenth" edition</statedEdition><description>seventh London edition</description><pubDate>1775</pubDate><shelfmarks><shelfmark>SpC GV1241.H6 1770</shelfmark></shelfmarks></book></books></holder>

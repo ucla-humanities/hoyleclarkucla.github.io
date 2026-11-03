@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Jones.4</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-04-29</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.4</idno>
+            <fn>books/jones.4.xml</fn>
+            <shortTitle>Hoyle's Games Improved</shortTitle>
+            <shortImprint>printed for J. F. and C. Rivington et al</shortImprint>
+            <description>fourth London edition</description>
+            <pubYear>1790</pubYear>
+            <pubDate>1790-12-28</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>4</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <respGroup seq="2">Rivington</respGroup>
+                <orgName>J. F. and C. Rivington</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Payne</respGroup>
+                <orgName>T. Payne and Son</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Baldwin</respGroup>
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Baldwin I</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Bedwell</forename>
+                    <surname>Law</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Goldsmith</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lowndes</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Newbery</respGroup>
+                <persName>
+                    <forename>Elizabeth</forename>
+                    <surname>Newbery</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Samuel</forename>
+                    <surname>Bladon</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Wilkie</respGroup>
+                <persName>
+                    <forename>G. and T.</forename>
+                    <surname>Wilkie</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Charles</forename>
+                    <surname>Stalker</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>General Evening Post</publication>
+                <pubDate>1790-12-28</pubDate>
+                <notes>
+                    <note>This day was published, in one volume, 12mo. price 3s. bound in red
+                        leather, a new, enlarged, and corrected edition, of the late Charles Jones's
+                        Hoyle's Games Improved...Of whom may be had, separate from the above work,
+                        and ornamented with a copper-plate, price 1s. sewed, Mr. Dew's Treatise on
+                        Billiards. N. B. Ladies and gentlemean wishing to purchase the
+                        above-mentioned work, are requested to give particular directions for
+                        "Charles Jones's Hoyle's Games Improved," lest any spurious or inferior
+                        edition should be offered them. </note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>3</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>Donovan and Murdoch</reference>
+                <idno>330</idno>
+            </bibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T87522</idno>
+            </bibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>736</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>919</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>67</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>BFl</holder>
+                <shelfmark>I.795/HOYL (b1124854)</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Dp</holder>
+                <shelfmark>Dublin Collection 795</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>7918.a.77</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.597</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Copisarow</holder>
+            </holding>
+            <holding isSeen="true">
+                <holder>CLU-S/C</holder>
+                <shelfmark>GV1241.H85g 1790</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.H69 1790</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F90J</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1227.J7 1790 c.1</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1227.J7 1790 c.2</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TxU</holder>
+                <shelfmark>GV1243.H85 1790</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1007</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NorM</holder>
+                <shelfmark>795</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>TAUa</holder>
+                <shelfmark>L114-17</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>HAG</holder>
+                <shelfmark>KW 363 D 29</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>KBR</holder>
+                <shelfmark>III 21.878 A</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CaBVaU</holder>
+                <shelfmark>GV1241.H68 1790</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CaOLU</holder>
+                <shelfmark>GV1241.H8 1790</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DFo</holder>
+                <shelfmark>GV1241.H6 1790</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>InNd</holder>
+                <shelfmark>GV1243.H85 1790</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LU</holder>
+                <shelfmark>GV1243.H85 1790 Carr</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>MH-H</holder>
+                <shelfmark>SG3652.190</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NcD</holder>
+                <shelfmark>795.4 H867H</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NjP</holder>
+                <shelfmark>42485.479.11.3</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>TxCM</holder>
+                <shelfmark>GV1241.H69 1790</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>N</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>O</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>150</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                        <end>viii</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>290</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>291</start>
+                        <end>292</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="jones.4">
+            <titlePart rend="italic">HOYLE</titlePart>
+            <titlePart>’s | GAMES | IMPROVED; | Being </titlePart>
+            <titlePart rend="smallcap">Practical Treatises </titlePart>
+            <titlePart>on | [7 lines to left of rule] </titlePart>
+            <titlePart rend="blackletter">Whiſt, | Quadrille, | Piquet, | Cheſs, |
+                Back=Gammon, | Draughts, | Cricket, | </titlePart>
+            <titlePart>[7 lines to right of rule] </titlePart>
+            <titlePart rend="blackletter">Tennis, | Quinze, | Hazard, | Lanſquenet, |
+                Billiards, | </titlePart>
+            <titlePart>AND | </titlePart>
+            <titlePart rend="blackletter">Goff </titlePart>
+            <titlePart>or </titlePart>
+            <titlePart rend="blackletter">Golf: | </titlePart>
+            <titlePart>In which are contained, | The Method of </titlePart>
+            <titlePart rend="smallcap">Betting </titlePart>
+            <titlePart>at </titlePart>
+            <titlePart rend="smallcap">those Games </titlePart>
+            <titlePart>upon | equal, or advantageous Terms; | INCLUDING | The </titlePart>
+            <titlePart rend="smallcap">Laws </titlePart>
+            <titlePart>of each, as ſettled and agreed to, at | </titlePart>
+            <titlePart rend="smallcap">Brookes's, White's, D'Aubigny's, </titlePart>
+            <titlePart>the </titlePart>
+            <titlePart rend="smallcap">Sçavoir | Vivre, Miles's, Payne's, </titlePart>
+            <titlePart>and other Faſhionable | Houſes &amp;c. | [rule] | Reviſed and
+                corrected by CHARLES JONES, Eſq. | A </titlePart>
+            <titlePart rend="smallcap">New Edition </titlePart>
+            <titlePart>enlarged. | [oxford rule] | LONDON: | </titlePart>
+            <titlePart>Printed for J. F. and C. </titlePart>
+            <titlePart rend="smallcap">Rivington, </titlePart>
+            <titlePart rend="smallcap">T. Payne </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">Son, | R. Baldwin, B. Law, W. Goldsmith, W. Lowndes,
+                | E. Newbery, S. Bladon, G. and T. </titlePart>
+            <titlePart rend="smallcap">Wilkie, </titlePart>
+            <titlePart>and | </titlePart>
+            <titlePart rend="smallcap">C. Stalker. </titlePart>
+            <titlePart>1790.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>viii</pageRef>
+                    </pageTo>
+                    <contentPart>‘CONTENTS | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>viii</pageRef>
+                    </pageTo>
+                    <RTPart>‘CONTENTS’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>2</pageRef>
+                    </pageTo>
+                    <contentPart>‘[reverse oxford rule] | THE | GAME OF WHIST. | [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>74</pageRef>
+                    </pageTo>
+                    <contentPart rend="smallcap">‘Mr. </contentPart>
+                    <contentPart>HOYLE'S | GAME AT WHIST. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>53</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>WHIST.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>D3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>54</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>58</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Laws </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>WHIST.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>D6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>59</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>73</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>WHIST.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>74</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>90</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="italic">Mr. </contentPart>
+                    <contentPart>PAYNE's </contentPart>
+                    <contentPart rend="smallcap">Maxims </contentPart>
+                    <contentPart rend="italic">for </contentPart>
+                    <contentPart>WHIST. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>E1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>74</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E9r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>89</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Maxims </RTPart>
+                    <RTPart rend="italic">for </RTPart>
+                    <RTPart>WHIST.’</RTPart>
+                </RT>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E9v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>90</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>112</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="smallcap">Mr. </contentPart>
+                    <contentPart>HOYLE's | GAME OF QUADRILLE. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>E9v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>90</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>105</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>QUADRILLE.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Quadrille</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>F5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>106</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>108</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Laws </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>QUADRILLE.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>F7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>109</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>111</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Terms </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>QUADRILLE.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>F8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>112</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>122</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="smallcap">The </contentPart>
+                    <contentPart>GAME OF PIQUET | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>F8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>112</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>121</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>PIQUET.’</RTPart>
+                </RT>
+                <subject>
+                    <subject1>Piquet</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>122</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>148</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | [oxford Rule] | </contentPart>
+                    <contentPart rend="smallcap">Mr. </contentPart>
+                    <contentPart>HOYLE's GAME OF PIQUET. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>G1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>122</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>144</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Rules </RTPart>
+                    <RTPart rend="italic">for the </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>PIQUET.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>H1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>145</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H2r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>147</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Laws </RTPart>
+                    <RTPart rend="italic">for the </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>PIQUET.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>148</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>151</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE | GAME OF CHESS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>H2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>148</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>150</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>CHESS.’</RTPart>
+                </RT>
+                <subject>
+                    <subject1>Chess</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>151</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>162</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="smallcap">Rules </contentPart>
+                    <contentPart rend="italic">and </contentPart>
+                    <contentPart rend="smallcap">Observations </contentPart>
+                    <contentPart rend="italic">for </contentPart>
+                    <contentPart>CHESS. | By Mr. HOYLE. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>H4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>151</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H9r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>161</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Rules </RTPart>
+                    <RTPart rend="italic">for </RTPart>
+                    <RTPart>CHESS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Chess</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>H6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>156</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>158</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>CHESS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>H9v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>162</pageRef>
+                    </pageFrom>
+                    <RTPart rend="smallcap">‘Laws </RTPart>
+                    <RTPart rend="italic">at </RTPart>
+                    <RTPart>CHESS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H10r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>163</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[oxford rule] | THE | GAME OF BACK-GAMMON. | [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Backgammon</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>164</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>192</pageRef>
+                    </pageTo>
+                    <contentPart>‘TREATISE OF BACK-GAMMON. | By Mr. HOYLE. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>H10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>164</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>192</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>BACK-GAMMON.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Backgammon</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>I5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>177</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>BACK-GAMMON’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>K1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>193</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>226</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | </contentPart>
+                    <contentPart rend="smallcap">Mr. </contentPart>
+                    <contentPart>PAYNE's | GAME OF DRAUGHTS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>K1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>194</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>226</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>DRAUGHTS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Draughts</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Draughts</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>227</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>230</pageRef>
+                    </pageTo>
+                    <contentPart>‘[oxford rule] | THE LAWS OF CRICKET. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>L6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>228</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>230</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>CRICKET.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Cricket</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Cricket</subject1>
+                    <subject2>laws of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>230</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L10v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>236</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | THE GAME OF TENNIS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>L8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>231</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L10r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>235</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>TENNIS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Tennis</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>L9r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>233</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>TENNIS’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>236</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L11r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>237</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="smallcap">The Game of </contentPart>
+                    <contentPart>QUINZE. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>L11r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>237</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>QUINZE.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Quinze</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>L11r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>237</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>240</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE | GAME OF HAZARD. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>L11r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>237</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>240</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>HAZARD.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Hazard</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>M1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>241</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>M1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>242</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | THE | GAME OF LANSQUENET. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>M1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>242</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>LANSQUENET.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Lansquenet</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>M2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>243</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>288</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | </contentPart>
+                    <contentPart rend="smallcap">Mr. </contentPart>
+                    <contentPart>DEW's | TREATISE ON BILLIARDS‡; | [...] | ‡ This Treatiſe may be
+                        had ſeparate, Price 1s.’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>M2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>244</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>M6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>251</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>BILLIARDS. | </RTPart>
+                    <RTPart rend="smallcap">Rules </RTPart>
+                    <RTPart rend="italic">for the </RTPart>
+                    <RTPart rend="smallcap">White Winning Game.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Billiards</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Billiards</subject1>
+                    <subject2>Dew on</subject2>
+                </subject>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>M6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>252</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>M7r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>253</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>BILLIARDS. | </RTPart>
+                    <RTPart rend="smallcap">Rules </RTPart>
+                    <RTPart rend="italic">for the </RTPart>
+                    <RTPart rend="smallcap">White Losing Game.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>M7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>254</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>M12r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>263</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>BILLIARDS. | </RTPart>
+                    <RTPart rend="smallcap">Carambole Winning Game.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>M12v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>264</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>265</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>BILLIARDS. | </RTPart>
+                    <RTPart rend="smallcap">Carambole Losing Game.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>N1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>266</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>276</pageRef>
+                    </pageTo>
+                    <RTPart>‘FORTIFICATION BILLIARDS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>N3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>270</pageRef>
+                    </pageFrom>
+                    <RTPart>blank</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>N7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>278</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>288</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Odds at Billiards.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>N12v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>288</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>290</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="smallcap">The </contentPart>
+                    <contentPart>GAME OF GOFF, or GOLF, | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>O1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>289</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>290</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart rend="smallcap">Goff, </RTPart>
+                    <RTPart rend="italic">or </RTPart>
+                    <RTPart rend="smallcap">Golf.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Golf</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>290</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | [inverted] ⁂ The Binder is to put the Plate after Page
+                        270. | FINIS.’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>O2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>291</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>O2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>292</pageRef>
+                    </pageTo>
+                    <contentPart>publisher's advertisements</contentPart>
+                </content>
+            </section>
+        </sections>
+        <plates>
+            <plate>
+                <plateRelation>on</plateRelation>
+                <sigRef>K1v</sigRef>
+                <pageRef>194</pageRef>
+                <plateType>woodblock</plateType>
+                <notes>
+                    <note>‘[...] | THE | DRAUGHT TABLE. | [...]’</note>
+                </notes>
+            </plate>
+            <plate>
+                <plateRelation>after</plateRelation>
+                <sigRef>N3v</sigRef>
+                <pageRef>270</pageRef>
+                <plateType>copperplate</plateType>
+                <notes>
+                    <note>bifolium with engravings </note>
+                    <note rend="italic">Plan of Fortification Billiards </note>
+                    <note>and </note>
+                    <note rend="italic">Perspective View of Fortification Billiards.</note>
+                </notes>
+            </plate>
+        </plates>
+        <catchwords>
+            <catchword>
+                <sigRef>G2v</sigRef>
+                <pageRef>124</pageRef>
+                <cwFoot>attemp</cwFoot>
+                <cwHead>attempt</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

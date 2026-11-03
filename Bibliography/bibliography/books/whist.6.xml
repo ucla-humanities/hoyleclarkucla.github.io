@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.6</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-05-16</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.6</idno>
+            <fn>books/whist.6.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>printed for T. Osborne et al</shortImprint>
+            <description>sixth London edition</description>
+            <pubYear>1746</pubYear>
+            <pubDate>1745-11-09</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>6</edition>
+            <issue>1</issue>
+            <categoryID>10</categoryID>
+            <workID>1</workID>
+            <subWorkID>11</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Osborne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>J.</forename>
+                    <surname>Hildyard</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>M.</forename>
+                    <surname>Bryson</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>J.</forename>
+                    <surname>Leake</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Gardner</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>London Evening Post</publication>
+                <pubDate>1745-10-26</pubDate>
+                <notes>
+                    <note>“On the 9th of November will be publiſh'd”</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Pennsylvania Gazette</publication>
+                <pubDate>1747-12-11</pubDate>
+                <notes>
+                    <note>“Also lately imported, and to be sold by B. Franklin, the following books,
+                        viz...Hoyle on Whist.”</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T87541</idno>
+            </bibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>647</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>798</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>28</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>7915.a.46</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>G.Pamph.1311(11)</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.544(1)</shelfmark>
+                <idno>Osborne.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.545(1)</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.546(1)</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.547</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Johnson f.1212</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Copisarow</holder>
+                <idno>Osborne.B</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>CLU-C</holder>
+                <shelfmark>*GV1277.H86 1746</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>CSFU</holder>
+                <shelfmark>GV1277.H89 1746</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>DLC</holder>
+                <shelfmark>GV1277.H89 1746</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.H69 1746</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F46L</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>PPL</holder>
+                <shelfmark>Iu Hoyl Allen 333 no.1</shelfmark>
+                <idno>Osborne.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1241.H6 1746</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1241.H8 A6</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TxU</holder>
+                <shelfmark>GV1277.H89 1746</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1014</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1617</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1685</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1761</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1764</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>2097</shelfmark>
+                <idno>Osborne.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2228</shelfmark>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>Sings</holder>
+                <idno>Osborne.B</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>HAG</holder>
+                <shelfmark>KW 973 L 6 [1]</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>Beauchene</holder>
+                <idno>Osborne.B</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>CtY-BR</holder>
+                <shelfmark>NLp80 742he</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="false">
+                <holder>PP</holder>
+                <shelfmark>A795 H851</shelfmark>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>AuNU</holder>
+                <shelfmark>RB 4646.43</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>AuVSL</holder>
+                <shelfmark>793 H85 (1746)</shelfmark>
+                <idno>Osborne.B</idno>
+                <sequence>1</sequence>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>π</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>G</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>H</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>+</anomType>
+                        <sigRef>C4</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>+</anomType>
+                        <sigRef>E4</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>+</anomType>
+                        <sigRef>H3</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+                <signingErrors>
+                    <signingError>
+                        <sigRef>F2</sigRef>
+                        <badSig>F3</badSig>
+                    </signingError>
+                </signingErrors>
+            </collationFormula>
+            <totalLeaves>43</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>6</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>80</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.6">
+            <titlePart>A SHORT | TREATISE | On the GAME of | WHIST. | CONTAINING | The LAWS
+                of the GAME: | AND ALSO | Some </titlePart>
+            <titlePart rend="smallcap">Rules, </titlePart>
+            <titlePart>whereby a Beginner may, with due | Attention to them, attain to the
+                Playing it well. | </titlePart>
+            <titlePart rend="smallcap">Calculations </titlePart>
+            <titlePart>for thoſe who will Bet the Odds on any Points | of the Score of the
+                Game then playing and depending. | </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>ſtated, to ſhew what may be effected by a very good | Player in
+                Critical Parts of the Game. | </titlePart>
+            <titlePart rend="smallcap">References </titlePart>
+            <titlePart>to </titlePart>
+            <titlePart rend="smallcap">Cases, </titlePart>
+            <titlePart rend="italic">viz. </titlePart>
+            <titlePart>at the End of the Rule you are | directed how to find them. | </titlePart>
+            <titlePart rend="smallcap">Calculations, </titlePart>
+            <titlePart>directing with moral Certainty, how to play | well any Hand or Game,
+                by ſhewing the Chances of your | Partner’s having 1, 2, or 3 certain Cards.
+                | With Variety of </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>added in the Appendix. | [rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmond Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[rule] | The </titlePart>
+            <titlePart rend="smallcap">Sixth Edition. | </titlePart>
+            <titlePart>With great Additions to the Laws of the Game, and an Expla-|nation of
+                the Calculations which are neceſſary to be underſtood | by thoſe who would
+                play it well. | And alſo, never before publiſhed, | A </titlePart>
+            <titlePart rend="smallcap">Dictionary </titlePart>
+            <titlePart>for </titlePart>
+            <titlePart rend="smallcap">Whist, </titlePart>
+            <titlePart rend="italic">which reſolves almoſt | all the critical Caſes that may
+                happen at the Game | </titlePart>
+            <titlePart>To which is added, | An ARTIFICIAL MEMORY: | Or, an eaſy Method of
+                aſſiſting the Memory of thoſe | that play at the GAME of WHIST. | And
+                ſeveral </titlePart>
+            <titlePart rend="smallcap">Cases, </titlePart>
+            <titlePart>not hitherto publiſhed. | [rule] | </titlePart>
+            <titlePart rend="italic">LONDON: </titlePart>
+            <titlePart rend="roman">| Printed for </titlePart>
+            <titlePart rend="smallcap">T. Osborne, </titlePart>
+            <titlePart rend="roman">at </titlePart>
+            <titlePart rend="italic">Gray's Inn; </titlePart>
+            <titlePart rend="smallcap">J. Hild-|yard, </titlePart>
+            <titlePart rend="roman">at </titlePart>
+            <titlePart rend="italic">York; </titlePart>
+            <titlePart rend="smallcap">M. Bryson, </titlePart>
+            <titlePart rend="roman">at </titlePart>
+            <titlePart rend="italic">Newcaſte; </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">J. | Leake, </titlePart>
+            <titlePart rend="roman">at </titlePart>
+            <titlePart rend="italic">Bath, </titlePart>
+            <titlePart rend="roman">M DCC XLVI. | {Price One
+                Shilling.}</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <contentPart>‘ADVERTISEMENT. | [...] | To the READER. | [...] | [autograph of Edmond
+                        Hoyle]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/112240">headpiece</contentPart>
+                    <contentPart> </contentPart>
+                    <contentPart url="https://www.academia.edu/20447484/Thomas_Gardners_Ornament_Stock_A_Checklist_2015_">Spedding</contentPart>
+                    <contentPart> H07] | THE | CONTENTS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <RTPart>‘The CONTENTS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>70</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/112106">headpiece</contentPart>
+                    <contentPart> </contentPart>
+                    <contentPart url="https://www.academia.edu/20447484/Thomas_Gardners_Ornament_Stock_A_Checklist_2015_">Spedding</contentPart>
+                    <contentPart> H09] | A SHORT | TREATISE | On the GAME of | WHIST.
+                        | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>80</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A ſhort </RTPart>
+                    <RTPart rend="smallcap">Treatise </RTPart>
+                    <RTPart rend="italic">on | the </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart rend="smallcap">Whist.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>B2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘the </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">at </RTPart>
+                    <RTPart rend="smallcap">Whist.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>71</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>80</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/112200">headpiece</contentPart>
+                    <contentPart> </contentPart>
+                    <contentPart url="https://www.academia.edu/20447484/Thomas_Gardners_Ornament_Stock_A_Checklist_2015_">Spedding</contentPart>
+                    <contentPart> H09] | </contentPart>
+                    <contentPart rend="smallcap">An | Artificial Memory. | </contentPart>
+                    <contentPart>OR | An Eaſy Method of Aſſiſting the </contentPart>
+                    <contentPart rend="smallcap">Me-|mory </contentPart>
+                    <contentPart>of thoſe that play at the Game | of </contentPart>
+                    <contentPart rend="smallcap">Whist. | </contentPart>
+                    <contentPart>To which are added, | Several </contentPart>
+                    <contentPart rend="smallcap">Cases </contentPart>
+                    <contentPart>not hitherto Publiſh'd. | [...]’</contentPart>
+                </content>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>A2v</sigRef>
+                <cwFoot rend="italic">An</cwFoot>
+                <cwHead>A</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>D5r</sigRef>
+                <pageRef>33</pageRef>
+                <cwFoot rend="italic">Par-</cwFoot>
+                <cwHead>CHAP.</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>E6v</sigRef>
+                <pageRef>48</pageRef>
+                <cwFoot>CHAP.</cwFoot>
+                <cwHead>CAAP.</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>G2r</sigRef>
+                <pageRef>63</pageRef>
+                <cwFoot>[none]</cwFoot>
+                <cwHead>14.</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.D.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-27</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.D.1</idno>
+            <fn>books/whist.d.1.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>printed for George Ewing</shortImprint>
+            <statedEdition>"fourth" edition</statedEdition>
+            <description>first Ewing edition</description>
+            <pubYear>1743</pubYear>
+            <pubDate>1743-04-02</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>60</categoryID>
+            <workID>10</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Ewing</respGroup>
+                <persName>
+                    <forename>George</forename>
+                    <surname>Ewing</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Dublin Gazette</publication>
+                <pubDate>1743-04-02</pubDate>
+                <notes>
+                    <note>“This day is published...price 6d ½”</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="notice">
+                <publication>The London Magazine</publication>
+                <pubDate>1743-03</pubDate>
+                <notes>
+                    <note>In a section called “The Monthly Chronologer for Ireland.” </note>
+                    <note>(</note>
+                    <note url="http://books.google.com/books?id=wV5FAAAAYAAJ&amp;pg=PA158">Google</note>
+                    <note>)</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>6.5</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+                <evidence>notice</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>N24789</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>11</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.540</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>CSmH</holder>
+                <shelfmark>371549</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1581</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Lll</holder>
+                <shelfmark>uncat</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CtY-BR</holder>
+                <shelfmark>GV1277.H89 1743</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LU</holder>
+                <shelfmark>GV1243.H7</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The text is taken from </note>
+            <note url="whist.3.xml">Whist.3</note>
+            <note>, the third London edition. Ewing followed a practice of incrementing the London
+                edition by one to create a "fourth" edition.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>C</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>D</sigStart>
+                        <leaves>10</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>36</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>1</start>
+                        <end>67</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>68</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.d.1">
+            <titlePart>A SHORT | TREATISE | On the </titlePart>
+            <titlePart rend="smallcap">Game </titlePart>
+            <titlePart>of | WHIST. | CONTAINING | The LAWS of the GAME: | AND ALSO | Some </titlePart>
+            <titlePart rend="smallcap">Rules, </titlePart>
+            <titlePart>whereby a Beginner | may, with due Attention to them, | attain to the
+                Playing it well. | </titlePart>
+            <titlePart rend="smallcap">Calculations </titlePart>
+            <titlePart>for thoſe who will Bet | the Odds on any Point of the Score of the |
+                Game then playing and depending. | </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>ſtated, to ſhew what may be effected | by a very good Player in
+                Critical Parts of | the Game. | </titlePart>
+            <titlePart rend="smallcap">References </titlePart>
+            <titlePart>to </titlePart>
+            <titlePart rend="smallcap">Cases, </titlePart>
+            <titlePart rend="italic">viz. </titlePart>
+            <titlePart>at the | End of the Rule you are directed how to | find them. | </titlePart>
+            <titlePart rend="smallcap">Calculations, </titlePart>
+            <titlePart>directing with moral | Certainty, how to play well any Hand or |
+                Game, by ſhewing the Chances of your | Partner’s having 1, 2, or 3 Certain
+                Cards. | With variety of Caſes added in the </titlePart>
+            <titlePart rend="smallcap">Appendix. </titlePart>
+            <titlePart>| [rule] | By </titlePart>
+            <titlePart rend="italic">EDMUND HOYLE, </titlePart>
+            <titlePart>Gent. | [rule] | THE FOURTH EDITION. | With great Additions to the </titlePart>
+            <titlePart rend="italic">Laws of the Game, </titlePart>
+            <titlePart>and an Expla-|nation of the Calculations which are neceſſary to be
+                under-|ſtood by thoſe who would play it well, </titlePart>
+            <titlePart rend="italic">&amp;c. &amp;c. </titlePart>
+            <titlePart>| [rule] | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for GEORGE EWING at the | </titlePart>
+            <titlePart rend="italic">Angel </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="italic">Bible </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-ſtreet, </titlePart>
+            <titlePart>1743.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <contentPart>‘[reverse oxford rule] | THE | CONTENTS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <RTPart>‘CONTENTS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D10r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>67</pageRef>
+                    </pageTo>
+                    <contentPart>‘[row of type orn] | A SHORT | TREATISE | On the </contentPart>
+                    <contentPart rend="smallcap">Game </contentPart>
+                    <contentPart>of | WHIST. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>68</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>A2r</sigRef>
+                <cwFoot rend="smallcap">Chap.</cwFoot>
+                <cwHead rend="italic">rections</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>B12r</sigRef>
+                <pageRef>23</pageRef>
+                <cwFoot rend="smallcap">Particular</cwFoot>
+                <cwHead>CHAP.</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>D4r</sigRef>
+                <pageRef>55</pageRef>
+                <cwFoot>In</cwFoot>
+                <cwHead>II. In</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

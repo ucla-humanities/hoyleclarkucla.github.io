@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Pigott.2.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-19</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pigott.2.2</idno>
+			<fn>books/pigott.2.2.xml</fn>
+			<shortTitle>Pigott's New Hoyle</shortTitle>
+			<shortImprint>printed for James Ridgway</shortImprint>
+			<statedEdition>"fifth" edition</statedEdition>
+			<description>second London edition, second issue</description>
+			<pubYear>1800</pubYear>
+			<pubDate>1799-11-12</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>2</edition>
+			<issue>2</issue>
+			<categoryID>30</categoryID>
+			<workID>90</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Pigott</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Samuel</forename>
+					<surname>Gosnell</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>James</forename>
+					<surname>Ridgway</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Courier and Evening Gazette</publication>
+				<pubDate>1799-11-12</pubDate>
+				<notes>
+					<note>"A new edition, being the fifth, corrected to the present time, of Pigot's
+						New Hoyle...By Charles Pigott, Esq. Member of the Jockey Club, &amp;c.
+						&amp;c. Price only 3s. bound."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>3</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<note>bound</note>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T87521</idno>
+			</bibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>1334</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>79</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>L</holder>
+				<shelfmark>7915.de.85</shelfmark>
+				<surrogate url="https://books.google.com/books?id=Ax9dAAAAcAAJ">Google</surrogate>
+				<notes>
+					<note> (lacking U6)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.615</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>NvLN</holder>
+				<shelfmark>GV1201.P55 1800</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H G0P</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>0140</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>This is a reissue of </note>
+			<note url="pigott.2.1.xml">Pigott.2.1</note>
+			<note> with a cancel title. It is not clear whether Samuel Gosnell printed the entire
+				text or just the cancel title which bears his colophon.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation usesU="true">
+			<format>18</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>π</sigStart>
+						<leaves>2</leaves>
+						<alteration>
+							<alterationType>±</alterationType>
+							<sigRef>π1</sigRef>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>2</leaves>
+						<alteration>
+							<alterationType>+</alterationType>
+							<sigRef>A2</sigRef>
+							<count>1</count>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>U</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>119</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>i</start>
+						<end>iii</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>iv</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>v</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>vi</start>
+						<end>x</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>226</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>227</start>
+						<end>228</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="pigott.2.2">
+			<titlePart rend="italic">PIGOTT's | </titlePart>
+			<titlePart>NEW HOYLE; | OR, THE | GENERAL REPOSITORY OF | GAMES: | CONTAINING | </titlePart>
+			<titlePart rend="italic">Rules and Inſtructions for playing | </titlePart>
+			<titlePart>[seven lines to left] WHIST, | PIQUET, | QUINZE, | GOFF, | DRAUGHTS,
+				| CRICKET, | QUADRILLE, | [seven lines in center] FARO, | HAZARD, | ROUGE ET
+				NOIR, | LANSQUENET, | BACKGAMMON, | CHESS, | TENNIS, | [seven lines to right]
+				CRIBBAGE, | CASSINO, | CONNEXIONS, | ALL FOUR, | PUT, | MATRIMONY, | &amp;c.
+				&amp;c. | With Tables of Odds, Calculations for betting advantageouſly, |
+				and their Laws as eſtabliſhed at </titlePart>
+			<titlePart rend="italic">Brookes'</titlePart>
+			<titlePart>s, </titlePart>
+			<titlePart rend="italic">White'</titlePart>
+			<titlePart>s, </titlePart>
+			<titlePart rend="italic">D'Aubigny'</titlePart>
+			<titlePart>s, | </titlePart>
+			<titlePart rend="italic">Sçavoir Vivre, Miles'</titlePart>
+			<titlePart>s, </titlePart>
+			<titlePart rend="italic">Paynes'</titlePart>
+			<titlePart>s, </titlePart>
+			<titlePart rend="italic">Phillips'</titlePart>
+			<titlePart>s, the </titlePart>
+			<titlePart rend="italic">Jockey Club, | </titlePart>
+			<titlePart>and every other faſhionable Subſcription Houſe. | </titlePart>
+			<titlePart>By CHARLES PIGOTT, </titlePart>
+			<titlePart rend="smallcap">Esq. | </titlePart>
+			<titlePart>The Fifth Edition, Corrected and Enlarged. | To which is added, an
+				Epitome of the Statute Laws on Gaming; | with the different Caſes of
+				conteſted Betts, Bonds, and other | Securities, which have been legally
+				argued and determined. | [short decorative rule] | LONDON: | Printed for </titlePart>
+			<titlePart rend="smallcap">James Ridgway, </titlePart>
+			<titlePart>York-Street, | St. James's Square. | 1800. | </titlePart>
+			<titlePart>[inverted] &#8258; </titlePart>
+			<titlePart rend="italic">The Public are reſpectfully cautioned to be particular
+				in | aſking for </titlePart>
+			<titlePart>PIGOTT'</titlePart>
+			<titlePart rend="italic">s </titlePart>
+			<titlePart>NEW HOYLE, </titlePart>
+			<titlePart rend="italic">as an inſidious attempt | has been made to introduce a </titlePart>
+			<titlePart>mutilated </titlePart>
+			<titlePart rend="italic">edition of this work into | circulation.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+
+				<!-- DONE TO HERE -->
+
+
+
+
+				<content>
+					<sigFrom>
+						<sigRef>π1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>ii</pageRef>
+					</pageFrom>
+					<contentPart>‘[inverted] &#8258; </contentPart>
+					<contentPart rend="italic">The exporter of this work will be entitled | to a </contentPart>
+					<contentPart>DRAWBACK, </contentPart>
+					<contentPart rend="italic">as the paper on which it is | printed is marked
+						according to Act of Parliament. | </contentPart>
+					<contentPart>[colophon]’</contentPart>
+				</content>
+				<subject>
+					<subject1>Paper</subject1>
+					<subject2>drawback</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>U6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>228</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="pigott.2.1.xml">Pigott.2.1</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>π2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iv</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>U6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>228</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="pigott.2.1.xml">Pigott.2.1</RTPart>
+				</RT>
+			</section>
+		</sections>
+		<plates>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>L4r</sigRef>
+				<pageRef>115</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note rend="smallcap">‘The Draught Table’</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘Printed by </note>
+				<note rend="smallcap">S. Gosnell, | </note>
+				<note>Little Queen Street, Hoborn.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

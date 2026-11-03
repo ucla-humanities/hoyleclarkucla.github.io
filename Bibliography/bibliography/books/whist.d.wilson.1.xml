@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>source text?</todo>
+    <fileDesc>
+        <title>Whist.D.Wilson.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-30</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.D.Wilson.1</idno>
+            <fn>books/whist.d.wilson.1.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>printed for Peter Wilson</shortImprint>
+            <statedEdition>"fifth" edition</statedEdition>
+            <description>first Wilson edition, first issue</description>
+            <pubYear>1752</pubYear>
+            <pubDate>1752-02-17</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>60</categoryID>
+            <workID>20</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Peter</forename>
+                    <surname>Wilson</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Dublin Edsall News Letter</publication>
+                <pubDate>1752-02-17</pubDate>
+                <notes>
+                    <note>“This day is published, by Peter Wilson, opposite the old Horse Guard, in
+                        Dame-Street, [Price a British Shilling,] The Polite Gamester: containing
+                        short treatises on the games of whist quadrille, back-gammon, piquet and
+                        chess; together with an artificial memory; or, an easy method of assisting
+                        the memory of those that play at the game of whist; By Edmund Hoyle,
+                        Gent.--Note, his treatise on the game of whist with his artificial memory,
+                        may be had stitched together. Price 4d.”</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>4</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <holdings>
+            <holding isSeen="true" isCollection="true">
+                <holder>Copisarow</holder>
+                <idno>Polite.Wilson</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1770</shelfmark>
+                <idno>Polite.Wilson</idno>
+                <sequence>1</sequence>
+            </holding>
+        </holdings>
+        <notes>
+            <note>This is the first of two issues of Wilson's </note>
+            <note rend="italic">Whist</note>
+            <note>. </note>
+            <note url="whist.d.wilson.2.xml">Whist.D.Wilson.2</note>
+            <note> is distinguished by the inserted F gathering. From the
+                advertisement it appears that the two treatises, </note>
+            <note rend="italic">Whist </note>
+            <note>and </note>
+            <note rend="italic">Memory </note>
+            <note>were sold as a single volume. No copies of the first issue survive, except as included in </note>
+            <note url="polite.wilson.xml">Polite.Wilson</note>
+            <note>.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>D</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>E</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>2</dupSeq>
+                        <sigStart>A</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>25</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>38</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>2</dupSeq>
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <dupSeq>2</dupSeq>
+                        <start>4</start>
+                        <end>8</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.d.wilson.1">
+            <titlePart>A SHORT | TREATISE | On the </titlePart>
+            <titlePart rend="smallcap">Game </titlePart>
+            <titlePart>of | WHIST. | CONTAINING | The LAWS of the GAME: | AND ALSO | Some </titlePart>
+            <titlePart rend="smallcap">Rules, </titlePart>
+            <titlePart>whereby a Beginner | may, with due Attention to them, attain to the |
+                Playing it well. | </titlePart>
+            <titlePart rend="smallcap">Calculations </titlePart>
+            <titlePart>for thoſe who will | Bet the Odds on any Point of the Score of the |
+                Game then playing and depending. | </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>ſtated, to ſhew what may be | effected by a very good Player in
+                Critical Parts of | the Game. | </titlePart>
+            <titlePart rend="smallcap">References </titlePart>
+            <titlePart>to </titlePart>
+            <titlePart rend="smallcap">Cases, </titlePart>
+            <titlePart rend="italic">viz. </titlePart>
+            <titlePart>at the | End of the Rule you are directed how to find them. | </titlePart>
+            <titlePart rend="smallcap">Calculations, </titlePart>
+            <titlePart>directing with moral | Certainty, how to play well any Hand or Game,
+                | by ſhewing the Chances of your Partner’s having | 1, 2, or 3 Certain
+                Cards. | With variety of </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>added in the </titlePart>
+            <titlePart rend="smallcap">Appendix. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmund Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[rule] | THE FIFTH EDITION. | With great Additions to the </titlePart>
+            <titlePart rend="italic">Laws of the Game, </titlePart>
+            <titlePart>and an Ex-|planation of the Calculations which are neceſſary to be |
+                underſtood by thoſe who would play it well, </titlePart>
+            <titlePart rend="italic">&amp;c. &amp;c. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">Peter Wilson, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-ſtreet, | </titlePart>
+            <titlePart>M,DCC,LII.</titlePart>
+        </titlePage>
+        <titlePage titleType="section" sectionID="Memory" imageFN="whist.d.wilson.1.memory">
+            <titlePart>AN | Artificial Memory. | OR, AN | EASY METHOD | OF | Aſſiſting the </titlePart>
+            <titlePart rend="smallcap">Memory </titlePart>
+            <titlePart>of thoſe | that play at the Game of </titlePart>
+            <titlePart rend="smallcap">Whist. | </titlePart>
+            <titlePart>To which are added, | Several </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>not hitherto publiſh'd. | [rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmund Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[double rule] | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">Peter Wilson, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-Street, | </titlePart>
+            <titlePart>M,DCC,LII.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <contentPart>‘[double rule] | The | CONTENTS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <RTPart>‘The CONTENTS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>38</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | A SHORT | TREATISE | On the </contentPart>
+                    <contentPart rend="smallcap">Game </contentPart>
+                    <contentPart>of | WHIST. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>section title memory</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | AN | Artificial Memory. | OR, | An eaſy Method of
+                        aſſiſting the </contentPart>
+                    <contentPart rend="smallcap">Memory </contentPart>
+                    <contentPart>of thoſe | that play at the Game of WHIST. | [...]’</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

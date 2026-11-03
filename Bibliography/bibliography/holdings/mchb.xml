@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\mchb.xml</fn><home>../index.xml</home></footer><id>MChB</id><fn>mchb</fn><name>Boston College, Burns Library</name><location>Chesnut Hill, Massachusetts</location><books><book><id>Waite.1.1</id><fn>../books/waite.1.1.xml</fn><shortTitle>Hoyle's Games Improved</shortTitle><shortImprint>printed by G. &amp; R. Waite</shortImprint><description>first American edition, first issue</description><pubDate>1816</pubDate><shelfmarks><shelfmark>GV1243.H88 1816</shelfmark></shelfmarks></book></books></holder>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Brag.1.xml</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-05-11</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Brag.1</idno>
+            <fn>books/brag.1.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Brag</shortTitle>
+            <shortImprint>printed for and sold by J. Jolliffe</shortImprint>
+            <description>first London edition</description>
+            <pubYear>1751</pubYear>
+            <pubDate>1751-01-18</pubDate>
+            <evidence>Stationers' Register</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            			<categoryID>10</categoryID>
+            <workID>7</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Joliffe</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Hughs</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>General Advertiser</publication>
+                <pubDate>1751-01-22</pubDate>
+                <notes>
+                    <note>"This day is published, A Treatise on Bragg by Mr. Hoyle...Sold by J.
+                        Jolliffe...At the same place may be had, neatly printed to frame, The Laws on
+                        Bragg separate, price 2s. 6d. Where subscribers may have their books on
+                        sending their receipts. &#9758;The books and laws are sign'd by the author, and
+                        whoever pyrates or sells any pyratical edition will be prosecuted, they
+                        being enter'd in the Hall Books."</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Whitehall Evening Post or London Intelligencer</publication>
+                <pubDate>1751-02-28</pubDate>
+                <notes>
+                    <note>"Having purchas'd the copies of Mr. Hoyle's Game, and Laws of Brag; the
+                        Game may be had at 2s. 6d. and the laws at 1s. of John Jolliffe, in St.
+                        James's-Street. N. B. To prevent pyracy, Mr. Hoyle has sign'd them both with
+                        his name."</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="notice">
+                <publication>London Magazine</publication>
+                <pubDate>1751-02</pubDate>
+                <notes>
+                    <note>(</note>
+                    <note url="http://books.google.com/books?id=NvwqAAAAYAAJ&amp;pg=PA96"
+                        >Google</note>
+                    <note>)</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>10</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>inferred</evidence>
+            </price>
+            <price>
+                <priceComponent>
+                    <amount>2</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T48219</idno>
+            </bibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>669</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>792</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>34</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>1040.b.40(2)</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.585</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CtY-LW</holder>
+                <shelfmark>49 1608 68:1</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LU</holder>
+                <shelfmark>GV1251.H72</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>I have found no advertisements offering the book by subscription. Hoyle registered
+                the work at Stationers' Hall on 1751-01-18, but the imprint and February
+                advertisement show that Jolliffe had purchased the copyright. An advertisement for
+                the Dublin </note>
+            <note url="brag.d.1.xml">reprint</note>
+            <note> indicates that the price of the London edition was half a guinea. For further
+                discussion see the </note>
+            <note
+                url="http://edmondhoyle.blogspot.com/2011/11/short-treatise-on-game-of-brag-1751.html"
+                >essay</note>
+            <note> "A Short Treatise on the Game of Brag (1751)".</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>C</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>D</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>B3</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>22</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>1</start>
+                        <end>40</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>A Short | TREATISE | OF THE | </titlePart>
+            <titlePart rend="smallcap">Game </titlePart>
+            <titlePart>of BRAG, | Containing the | LAWS of the GAME. | ALSO | CALCULATIONS,
+                ſhewing | the Odds of winning or loſing | certain Hands dealt. | [rule] | By
+                Mr. </titlePart>
+            <titlePart rend="italic">EDMOND HOYLE | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">LONDON: | </titlePart>
+            <titlePart>Printed for and Sold by </titlePart>
+            <titlePart rend="smallcap">J. Jolliffe, </titlePart>
+            <titlePart>Book-|ſeller, next to </titlePart>
+            <titlePart rend="italic">White’s </titlePart>
+            <titlePart>Chocolate-Houſe | in St. </titlePart>
+            <titlePart rend="italic">James’s-Street, </titlePart>
+            <titlePart>1751. | ☞</titlePart>
+            <titlePart rend="italic">The Laws of the Game of Brag, ſigned by | Mr. </titlePart>
+            <titlePart>Hoyle,</titlePart>
+            <titlePart rend="italic"> are ſold ſeparately at the ſame | Place, for Half a
+                Crown.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title page</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <contentPart>‘CONTENTS | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>40</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | [double rule] | A Short | TREATISE | OF THE | </contentPart>
+                    <contentPart rend="smallcap">Game </contentPart>
+                    <contentPart>of BRAG. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Brag</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Stationers' Hall</subject1>
+                    <subject2>entered at</subject2>
+                </subject>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>B3r</sigRef>
+                <pageRef>5</pageRef>
+                <cwFoot>[none]</cwFoot>
+                <cwHead>2</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>B4v</sigRef>
+                <pageRef>8</pageRef>
+                <cwFoot>[none]</cwFoot>
+                <cwHead>by</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>D4r</sigRef>
+                <pageRef>39</pageRef>
+                <cwFoot>[none]</cwFoot>
+                <cwHead>The</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Jones.2-1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2018-06-02</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.2-1</idno>
+            <fn>books/jones.2-1.xml</fn>
+            <shortTitle>A Treatise on Billiards</shortTitle>
+            <shortImprint>printed for J. F. and C. Rivington et al</shortImprint>
+            <description>extracted from second London edition</description>
+            <pubYear>1779</pubYear>
+            <pubDate>1779-11-13</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>2</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <respGroup seq="2">Rivington</respGroup>
+                <orgName>J. F. and C. Rivington</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Wilkie</respGroup>
+                <persName>
+                    <forename>John</forename>
+                    <surname>Wilkie</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Payne</respGroup>
+                <orgName>T. Payne and Son</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Stanley</forename>
+                    <surname>Crowder</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Baldwin</respGroup>
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Baldwin I</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Lowndes</respGroup>
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Caslon</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Bedwell</forename>
+                    <surname>Law</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Newbery</respGroup>
+                <persName>
+                    <forename>Francis</forename>
+                    <surname>Newbery</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Domville</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Domville</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Davis</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Ridley</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Goldsmith</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>London Chronicle</publication>
+                <pubDate>1779-11-13</pubDate>
+                <notes>
+                    <note>"This day was published, a new edition, in 12mo, price 3s. only...Notes
+                        are given to illustrate the games by Hoyle; and those marked * are
+                        additional improvements...N. B. Mr. Dew's Treatise on Billiards may be had
+                        separate, price 1s. sewed."</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T199877</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>C.106.b.26</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="false">
+                <holder>CLU-S/C</holder>
+                <shelfmark>Delta GV891.D51t</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CSmH</holder>
+                <shelfmark>345985</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DeWint</holder>
+                <shelfmark>GV891.D51</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>B</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>C</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>26</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>4</start>
+                        <end>52</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <!-- CONTINUE -->
+        <titlePage titleType="title">
+            <titlePart>A TREATISE ON | BILLIARDS, | WITH | INSTRUCTIONS and RULES | For the
+                following </titlePart>
+            <titlePart rend="smallcap">Games; </titlePart>
+            <titlePart rend="italic">viz. | </titlePart>
+            <titlePart>[six lines to left of double rule] The White Winning | Game. | The
+                White Loſing | Game. | The Red or Carambole | Winning Game. | [six lines to
+                right of double rule] The Red Loſing Game. | Fortification Billiards, | with
+                Rules and Re-|gulations for every | Method of playing | the Game. |
+                COMPREHENDING | The original </titlePart>
+            <titlePart rend="smallcap">Rules, </titlePart>
+            <titlePart>regulated as they are now played, | and more fully explained and
+                enlarged; | WITH | </titlePart>
+            <titlePart rend="smallcap">Directions </titlePart>
+            <titlePart>for the Conduct of the </titlePart>
+            <titlePart rend="smallcap">Players </titlePart>
+            <titlePart>and of the | </titlePart>
+            <titlePart rend="smallcap">Betters, </titlePart>
+            <titlePart rend="italic">&amp;c. </titlePart>
+            <titlePart>never before publiſhed. | TO WHICH ARE ADDED, | The Common </titlePart>
+            <titlePart rend="smallcap">Odds </titlePart>
+            <titlePart>which are laid on the </titlePart>
+            <titlePart rend="smallcap">Ha-|zards, </titlePart>
+            <titlePart>as well as on the Game at </titlePart>
+            <titlePart rend="smallcap">Billiards, | </titlePart>
+            <titlePart>from One Point being given, to Six, incluſive. | By JOHN DEW, a
+                Marker, | Well known to be experienced in the practical as well as |
+                theoretical Parts of Billiards, upwards of Thirty Years. | [oxford rule] |
+                LONDON: | Printed for J. F. and C. </titlePart>
+            <titlePart rend="smallcap">Rivington, </titlePart>
+            <titlePart>and J. </titlePart>
+            <titlePart rend="smallcap">Wilkie, </titlePart>
+            <titlePart>St. | Paul’s Church-Yard; T. </titlePart>
+            <titlePart rend="smallcap">Payne, </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">Son, </titlePart>
+            <titlePart>St. Martin’s-|Lane; S. </titlePart>
+            <titlePart rend="smallcap">Crowder, </titlePart>
+            <titlePart>and R. </titlePart>
+            <titlePart rend="smallcap">Baldwin, </titlePart>
+            <titlePart>Pater-noſter-|Row; T. </titlePart>
+            <titlePart rend="smallcap">Lowndes, </titlePart>
+            <titlePart>in Fleet-Street; T. </titlePart>
+            <titlePart rend="smallcap">Caslon, </titlePart>
+            <titlePart>and | B. </titlePart>
+            <titlePart rend="smallcap">Law, </titlePart>
+            <titlePart>Avemary-Lane; F. </titlePart>
+            <titlePart rend="smallcap">Newbery, </titlePart>
+            <titlePart>Ludgate-|Street; W. </titlePart>
+            <titlePart rend="smallcap">Domville, </titlePart>
+            <titlePart>Royal-Exchange; W. </titlePart>
+            <titlePart rend="smallcap">Davis, </titlePart>
+            <titlePart>| Piccadilly; J. </titlePart>
+            <titlePart rend="smallcap">Ridley, </titlePart>
+            <titlePart>St. James’s Street; and W. | </titlePart>
+            <titlePart rend="smallcap">Goldsmith, </titlePart>
+            <titlePart>Pater-noſter-Row. 1779. | {PRICE ONE
+                SHILLING.}</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>52</pageRef>
+                    </pageTo>
+                    <contentPart>‘[oxford rule] | A | TREATISE | ON | BILLIARDS. |
+                        [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A7r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>13</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>BILLIARDS. | </RTPart>
+                    <RTPart rend="smallcap">Rules </RTPart>
+                    <RTPart rend="italic">for the </RTPart>
+                    <RTPart rend="smallcap">White Winning Game.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Billiards</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Billiards</subject1>
+                    <subject2>Dew on</subject2>
+                </subject>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>14</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>15</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>BILLIARDS. | </RTPart>
+                    <RTPart rend="smallcap">Rules </RTPart>
+                    <RTPart rend="italic">for the </RTPart>
+                    <RTPart rend="smallcap">White Losing Game.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>16</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A12r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>23</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>BILLIARDS. | </RTPart>
+                    <RTPart rend="smallcap">Carambole Winning Game.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A12v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>24</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>29</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘The </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart>BILLIARDS. | </RTPart>
+                    <RTPart rend="smallcap">Carambole Losing Game.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>30</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>40</pageRef>
+                    </pageTo>
+                    <RTPart>‘FORTIFICATION BILLIARDS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>C2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>52</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | The Binder is to put the Plate after | Page 34. |
+                        FINIS.’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B9r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>41</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>52</pageRef>
+                    </pageTo>
+                    <RTPart>‘ODDS AT BILLIARDS.’</RTPart>
+                </RT>
+            </section>
+        </sections>
+        <plates>
+            <plate>
+                <plateRelation>after</plateRelation>
+                <sigRef>B5v</sigRef>
+                <pageRef>34</pageRef>
+                <plateType>copperplate</plateType>
+                <notes>
+                    <note>bifolium with engravings </note>
+                    <note rend="italic">Plan of Fortification Billiards </note>
+                    <note>and </note>
+                    <note rend="italic">Perspective View of Fortification Billiards.</note>
+                </notes>
+            </plate>
+        </plates>
+        <catchwords>
+            <catchword>
+                <sigRef>A5r</sigRef>
+                <pageRef>9</pageRef>
+                <cwFoot>XXX</cwFoot>
+                <cwHead>XXXI.</cwHead>
+            </catchword>
+        </catchwords>
+        <pressFigures>
+            <pressFigure>
+                <sigRef>A8r</sigRef>
+                <pageRef>15</pageRef>
+                <forme>i</forme>
+                <mark>6</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>B7r</sigRef>
+                <pageRef>37</pageRef>
+                <forme>o</forme>
+                <mark>1</mark>
+            </pressFigure>
+        </pressFigures>
+    </text>
+</entry>

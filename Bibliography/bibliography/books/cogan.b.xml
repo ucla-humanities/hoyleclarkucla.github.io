@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Cogan.B</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-12-21</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Cogan.B</idno>
+            <fn>books/cogan.b.xml</fn>
+            <shortTitle>Collection</shortTitle>
+            <shortImprint>printed for F. Cogan</shortImprint>
+            <description>second collection</description>
+            <pubYear>1743</pubYear>
+            <pubDate>1743-11-17</pubDate>
+            <evidence>included work</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>20</categoryID>
+            <workID>1</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <collectedParts>
+            <collectedPart>
+                <idno>Whist.4</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Memory.1</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Backgammon.1</idno>
+            </collectedPart>
+        </collectedParts>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Francis</forename>
+                    <surname>Cogan</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1537</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>For the story of the Cogan collections see the </note>
+            <note
+                url="http://edmondhoyle.blogspot.com/2011/10/were-there-cogan-collections-of-hoyle.html"
+                >essay</note>
+            <note> "Were there Cogan collections of Hoyle?"</note>
+        </notes>
+    </bookDesc>
+</entry>

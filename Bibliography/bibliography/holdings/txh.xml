@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\txh.xml</fn><home>../index.xml</home></footer><id>TxH</id><fn>txh</fn><name>Houston Public Library</name><location>Houston, Texas</location><books><book><id>Long.2</id><fn>../books/long.2.xml</fn><shortTitle>Hoyle's Games Improved</shortTitle><shortImprint>printed and published by George Long</shortImprint><description>second American edition</description><pubDate>1823</pubDate><shelfmarks><shelfmark>795 H</shelfmark></shelfmarks></book></books></holder>

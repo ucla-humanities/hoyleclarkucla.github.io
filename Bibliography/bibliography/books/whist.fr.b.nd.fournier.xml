@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Fr.B.nd.Fournier</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-30</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.B.nd.Fournier</idno>
+            <fn>books/whist.fr.b.nd.fournier.xml</fn>
+            <shortTitle>Traité du Jeu du Whisk</shortTitle>
+            <shortImprint>Chez Fournier</shortImprint>
+            <pubYear>nd</pubYear>
+            <pubDate>1790</pubDate>
+            <evidence>inferred</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <orgName>Chez Fournier</orgName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.588</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2186</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The is a separately published section from one of the various editions of Fournier's </note>
+            <note rend="italic">Almanach des Jeux.</note>
+            <note rend="paragraph"/>
+            <note>Translation "B++" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation isNumeric="true">
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>1</sigStart>
+                        <sigEnd>4</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>5</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1,2,5</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>5.2</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>5.5</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+                <signaturePattern>$2 as $*, $5 as $**</signaturePattern>
+            </collationFormula>
+            <totalLeaves>54</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>4</start>
+                        <end>6</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>7</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>8</start>
+                        <end>102</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>103</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>104</start>
+                        <end>106</end>
+                    </pageRange>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>2</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.fr.b.nd.fournier">
+            <titlePart>TRAITÉ | DU JEU | DU | WHISK, | </titlePart>
+            <titlePart rend="smallcap">Contenant </titlePart>
+            <titlePart>les Lois de ce Jeu, ses Règles | tant générales que particulières et
+                les | différentes manières de le jouer. | [short rule] | A PARIS, | Chez </titlePart>
+            <titlePart rend="smallcap">Fournier, </titlePart>
+            <titlePart>Libraire, rue Neuve-|Notre-Dame</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>1.3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>6</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | INTRODUCTION. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>1.2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>1.3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>6</pageRef>
+                    </pageTo>
+                    <RTPart>‘INTRODUCTION.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>7</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>5.3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>102</pageRef>
+                    </pageTo>
+                    <contentPart>‘TRAITÉ | DU JEU | DU WHISK, | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>1.4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>8</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>5.3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>101</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Traité du Jeu | du Whisk.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>5.1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>98</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Règles du Jeu.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>5.3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>102</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Traité du Jeu de Whisk.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>5.4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>103</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>5.5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | Table | DES CHAPTIRES | DU JEU DE WHISK. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>5.4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>104</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>5.5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>105</pageRef>
+                    </pageTo>
+                    <RTPart>‘Table | des Chapitres.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>5.5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>106</pageRef>
+                    </pageFrom>
+                    <RTPart>‘Table des Chapitres.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>5.6r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>5.6v</sigRef>
+                    </sigTo>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

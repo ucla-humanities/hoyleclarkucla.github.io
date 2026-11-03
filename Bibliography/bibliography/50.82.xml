@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="books/xsl/title.xsl"?>
+<work><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>bibliography/50.82.xml</fn><home>index.xml</home></footer><shortTitle>printed for C. S. Johnson</shortTitle><subWork><name>Whist</name><books><book><idno>Johnson.Whist.1850</idno><fn>books/johnson.whist.1850.xml</fn><shortTitle>Short Rules for Whist</shortTitle><shortImprint>printed and published by W. S. Johnson</shortImprint><pubYear>1850</pubYear><pubDate>1850</pubDate><evidence>title</evidence><edition>1</edition><issue>1</issue><categoryID>50</categoryID><workID>82</workID><subWorkID>10</subWorkID><textLang>en</textLang></book></books></subWork></work>

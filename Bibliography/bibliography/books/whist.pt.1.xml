@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Pt.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Pt.1</idno>
+            <fn>books/whist.pt.1.xml</fn>
+            <shortTitle>Breve Tratado do Jogo do Whist</shortTitle>
+            <shortImprint>Na Regia Officina Sylviana</shortImprint>
+            <description>first edition</description>
+            <pubYear>1753</pubYear>
+            <pubDate>1753</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>60</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>pt</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="translator">
+                <persName>
+                    <forename>Luiz de Vasconcellos</forename>
+                    <surname>Botelho</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Sylviana</orgName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1865</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>private-Europe</holder>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>I</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>K</sigStart>
+                        <leaves>8</leaves>
+                        <alteration>
+                            <alterationType>−</alterationType>
+                            <sigRef>K6</sigRef>
+                        </alteration>
+                        <alteration>
+                            <alterationType>−</alterationType>
+                            <sigRef>K7</sigRef>
+                        </alteration>
+                        <alteration>
+                            <alterationType>−</alterationType>
+                            <sigRef>K8</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–2</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>77</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>6</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>1</start>
+                        <end>148</end>
+                    </pageRange>
+                </pageRanges>
+                <pagingErrors>
+                    <pagingError>
+                        <start>90</start>
+                        <badPage>80</badPage>
+                    </pagingError>
+                </pagingErrors>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.pt.1">
+            <titlePart>BREVE TRATADO | DO JOGO | DO | WHIST, | </titlePart>
+            <titlePart rend="italic">Traduzido da lingua Ingleza | na Portugeueza, | </titlePart>
+            <titlePart>POR | LUIZ DE VASCONCELLOS | BOTELHO. | [tailpiece] | Na Regia Officina SYLVIANA, | e da Academia Real. | [rule] | M. DCC. LIII. | </titlePart>
+            <titlePart rend="italic">Com todas licenças neceſſarias.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A3v</sigRef>
+                    </sigTo>
+                    <contentPart>‘BREVE TRATADO | DO JOGO | DO | WHIST. | A QUEMLER. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <contentPart>‘BREVE TRATADO | DO JOGO | DO | WHIST, | QUE CONTEM AS LEYS DO JOGO, | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Breve Tradtado | do Jogo do Whist.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>9</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>19</pageRef>
+                    </pageTo>
+                    <contentPart>‘BREVE TRATADO | DO JOGO | DO | WHIST. | [...] | CALCULAÇAÕ, | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>10</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>19</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Breve Tradtado | do Jogo do Whist.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>20</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>142</pageRef>
+                    </pageTo>
+                    <contentPart>‘CAPITULO I. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>20</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>142</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Breve Tradtado | do Jogo do Whist.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>K3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>143</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>144</pageRef>
+                    </pageTo>
+                    <contentPart>‘LICENÇAS. | Do Santo Officio. | [...] 14 de Setembro | de 1752. | [...] 15 de Setem-|bro de 1752. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>K4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>145</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>146</pageRef>
+                    </pageTo>
+                    <contentPart>‘Do Ordinario. | [...] 22 de Setembro | de 1752. | [...] 25 de Setembro de | 1752. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>K5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>147</pageRef>
+                    </pageFrom>
+                    <contentPart>‘Do Deſembargo do Paço. | [...] 7 de Outubro de 1752. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>K5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>148</pageRef>
+                    </pageFrom>
+                    <contentPart>Imprimatur dated 1752-10-12</contentPart>
+                </content>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>G7r</sigRef>
+                <pageRef>103</pageRef>
+                <cwFoot>o que</cwFoot>
+                <cwHead>naõ</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

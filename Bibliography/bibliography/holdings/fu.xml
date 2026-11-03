@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\fu.xml</fn><home>../index.xml</home></footer><id>FU</id><fn>fu</fn><name>University of Florida</name><location>Gainsville, Florida</location><books><book><id>Borradaile.1.2</id><fn>../books/borradaile.1.2.xml</fn><shortTitle>Hoyle's Improved Edition</shortTitle><shortImprint>published by John Locken</shortImprint><description>first American edition, second issue, by Locken</description><pubDate>1836</pubDate><shelfmarks><shelfmark>GV1243.H88 1836</shelfmark></shelfmarks></book></books></holder>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Pt.4</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-30</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Pt.4</idno>
+            <fn>books/whist.pt.4.xml</fn>
+            <shortTitle>Breve Tratado do Jogo do Whist</shortTitle>
+            <shortImprint>Na Typografia Rollandiana</shortImprint>
+            <statedEdition>"segunda ediçaõ"</statedEdition>
+            <description>fourth edition</description>
+            <pubYear>1818</pubYear>
+            <pubDate>1818</pubDate>
+            <evidence>title</evidence>
+            <edition>4</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>60</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>pt</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Rollandiana</orgName>
+            </respItem>
+            <respItem respType="translator">
+                <persName>
+                    <forename>Luiz de Vasconcellos</forename>
+                    <surname>Botelho</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1776</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LB</holder>
+                <shelfmark>S.A. 12377 P.</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>TNMS</holder>
+                <shelfmark>1094</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CtY-BR</holder>
+                <shelfmark>1984 430</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>F</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>G</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–2</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>52</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>5</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>6</start>
+                        <end>104</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.pt.4">
+            <titlePart>BREVE TRATADO | DO | JOGO DO WHIST, | QUE CONTÉM | AS LEIS DO JOGO, | E ALGUMAS REGRAS, PELAS QUAES SE | PÓDE CONSEGUIR O JOGÁ-LO BEM . | ADDICIONADO COM DUAS COMPUTAÇÕES : HUMA | SOBRE AS APOSTAS EM QUALQUER PONTO DO | JOGO ; E OUTRA PARA DAR A CONHECER AO | PARCEIRO HUMA, E MAIS CERTAS CARTAS. | TRADUZIDO DA LINGUA INGLEZA NA | PORTUGUEZA. | </titlePart>
+            <titlePart rend="italic">Segunda Ediçaõ. | </titlePart>
+            <titlePart>LISBOA, | NA TYPOGRAFIA ROLLANDIANA. | 1818. | </titlePart>
+            <titlePart rend="italic">Com Licença da Meza do Desembar-|go do Paço.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>4</pageRef>
+                    </pageTo>
+                    <contentPart>‘A QUEM LER. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>104</pageRef>
+                    </pageTo>
+                    <contentPart>‘[rule] | BREVE TRATADO | DO | JOGO DO WHIST. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+            </section>
+        </sections>
+    </text>
+</entry>

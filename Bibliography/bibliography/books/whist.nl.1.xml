@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Nl.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-04-29</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Nl.1</idno>
+            <fn>books/whist.nl.1.xml</fn>
+            <shortTitle>Volledig Onderwijs in het Whist</shortTitle>
+            <shortImprint>bij Keijzer, Van der Burgh en Wijnands</shortImprint>
+            <description>first edition</description>
+            <pubYear>1790</pubYear>
+            <pubDate>1790</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>20</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>nl</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Keijzer, van der Burgh en Wijnands</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>de Leeuw en Krap</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Keel en Wetter</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>J. en H. Palier</orgName>
+            </respItem>
+        </respStmt>
+<!--         <listBibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>L</idno>
+            </bibl>
+        </listBibl>  -->
+        <holdings>
+            <holding isSeen="true">
+                <holder>BFl</holder>
+                <shelfmark>I.795/HOYL (b1163120)</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1026</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>AMu</holder>
+                <shelfmark>O 06-1982</shelfmark>
+                <surrogate url="https://www.delpher.nl/nl/boeken/view?identifier=dpo:475:mpeg21:0003">Early Dutch Books Online</surrogate>
+            </holding>
+            <holding isSeen="false">
+                <holder>HAG</holder>
+                <shelfmark>KW 665 M 34</shelfmark>
+                <surrogate url="https://books.google.com/books?id=NBpZAAAAcAAJ">Google</surrogate>
+            </holding>
+            <holding isSeen="false">
+                <holder>TNMS</holder>
+                <shelfmark>431</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.V65 1790</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>∗</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>Q</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>∗4</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>132</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>2</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>ii</start>
+                        <end>vi</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>256</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.nl.1">
+            <titlePart>VOLLEDIG | ONDERWIJS | IN HET | WHIST- | OMBER- | QUADRILLE- | EN | PIKET-SPEL. | [short rule] | </titlePart>
+            <titlePart rend="italic">Naar het Engelsch van den Heer HOYLE. | </titlePart>
+            <titlePart>[short rule] | MET DE NODIGE TOELICHTINGEN | VOOR DE NEDERLANDSCHE | SPEELERS. | [rule] | [short rule] | Te </titlePart>
+            <titlePart rend="italic">Amſterdam, </titlePart>
+            <titlePart>bij KEIJZER, VAN DER BURGH | en WIJNANDS, | </titlePart>
+            <titlePart rend="italic">Dordrecht, </titlePart>
+            <titlePart>——DE LEEUW en KRAP, | </titlePart>
+            <titlePart rend="italic">Middelburg, </titlePart>
+            <titlePart>——KEEL en WETTER, | </titlePart>
+            <titlePart rend="italic">'s Bosch, </titlePart>
+            <titlePart>——J. en H. PALIER. | 1790.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>∗3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>iii</pageRef>
+                    </pageTo>
+                    <contentPart>‘INHOUD | HET | WHIST-SPEL. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <contentPart>‘HET | OMBER-SPEL. Bladz 144 | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>v</pageRef>
+                    </pageFrom>
+                    <contentPart>‘HET | QUADRILLE-SPEL. Bladz. 177 | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vi</pageRef>
+                    </pageFrom>
+                    <contentPart>‘HET | PIKET-SPEL. Bladz. 205 | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>143</pageRef>
+                    </pageTo>
+                    <contentPart>‘HET | WHIST-SPEL. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>144</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>L8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>176</pageRef>
+                    </pageTo>
+                    <contentPart>‘BEKNOPTE, ONDERWIJZENDE | VERHANDELING | VAN HET | OMBER-SPEL. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Hombre</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>M1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>177</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>N6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>204</pageRef>
+                    </pageTo>
+                    <contentPart>‘HET | QUADRILLE-SPEL. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>N7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>205</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>Q8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>256</pageRef>
+                    </pageTo>
+                    <contentPart>‘HET | PIKET-SPEL. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+            </section>
+        </sections>
+    </text>
+</entry>

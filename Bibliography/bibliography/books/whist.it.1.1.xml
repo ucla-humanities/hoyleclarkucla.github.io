@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.It.1.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-16</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.It.1.1</idno>
+            <fn>books/whist.it.1.1.xml</fn>
+            <shortTitle>Il Giuoco del Whist</shortTitle>
+            <shortImprint>dalla tipografia Manini e Rivolta</shortImprint>
+            <description>first edition, first issue</description>
+            <pubYear>1821</pubYear>
+            <pubDate>1821</pubDate>
+            <evidence>copyright</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>50</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>it</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Manini e Rivolta</orgName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Lensi</reference>
+                <idno>61</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1819</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>This is the first appearance of Hoyle's </note>
+            <note rend="italic">Whist</note>
+            <note> in Italian. The translation is from the section on whist in </note>
+            <note url="jones.8.xml">Jones.8</note>
+            <note> (1808), or perhaps an earlier edtion as the translation omits the additional material introduced in </note>
+            <note url="jones.9.xml">Jones 9</note>
+            <note> (1814). Hoyle is not identified as the author. </note>
+            <note rend="paragraph"></note>
+            <note>The book was reissued as </note>
+            <note url="whist.it.1.2.xml">Whist.It.1.2</note>
+            <note> with an almanac for the year 1822.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation isNumeric="true">
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>1</sigStart>
+                        <sigEnd>4</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1,5</signatureLeaves>
+                <signaturePattern>$5 as '$*'</signaturePattern>
+                <signingErrors>
+                    <signingError>
+                        <sigRef>4.5</sigRef>
+                        <badSig>*</badSig>
+                    </signingError>
+                </signingErrors>
+            </collationFormula>
+            <totalLeaves>48</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>7</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>8</start>
+                        <end>96</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.it.1">
+            <titlePart>IL GIUOCO | DEL WHIST | TRADOTTO | DALL'INGLESE. | [short rule] | MILANO | DALLA TIPOGRAFIA MANINI E RIVOLTA | 1821.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[rule] | La presente Edizione è sotto la | salvaguardia della Legge, essendosi | addempiuto a quanto essa prescrive. | [rule]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>1.3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>6</pageRef>
+                    </pageTo>
+                    <contentPart>‘AVVISO | DEI TIPOGRAFI ITALIANI | AI LETTORI | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>7</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>1.5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>9</pageRef>
+                    </pageTo>
+                    <contentPart>‘[oxford rule] | IL GIUOCO | DEL WHIST. | [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>9</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>1.6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>11</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | 24 </contentPart>
+                    <contentPart rend="italic">brevi regole pei principianti. </contentPart>
+                    <contentPart>| [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>11</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="italic">Maniera di contare al Whist. </contentPart>
+                    <contentPart>| [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>11</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>4.3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>77</pageRef>
+                    </pageTo>
+                    <contentPart>Mr. Hoyle's Game of Whist</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>4.3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>77</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>4.12v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>96</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="italic">Precetti per il Whist del sig. Paine. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+            </section>
+        </sections>
+    </text>
+</entry>

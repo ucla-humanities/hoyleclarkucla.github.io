@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="books/xsl/title.xsl"?>
+<work><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>bibliography/50.20.xml</fn><home>index.xml</home></footer><shortTitle>printed by J. Freeman</shortTitle><subWork><name>Whist</name><books><book><idno>Freeman.Whist.1806</idno><fn>books/freeman.whist.1806.xml</fn><shortTitle>Short Rules for Whist</shortTitle><shortImprint>printed by J. Freeman</shortImprint><pubYear>1806</pubYear><pubDate>1806</pubDate><evidence>watermark</evidence><edition>1</edition><issue>1</issue><categoryID>50</categoryID><workID>20</workID><subWorkID>10</subWorkID><textLang>en</textLang></book></books></subWork></work>

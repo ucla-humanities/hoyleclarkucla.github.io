@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Withy.Whist.B.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2017-11-15</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Withy.Whist.B.2</idno>
+			<fn>books/withy.whist.b.2.xml</fn>
+			<shortTitle>Short Standing Rules for Whist</shortTitle>
+			<description>Salisbury edition</description>
+			<pubYear>1790</pubYear>
+			<pubDate>1790</pubDate>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>30</categoryID>
+			<workID>7</workID>
+			<subWorkID>2</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Withy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>John</forename>
+					<surname>Fowler</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>1</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>1507</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>L</holder>
+				<shelfmark>1040.e.43.(1*.)</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>Although the leaf is dated 1801 in manuscript, BBTI indicates that Fowler left Salisbury for London about 1790, giving an approximate date for this work. </note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>12.2</height>
+				<width>7.9</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>1</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>unsigned</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>1</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>2</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart>Twelve ſhort ſtanding </titlePart>
+			<titlePart rend="smallcap">Rules, | </titlePart>
+			<titlePart>FOR | Ladies, with ſhort Memories, | AT THE | GAME of WHIST, | By BOB SHORT</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<contentPart>‘[within a decorative frame]  [title] | [...] | Sold by </contentPart>
+					<contentPart rend="smallcap">J. Fowler, </contentPart>
+					<contentPart>Printed, Saliſbury, Price 1d.’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<contentPart>‘[within a decorative frame] Twelve longer </contentPart>
+					<contentPart rend="smallcap">Rules, </contentPart>
+					<contentPart>for | Gentlemen, with ſhort Memories, | </contentPart>
+					<contentPart rend="italic">By BOB SHORT. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+			</section>
+		</sections>
+	</text>
+</entry>

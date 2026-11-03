@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\de-101a.xml</fn><home>../index.xml</home></footer><id>DE-101a</id><fn>de-101a</fn><name>Deutsche Nationalbibliothek</name><location>Leipzig, Germany</location><books><book><id>Whist.De.1794.Baumgartner</id><fn>../books/whist.de.1794.baumgartner.xml</fn><shortTitle>Hoyle im Kleinen</shortTitle><shortImprint>bei Friedrich Gotthelf Baumgärtner</shortImprint><description>second edition</description><pubDate>1794</pubDate><shelfmarks><shelfmark>RB XXX, 37</shelfmark></shelfmarks></book></books></holder>

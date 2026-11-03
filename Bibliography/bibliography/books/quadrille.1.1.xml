@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Quadrille.1.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-12-21</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Quadrille.1.1</idno>
+            <fn>books/quadrille.1.1.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Quadrille</shortTitle>
+            <shortImprint>printed for F. Cogan</shortImprint>
+            <description>first London edition</description>
+            <pubYear>1744</pubYear>
+            <pubDate>1744-10-31</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            			<categoryID>10</categoryID>
+            <workID>6</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Francis</forename>
+                    <surname>Cogan</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Watts</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Daily Post</publication>
+                <pubDate>1744-10-31</pubDate>
+                <notes>
+                    <note>"This day is publish'd, price 2s. 6d..." Advertised with Whist (edition
+                        unclear), </note>
+                    <note url="memory.1.xml">Memory.1</note>
+                    <note>, </note>
+                    <note url="backgammon.1.xml">Backgammon.1</note>
+                    <note>, </note>
+                    <note url="piquet.1.1.xml">Piquet.1.1</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="notice">
+                <publication>The London Magazine</publication>
+                <pubDate>1744-12</pubDate>
+                <notes>
+                    <note>(</note>
+                    <note url="http://books.google.com/books?id=z_kqAAAAYAAJ&amp;pg=PA624"
+                        >Google</note>
+                    <note>)</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>2</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+                <evidence>notice</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T179916</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>781</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>16</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>12 Theta 1318(3)</shelfmark>
+                <idno>Cogan.D</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.543(3)</shelfmark>
+                <idno>Cogan.D</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.583</shelfmark>
+                <surrogate>ECCO</surrogate>
+                <idno shelfmark="Jessel f.580">Cogan.D</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1277.H89 1744</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>2112</shelfmark>
+                <idno>Osborne.D</idno>
+                <sequence>5</sequence>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>B</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>A2</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>24</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>5</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>6</start>
+                        <end>44</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>45</start>
+                        <end>48</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="halfTitle">
+            <titlePart>[</titlePart>
+            <titlePart url="https://compositor.bham.ac.uk/ornaments/431615">headpiece</titlePart>
+            <titlePart>] | A SHORT | TREATISE | On the </titlePart>
+            <titlePart rend="smallcap">Game </titlePart>
+            <titlePart>of | </titlePart>
+            <titlePart rend="italic">QUADRILLE. | </titlePart>
+            <titlePart>[</titlePart>
+            <titlePart url="https://compositor.bham.ac.uk/ornaments/431614">headpiece</titlePart>
+            <titlePart>]</titlePart>
+        </titlePage>
+        <titlePage titleType="title" imageFN="quadrille.1.1">
+            <titlePart>A SHORT | TREATISE | On the GAME of | </titlePart>
+            <titlePart rend="smallcap">Quadrille. | </titlePart>
+            <titlePart>SHEWING | The Odds of winning or loſing moſt | Games that are
+                commonly played; | either by calling a King, or by playing | </titlePart>
+            <titlePart rend="italic">Sans Prendre. | </titlePart>
+            <titlePart>To which is added | The LAWS of the GAME. | [rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmond Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[double rule] | LONDON: | Printed for </titlePart>
+            <titlePart rend="smallcap">F. Cogan </titlePart>
+            <titlePart>at the | </titlePart>
+            <titlePart rend="italic">Middle-Temple-Gate. </titlePart>
+            <titlePart>1744. | Price Two Shillings and Six Pence.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>half title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/431689">headpiece</contentPart>
+                    <contentPart>] | TO THE | READER. | </contentPart>
+                    <contentPart>T</contentPart>
+                    <contentPart rend="italic">he Author has thought | proper to
+                        inform the Pub-|lick, That no Copies of theſe Books | are genuine, but ſuch
+                        as are | ſigned by him. | </contentPart>
+                    <contentPart>[autograph of Edmond Hoyle] | [</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/431688">headpiece</contentPart>
+                    <contentPart>]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B10v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>44</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | A Treatiſe on the Game of | </contentPart>
+                    <contentPart rend="italic">QUADRILLE. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>6</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B10r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>43</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A ſhort Treatiſe on the | Game of </RTPart>
+                    <RTPart rend="smallcap">Quadrille.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>44</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘A ſhort Treatiſe, &amp;c.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B11r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>45</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/431544">headpiece</contentPart>
+                    <contentPart>] | To the </contentPart>
+                    <contentPart rend="smallcap">Reader. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B11v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>46</pageRef>
+                    </pageFrom>
+                    <contentPart>Advertisement for </contentPart>
+                    <contentPart url="whist.4.xml">Whist.4</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B12r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>47</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/431471">headpiece</contentPart>
+                    <contentPart>] | ☞Whoever Pirates either of theſe | Works will be ſued. The
+                        Proprietor | has already obtained an Injunction | againſt Nine Perſons for
+                        pirating or | ſelling pirated Editions of one of them. |
+                        [</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/431470">headpiece</contentPart>
+                    <contentPart>]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B12v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>48</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/431752">headpiece</contentPart>
+                    <contentPart>] | CONTENTS. | [...]’</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\de-547.xml</fn><home>../index.xml</home></footer><id>DE-547</id><fn>de-547</fn><name>Universitätsbibliothek Erfurt</name><location>Erfurt, Germany</location><books><book><id>Whist.De.1793.Baumgartner</id><fn>../books/whist.de.1793.baumgartner.xml</fn><shortTitle>Hoyle im Kleinen</shortTitle><shortImprint>bei Friedrich Gotthelf Baumgärtner</shortImprint><description>first edition</description><pubDate>1793</pubDate><shelfmarks><shelfmark>Math 8° 01569/10</shelfmark></shelfmarks></book></books></holder>

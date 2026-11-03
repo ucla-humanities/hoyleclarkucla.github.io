@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+	<fileDesc>
+		<title>Pocket2.1.1-1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-12-22</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pocket2.1.1-1</idno>
+			<fn>books/pocket2.1.1-1.xml</fn>
+			<shortTitle>Mr. Hoyle's Treatise on the Game of Billiards</shortTitle>
+			<shortImprint>printed by T. Davison for R. Scholey et al</shortImprint>
+			<description>extracted from the first London edition</description>
+			<pubYear>1808</pubYear>
+			<pubDate>1808-07-27</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>30</categoryID>
+			<workID>100</workID>
+			<subWorkID>2</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Scholey</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="2">Vernor</respGroup>
+				<orgName>Vernor, Hood, and Sharpe</orgName>
+			</respItem>
+			<respItem respType="publisher">
+				<orgName>Lane and Newman</orgName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="1">Hughes</respGroup>
+				<persName>
+					<forename>T. and R.</forename>
+					<surname>Hughes</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Clement</forename>
+					<surname>Chapple</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Henry Delahoy</forename>
+					<surname>Symonds</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>C.</forename>
+					<surname>Booker</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="2">Scatcherd</respGroup>
+				<orgName>Scatcherd and Letterman</orgName>
+			</respItem>
+			<respItem respType="publisher">
+				<orgName>Wilson and Spence</orgName>
+			</respItem>
+			<respItem respType="publisher">
+				<orgName>Mundell and Co.</orgName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Davison</surname>
+				</persName>
+			</respItem>
+			<respItem respType="editor">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Jackson</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Morning Post</publication>
+				<pubDate>1808-07-27</pubDate>
+				<notes>
+					<note>"...The game at billiards to be had separately, price 1s. 6d. Chess 1s. 6d. and Backgammon 1s... "</note>
+				</notes>
+			</periodicalReference>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Catalogue of Books sold by Lackington, Hughes, Harding, Mavor, and Jones</publication>
+				<pubDate>1819</pubDate>
+				<notes>
+					<note>Item </note>
+					<note url="https://books.google.com/books?id=-5oIAAAAQAAJ&amp;pg=PA554">16753</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>1</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<holdings>
+			<holding isSeen="false">
+				<holder>L</holder>
+				<shelfmark>D-7913.a.28</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>The only known copy was lost in the Second World War.</note>
+		</notes>
+	</bookDesc>
+</entry>

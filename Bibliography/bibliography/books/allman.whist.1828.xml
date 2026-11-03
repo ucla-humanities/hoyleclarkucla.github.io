@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+	<fileDesc>
+		<title>Allman.Whist.1828</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-06-27</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Allman.Whist.1828</idno>
+			<fn>books/allman.whist.1828.xml</fn>
+			<shortTitle>Short Rules for Whist</shortTitle>
+			<shortImprint>printed for T. and J. Allman</shortImprint>
+			<pubYear>1828</pubYear>
+			<pubDate>1828</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>50</workID>
+			<subWorkID>10</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<respGroup seq="1">Allman</respGroup>
+				<persName>
+					<forename>T. and J.</forename>
+					<surname>Allman</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>inferred</evidence>
+			</price>
+		</prices>
+		<notes>
+			<note>Advertised in </note>
+			<note url="allman.draughts.1828.xml">Allman.Draghts.1828</note>
+			<note>.</note>
+		</notes>
+	</bookDesc>
+</entry>

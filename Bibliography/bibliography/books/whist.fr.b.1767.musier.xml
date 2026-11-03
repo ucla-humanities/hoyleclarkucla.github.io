@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+    <fileDesc>
+        <title>Whist.Fr.B.1767.Musier</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.B.1767.Musier</idno>
+            <fn>books/whist.fr.b.1767.musier.xml</fn>
+            <shortTitle>Traité du Jeu du Whisk</shortTitle>
+            <shortImprint>Chez Musier Fils</shortImprint>
+            <pubYear>1767</pubYear>
+            <pubDate>1767</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <orgName>Chez Musier fils</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Chez Fournier</orgName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="false">
+                <holder>Beauchene</holder>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "B+" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <titlePage titleType="title">
+            <titlePart>TRAITÉ | </titlePart>
+            <titlePart rend="italic">DU JEU | </titlePart>
+            <titlePart>DU WHISK, | </titlePart>
+            <titlePart rend="italic">Contenant les Loix de ce Jeu, &amp; | des Règles pour le bien jouer. | </titlePart>
+            <titlePart>PAR EDMOND HOYLE. | </titlePart>
+            <titlePart rend="italic">Traduit de l'Anglais. | </titlePart>
+            <titlePart>[rule] | Nouvelle Édition revue, corrigée, &amp; augmentée. | [rule] | [tailpiece] | A AMSTERDAM, | </titlePart>
+            <titlePart rend="italic">&amp; ſe trouve à Paris, | </titlePart>
+            <titlePart>Chez [five lines to right of bracket] | </titlePart>
+            <titlePart rend="smallcap">Musier </titlePart>
+            <titlePart>fils, Libraire, Quai | des Auguſtins, au coin de la rue | pavée. | </titlePart>
+            <titlePart rend="smallcap">Fournier, </titlePart>
+            <titlePart>Libraire, rue du | Hurepoix, la Providence. | [double rule] | M. DCC.
+                        LXVII.</titlePart>
+        </titlePage>
+    </text>
+</entry>

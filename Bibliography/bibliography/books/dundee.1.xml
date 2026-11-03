@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Dundee.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-27</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Dundee.1</idno>
+            <fn>books/dundee.1.xml</fn>
+            <shortTitle>Hoyle's Game of Whist</shortTitle>
+            <shortImprint>printed for T. Ostell, et al</shortImprint>
+            <statedEdition>a "new" edition</statedEdition>
+            <description>first Dundee edition</description>
+            <pubYear>1806</pubYear>
+            <pubDate>1806</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>55</categoryID>
+            <workID>10</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Ostell</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Manners &amp; Miller</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>C. Mitchel &amp; Co.</orgName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Chambers</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>E</holder>
+                <shelfmark>RB.s.2850</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel g.95</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>ViU</holder>
+                <shelfmark>Lindemann 03876</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1684</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1809</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2141</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>A miniature, with dimensions 8.2 x 4.8 centimeters. </note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>24</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>π</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>E</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>F</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–3</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>E3</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>36</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>67</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>68</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="dundee.1">
+            <titlePart>HOYLE'S | GAME OF WHIST, | WITH ALL THE IMPROVEMENTS | OF | MODERN WRITERS, | AND THE | </titlePart>
+            <titlePart rend="italic">BEST PLAYERS. | </titlePart>
+            <titlePart>[short rule] | A NEW EDITION. | [short rule] | DUNDEE: | PRINTED FOR T. OSTELL, AVE-MARIA-|LANE, LONDON; MANNERS &amp; MILLER, | EDINBURGH; AND C. MITCHEL &amp; CO. | PERTH. | </titlePart>
+            <titlePart rend="italic">W. Chambers, Printer, Cowgate, Dundee. | </titlePart>
+            <titlePart>[short rule] | 1806.</titlePart>
+        </titlePage>
+        <titlePage titleType="slipcase" imageFN="dundee.1.slipcase"/>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+                <subject>
+                    <subject1>Slip case</subject1>
+                    <subject2>book issued in</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>π2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>iv</pageRef>
+                    </pageTo>
+                    <contentPart>‘CONTENTS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>π2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <RTPart>‘CONTENTS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>2</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE | </contentPart>
+                    <contentPart rend="italic">GAME OF WHIST. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>67</pageRef>
+                    </pageTo>
+                    <RTPart>‘WHIST.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A2r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>3</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | TWENTY-FOUR SHORT RULES FOR | LEARNERS. | [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | METHODS OF SCORING AT WHIST. | [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>54</pageRef>
+                    </pageTo>
+                    <contentPart>Hoyle on Whist</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>55</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>67</pageRef>
+                    </pageTo>
+                    <contentPart rend="smallcap">‘Mr. Payne's Maxims for Whist. | [...] | </contentPart>
+                    <contentPart>[colophon]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>F4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>68</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+        <colophon>
+            <notes>
+                <note>‘[two lines to left of brace] </note>
+                <note rend="italic">W. Chambers, Printer, Advertiſer-|Office, Cowgate, Dundee’</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

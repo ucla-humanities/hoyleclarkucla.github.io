@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Jones.8-3</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-07-27</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.8-3</idno>
+            <fn>books/jones.8-3.xml</fn>
+            <shortTitle>A Treatise on Backgammon</shortTitle>
+            <shortImprint>printed for R. Baldwin et al</shortImprint>
+            <description>extracted from the eighth London edition</description>
+            <pubYear>1808</pubYear>
+            <pubDate>1808-05-24</pubDate>
+            <evidence>Longman Archives</evidence>
+            <edition>8</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <copiesPrinted>2000</copiesPrinted>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <respGroup seq="2">Baldwin</respGroup>
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Baldwin I</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lowndes</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="4">Wilkie</respGroup>
+                <orgName>Wilkie and Robinson</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>J.</forename>
+                    <surname>Walker</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Longman</respGroup>
+                <orgName>Longman, Hurst, Rees, and Orme</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Stewart</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Crosby</respGroup>
+                <orgName>B. Crosby and Co.</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Lackington</respGroup>
+                <orgName>Lackington, Allen and Co.</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Joseph</forename>
+                    <surname>Mawman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Asperne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Charles</forename>
+                    <surname>Whittingham</surname>
+                </persName>
+                <evidence>colophon</evidence>
+                <evidence>Longman Archives</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Hereford Journal</publication>
+                <pubDate>1808-03-09</pubDate>
+                <notes>
+                    <note>"...Of whom may be had, likewise just published...Hoyle's Treatise on
+                        Backgammon, as improved and corrected by Charles Jones, Esq. Price 6d.
+                        sewed."</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+                <evidence>label</evidence>
+            </price>
+        </prices>
+        <holdings>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2208</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The text on pages 5-27 is the same setting of type as pages 256-278 of </note>
+            <note url="jones.8.xml">Jones.8</note>
+            <note> with only the page numbers and signature marks changed. </note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>18</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>B</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>C</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1,3</signatureLeaves>
+                <signaturePattern>$3 as '$2'</signaturePattern>
+            </collationFormula>
+            <totalLeaves>14</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>5</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>6</start>
+                        <end>27</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>29</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="label" imageFN="jones.8-3.wrapper">
+            <titlePart>[within a border of type ornaments] </titlePart>
+            <titlePart rend="italic">HOYLE'S | </titlePart>
+            <titlePart>GAME | OF | BACK-GAMMON. | Price 6</titlePart>
+            <titlePart rend="italic">d. </titlePart>
+            <titlePart>SEWED.</titlePart>
+        </titlePage>
+        <titlePage titleType="halfTitle" imageFN="jones.8-3.halftitle">
+            <titlePart rend="italic">HOYLE'S | </titlePart>
+            <titlePart>GAME OF | BACK-GAMMON. | C. WHITTINGHAM, Printer, | </titlePart>
+            <titlePart rend="italic">Goswell Street.</titlePart>
+        </titlePage>
+        <titlePage titleType="title" imageFN="jones.8-3">
+            <titlePart>A | TREATISE | ON | BACK-GAMMON | ABSTRACTED FROM | </titlePart>
+            <titlePart rend="italic">HOYLE'S GAMES IMPROVED | </titlePart>
+            <titlePart>BY | CHARLES JONES ESQ. | [short oxford rule] | </titlePart>
+            <titlePart rend="italic">LONDON | </titlePart>
+            <titlePart>PRINTED FOR R. BALDWIN; W. LOWNDES; WILKIE AND ROBINSON; | J. WALKER;
+                LONGMAN, HURST, REES AND ORME; W. STEWART; | B. CROSBY AND CO.; LACKINGTON, ALLEN
+                AND CO.; J. MAWMAN; | AND J. ASPERNE. | [short rule] | 1808.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>half title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>frontispiece</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C2r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>27</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | THE | GAME | OF | BACK-GAMMON | [short oxford rule ]
+                        | [...] | [colophon]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>6</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C2r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>27</pageRef>
+                    </pageTo>
+                    <RTPart>‘BACK-GAMMON.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Backgammon</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>C2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>29</pageRef>
+                    </pageFrom>
+                    <contentPart>publisher's advertisement</contentPart>
+                </content>
+            </section>
+        </sections>
+        <plates>
+            <plate plateLocation="Frontispiece">
+                <plateRelation>on</plateRelation>
+                <sigRef>A1v</sigRef>
+                <plateType>woodblock</plateType>
+                <notes>
+                    <note>‘THE | </note>
+                    <note rend="italic">BACK-GAMMON TABLE. | </note>
+                    <note>[woodblock of backgammon table]’</note>
+                </notes>
+            </plate>
+        </plates>
+        <colophon>
+            <notes>
+                <note>‘[oxford rule] | C. WHITTINGHAM, Printer, | </note>
+                <note rend="italic">Goswell Street. | </note>
+                <note>[reverse oxford rule]’</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

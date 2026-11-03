@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Pocket.4</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2024-08-20</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pocket.4</idno>
+			<fn>books/pocket.4.xml</fn>
+			<shortTitle>The New Pocket Hoyle</shortTitle>
+			<shortImprint>printed for P. and W. Wynne et al</shortImprint>
+			<description>fourth London edition</description>
+			<pubYear>1807</pubYear>
+			<pubDate>1807</pubDate>
+			<evidence>title</evidence>
+			<edition>4</edition>
+			<issue>1</issue>
+			<categoryID>30</categoryID>
+			<workID>100</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<respGroup seq="2">Wynne</respGroup>
+				<persName>
+					<forename>Peter and William</forename>
+					<surname>Wynne</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="2">Vernor</respGroup>
+				<orgName>Vernor, Hood, and Sharpe</orgName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>John</forename>
+					<surname>Murray</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="1">Lackington</respGroup>
+				<orgName>Lackington, Allen and Co.</orgName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="1">Crosby</respGroup>
+				<persName>
+					<forename>Benjamin</forename>
+					<surname>Crosby</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>William</forename>
+					<surname>Wilson</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Morning Post</publication>
+				<pubDate>1808-12-29</pubDate>
+				<notes>
+					<note>"The New Pocket Hoyle, or Companion to the Card Table. 4th edition...price 3s. 6d. neatly done up in a case, or bound in red sheep.—This edition having been revised with peculiar care, and printed on a fine wove paper, manufactured by Mr. Whatman, will be found more handsome and correct than any former edition offered to the public."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>3</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<note>in a case, or bound in red sheep</note>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>824</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.624</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Copisarow</holder>
+				<copies>2</copies>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>Copisarow</holder>
+				<idno>Pocket.B</idno>
+				<sequence>1</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>PPL</holder>
+				<shelfmark>Iu Hoyl 62060.D</shelfmark>
+				<idno>Pocket.B</idno>
+				<sequence>1</sequence>
+			</holding>
+			<holding isSeen="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1243.N3 1807</shelfmark>
+			</holding>
+			<holding isSeen="true" isCollection="false">
+				<holder>Levy</holder>
+				<shelfmark>1399</shelfmark>
+			</holding>
+			<holding isSeen="true" isCollection="false">
+				<holder>Levy</holder>
+				<shelfmark>1569</shelfmark>
+			</holding>
+			<holding isSeen="true" isCollection="false">
+				<holder>Levy</holder>
+				<shelfmark>1678</shelfmark>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>L</holder>
+				<shelfmark>D-7915.aaa.14</shelfmark>
+				<idno>Pocket.B</idno>
+				<sequence>1</sequence>
+			</holding>
+			<holding isSeen="false">
+				<holder>LT</holder>
+				<shelfmark>Wb 774</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>MUbsb</holder>
+				<shelfmark>Gymn. 34 d</shelfmark>
+				<surrogate url="https://books.google.com/books?id=qqpAAAAAcAAJ">Google</surrogate>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>CaOTP</holder>
+				<shelfmark>794 H59 1807-08</shelfmark>
+				<idno>Pocket.B</idno>
+				<sequence>1</sequence>
+			</holding>
+			<holding isSeen="false">
+				<holder>LU</holder>
+				<shelfmark>GV1243.N48 1807</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>MSaP</holder>
+				<shelfmark>GV1243.H695 1807</shelfmark>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>NvLN</holder>
+				<shelfmark>GV1201.H83 1807</shelfmark>
+				<idno>Pocket.B</idno>
+				<sequence>1</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H G7L5</shelfmark>
+				<idno>Pocket.B</idno>
+				<sequence>1</sequence>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation usesU="true">
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>2</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>S</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>104</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>4</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>72</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>73</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>74</start>
+						<end>105</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>106</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>107</start>
+						<end>129</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>130</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>131</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>132</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>133</start>
+						<end>135</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>136</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>137</start>
+						<end>138</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>139</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>140</start>
+						<end>149</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>150</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>151</start>
+						<end>154</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>155</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>156</start>
+						<end>169</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>170</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>171</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>172</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>173</start>
+						<end>177</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>178</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>179</start>
+						<end>185</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>186</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>187</start>
+						<end>188</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>189</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>190</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>191</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>192</start>
+						<end>194</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>195</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>196</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>197</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>198</start>
+						<end>202</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>203</start>
+						<end>204</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="pocket.4">
+			<titlePart>THE | NEW POCKET HOYLE, | Containing | THE GAMES | OF | [eight lines to left of double rule] WHIST, | QUADRILLE, | PIQUET, | QUINZE, |
+				LANSQUENET, | PHARO, | ROUGE ET NOIR, | CRIBBAGE, | [eight lines to right of double rule]
+				MATRIMONY, | CASSINO, | REVERSIS, | PUT, | CONNEXIONS, | ALL FOURS, | AND |
+				SPECULATION. | Accurately displaying | THE RULES AND PRACTICE, | As
+				admitted and established by the first Players in | the Kingdom. | [short double rule] | FOURTH EDITION. | [short double rule] | </titlePart>
+			<titlePart rend="blackletter">London: </titlePart>
+			<titlePart> | Printed for P. and W. Wynne, Paternoster-Row; | Vernor, Hood, and Sharpe, Poultry; J. Murray, | Fleet-Street; Lackington, Allen, and Co. Finsbury | Square; and B. Crosby, Stationers'-Court. | [short rule] | 1807.</titlePart>
+		</titlePage>
+		<titlePage titleType="engravedTitle" imageFN="pocket.4.engraved.title"/>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<contentPart>title</contentPart>
+				</content>
+				<subject>
+					<subject1>Slip case</subject1>
+					<subject2>book issued in</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<contentPart>‘[short rule] | W. Wilson, Printer, St. John's Square.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<contentPart>‘[short double rule] | PREFACE. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>F1v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>50</pageRef>
+					</pageTo>
+					<contentPart>‘HOYLE'S GAMES, | &amp;c. &amp;c. | [short rule] | THE GAME OF WHIST. |
+						[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>G6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>72</pageRef>
+					</pageTo>
+					<RTPart>‘WHIST.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>F2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>51</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>G6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>72</pageRef>
+					</pageTo>
+					<contentPart>‘Mr. PAYNE's | </contentPart>
+					<contentPart rend="italic">MAXIMS FOR WHIST. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Dummy Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>H1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>73</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>K5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>105</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF QUADRILLE. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>H1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>74</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>K5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>105</pageRef>
+					</pageTo>
+					<RTPart>‘QUADRILLE.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Quadrille</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>K5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>106</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>M5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>129</pageRef>
+					</pageTo>
+					<contentPart>‘THE GAME OF PIQUET. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>K6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>107</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>M5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>129</pageRef>
+					</pageTo>
+					<RTPart>‘PIQUET.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Piquet</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>M5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>130</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>M6r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>131</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF QUINZE. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>M6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>131</pageRef>
+					</pageFrom>
+					<RTPart>‘QUINZE.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Quinze</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>M6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>132</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>N2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>135</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF VINGT-UN. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>N1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>133</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>N2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>135</pageRef>
+					</pageTo>
+					<RTPart>‘VINGT-UN.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Vingt-Un</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>N2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>136</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>N3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>138</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF LANSQUENET. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>N3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>137</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>N3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>138</pageRef>
+					</pageTo>
+					<RTPart>‘LANSQUENET.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Lansquenet</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>N4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>139</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>O3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>149</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF PHARO. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>N4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>140</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>O3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>149</pageRef>
+					</pageTo>
+					<RTPart>‘PHARO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Faro</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>O3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>150</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>O5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>154</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF ROUGE ET NOIR. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>O4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>151</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>O5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>154</pageRef>
+					</pageTo>
+					<RTPart>‘ROUGE ET NOIR.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Rouge et Noir</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>O6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>155</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Q1r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>169</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF CRIBBAGE. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>O6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>156</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Q1r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>169</pageRef>
+					</pageTo>
+					<RTPart>‘CRIBBAGE.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Cribbage</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Q1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>170</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Q2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>171</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF MATRIMONY. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Q2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>171</pageRef>
+					</pageFrom>
+					<RTPart>‘MATRIMONY.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Matrimony</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Q2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>172</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Q5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>177</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF CASSINO. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Q3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>173</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Q5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>177</pageRef>
+					</pageTo>
+					<RTPart>‘CASSINO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Cassino</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Q5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>178</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>R3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>185</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF REVERSIS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>Q6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>179</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>R3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>185</pageRef>
+					</pageTo>
+					<RTPart>‘REVERSIS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Reversis</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>R3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>186</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>R4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>188</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF PUT. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>R4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>187</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>R4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>188</pageRef>
+					</pageTo>
+					<RTPart>‘PUT.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Put</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>R5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>189</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>R5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>190</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF CONNEXIONS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>R5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>190</pageRef>
+					</pageFrom>
+					<RTPart>‘CONNEXIONS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Connexions</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>R6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>191</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>S1v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>194</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF ALL FOURS. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>R6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>192</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>S1v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>194</pageRef>
+					</pageTo>
+					<RTPart>‘ALL FOURS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>All Fours</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>S2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>195</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>S2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>196</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF SPECULATION. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>S2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>196</pageRef>
+					</pageFrom>
+					<RTPart>‘SPECULATION.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Speculation</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>S3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>197</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>S5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>202</pageRef>
+					</pageTo>
+					<contentPart>‘TABLE OF CONTENTS. | [...] | [colophon]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>S3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>198</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>S5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>202</pageRef>
+					</pageTo>
+					<RTPart>‘CONTENTS’</RTPart>
+				</RT>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>S6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>203</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>S6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>204</pageRef>
+					</pageTo>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+		</sections>
+		<plates>
+			<plate plateLocation="Title">
+				<plateRelation>before</plateRelation>
+				<sigRef>A1r</sigRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note>engraved extra title page dated 1807</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘[rule] | W. Wilson, Printer, St. John's Square.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

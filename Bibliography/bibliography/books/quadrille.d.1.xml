@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Quadrille.D.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-07-08</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Quadrille.D.1</idno>
+            <fn>books/quadrille.d.1.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Quadrille</shortTitle>
+            <shortImprint>printed for George and Alex. Ewing</shortImprint>
+            <description>first Dublin edition</description>
+            <pubYear>1745</pubYear>
+            <pubDate>1745-02-12</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>60</categoryID>
+            <workID>10</workID>
+            <subWorkID>50</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Ewing</respGroup>
+                <persName>
+                    <forename>George and Alexander</forename>
+                    <surname>Ewing</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>The Dublin Courant</publication>
+                <pubDate>1745-02-12</pubDate>
+                <notes>
+                    <note>"This day is published...price 3d."</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>3</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T88043</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>791</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>23</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true" isCollection="true">
+                <holder>D</holder>
+                <shelfmark>393.h3</shelfmark>
+                <idno>Polite.B</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>D</holder>
+                <shelfmark>Dublin1761(21)</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>L</holder>
+                <shelfmark>7917 de.73</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="false">
+                <holder>L</holder>
+                <shelfmark>7920.aa.17</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.541(5)</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.570(2)</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.571(2)</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>CLU-C</holder>
+                <shelfmark>*GV1295.O5H8</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>CU-BANC</holder>
+                <shelfmark>pGV1295.O5 H69 1745</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1201.H83 1743</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F45D</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TxU</holder>
+                <shelfmark>Ak H852 B752p</shelfmark>
+                <idno>Polite.B</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1609</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>C</holder>
+                <shelfmark>Hib.7.745.29</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>CaOTP</holder>
+                <shelfmark>795 H598</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>ICD</holder>
+                <shelfmark>SPC. 795 H868P</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>LU</holder>
+                <shelfmark>GV1243.H7</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>MH-H</holder>
+                <shelfmark>SG 3652.152*</shelfmark>
+                <idno>Polite.B</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>WaS</holder>
+                <shelfmark>R795 H852P</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>AuNU</holder>
+                <shelfmark>RB 4645.44</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>2</sequence>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>B</sigEnd>
+                        <leaves>8/4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>12</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>4</start>
+                        <end>23</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>24</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="quadrille.d.1">
+            <titlePart>A SHORT | TREATISE | On the GAME of | </titlePart>
+            <titlePart rend="smallcap">Quadrille. | </titlePart>
+            <titlePart>SHEWING | The Odds of winning or loſing moſt | Games that are
+                commonly played; | either by calling a King, or by play-|ing </titlePart>
+            <titlePart rend="italic">Sans Prendre. | </titlePart>
+            <titlePart>To which is added | The LAWS of the GAME. | [rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmond Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[double rule] | </titlePart>
+            <titlePart rend="italic">DUBLIN</titlePart>
+            <titlePart>: | Printed for </titlePart>
+            <titlePart rend="smallcap">George </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">Alex. Ewing | </titlePart>
+            <titlePart>at the </titlePart>
+            <titlePart rend="italic">Angel </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="italic">Bible </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-ſtreet, | </titlePart>
+            <titlePart>Bookſellers. M DCC XLV.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>advertisement for </contentPart>
+                    <contentPart url="whist.d.3.xml">Whist.D.3</contentPart>
+                    <contentPart> (price 6½d.), </contentPart>
+                    <contentPart url="memory.d.1.xml">Memory.D.1</contentPart>
+                    <contentPart> (price 3d.), </contentPart>
+                    <contentPart url="piquet.d.1.xml">Piquet.D.1</contentPart>
+                    <contentPart> (price 6½d.), </contentPart>
+                    <contentPart url="backgammon.d.1.xml">Backgammon.D.1</contentPart>
+                    <contentPart> (price 6½d.), and </contentPart>
+                    <contentPart url="polite.1.B.xml">Polite.A</contentPart>
+                    <contentPart> (neatly bound together and lettered, price a British half
+                        crown).</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>23</pageRef>
+                    </pageTo>
+                    <contentPart>‘[row of type orn] | A Treatiſe on the </contentPart>
+                    <contentPart rend="smallcap">Game </contentPart>
+                    <contentPart>of | </contentPart>
+                    <contentPart rend="italic">QUADRILLE. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>23</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A ſhort Treatiſe on the | Game of </RTPart>
+                    <RTPart rend="smallcap">Quadrille.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>24</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[row of type orn] | CONTENTS. | [...]’</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

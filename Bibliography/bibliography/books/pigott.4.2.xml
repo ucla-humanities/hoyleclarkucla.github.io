@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Pigott.4.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-19</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pigott.4.2</idno>
+			<fn>books/pigott.4.2.xml</fn>
+			<shortTitle>New Hoyle</shortTitle>
+			<shortImprint>printed for J. Ridgway</shortImprint>
+			<statedEdition>"new" edition</statedEdition>
+			<description>fourth London edition, second issue</description>
+			<pubYear>1811</pubYear>
+			<pubDate>1811</pubDate>
+			<evidence>title</evidence>
+			<edition>4</edition>
+			<issue>2</issue>
+			<categoryID>30</categoryID>
+			<workID>90</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Pigott</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>William</forename>
+					<surname>Flint</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>James</forename>
+					<surname>Ridgway</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>4</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<note>bound in red</note>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>1335</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>99</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.618</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>NvLN</holder>
+				<shelfmark>GV1201.P5 1811</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H H1P</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1917</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>NcU</holder>
+				<shelfmark>GV1201.P5 1811</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>This is the same setting of type as </note>
+			<note url="pigott.4.1.xml">Pigott.4.1</note>
+			<note> (1810). In fact even the title page appears to be the same setting of type with only the date changed to 1811.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation usesU="true">
+			<format>18</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>4</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>Y</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>Z</sigStart>
+						<leaves>6</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<sigRef>Z6</sigRef>
+							<note> missing, blank?</note>
+						</alteration>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>+</anomType>
+						<sigRef>Z4</sigRef>
+					</anomSignature>
+				</anomSignatures>
+				<signingErrors>
+					<signingError>
+						<sigRef>X3</sigRef>
+						<badSig>X</badSig>
+					</signingError>
+				</signingErrors>
+			</collationFormula>
+			<totalLeaves>135</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>i</start>
+						<end>v</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>vi</start>
+						<end>viii</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>262</end>
+					</pageRange>
+				</pageRanges>
+				<pagingErrors>
+					<pagingError>
+						<start>58</start>
+						<badPage>56</badPage>
+					</pagingError>
+				</pagingErrors>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="pigott.4.2">
+			<titlePart>NEW HOYLE: | OR, | </titlePart>
+			<titlePart rend="blackletter">A General Repository of Games; | </titlePart>
+			<titlePart>CONTAINING | EASY RULES FOR PLAYING | IN A | </titlePart>
+			<titlePart rend="italic">SUPERIOR MANNER, | </titlePart>
+			<titlePart>[nine lines to left of double rule] Loo, | Whist, | Cribbage, |
+				Quadrille, | Piquet, | Quinze, | Reversis, | Vingt-un, | Put, | [nine lines
+				between two double rules] Backgammon, | Draughts, | Billiards, | Cricket, |
+				Tennis, | Goff, | Faro, | Hazard, | Rouge et Noir, | [eight lines to right of
+				double rule] Cassino, | All Fours, | Connexions, | Domino, | Matrimony, |
+				Speculation, | Lottery, | Chess: | With Tables of Odds, calculated for
+				betting equitably | and advantageously; and their laws as settled at | </titlePart>
+			<titlePart rend="smallcap">Brookes's, White's, </titlePart>
+			<titlePart>the </titlePart>
+			<titlePart rend="smallcap">Union, </titlePart>
+			<titlePart>and </titlePart>
+			<titlePart rend="smallcap">Jockey | Clubs </titlePart>
+			<titlePart>&amp;c. &amp;c. | [short decorative rule] | </titlePart>
+			<titlePart rend="smallcap">By </titlePart>
+			<titlePart>CHARLES PIGOT, </titlePart>
+			<titlePart rend="smallcap">Esq. | </titlePart>
+			<titlePart>[short decorative rule] | NEW EDITION, IMPROVED. | [short decorative rule] | </titlePart>
+			<titlePart rend="italic">LONDON: | </titlePart>
+			<titlePart>PRINTED FOR J. RIDGWAY, 170, PICCADILLY, | OPPOSITE BOND-STREET. | [short rule] | 1811. | [short rule] | {</titlePart>
+			<titlePart rend="italic">Price, bound in red, 4s.</titlePart>
+			<titlePart>}</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>ii</pageRef>
+					</pageFrom>
+					<contentPart>‘[short rule] | W. Flint, Printer, Old Bailey,
+						London.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Z5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>262</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="pigott.4.1.xml">Pigott.4.1</contentPart>
+					<contentPart> (1810)</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>vi</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Z5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>262</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="pigott.4.1.xml">Pigott.4.1</RTPart>
+					<RTPart> (1810)</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>Quadrille</game>
+					<game>Cribbage</game>
+					<game>Piquet</game>
+					<game>Matrimony</game>
+					<game>Lansquenet</game>
+					<game>Quinze</game>
+					<game>Chess</game>
+					<game>Backgammon</game>
+					<game>Draughts</game>
+					<game>Billiards</game>
+					<game>Cricket</game>
+					<game>Tennis</game>
+					<game>Golf</game>
+					<game>Faro</game>
+					<game>Hazard</game>
+					<game>Rouge et Noir</game>
+					<game>Cassino</game>
+					<game>All Fours</game>
+					<game>Connexions</game>
+					<game>Put</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+				<subject>
+					<subject1>Gaming</subject1>
+					<subject2>laws of (statute)</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+				<subject>
+					<subject1>Draughts</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+				<subject>
+					<subject1>Billiards</subject1>
+					<subject2>Dew on</subject2>
+				</subject>
+			</section>
+		</sections>
+	</text>
+</entry>

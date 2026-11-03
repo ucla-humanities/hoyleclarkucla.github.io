@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Nl.2.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-12-20</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Nl.2.2</idno>
+            <fn>books/whist.nl.2.2.xml</fn>
+            <shortTitle>Wetten, Regels, en Onderwijs in det Whist</shortTitle>
+            <shortImprint>Gebroeders Koster</shortImprint>
+            <description>second edition, second issue</description>
+            <pubYear>1842</pubYear>
+            <pubDate>1842</pubDate>
+            <evidence>title</evidence>
+            <edition>2</edition>
+            <issue>2</issue>
+            <categoryID>80</categoryID>
+            <workID>20</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>nl</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Gebroeders Koster</orgName>
+            </respItem>
+        </respStmt>
+        <!--         <listBibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>T</idno>
+            </bibl>
+        </listBibl>  -->
+        <holdings>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2211</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>AMu</holder>
+                <shelfmark>UBM: 1087 E 4</shelfmark>
+                <surrogate url="https://books.google.com/books?id=d7FkAAAAcAAJ">Google</surrogate>
+            </holding>
+            <holding isSeen="false">
+                <holder>KBR</holder>
+                <shelfmark>II 98.052 A</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.W48 1842</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>∗</sigStart>
+                        <leaves>6</leaves>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>∗1</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>P</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>Q</sigStart>
+                        <leaves>4</leaves>
+                        <alteration>
+                            <alterationType>−</alterationType>
+                            <sigRef>Q4</sigRef>
+                            <note> missing, blank?</note>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>∗5</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>129</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>v</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>vi</start>
+                        <end>xii</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>246</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.nl.2.2">
+            <titlePart>WETTEN, REGELS | EN | ONDERWIJS | IN DE | WHIST-, OMBER-, | QUADRILLE-,
+                PIKET- | EN | BOSTON-SPELEN, | NAAR HET ENGELSCH | VAN | HOYLE EN PAYNE | TWEEDE
+                VERBETERDE DRUK. | [swelled rule] | AMSTERDAM | </titlePart>
+            <titlePart rend="smallcap">Gebroeders </titlePart>
+            <titlePart>KOSTER. | 1842.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>∗2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>∗6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>xii</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.nl.2.1.xml">Whist.Nl.2.1</contentPart>
+                    <contentPart> (1810)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>∗3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vi</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>∗6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>xii</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="whist.nl.2.1.xml">Whist.Nl.2.1</RTPart>
+                    <RTPart> (1810)</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>Q3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>246</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.nl.2.1.xml">Whist.Nl.2.1</contentPart>
+                    <contentPart> (1810)</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Hombre</game>
+                    <game>Quadrille</game>
+                    <game>Piquet</game>
+                    <game>Boston</game>
+                </gamesCovered>
+            </section>
+        </sections>
+        <plates>
+            <plate>
+                <plateRelation>opposite</plateRelation>
+                <sigRef>M6v</sigRef>
+                <pageRef>188</pageRef>
+                <plateType>letterpress</plateType>
+                <notes>
+                    <note>folded quarter sheet printed on both sides: </note>
+                    <note rend="italic">‘Tarif bij het Quadrilleſpelen met honneurs. | </note>
+                    <note> [...]’</note>
+                </notes>
+            </plate>
+        </plates>
+    </text>
+</entry>

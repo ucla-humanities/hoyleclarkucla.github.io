@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Piquet.D.3*</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-03-28</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Piquet.D.3*</idno>
+            <fn>books/piquet.d.3.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Piquet</shortTitle>
+            <description>third Dublin edition</description>
+            <pubYear>1761</pubYear>
+            <pubDate>1761</pubDate>
+            <evidence>included work</evidence>
+            <edition>3</edition>
+            <issue>1</issue>
+            <categoryID>60</categoryID>
+            <workID>10</workID>
+            <subWorkID>40</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Ewing</respGroup>
+                <persName>
+                    <forename>George and Alexander</forename>
+                    <surname>Ewing</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true" isCollection="true">
+                <holder>D</holder>
+                <shelfmark>Dublin1761(21)</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>L</holder>
+                <shelfmark>1607/4733</shelfmark>
+                <surrogate>ECCO</surrogate>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.574</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.H86 1761</shelfmark>
+                <idno>Polite.C</idno>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1469.B2 H6 1753</shelfmark>
+                <idno>Polite.C</idno>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F61D</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1241.H8P 1761</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1745</shelfmark>                
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1804</shelfmark>                
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>C</holder>
+                <shelfmark>Hib.7.761.25</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>HAG</holder>
+                <shelfmark>KW 364 G 168</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>LU-S</holder>
+                <shelfmark>GV1241.H86 1761</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>NNStJ</holder>
+                <shelfmark>GV1241.H86 1761</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>NNU-F</holder>
+                <shelfmark>GV1241.H6 1761</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>NjP</holder>
+                <shelfmark>42845.479.31</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>RP</holder>
+                <shelfmark>795 H868 1761 SpecColT</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>5</sequence>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Piquet.D.3* was never issued separately, but appears as part of </note>
+            <note url="polite.c">Polite.C</note>
+            <note>. There is no section title page. </note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>A6</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>18</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>34</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>35</start>
+                        <end>36</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A12r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>23</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | A | TREATISE | On the GAME of | PIQUET. | To which
+                        are added, | Some </contentPart>
+                    <contentPart rend="smallcap">Rules </contentPart>
+                    <contentPart>and </contentPart>
+                    <contentPart rend="smallcap">Observations </contentPart>
+                    <contentPart>for | playing well at CHESS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A12r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>23</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A Treatiſe on </RTPart>
+                    <RTPart rend="smallcap">Piquet.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A12v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>24</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>34</pageRef>
+                    </pageTo>
+                    <contentPart>‘Some RULES and OBSERVA-|TIONS for playing well at CHESS. |
+                        [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A12v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>24</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>33</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Rules and Obſervations | for playing at </RTPart>
+                    <RTPart>CHESS.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Chess</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>34</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Rules and Obſervations &amp;c.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>35</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[double rule] | PIQUET. | [table of contents for
+                        piquet]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>36</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[double rule] | CHESS. | [table of contents for
+                        chess]’</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Shackell.Whist.1822</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Shackell.Whist.1822</idno>
+			<fn>books/shackell.whist.1822.xml</fn>
+			<shortTitle>Short Rules for Whist</shortTitle>
+			<shortImprint>published by W. Wright</shortImprint>
+			<pubYear>1822</pubYear>
+			<pubDate>1822</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>70</workID>
+			<subWorkID>10</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>William</forename>
+					<surname>Wright</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<respGroup seq="2">Shackell</respGroup>
+				<orgName>Shackell and Arrowsmith</orgName>
+			</respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>1710</idno>
+				<notes>
+					<note> (with an erroneous date of 1824. See his ambigous corrections in Jessel d.138)</note>
+				</notes>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1620</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>MRu</holder>
+				<shelfmark>R138434</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>10.9</height>
+				<width>6.1</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>A2</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>A3</sigRef>
+					</anomSignature>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>A4</sigRef>
+					</anomSignature>
+				</anomSignatures>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>8</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>9</start>
+						<end>24</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="shackell.whist.1822">
+			<titlePart>HOYLE ABRIDGED. | [short rule] | SHORT RULES | FOR | </titlePart>
+			<titlePart rend="blackletter">Short Memories | </titlePart>
+			<titlePart>AT THE | GAME OF WHIST, | WITH THE | LAWS OF THE GAME. |  Adapted either for the Head or Pocket. | BY BOB SHORT. | [short rule] | A NEW EDITION, | REVISED AND CORRECTED THROUGHOUT, | WITH THE LAST NEW RULES AS ESTA-|BLISHED AT BATH AND LONDON. | [short rule] | Printed for the Benefit of Families, to | prevent Scolding. | [printer's device] | LONDON: | PUBLISHED BY W. WRIGHT, | 46, FLEET-STREET. | [short rule] | 1822.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>‘LONDON: | PRINTED BY SHACKELL AND ARROWSMITH, | JOHNSON'S-COURT, FLEET-STREET.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>‘THE PRESENT IMRPROVED AND | ENLARGED EDITION OF THIS LITTLE | WORK, IS MOST RESPECTFULLY DEDI-|CATED TO THE PUBLIC, | BY THEIR | VERY OBLIGED, OBEDIENT, | AND HUMBLE SERVANT, | BOB SHORT, JUN. | LONG'S HOTEL, | MAY, 1821.’</contentPart>
+				</content>
+				<subject>
+					<subject1>Bob Short Address</subject1>
+					<subject2>1821-05 Long's Hotel</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>‘TO THE PUBLIC. | [...] | BOB SHORT.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>8</pageRef>
+					</pageTo>
+					<contentPart>‘DEDICATION. | [short rule] | TO THE FOUR KINGS. | [...] | Your devoted Slave, | BOB SHORT. | </contentPart>
+					<contentPart rend="italic">Baker's Coffee-House, | Exchange-Alley, | Jan. 1, 1793.’</contentPart>
+				</content>
+				<subject>
+					<subject1>Bob Short Address</subject1>
+					<subject2>1793-01-01 Baker's Coffee-house</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>9</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF WHIST. | [...] | [colophon]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+		</sections>
+		<colophon>
+			<notes>
+				<note>‘LONDON: | Shackell and Arrowsmith, Johnson's Court.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

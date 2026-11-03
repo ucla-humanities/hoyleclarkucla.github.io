@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Fr.C.1781.Libraires</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.C.1781.Libraires</idno>
+            <fn>books/whist.fr.c.1781.libraires.xml</fn>
+            <shortTitle>Traité du Jeu de Whist</shortTitle>
+            <shortImprint>Chez les Libraires Associés. </shortImprint>
+            <statedEdition>nouvelle édition</statedEdition>
+            <pubYear>1781</pubYear>
+            <pubDate>1781</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <orgName>Chez les Libraires Associés</orgName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Depaulis</reference>
+                <idno>124</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.591</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>OCl</holder>
+                <shelfmark>789.874 H852T2</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DE-32</holder>
+                <shelfmark>14,4:90</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>A reissue with a cancel title of </note>
+            <note url="whist.fr.desoer.1773.xml">Whist.Fr.Desoer.1773</note>
+            <note>. The Oxford copy has the added chess book promised by the title page; the other
+                copies do not.</note>
+            <note rend="paragraph"></note>
+            <note>Translation "C" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>6</leaves>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>A1</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>I</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>+</anomType>
+                        <sigRef>B4</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>54</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>3</start>
+                        <end>106</end>
+                    </pageRange>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>2</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title">
+            <titlePart>TRAITÉ | DU JEU | </titlePart>
+            <titlePart rend="italic">DE WHIST, | </titlePart>
+            <titlePart>Traduit de l'Anglois </titlePart>
+            <titlePart rend="smallcap">d'Edmond Hoyle, | </titlePart>
+            <titlePart>SUIVI DE | L'ANTI-WHIST | </titlePart>
+            <titlePart rend="italic">OU LE FRANCION, | </titlePart>
+            <titlePart>DU JEU | DE TROIS-SEPT, | ET DE CELUI | </titlePart>
+            <titlePart rend="italic">DES ÉCHECS. | </titlePart>
+            <titlePart>NOUVELLE ÉDITION. | [ornament] | </titlePart>
+            <titlePart rend="italic">A PARIS, | </titlePart>
+            <titlePart rend="smallcap">Chez les Libraires associés. | </titlePart>
+            <titlePart>[double rule] | M. DCC. LXXXI.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.fr.desoer.1773.xml">Whist.Fr.Desoer.1773</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="whist.fr.desoer.1773.xml">Whist.Fr.Desoer.1773</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Tressette</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I6r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>I6v</sigRef>
+                    </sigTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.fr.desoer.1773.xml">Whist.Fr.Desoer.1773</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

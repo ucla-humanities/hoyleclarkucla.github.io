@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Withy.Quadrille.1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2025-01-04</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Withy.Quadrille.1</idno>
+			<fn>books/withy.quadrille.1.xml</fn>
+			<shortTitle>Short Rules for Quadrille</shortTitle>
+			<shortImprint>printed for, and sold by the Author</shortImprint>
+			<description>first London edition</description>
+			<pubYear>1793</pubYear>
+			<pubDate>1793-01-01</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>30</categoryID>
+			<workID>7</workID>
+			<subWorkID>4</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Withy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short</surname>
+				</persName>
+			</respItem>
+			<respItem respType="distributor">
+				<persName>
+					<forename>John</forename>
+					<surname>Ryall</surname>
+				</persName>
+			</respItem>
+			<respItem respType="distributor">
+				<persName>
+					<forename>Elizabeth</forename>
+					<surname>Newbery</surname>
+				</persName>
+			</respItem>
+			<respItem respType="distributor">
+				<persName>
+					<forename>John</forename>
+					<surname>Bell</surname>
+				</persName>
+			</respItem>
+			<respItem respType="distributor">
+				<persName>
+					<forename>Henry</forename>
+					<surname>Fourdrinier</surname>
+				</persName>
+			</respItem>
+			<respItem respType="distributor">
+				<persName>
+					<forename>John</forename>
+					<surname>Debrett</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Morning Chronicle</publication>
+				<pubDate>1793-01-01</pubDate>
+				<notes>
+					<note>"Quadrille is now the fashion, Bob Short's New Year's Gift. This day is published, price 6d. Large print 1s. Dedicated to Spadille, Hoyle Abridged, Part II, or Short Rules for Playing the Game of Quadrille, with the Laws of the Game &amp;c. as played at all public places. By Bob Short, author of Short Rules at Whist...Where may be had, new editions of his Rules for Whist, price 6d. large print. 1s. Dedicated to the Four Kings, of which upwards of 5000 have been sold in one year."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+				<evidence>advertisement</evidence>
+			</price>
+			<price>
+				<priceComponent>
+					<amount>1</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<note>large print</note>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T72481</idno>
+			</bibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>1711</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>71</idno>
+			</bibl>		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>L</holder>
+				<shelfmark>1040.a.1(3)</shelfmark>
+				<surrogate>ECCO</surrogate>
+			</holding>
+			<holding isSeen="true">
+				<holder>C-S</holder>
+				<shelfmark>795.4S55 CG</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1757</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>Despite the claim on the title page, the book does not appear in the Stationers' register of books.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<signingErrors>
+					<signingError>
+						<sigRef>A1v</sigRef>
+						<badSig>A2</badSig>
+					</signingError>
+				</signingErrors>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>3</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+						<end>6</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>7</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>8</start>
+						<end>23</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>24</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="withy.quadrille.1">
+			<titlePart rend="italic">HOYLE ABRIDGED, | </titlePart>
+			<titlePart>PART II. | [short reverse oxford rule] | OR, | SHORT RULES | For playing the GAME of | </titlePart>
+			<titlePart rend="italic">QUADRILLE; | </titlePart>
+			<titlePart>WITH THE | LAWS OF THE GAME, &amp;c. | [short decorative rule] | </titlePart>
+			<titlePart rend="italic">By BOB SHORT, | </titlePart>
+			<titlePart>Author of </titlePart>
+			<titlePart rend="italic">Short Rules for Whiſt. | </titlePart>
+			<titlePart>[reverse oxford rule] | LONDON: | Printed for, and ſold by the Author, at | Baker's Coffee-houſe, Exchange Alley; | Ryall, Lombard Street; Newbery, St. | Paul's Chruch Yard; Bell, in the | Strand; Fourdrinier, Charing Croſs; | and Debrett, Piccadilly. 1793. {Price | Sixpence.} | (Entered at Stationers' Hall.)</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>"To the Public. The great demand for my 'Short Rules for Whist,' seven thousand having been sold in twelve months, has flattered me so much, that I cannot resist the soliciation of many friends to publish Short Rules at the Game of Quadrille, which I trust will also be found useful and convenient both to the proficient and learner. BOB SHORT."</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>6</pageRef>
+					</pageTo>
+					<contentPart>‘DEDICATION. | [double rule] | TO THE MOST HIGH, PUISSANT, | AND UNIVERSALLY ADORED | SPADILLE, SOLE EMPEROR OF | MATTAD, RES, AND ALL THEIR | DEPENDENCIES | [...] </contentPart>
+					<contentPart>Your ſublime Highneſs's | Moſt dutiful, | Moſt Faithful, and | Moſt devoted Admirer, | </contentPart>
+					<contentPart rend="italic">BOB SHORT. | Baker's Coffee-houſe, | Exchange Alley, | Jan. </contentPart>
+					<contentPart>1, 1793.’</contentPart>
+				</content>
+				<subject>
+					<subject1>Bob Short Address</subject1>
+					<subject2>1793-01-01 Baker's Coffee-house</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>7</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A7r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>13</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF QUADRILLE. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A7r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>13</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A7v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>14</pageRef>
+					</pageTo>
+					<contentPart>‘[...] | SHORT RULES, | </contentPart>
+					<contentPart rend="italic">&amp;c. &amp;c. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Quadrille</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Quadrille</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A8r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>15</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A10v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>20</pageRef>
+					</pageTo>
+					<contentPart>‘CALCULATIONS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A11r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>21</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A12r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>23</pageRef>
+					</pageTo>
+					<contentPart>‘LAWS OF THE GAME. | [...] | FINIS. | [double rule] | [inverted] &#8258; </contentPart>
+					<contentPart rend="smallcap">New </contentPart>
+					<contentPart>Editions of my </contentPart>
+					<contentPart rend="italic">Short | Rules for Whiſt </contentPart>
+					<contentPart>are juſt publiſhed, | price Sixpence; and in large print, | price One Shilling.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A12v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>24</pageRef>
+					</pageFrom>
+					<contentPart>‘ROBERT WITHY, | </contentPart>
+					<contentPart rend="italic">STOCK-BROKER, | </contentPart>
+					<contentPart>BEGS leave to inform his Friends | and the Public, | [...]’</contentPart>
+				</content>
+			</section>
+		</sections>
+		<pressFigures>
+			<pressFigure>
+				<sigRef>A11v</sigRef>
+				<pageRef>22</pageRef>
+				<forme>i</forme>
+				<mark>5</mark>
+			</pressFigure>
+		</pressFigures>
+	</text>
+</entry>

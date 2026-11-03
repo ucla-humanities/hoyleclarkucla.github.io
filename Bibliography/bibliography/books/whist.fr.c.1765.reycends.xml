@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>Can't handle string for idno in Rather E.</todo>
+    <fileDesc>
+        <title>Whist.Fr.C.1765.Reycends</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-05-18</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.C.1765.Reycends</idno>
+            <fn>books/whist.fr.c.1765.reycends.xml</fn>
+            <shortTitle>Traité du Jeu de Whist</shortTitle>
+            <shortImprint>Chez les Freres Reycends et al</shortImprint>
+            <pubYear>1765</pubYear>
+            <pubDate>1764-11-24</pubDate>
+            <evidence>imprimatur</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <orgName>Chez les Freres Reycends &amp; Guibert</orgName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>François Antoine</forename>
+                    <surname>Mairesse</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Depaulis</reference>
+                <idno>99</idno>
+            </bibl>
+            <bibl>
+                <reference>Lensi</reference>
+                <idno>77</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel e.643</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>NNPM</holder>
+                <shelfmark>E3 092 D 079485</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1277.H6914 1765</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1350</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2157</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LEu</holder>
+                <shelfmark>Anglo-French 3 1765 HOY</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>FLB</holder>
+                <shelfmark>CF005679182</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>HAG</holder>
+                <shelfmark>KW 665 M 26</shelfmark>
+                <surrogate url="https://books.google.com/books?id=oRZZAAAAcAAJ">Google</surrogate>
+            </holding>
+            <holding isSeen="false">
+                <holder>IMB</holder>
+                <shelfmark>ZUC.001-G-019</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Pa</holder>
+                <shelfmark>8-S-16651</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Pa</holder>
+                <shelfmark>8-S-16652</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>TURu</holder>
+                <shelfmark>X.IV.122</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Beauchene</holder>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "C" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>24</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>a</sigStart>
+                        <sigEnd>g</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>e3</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>g4</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>56</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>3</start>
+                        <end>112</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.fr.c.1765.reycends">
+            <titlePart>TRAITÉ | </titlePart>
+            <titlePart rend="italic">DU JEU DE WHIST | </titlePart>
+            <titlePart>Traduit de l'Anglois | D'EDMOND HOYLE. |
+                [tailpiece] | </titlePart>
+            <titlePart rend="italic">A TURIN MDCCLXV. | </titlePart>
+            <titlePart>[row of type orn] | Chez les Freres </titlePart>
+            <titlePart rend="smallcap">Reycends, &amp; Guibert | </titlePart>
+            <titlePart>Libraires au coin de la Ruë Neuve. | </titlePart>
+            <titlePart rend="italic">Avec permiſsion.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>a2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>4</pageRef>
+                    </pageTo>
+                    <contentPart>rules for whist</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>a4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <contentPart>‘EXPLICATION | </contentPart>
+                    <contentPart rend="italic">De quelques termes, ou mots techniques | employés
+                        dans ce Traité à l'uſage | des Commençans. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>9</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>g7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>110</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | TRAITÉ | DU JEU DE WHIST. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>a2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>g7r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>109</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Traité du Jeu | de Whist.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>g7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>110</pageRef>
+                    </pageFrom>
+                    <RTPart rend="smallcap">‘Traité du Jeu de Whist.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>g8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>111</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>g8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>112</pageRef>
+                    </pageTo>
+                    <contentPart>‘TABLE | Des principaux Articles du Traité | </contentPart>
+                    <contentPart rend="smallcap">du Jeu de Whist. | </contentPart>
+                    <contentPart>[...] [imprimatur] [colophon]’</contentPart>
+                </content>
+            </section>
+        </sections>
+        <imprimatur>
+            <notes>
+                <note>‘Die 24. Novembris 1764. | </note>
+                <note rend="italic">Imprimatur. | </note>
+                <note>Fr. Joannes Dominicus Piſelli Vicarius Generalis | S. Officii Taurini. | </note>
+                <note rend="italic">V. </note>
+                <note>Vigus LL. AA. P. | </note>
+                <note rend="italic">V. Se ne permette la ſtampa. | </note>
+                <note rend="smallcap">Galli </note>
+                <note>per la Gran Cancelleria.’</note>
+            </notes>
+        </imprimatur>
+        <colophon>
+            <notes>
+                <note rend="italic">‘A TURIN. | </note>
+                <note>Chez </note>
+                <note rend="smallcap">François Antoine Mairesse </note>
+                <note>Imprimeur | à l'enſeigne de S. Tereſe.’</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

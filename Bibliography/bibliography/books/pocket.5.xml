@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+	<fileDesc>
+		<title>Pocket.5</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2015-08-24</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pocket.5</idno>
+			<fn>books/pocket.5.xml</fn>
+			<shortTitle>The New Pocket Hoyle</shortTitle>
+			<shortImprint>printed for R. Scholey</shortImprint>
+			<description>fifth London edition</description>
+			<pubYear>1807</pubYear>
+			<pubDate>1807</pubDate>
+			<evidence>title</evidence>
+			<edition>5</edition>
+			<issue>1</issue>
+			<categoryID>30</categoryID>
+			<workID>100</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Scholey</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<holdings>
+			<holding isSeen="false" isCollection="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H G8L</shelfmark>
+				<idno>Pocket.C</idno>
+				<sequence>1</sequence>
+			</holding>
+		</holdings>
+	</bookDesc>
+</entry>

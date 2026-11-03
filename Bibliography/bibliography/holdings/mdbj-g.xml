@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\mdbj-g.xml</fn><home>../index.xml</home></footer><id>MdBJ-G</id><fn>mdbj-g</fn><name>Johns Hopkins University, John Work Garrett</name><location>Baltimore, Maryland</location><books><book><id>Polite.1.1</id><fn>../books/polite.1.1.xml</fn><shortTitle>The Polite Gamester</shortTitle><shortImprint>printed by T. Ewing</shortImprint><description>first Dublin edition, first issue</description><pubDate>1772</pubDate><shelfmarks><shelfmark>GV1241.H6 1772</shelfmark></shelfmarks></book></books></holder>

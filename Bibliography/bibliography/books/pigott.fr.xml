@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Pigott.Fr</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-19</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Pigott.Fr</idno>
+            <fn>books/pigott.fr.xml</fn>
+            <shortTitle>Règles du Jeu de Whist</shortTitle>
+            <pubYear>1810</pubYear>
+            <pubDate isUncertain="true">1810</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>30</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Charles</forename>
+                    <surname>Pigott</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Depaulis</reference>
+                <idno>159</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="false">
+                <holder>L</holder>
+                <shelfmark>7921.a.9</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>HAG</holder>
+                <shelfmark>183 J 95</shelfmark>
+                <surrogate url="https://books.google.com/books?id=DDFOAAAAcAAJ">Google</surrogate>
+            </holding>
+            <holding isSeen="false">
+                <holder>Beauchene</holder>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>G</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1,3</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>42</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>v</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>vi</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>7</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>8</start>
+                        <end>79</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>80</start>
+                        <end>81</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>82</start>
+                        <end>83</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>84</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="halfTitle">
+            <titlePart>RÈGLES | DU JEU | DE WHIST.</titlePart>
+        </titlePage>
+        <titlePage titleType="title">
+            <titlePart>RÈGLES | DU JEU | DE WHIST, | OU | LE NOUVEAU HOYLE, | DE | </titlePart>
+            <titlePart rend="smallcap">Charles PIGOT, | </titlePart>
+            <titlePart>ÉCUYER. | [short rule] | A PARIS, | De l'Imprimerie de l'institution impériale des | </titlePart>
+            <titlePart rend="smallcap">Sourds-Muets </titlePart>
+            <titlePart>de naissance, sous la direc-|tion d'</titlePart>
+            <titlePart rend="smallcap">Ange CLO, </titlePart>
+            <titlePart>rue Saint-Jacques, n</titlePart>
+            <titlePart rend="super">o</titlePart>
+            <titlePart>. 256.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>half title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>v</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>vi</pageRef>
+                    </pageTo>
+                    <contentPart>‘[rule] | </contentPart>
+                    <contentPart rend="smallcap">La </contentPart>
+                    <contentPart>réputation générale et méritée | dont jouit, depuis long-temps, le | Traité du Whist de M. Hoyle, [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>7</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>79</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | LE NOUVEAU HOYLE. | [short rule] | </contentPart>
+                    <contentPart rend="italic">Le Jeu du Whist. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>80</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>81</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>83</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | TABLE | DES MATIÈRES. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>84</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Chances.1.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2016-09-05</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Chances.1.2</idno>
+            <fn>books/chances.1.2.xml</fn>
+            <shortTitle>The Doctrine of Chances</shortTitle>
+            <shortImprint>sold by T. Osborne</shortImprint>
+            <description>first London edition, second issue</description>
+            <pubYear>1760</pubYear>
+            <pubDate>1760-12-24</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>2</issue>
+            			<categoryID>10</categoryID>
+            <workID>8</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Henry</forename>
+                    <surname>Woodfall</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="dedicatee">
+                <orgName>Earl of Egmont</orgName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Public Advertiser</publication>
+                <pubDate>1760-12-24</pubDate>
+                <notes>
+                    <note>"Price 2s. 6d. sewed...☛ No copies of these books are genuine, but those
+                        that are signed by the author." </note>
+                    <note>Advertised with </note>
+                    <note url="chess.1.xml">Chess.1</note>
+                    <note>.</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>2</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>N504458</idno>
+            </bibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>670</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>795</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>43</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel e.647(1)</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1784</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>A reissue of </note>
+            <note url="chances.1.1.xml">Chances.1.1</note>
+            <note> with a cancel title and a substantially lower price. </note>
+            <note>The imprint "sold by" Osborne, Crowder, and Baldwin suggests that they were
+                distributors and not publishers. However both surviving copies are autographed both
+                by Hoyle and Osborne, suggesting that Osborne had a financial interest in the book. </note>
+            <note>The book was issued at the same time as </note>
+            <note url="chess.1.xml">Chess.1</note>
+            <note> and </note>
+            <note url="games.3.xml">Games.3</note>
+            <note>. </note>
+            <note>For more on this book see my blog </note>
+            <note
+                url="http://edmondhoyle.blogspot.com/2014/06/the-yorkshire-hoyles-and-doctrine-of.html"
+                >essay</note>
+            <note> "The Yorkshire Hoyles and the Doctrine of Chances".</note>
+        </notes>
+
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>4</leaves>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>A1</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>I</sigEnd>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>K</sigStart>
+                        <leaves>4</leaves>
+                        <alteration>
+                            <alterationType>+</alterationType>
+                            <sigRef>K4</sigRef>
+                            <count>1</count>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>41</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                        <end>viii</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>73</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>74</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="chances.1.2">
+            <titlePart>AN | ESSAY | </titlePart>
+            <titlePart rend="smallcap">Towards making the | </titlePart>
+            <titlePart>DOCTRINE | OF | CHANCES | EASY to thoſe who underſtand | </titlePart>
+            <titlePart rend="smallcap">Vulgar Arithmetick </titlePart>
+            <titlePart>only. | To which are added, | Some Uſeful TABLES on </titlePart>
+            <titlePart rend="smallcap">Annuities | </titlePart>
+            <titlePart>for </titlePart>
+            <titlePart rend="smallcap">Lives, </titlePart>
+            <titlePart rend="italic">&amp;c. &amp;c. &amp;c. </titlePart>
+            <titlePart> | [rule] | By Mr. </titlePart>
+            <titlePart rend="italic">HOYLE. </titlePart>
+            <titlePart> | [double rule] | </titlePart>
+            <titlePart rend="italic">LONDON: | </titlePart>
+            <titlePart>Sold by </titlePart>
+            <titlePart rend="smallcap">T. Osborne, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Gray's-Inn; </titlePart>
+            <titlePart rend="smallcap">S. Crowder | </titlePart>
+            <titlePart>and Co. at the </titlePart>
+            <titlePart rend="italic">Looking-Glaſs, </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">R. Baldwin, </titlePart>
+            <titlePart>at | the </titlePart>
+            <titlePart rend="italic">Roſe, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Pater-noſter-Row. | </titlePart>
+            <titlePart>(Price Two Shillings and Six-pence.) | No Copies of this Book are
+                genuine, but thoſe that are ſigned | by the </titlePart>
+            <titlePart rend="smallcap">Author. </titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title, with autographs of Edmond Hoyle and Tho. Osborne at the
+                        foot</contentPart>
+                </content>
+                <subject>
+                    <subject1>Chances</subject1>
+                    <subject2>Doctrine of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[row of type orn] | ERRATUM. | </contentPart>
+                    <contentPart rend="italic">In Page 57, Line 2, read </contentPart>
+                    <contentPart>for doing it, </contentPart>
+                    <contentPart rend="italic">inſtead of | </contentPart>
+                    <contentPart>againſt doing it. | [row of type orn]’</contentPart>
+                </content>
+            </section>
+            <section>
+
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K4+1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>74</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="chances.1.1.xml">Chances.1.1</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K4+1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>74</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="chances.1.1.xml">Chances.1.1</RTPart>
+                </RT>
+            </section>
+        </sections>
+    </text>
+</entry>

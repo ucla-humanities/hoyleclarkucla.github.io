@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Pigott.3.3</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-04-23</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pigott.3.3</idno>
+			<fn>books/pigott.3.3.xml</fn>
+			<shortTitle>Pigott's New Hoyle</shortTitle>
+			<shortImprint>printed for J. Ridgway</shortImprint>
+			<statedEdition>"eleventh" edition</statedEdition>
+			<description>third London edition, third issue</description>
+			<pubYear>1803</pubYear>
+			<pubDate>1803</pubDate>
+			<evidence>title</evidence>
+			<edition>3</edition>
+			<issue>3</issue>
+			<categoryID>30</categoryID>
+			<workID>90</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Pigott</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Sutton</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>James</forename>
+					<surname>Ridgway</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<holdings>
+			<holding isSeen="false">
+				<holder>CaOTP</holder>
+				<shelfmark>794 P37</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>Based on reports and selected photocopies, it appears that the book is a reissue of </note>
+			<note url="pigott.3.1.xml">Pigott.3.1</note>
+			<note> (1802) with the same setting of type even for the title page, which changes "ninth" edition to "eleventh".</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>18</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>π</sigStart>
+						<leaves>1</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>2</leaves>
+						<alteration>
+							<alterationType>+</alterationType>
+							<sigRef>A2</sigRef>
+							<count>1</count>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>N</sigEnd>
+						<leaves>9</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>O</sigStart>
+						<leaves>6</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<sigRef>O6</sigRef>
+							<note> missing, blank?</note>
+						</alteration>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>117</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>i</start>
+						<end>iv</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>v</start>
+						<end>viii</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>226</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>ii</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>O5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>226</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="pigott.3.1.xml">Pigott.3.1</contentPart>
+					<contentPart> (1802)</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>O5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>226</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="pigott.3.1.xml">Pigott.3.1</RTPart>
+					<RTPart> (1802)</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>Quadrille</game>
+					<game>Cribbage</game>
+					<game>Piquet</game>
+					<game>Matrimony</game>
+					<game>Lansquenet</game>
+					<game>Quinze</game>
+					<game>Chess</game>
+					<game>Backgammon</game>
+					<game>Draughts</game>
+					<game>Billiards</game>
+					<game>Cricket</game>
+					<game>Tennis</game>
+					<game>Golf</game>
+					<game>Faro</game>
+					<game>Hazard</game>
+					<game>Rouge et Noir</game>
+					<game>Cassino</game>
+					<game>All Fours</game>
+					<game>Connexions</game>
+					<game>Put</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+				<subject>
+					<subject1>Gaming</subject1>
+					<subject2>laws of (statute)</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+				<subject>
+					<subject1>Draughts</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+				<subject>
+					<subject1>Billiards</subject1>
+					<subject2>Dew on</subject2>
+				</subject>
+			</section>
+		</sections>
+		<plates>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>H4r</sigRef>
+				<pageRef>115</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note rend="smallcap">‘[...] | The Draught Table’</note>
+				</notes>
+			</plate>
+		</plates>
+	</text>
+</entry>

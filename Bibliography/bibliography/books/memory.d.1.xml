@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Memory.D.1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-27</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Memory.D.1</idno>
+			<fn>books/memory.d.1.xml</fn>
+			<shortTitle>An Artificial Memory at the Game of Whist</shortTitle>
+			<shortImprint>printed for George and Alexander Ewing</shortImprint>
+			<description>first Dublin edition</description>
+			<pubYear>1744</pubYear>
+			<pubDate>1744-04-21</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>60</categoryID>
+			<workID>10</workID>
+			<subWorkID>30</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="2">Ewing</respGroup>
+				<persName>
+					<forename>George and Alexander</forename>
+					<surname>Ewing</surname>
+				</persName>
+				<share>100</share>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>The Dublin Journal</publication>
+				<pubDate>1744-03-31</pubDate>
+				<notes>
+					<note>"This day is published, price 3d."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>3</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T88039</idno>
+			</bibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>788</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>17</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true" isCollection="true">
+				<holder>L</holder>
+				<shelfmark>7917 de.73</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>5</sequence>
+				<notes>
+					<note> (ECCO splits Polite.A into two files, one which contains Memory.D.1 and
+						the other which contains everything else.)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.541(2)</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.570(5)</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>5</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.571(5)</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>5</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>NvLN</holder>
+				<shelfmark>GV1201.H83 1743</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>Levy</holder>
+				<shelfmark>1609</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>5</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>C</holder>
+				<shelfmark>Hib.7.745.29</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>5</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>CaOTP</holder>
+				<shelfmark>795 H598</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>5</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>ICD</holder>
+				<shelfmark>SPC. 795 H868P</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>5</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>LU</holder>
+				<shelfmark>GV1243.H7</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>5</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>WaS</holder>
+				<shelfmark>R795 H852P</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>5</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>AuNU</holder>
+				<shelfmark>RB 4645.44</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>5</sequence>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>8</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<leaves>4</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>A2</sigRef>
+					</anomSignature>
+				</anomSignatures>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>4</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>5</start>
+						<end>21</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>22</start>
+						<end>24</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="halfTitle">
+			<titlePart>[rule] | AN | Artificial Memory. | [rule]</titlePart>
+		</titlePage>
+		<titlePage titleType="title" imageFN="memory.d.1">
+			<titlePart rend="roman">AN | Artificial Memory. | OR, AN | EASY METHOD | OF |
+				Aſſiſting the </titlePart>
+			<titlePart rend="smallcap">Memory </titlePart>
+			<titlePart>of thoſe | that play at the Game of </titlePart>
+			<titlePart rend="smallcap">Whist. | </titlePart>
+			<titlePart>To which are added, | Several </titlePart>
+			<titlePart rend="smallcap">Cases </titlePart>
+			<titlePart>not hitherto Publiſh'd. | [rule] | </titlePart>
+			<titlePart rend="italic">By </titlePart>
+			<titlePart rend="smallcap">Edmund Hoyle, </titlePart>
+			<titlePart rend="italic">Gent. </titlePart>
+			<titlePart>| [double rule] | </titlePart>
+			<titlePart rend="italic">DUBLIN: | </titlePart>
+			<titlePart>Printed for </titlePart>
+			<titlePart rend="smallcap">George </titlePart>
+			<titlePart>and </titlePart>
+			<titlePart rend="smallcap">Alexander Ewing | </titlePart>
+			<titlePart>at the </titlePart>
+			<titlePart rend="italic">Angel </titlePart>
+			<titlePart>and </titlePart>
+			<titlePart rend="italic">Bible </titlePart>
+			<titlePart>in </titlePart>
+			<titlePart rend="italic">Dame-ſtreet. </titlePart>
+			<titlePart>1744.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>half title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>advertisement for </contentPart>
+					<contentPart url="whist.d.3.xml">Whist.D.3</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>21</pageRef>
+					</pageTo>
+					<contentPart>‘[double rule] | AN | </contentPart>
+					<contentPart rend="smallcap">Artificial Memory, </contentPart>
+					<contentPart>| OR | An eaſy Method of aſſiſting the </contentPart>
+					<contentPart rend="smallcap">Me-|mory </contentPart>
+					<contentPart>of thoſe that play at the | Game of </contentPart>
+					<contentPart rend="smallcap">Whist. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>6</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>21</pageRef>
+					</pageTo>
+					<RTPart rend="italic">‘A Treatiſe on </RTPart>
+					<RTPart rend="smallcap">Whist.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>22</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<contentPart>catalogue of books printed for George and Alexander
+						Ewing</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>B4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>23</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<RTPart>‘CATALOGUE, &amp;c.’</RTPart>
+				</RT>
+			</section>
+		</sections>
+		<catchwords>
+			<catchword>
+				<sigRef>A6r</sigRef>
+				<pageRef>11</pageRef>
+				<cwFoot>IV. Let</cwFoot>
+				<cwHead>III. Let</cwHead>
+			</catchword>
+		</catchwords>
+	</text>
+</entry>

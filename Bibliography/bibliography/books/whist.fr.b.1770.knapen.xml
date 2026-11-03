@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>Can't handle string for idno in Rather E.</todo>
+    <fileDesc>
+        <title>Whist.Fr.B.1770.Knapen</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-09-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.B.1770.Knapen</idno>
+            <fn>books/whist.fr.b.1770.knapen.xml</fn>
+            <shortTitle>Traité du Jeu du Whisk</shortTitle>
+            <shortImprint>Chez Knapen</shortImprint>
+            <pubYear>1770</pubYear>
+            <pubDate>1770</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <orgName>Chez Knapen</orgName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1788</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2210</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>This is most often found as a second part of Académie Universelle des Jeux,
+                but Levy [2210] is only the whist translation, stitched, as issued. In that copy,
+                gathering E is missigned 'D' and pages 57 and 58 are misnumbered 75 and 85. There 
+                is another versions dated 1765. I have seen photographs of a few openings only and it 
+                appears to be in part the same setting of type, but for some pages different type.</note>
+            <note rend="paragraph"/>
+            <note>Translation "B" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>π</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>G</sigEnd>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>H</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>+</anomType>
+                        <sigRef>A1</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>31</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>2</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>1</start>
+                        <end>60</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.fr.b.1770.knapen">
+            <titlePart>TRAITÉ | DU JEU | DU WHISK, | </titlePart>
+            <titlePart rend="italic">CONTENANT | </titlePart>
+            <titlePart rend="smallcap">Les </titlePart>
+            <titlePart>Loix de ce Jeu &amp; des Regles pour | le bien jouer, avec divers calculs pour | en connoître les Chances, &amp; pluʃieurs | Cas difficiles dont on montre la ʃolution; | par </titlePart>
+            <titlePart rend="smallcap">Edmond Hoyle, </titlePart>
+            <titlePart>traduit de | l'Anglois. | </titlePart>
+            <titlePart>[tailpiece] | A PARIS, AU PALAIS, | Chez KNAPEN, Imprimeur-Libraire | au Bon Protecteur &amp; à l"L couronnée. | [short rule] | M. DCC. LXX. | </titlePart>
+            <titlePart rend="italic">Avec Aprobation &amp; Privilege du Roi.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>60</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | TRAITÉ | </contentPart>
+                    <contentPart rend="italic">DU JEU | </contentPart>
+                    <contentPart>DU WHISK, | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H2r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>59</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘TRAITÉ | DU JEU DU WHISK.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>H2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>60</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘TRAITÉ &amp;c’</RTPart>
+                </RT>
+            </section>
+        </sections>
+    </text>
+</entry>

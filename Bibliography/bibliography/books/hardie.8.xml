@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Hardie.8</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-05-09</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Hardie.8</idno>
+            <fn>books/hardie.8.xml</fn>
+            <shortTitle>Hoyle Made Familiar</shortTitle>
+            <shortImprint>Stirling, Kenney, &amp; Co.</shortImprint>
+            <description>eighth impression</description>
+            <pubYear>1840</pubYear>
+            <pubDate>1840</pubDate>
+            <evidence>title</evidence>
+            <edition>8</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>130</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Hardie</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Hardie</surname>
+                </persName>
+                <evidence>colophon</evidence>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Stirling</respGroup>
+                <orgName>Stirling, Kenney, &amp; Co.</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Simpkin</respGroup>
+                <orgName>Simpkin, Marshall, and Co.</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Henry</forename>
+                    <surname>Washbourne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Orr</respGroup>
+                <orgName>W. S. Orr &amp; Co.</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Morrison</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>2</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>cover</evidence>
+            </price>
+        </prices>
+        <holdings>
+            <holding isSeen="true">
+                <holder>ABu</holder>
+                <shelfmark>BCL D5674</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.493</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Copisarow</holder>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1596</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>InU-Li</holder>
+                <shelfmark>GV1243 H26 1840</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The same setting of type as </note>
+            <note url="hardie.2.xml">Hardie.2</note>
+            <note> with updated preliminaries and the added material from </note>
+            <note url="hardie.4.xml">Hardie.4</note>
+            <note> on the last three leaves.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>32</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>π</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>G</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>60</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>v</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>vi</start>
+                        <end>vii</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>viii</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>112</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="hardie.8">
+            <titlePart>HOYLE | MADE FAMILIAR: | BEING A | </titlePart>
+            <titlePart rend="blackletter">Companion to the Card=Table: | </titlePart>
+            <titlePart>CONTAINING | THE ESTABLISHED RULES AND PRACTICE | OF | THIRTY DIFFERENT GAMES, | SEVERAL OF THEM NEVER BEOFRE PUBLISHED. | BY | EIDRAH TREBOR, ESQ. | “ I am sorry I have not learnt to play at cards. It is | " very useful in life: it generates kindness and consoli-| " dates society.”—</titlePart>
+            <titlePart rend="italic">Dr. Johnson. | </titlePart>
+            <titlePart>[short rule] | MDCCCXXXXX. | STIRLING, KENNEY, &amp; CO. EDINBURGH; | SIMPKIN, MARSHALL, &amp; CO., H. W. WASHBOURNE, | W. S. ORR &amp; CO., AND W. MORRISON, LONDON.</titlePart>
+        </titlePage>
+        <titlePage titleType="engravedTitle" imageFN="hardie.8.engraved.title"/>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart rend="blackletter">‘Entered in Stationers Hall.’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <contentPart>‘ADVERTISEMENT. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>v</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>π4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>vii</pageRef>
+                    </pageTo>
+                    <contentPart>‘CONTENTS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>π3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vi</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>π4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>vii</pageRef>
+                    </pageTo>
+                    <RTPart>‘CONTENTS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>viii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="hardie.2.xml">Hardie.2</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="hardie.2.xml">Hardie.2</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>107</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>112</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="hardie.4.xml">Hardie.4</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>G6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>107</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>112</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="hardie.4.xml">Hardie.4</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Dummy Whist</game>
+                    <game>Catch the Ten</game>
+                    <game>Boston</game>
+                    <game>Quadrille</game>
+                    <game>Reversis</game>
+                    <game>Piquet</game>
+                    <game>Cribbage</game>
+                    <game>Cassino</game>
+                    <game>All Fours</game>
+                    <game>Put</game>
+                    <game>Five and Ten</game>
+                    <game>Loo</game>
+                    <game>Brag</game>
+                    <game>Vingt-Un</game>
+                    <game>Quinze</game>
+                    <game>Thirty One</game>
+                    <game>Snip Snap Snorem</game>
+                    <game>Commit</game>
+                    <game>Pope Joan</game>
+                    <game>Matrimony</game>
+                    <game>Lottery</game>
+                    <game>Speculation</game>
+                    <game>Commerce</game>
+                    <game>Lift Smoke</game>
+                    <game>Earl of Coventry</game>
+                    <game>Connexions</game>
+                    <game>Lansquenet</game>
+                    <game>Faro</game>
+                    <game>Rouge et Noir</game>
+                    <game>Ecarté</game>
+                    <game>Short Whist</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+            </section>
+        </sections>
+        <plates>
+            <plate plateLocation="Frontispiece">
+                <plateRelation>before</plateRelation>
+                <sigRef>π1r</sigRef>
+                <plateType>engraving</plateType>
+                <notes>
+                    <note>Two couples at card table with two females spectators. Drawn by J. Stewart. Engraved on steel by W. H. Lizars</note>
+                </notes>
+            </plate>
+            <plate plateLocation="Title">
+                <plateRelation>before</plateRelation>
+                <sigRef>π1r</sigRef>
+                <plateType>engraving</plateType>
+                <notes>
+                    <note>extra engraved title having only the first publisher and dated 1841</note>
+                </notes>
+            </plate>
+            <plate>
+                <plateRelation>on</plateRelation>
+                <sigRef>G3r</sigRef>
+                <pageRef>101</pageRef>
+                <plateType>woodblock</plateType>
+                <notes>
+                    <note>a tapis or cloth covering the Rouge et Noir table</note>
+                </notes>
+            </plate>
+        </plates>
+        <colophon>
+            <notes>
+                <note>‘R. HARDIE, PRINTER.’</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

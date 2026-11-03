@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Memory.2*</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2024-11-02</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Memory.2*</idno>
+			<fn>books/memory.2.xml</fn>
+			<shortTitle>An Artificial Memory at the Game of Whist</shortTitle>
+			<shortImprint>none</shortImprint>
+			<description>second London edition</description>
+			<pubYear>1750</pubYear>
+			<pubDate>1750</pubDate>
+			<evidence>inferred</evidence>
+			<edition>2</edition>
+			<issue>1</issue>
+			<categoryID>10</categoryID>
+			<workID>4</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Osborne</surname>
+				</persName>
+				<share>100</share>
+			</respItem>
+		</respStmt>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>2199</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>F</sigStart>
+						<leaves>2</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>unsigned</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>2</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>77</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>78</start>
+						<end>80</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+			<totalPages>4</totalPages>
+		</collation>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>F1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>77</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>F2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>80</pageRef>
+					</pageTo>
+					<contentPart>‘[row of type ornaments] | CHAP. XIX. | </contentPart>
+					<contentPart rend="italic">An </contentPart>
+					<contentPart rend="smallcap">Artificial Memory, </contentPart>
+					<contentPart rend="italic">or an eaſy Method of | aſſiſting the </contentPart>
+					<contentPart rend="smallcap">Memory </contentPart>
+					<contentPart rend="italic">of thoſe that play at the Game | of </contentPart>
+					<contentPart rend="smallcap">Whist. </contentPart>
+					<contentPart>To which are added, | </contentPart>
+					<contentPart rend="italic">Several </contentPart>
+					<contentPart rend="smallcap">Cases </contentPart>
+					<contentPart rend="italic">not hitherto publiſhed. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>F1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>77</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>F2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>79</pageRef>
+					</pageTo>
+					<RTPart rend="italic">‘A ſhort </RTPart>
+					<RTPart rend="smallcap">Treatise </RTPart>
+					<RTPart rend="italic">on | the </RTPart>
+					<RTPart rend="smallcap">Game </RTPart>
+					<RTPart rend="italic">of </RTPart>
+					<RTPart rend="smallcap">Whist.’</RTPart>
+				</RT>
+			</section>
+			<section>
+			<RT>
+				<sigFrom>
+					<sigRef>F2v</sigRef>
+				</sigFrom>
+				<pageFrom>
+					<pageRef>80</pageRef>
+				</pageFrom>
+				<RTPart rend="italic">‘A ſhort </RTPart>
+				<RTPart rend="smallcap">Treatise,  </RTPart>
+				<RTPart>&amp;c.’</RTPart>
+			</RT>
+			</section>
+		</sections>
+	</text>
+</entry>

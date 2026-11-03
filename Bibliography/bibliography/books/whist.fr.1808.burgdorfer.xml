@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Whist.Fr.1808.Burgdorfer</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Whist.Fr.1808.Burgdorfer</idno>
+			<fn>books/whist.fr.1808.burgdorfer.xml</fn>
+			<shortTitle>Hoyle en Abregé</shortTitle>
+			<shortImprint>chez Burgdorfer</shortImprint>
+			<pubYear>1808</pubYear>
+			<pubDate>1808</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>80</categoryID>
+			<workID>30</workID>
+			<subWorkID>20</subWorkID>
+			<textLang>fr</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Withy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="translator">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Bernheim</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<orgName>chez Burgdorfer</orgName>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>12</amount>
+					<unit>b.</unit>
+				</priceComponent>
+				<priceComponent>
+					<amount>2</amount>
+					<unit>c.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1841</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>The chainlines are vertical with the exception of B3.6 which are horizontal. </note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>12.0</height>
+				<width>7.6</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+					<gatheringRange signed="false">
+						<sigStart>B</sigStart>
+						<leaves>8</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>unsigned</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>20</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>3</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>5</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>39</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>40</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="whist.fr.1808.burgdorfer">
+			<titlePart/>
+		</titlePage>
+		<titlePage titleType="frontispiece" imageFN="whist.fr.1808.burgdorfer.frontispiece">
+			<titlePart/>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>‘AU PUBLIC. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>‘Chez J. J. </contentPart>
+					<contentPart rend="smallcap">Burgdorfer, </contentPart>
+					<contentPart>Libraire et | Marchand d'Estampes à </contentPart>
+					<contentPart rend="italic">Berne, </contentPart>
+					<contentPart>on | trouve tous les ouvrages litéraires, | tant en allemand qu'en français [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>4</pageRef>
+					</pageTo>
+					<contentPart>‘DÉDICACE. | [short rule] | AUX QUATRE ROIS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>6</pageRef>
+					</pageTo>
+					<contentPart>‘DU | JEU DE WHIST. | [...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>7</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>10</pageRef>
+					</pageTo>
+					<contentPart>‘EXPLICATION | DE QUELQUES TERMES DU JEU. | [...]’</contentPart>
+				</content>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>10</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A9r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>17</pageRef>
+					</pageTo>
+					<contentPart>‘QUELQUES | RÈGLES GÉNÉRALES | POUR LES | COMMENÇANTS. | [...]’</contentPart>
+				</content>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A9r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>17</pageRef>
+					</pageFrom>
+					<contentPart>‘[...] | RÈGLES DES PARIS | AVEC LES CHANCE DE GAIN. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A9v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>18</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A10r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>19</pageRef>
+					</pageTo>
+					<contentPart>‘CHANCES | AVEC LA DONNE. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A10v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>20</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>27</pageRef>
+					</pageTo>
+					<contentPart>‘[rule] | LES | LOIX DU JEU | COMME ON LES OBSERVE À BATH etc. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>28</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B8r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>39</pageRef>
+					</pageTo>
+					<contentPart>‘CALCULS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B8v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>40</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+		</sections>
+		<plates>
+			<plate plateLocation="Frontispiece">
+				<plateRelation>before</plateRelation>
+				<sigRef>A1r</sigRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note>colored engraving of an owl holding the four aces in one claw with the title "Keep Your Temper" above. </note>
+				</notes>
+			</plate>
+			<plate plateLocation="Title">
+				<plateRelation>before</plateRelation>
+				<sigRef>A1r</sigRef>
+				<plateType>engraving</plateType>
+				<notes>
+					<note>‘HOYLE en ABREGÉ’</note>
+				</notes>
+			</plate>
+		</plates>
+	</text>
+</entry>

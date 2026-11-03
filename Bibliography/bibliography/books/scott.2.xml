@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Scott.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2018-05-08</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Scott.2</idno>
+			<fn>books/scott.2.xml</fn>
+			<shortTitle>The Beauties of Hoyle and Paine</shortTitle>
+			<shortImprint>printed for T. Cox</shortImprint>
+			<description>third London edition</description>
+			<pubYear>1792</pubYear>
+			<pubDate>1792</pubDate>
+			<evidence>title</evidence>
+			<edition>2</edition>
+			<issue>1</issue>
+			<categoryID>40</categoryID>
+			<workID>20</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<respGroup seq="1">Cox</respGroup>
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Cox</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Henry Delahoy</forename>
+					<surname>Symonds</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>1</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T212802</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>E</holder>
+				<shelfmark>5.1236(10)</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>A near line-for-line resetting of </note>
+			<note url="scott.1.xml">Scott.1</note>
+			<note> with different line-breaks on B1r(17) lines 12-3, B4v(24) line 2, and B5r(25) lines 1-4.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>8</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<sigEnd>B</sigEnd>
+						<leaves>8</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$1–4</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>16</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>i</start>
+						<end>iii</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>iv</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>v</start>
+						<end>vi</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>7</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>8</start>
+						<end>31</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>32</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart>THE | BEAUTIES | OF | </titlePart>
+			<titlePart rend="italic">HOYLE AND PAINE</titlePart>
+			<titlePart>; | OR, | A COMPENDIUM OF EASY RULES | NECESSARY TO BE KNOWN | BY EVERY WHIST-PLAYER: | WITH | MAXIMS, | </titlePart>
+			<titlePart rend="italic">By GENERAL SCOTT. | </titlePart>
+			<titlePart>THIRD EDITION. | [short oxford rule] | He diverted himſelf, as </titlePart>
+			<titlePart rend="italic">uſual, </titlePart>
+			<titlePart>with the converſation of | his friends; and </titlePart>
+			<titlePart rend="italic">ſometimes, </titlePart>
+			<titlePart>in the evening, with a party, | at his </titlePart>
+			<titlePart rend="italic">favourite Game </titlePart>
+			<titlePart>of Whiſt. | </titlePart>
+			<titlePart rend="italic">Dr. Smith's Life of Hume. | </titlePart>
+			<titlePart>[short reverse oxford rule] | LONDON: | PRINTED FOR T. COX, ST. THOMAS'S-STREET, | BOROUGH; | AND H. D. SYMONDS, PATERNOSTER-ROW: | AND SOLD BY MILLAR, BOND-STREET. | 1792. | {Price </titlePart>
+			<titlePart rend="smallcap">One Shilling.</titlePart>
+			<titlePart>}</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>ii</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>iv</pageRef>
+					</pageTo>
+					<contentPart>‘[short oxford rule] | PREFACE. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>v</pageRef>
+					</pageFrom>
+					<contentPart>‘[short oxford rule] | CONTENTS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>vi</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>7</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<contentPart>‘Let </contentPart>
+					<contentPart rend="italic">random </contentPart>
+					<contentPart>ſtrokes </contentPart>
+					<contentPart rend="italic">diſgrace </contentPart>
+					<contentPart>our play no more, | But </contentPart>
+					<contentPart rend="italic">ſkill </contentPart>
+					<contentPart>preſide, where all was </contentPart>
+					<contentPart rend="italic">chance </contentPart>
+					<contentPart>before. | [...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>25</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B8r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>31</pageRef>
+					</pageTo>
+					<contentPart>‘[short oxford rule] | APPENDIX. | THE LAWS OF WHIST. | [...]’</contentPart>
+
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B8v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>32</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+		</sections>
+	</text>
+</entry>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.1.P.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-10-10</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.1.P.2</idno>
+            <fn>books/whist.1.p.2.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>printed for W. Webb</shortImprint>
+            <description>second piracy of the first edition</description>
+            <pubYear>1743</pubYear>
+            <pubDate>1743-03</pubDate>
+            <evidence>inferred</evidence>
+            <edition>2</edition>
+            <issue>1</issue>
+            <categoryID>10</categoryID>
+            <workID>1</workID>
+            <subWorkID>12</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Watson</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Watson</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+                <evidence>Cogan v Chapelle</evidence>
+            </respItem>
+        </respStmt>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <note>(L copy)</note>
+                <evidence>title</evidence>
+            </price>
+            <price>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <note>(O, Levy copies)</note>
+                <evidence>title</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T86128</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>776</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>4</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>7919.de.3(1)</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel e.637</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1534</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The imprint is ficticious. W. Webb is a name often used by printers wishing to
+                conceal their identity. The date is also incorrect—the book must have been printed
+                after </note>
+            <note url="whist.1.p.1.1.xml">Whist.1.P.1.1</note>
+            <note> from which it copied the letter from a Gentleman at Bath. </note>
+        </notes>
+
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true" disjunct="true">
+                        <sigStart>π</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>C</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>20</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>35</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>36</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.1.p.2">
+            <titlePart>A SHORT | TREATISE | On the </titlePart>
+            <titlePart rend="smallcap">Game </titlePart>
+            <titlePart>of | </titlePart>
+            <titlePart rend="smallcap">Whist. | </titlePart>
+            <titlePart>CONTAINING | The LAWS of the GAME: | And alſo, ſome </titlePart>
+            <titlePart rend="smallcap">Rules, </titlePart>
+            <titlePart>whereby a Beginner may, with | due Attention to them, attain to the
+                Playing it well. | </titlePart>
+            <titlePart rend="smallcap">Calculations </titlePart>
+            <titlePart>for thoſe who will Bet the Odds on any | Point of the Score of the
+                Game then playing and | depending. — </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>ſtated, to ſhew what may be | effected by a very good Player, in
+                Critical Parts of | the Game. — </titlePart>
+            <titlePart rend="smallcap">References </titlePart>
+            <titlePart>to </titlePart>
+            <titlePart rend="smallcap">Cases, </titlePart>
+            <titlePart rend="italic">viz. </titlePart>
+            <titlePart>at the | End of the Rule you are directed how to find them. | — </titlePart>
+            <titlePart rend="smallcap">Calculations, </titlePart>
+            <titlePart>directing with moral Certainty, | how to play well any Hand or Game,
+                by ſhewing | the Chances of your Partner’s having 1, 2, or 3 Cer-|tain
+                Cards. — With Variety of Caſes added in | the Appendix. | [rule] | </titlePart>
+            <titlePart rend="italic">By a </titlePart>
+            <titlePart rend="smallcap">Gentleman. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">LONDON: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">W. Webb </titlePart>
+            <titlePart>near </titlePart>
+            <titlePart rend="italic">St. Paul'</titlePart>
+            <titlePart>s, 1742. | (Price One Shilling.)</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>π2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>iv</pageRef>
+                    </pageTo>
+                    <contentPart>‘ADVERTISEMENT. | [letter from a Gentleman at Bath]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Letter from a Gentleman at Bath</subject1>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>35</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/1181111">headpiece</contentPart>
+                    <contentPart>] | A SHORT | TREATISE | ON | </contentPart>
+                    <contentPart rend="italic">The </contentPart>
+                    <contentPart>Game </contentPart>
+                    <contentPart rend="italic">of </contentPart>
+                    <contentPart rend="smallcap">Whist. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>C6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>36</pageRef>
+                    </pageFrom>
+                    <contentPart rend="italic">‘The </contentPart>
+                    <contentPart>CONTENTS. | [...]’</contentPart>
+                </content>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>C1v</sigRef>
+                <pageRef>26</pageRef>
+                <cwFoot>[none]</cwFoot>
+                <cwHead>III. You</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

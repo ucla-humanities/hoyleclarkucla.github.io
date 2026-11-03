@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+    <fileDesc>
+        <title>Hardie.US.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2013-11-08</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Hardie.US.1</idno>
+            <fn>books/hardie.us.1.xml</fn>
+            <shortTitle>Hoyle Made Familiar</shortTitle>
+            <shortImprint>W. Mather</shortImprint>
+            <description>first edition</description>
+            <pubYear>1837</pubYear>
+            <pubDate>1837</pubDate>
+            <evidence>title</evidence>
+            <edition>2</edition>
+            <issue>1</issue>
+            <categoryID>70</categoryID>
+            <workID>90</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Hardie</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+            	<persName>
+            		<forename>W.</forename>
+            		<surname>Mather</surname>
+            	</persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="false">
+                <holder>LT</holder>
+                <shelfmark>Wb 685</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+</entry>

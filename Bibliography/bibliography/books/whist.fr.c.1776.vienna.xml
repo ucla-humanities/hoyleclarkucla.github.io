@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>Can't handle string for idno in Rather E.</todo>
+    <fileDesc>
+        <title>Whist.Fr.C.1776.Vienna</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.C.1776.Vienna</idno>
+            <fn>books/whist.fr.c.1776.vienna.xml</fn>
+            <shortTitle>Traité du Jeu de Whisk</shortTitle>
+            <description>first Vienna edition</description>
+            <pubYear>1776</pubYear>
+            <pubDate>1776</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>673</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>7915.a.29</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel e.644</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>NNPM</holder>
+                <shelfmark>E3 092 E 079533</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1277.H8914 1776</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1768</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>BINs</holder>
+                <shelfmark>Os 12895/3</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DE-15</holder>
+                <shelfmark>Kultg.514</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DE-32</holder>
+                <shelfmark>14,4:90(b)</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DE-384</holder>
+                <shelfmark>02/III.6.8.14</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Beauchene</holder>
+            </holding>
+            <holding isSeen="false">
+                <holder>CtY-BR</holder>
+                <shelfmark>NLp80 742hh</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LU</holder>
+                <shelfmark>GV1277.H894 1776</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "C" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>a</sigStart>
+                        <sigEnd>h</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>i</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>h5</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>i2</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>66</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>3</start>
+                        <end>129</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>130</start>
+                        <end>132</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.fr.c.1776.vienna">
+            <titlePart>[within decorative border] TRAITÉ | DU | JEU DU WHIST | Traduit DE
+                L'ANGLOIS | D'EDMOND HOYLE. | [tailpiece] | [decorative rule] | </titlePart>
+            <titlePart rend="italic">VIENE, | </titlePart>
+            <titlePart>[short rule] | MDCCLXXVI.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>a3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>5</pageRef>
+                    </pageTo>
+                    <contentPart>‘[tailpiece] | Ceux qui n'ont aucune idée | du Whiſt [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>a2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>a5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>9</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Traité du Jeu | de Whist.’</RTPart>
+                </RT>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>6</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>a5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>10</pageRef>
+                    </pageTo>
+                    <contentPart rend="italic">‘EXPLICATION | De quelque termes, ou mots
+                        tech-|niques employés dans ce Traité à | l'uſage des Commençans. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>a5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>10</pageRef>
+                    </pageFrom>
+                    <RTPart rend="smallcap">‘Traité du Jeu de Whist.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>11</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>i1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>129</pageRef>
+                    </pageTo>
+                    <contentPart>‘[tailpiece] | </contentPart>
+                    <contentPart rend="italic">TRAITÉ | DU | JEU DE WHIST. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>a6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>12</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>h8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>128</pageRef>
+                    </pageTo>
+                    <RTPart rend="smallcap">‘Traité du Jeu | de Whist.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>a8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>15</pageRef>
+                    </pageFrom>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>b1r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>17</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>b2r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>19</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <RTPart rend="smallcap">‘du Whist.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>i1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>129</pageRef>
+                    </pageFrom>
+                    <RTPart rend="smallcap">‘Traité du Jeu de Whist.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>i1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>130</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>i2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>132</pageRef>
+                    </pageTo>
+                    <contentPart rend="italic">‘TABLE | </contentPart>
+                    <contentPart>DES PRINCIPAUX ARTICLES | DU TRAITÉ | </contentPart>
+                    <contentPart rend="smallcap">du Jeu De Whist.’</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

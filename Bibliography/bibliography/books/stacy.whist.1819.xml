@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Stacy.Whist.1819</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Stacy.Whist.1819</idno>
+			<fn>books/stacy.whist.1819.xml</fn>
+			<shortTitle>Short Rules for Whist</shortTitle>
+			<shortImprint>printed for B. Reynolds</shortImprint>
+			<pubYear>1819</pubYear>
+			<pubDate>1819</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>40</workID>
+			<subWorkID>10</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Withy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short, Jun.</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>B.</forename>
+					<surname>Reynolds</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>John</forename>
+					<surname>Stacy</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>John</forename>
+					<surname>Stacy</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1840</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>L</holder>
+				<shelfmark>D-7913.a.70</shelfmark>
+				<notes>
+					<note> (destroyed)</note>
+				</notes>
+			</holding>
+			<holding isSeen="false">
+				<holder>Sings</holder>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>11.6</height>
+				<width>6.0</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$5</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>4</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>5</start>
+						<end>8</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>9</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>10</start>
+						<end>11</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>12</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>13</start>
+						<end>24</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="stacy.whist.1819">
+			<titlePart>HOYLE ABRIDGED: | OR, | </titlePart>
+			<titlePart rend="italic">SHORT RULES | </titlePart>
+			<titlePart>FOR | SHORT MEMORIES | AT THE | </titlePart>
+			<titlePart rend="blackletter">Game of Whist, | </titlePart>
+			<titlePart>WITH THE | </titlePart>
+			<titlePart rend="italic">LAWS of the GAME, &amp;c. | </titlePart>
+			<titlePart>Adapted either for the Head or Pocket. | By BOB SHORT. | [short oxford rule] | THE THIRTY-FIRST EDITION. | [short oxford rule] | </titlePart>
+			<titlePart rend="italic">Printed for the Benefit of Families, to | prevent Scolding. | </titlePart>
+			<titlePart>[short rule ] | LONDON : | Printed for B. </titlePart>
+			<titlePart rend="smallcap">Reynolds, | </titlePart>
+			<titlePart>76, Newgate-Street, | And </titlePart>
+			<titlePart rend="smallcap">John Stacy, </titlePart>
+			<titlePart>Old Hay-|Market, Norwich. | 1819. | [short rule] | </titlePart>
+			<titlePart rend="italic">Price Six-pence.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>‘</contentPart>
+					<contentPart rend="italic">TO THE PUBLIC. | </contentPart>
+					<contentPart>[...] | </contentPart>
+					<contentPart rend="italic">BOB SHORT.</contentPart>
+					<contentPart>’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>‘JUST PUBLISHED, | [...] | </contentPart>
+					<contentPart rend="blackletter">The British Melodist, | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>8</pageRef>
+					</pageTo>
+					<contentPart>‘[short oxford rule] | DEDICATION. | [short rule] | </contentPart>
+					<contentPart rend="italic">TO THE FOUR KINGS. | </contentPart>
+					<contentPart>[...] | Your devoted Slave, | BOB SHORT. | </contentPart>
+					<contentPart rend="italic">Baker's Coffee-house, | Exchange Alley, | Jan. </contentPart>
+					<contentPart>1, 1793.’</contentPart>
+				</content>
+				<subject>
+					<subject1>Bob Short Address</subject1>
+					<subject2>1793-01-01 Baker's Coffee-house</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>9</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF WHIST. | [...] | [colophon]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+		</sections>
+		<colophon>
+			<notes>
+				<note>‘[row of type orn] | </note>
+				<note rend="italic">Stacy, Printer, Market-Place, Norwich.</note>
+				<note>’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

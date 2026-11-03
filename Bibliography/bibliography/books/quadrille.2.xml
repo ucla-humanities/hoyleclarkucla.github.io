@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>Which of the British Libraries copies is on ECCO?</todo>
+    <fileDesc>
+        <title>Quadrille.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-11-04</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Quadrille.2</idno>
+            <fn>books/quadrille.2.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Quadrille</shortTitle>
+            <shortImprint>printed for T. Osborne et al</shortImprint>
+            <description>second London edition</description>
+            <pubYear>1746</pubYear>
+            <pubDate>1746</pubDate>
+            <evidence>title</evidence>
+            <edition>2</edition>
+            <issue>1</issue>
+            			<categoryID>10</categoryID>
+            <workID>6</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Osborne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Hildyard</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>M.</forename>
+                    <surname>Bryson</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Leake</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Gardner</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T87539</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>783</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>27</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true" isCollection="true">
+                <holder>L</holder>
+                <shelfmark>7917.de.56(2)</shelfmark>
+                <idno>Osborne.E</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>7917.de.65</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>3843 f.10(3)</shelfmark>
+                <idno>Osborne.E</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.545(2)</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.548(2)</shelfmark>
+                <idno>Osborne.E</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.584</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>CLU-C</holder>
+                <shelfmark>*GV1277.H86 1746</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1241.H6 1746</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1241.H8 A6</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1241.H8.A7</shelfmark>
+                <idno>Osborne.E</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TxU</holder>
+                <shelfmark>GV1277.H89 1746</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1014</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1685</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1764</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1769</shelfmark>
+                <idno>Osborne.E</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2199</shelfmark>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>HAG</holder>
+                <shelfmark>KW 973 L 6 [4]</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>4</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>CtY-BR</holder>
+                <shelfmark>NLp80 742he</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>2</sequence>
+            </holding>
+            <holding isSeen="false">
+                <holder>IU</holder>
+                <shelfmark>795.49 H85S1746</shelfmark>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>AuNU</holder>
+                <shelfmark>RB 4646.45 at 4646.43</shelfmark>
+                <idno>Osborne.C</idno>
+                <sequence>2</sequence>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>C</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <signingErrors>
+                    <signingError>
+                        <sigRef>A2</sigRef>
+                        <badSig>A</badSig>
+                    </signingError>
+                    <signingError>
+                        <sigRef>A3</sigRef>
+                        <badSig>A2</badSig>
+                    </signingError>
+                    <signingError>
+                        <sigRef>A4</sigRef>
+                        <badSig>A3</badSig>
+                    </signingError>
+                </signingErrors>
+            </collationFormula>
+            <totalLeaves>18</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>4</start>
+                        <end>36</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="quadrille.2">
+            <titlePart>A SHORT | TREATISE | On the GAME of | </titlePart>
+            <titlePart rend="smallcap">Quadrille. | </titlePart>
+            <titlePart>SHEWING | The Odds of winning or loſing moſt | Games that are
+                commonly played; | either by calling a King, or by playing | </titlePart>
+            <titlePart rend="italic">Sans Prendre. | </titlePart>
+            <titlePart>To which are added, | The LAWS of the GAME. | [rule] | The </titlePart>
+            <titlePart rend="smallcap">Second Edition. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmond Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">LONDON: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">T. Osborne, </titlePart>
+            <titlePart>at </titlePart>
+            <titlePart rend="italic">Gray's Inn; </titlePart>
+            <titlePart rend="smallcap">J. Hild-|yard, </titlePart>
+            <titlePart>at </titlePart>
+            <titlePart rend="italic">York; </titlePart>
+            <titlePart rend="smallcap">M. Bryson, </titlePart>
+            <titlePart>at </titlePart>
+            <titlePart rend="italic">Newcaſtle; </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">J. | Leake, </titlePart>
+            <titlePart>at </titlePart>
+            <titlePart rend="italic">Bath. </titlePart>
+            <titlePart>M DCC XLVI. | {</titlePart>
+            <titlePart rend="italic">Price One Shilling.</titlePart>
+            <titlePart>}</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>advertisement. to the reader. autograph of Edmond
+                        Hoyle</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>36</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/1262178">headpiece</contentPart>
+                    <contentPart> </contentPart>
+                    <contentPart url="https://www.academia.edu/20447484/Thomas_Gardners_Ornament_Stock_A_Checklist_2015_">Spedding</contentPart>
+                    <contentPart> H13] | A Treatiſe on the </contentPart>
+                    <contentPart rend="smallcap">Game </contentPart>
+                    <contentPart>of | </contentPart>
+                    <contentPart rend="italic">QUADRILLE. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>35</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A ſhort Treatiſe on the | Game </RTPart>
+                    <RTPart>of </RTPart>
+                    <RTPart rend="smallcap">Quadrille.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Quadrille</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>C3r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>29</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <RTPart rend="italic">‘Game </RTPart>
+                    <RTPart>of </RTPart>
+                    <RTPart rend="smallcap">Quadrille,’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>A4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>7</pageRef>
+                    </pageFrom>
+                    <addedRange>
+                        <sigFrom>
+                            <sigRef>B3r</sigRef>
+                        </sigFrom>
+                        <pageFrom>
+                            <pageRef>17</pageRef>
+                        </pageFrom>
+                    </addedRange>
+                    <RTPart rend="italic">‘Game </RTPart>
+                    <RTPart>of </RTPart>
+                    <RTPart rend="smallcap">Quadrille’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>C6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>36</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘A ſhort Treatiſe, &amp;c.’</RTPart>
+                </RT>
+            </section>
+        </sections>
+    </text>
+</entry>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>Can't handle string for idno in Rather E.</todo>
+    <fileDesc>
+        <title>Whist.Fr.B.1767.Prault7</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.B.1767.Prault</idno>
+            <fn>books/whist.fr.b.1767.prault.xml</fn>
+            <shortTitle>Almanach du Whist</shortTitle>
+            <shortImprint>Chez G. Paschal Prault</shortImprint>
+            <pubYear>1767</pubYear>
+            <pubDate>1767</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <orgName>Chez G. Paschal Prault</orgName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel e.641</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>2158</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LEu</holder>
+                <shelfmark>Anglo-French 2 1767 HOY</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LYOp</holder>
+                <shelfmark>803623</shelfmark>
+                <surrogate url="https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001102464968">numelyo</surrogate>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "B+" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>24</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>π</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>E</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>F</sigStart>
+                        <leaves>6</leaves>
+                        <alteration>
+                            <alterationType>−</alterationType>
+                            <sigRef>F6</sigRef>
+                            <note> missing, blank?</note>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>71</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>12</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>ii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iii</start>
+                        <end>iv</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>125</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>126</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="halfTitle">
+            <titlePart>ALMANACH | DU | WHISK.</titlePart>
+        </titlePage>
+        <titlePage titleType="title" imageFN="whist.fr.b.1767.prault">
+            <titlePart>ALMANACH | </titlePart>
+            <titlePart rend="italic">DU WHISK, | OU | </titlePart>
+            <titlePart>TRAITÉ | DU | JEU DU WHISK, | </titlePart>
+            <titlePart rend="italic">Contenant les Loix de ce Jeu, &amp; des | Règles pour le bien jouer. | </titlePart>
+            <titlePart>PAR EDMOND HOYLE. | </titlePart>
+            <titlePart rend="italic">Traduit de l'Anglais. | </titlePart>
+            <titlePart>[rule] | Nouvelle Edition revue, corrigée &amp; augmentée. | [rule] | [tailpiece] | A AMSTERDAM; | </titlePart>
+            <titlePart rend="italic">&amp; ſe trouve à Paris, | </titlePart>
+            <titlePart>Chez </titlePart>
+            <titlePart rend="smallcap">G. Paschal Prault, </titlePart>
+            <titlePart>Libraire, rue du Petit-| Pont, à l'Amour des Sciences. | [oxford rule] | </titlePart>
+            <titlePart rend="italic">M. DCC. LXVII.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1r</sigRef>
+                    </sigFrom>
+                    <contentPart>half title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π2v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π3r</sigRef>
+                    </sigFrom>
+                    <contentPart rend="italic">‘CALENDRIER | </contentPart>
+                    <contentPart>POUR | </contentPart>
+                    <contentPart rend="italic">L'ANNÉE 1767.’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π3v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>π4r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>π6v</sigRef>
+                    </sigTo>
+                    <contentPart>calendar</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>iv</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | INTRODUCTION. | </contentPart>
+                    <contentPart rend="italic">Ceux qui n'ont aucune idée du | Jeu du Whisk, </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>122</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | TRAITE' | </contentPart>
+                    <contentPart rend="italic">DU | </contentPart>
+                    <contentPart>JEU DU WHISK. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Trait du Jeu’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>A4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>121</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Traité du Jeu | du Whisk.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>F3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>122</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Traité du Jeu du Whisk.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>F4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>123</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>125</pageRef>
+                    </pageTo>
+                    <contentPart>‘[row of type orn] | </contentPart>
+                    <contentPart rend="italic">TABLE | </contentPart>
+                    <contentPart>DES CHAPITRES | </contentPart>
+                    <contentPart rend="smallcap">du Traité du jeu du Whisk. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>F5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>126</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

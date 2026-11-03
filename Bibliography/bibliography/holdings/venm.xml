@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\venm.xml</fn><home>../index.xml</home></footer><id>VENm</id><fn>venm</fn><name>Biblioteca Nazionale Marciana</name><location>Venice, Italy</location><books><book><id>Whist.It.1.2</id><fn>../books/whist.it.1.2.xml</fn><shortTitle>Il Giuoco del Whist</shortTitle><shortImprint>dalla tipografia Manini e Rivolta</shortImprint><description>first edition, second issue</description><pubDate>1821</pubDate><shelfmarks><shelfmark>ANT 18232</shelfmark><shelfmark>ANT 20120</shelfmark></shelfmarks></book></books></holder>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/unseenBook.xsd">
+	<fileDesc>
+		<title>Multum.1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2018-05-13</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Multum.1</idno>
+			<fn>books/multum.1.xml</fn>
+			<shortTitle>Multum in Parvo, or Hoyle Abridged</shortTitle>
+			<shortImprint>Christopher and Jennett</shortImprint>
+			<description>first Stockton edition</description>
+			<pubYear>1802</pubYear>
+			<pubDate>1802</pubDate>
+			<evidence>inferred</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>45</categoryID>
+			<workID>10</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<orgName>Christopher &amp; Jennett</orgName>
+			</respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>832</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>82</idno>
+			</bibl>
+		</listBibl>
+		<notes>
+			<note>Jessel 832 lists Multum in Parvo, or Hoyle Abridged; with Rules and Directions for the various games, 29 pages, Christopher and Jennett, Stockton, 1802. He did not own a copy, and none are known to exist.</note>
+		</notes>
+	</bookDesc>
+</entry>

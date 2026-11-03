@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\geu.xml</fn><home>../index.xml</home></footer><id>GEU</id><fn>geu</fn><name>Emory University</name><location>Atlanta, Georgia</location><books><book><id>Hardie.US.2</id><fn>../books/hardie.us.2.xml</fn><shortTitle>Hoyle Made Familiar</shortTitle><shortImprint>W. Mather</shortImprint><description>second edition</description><pubDate>1839</pubDate><shelfmarks><shelfmark>2013 768</shelfmark></shelfmarks></book></books></holder>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>source text?</todo>
+    <fileDesc>
+        <title>Whist.D.Wilson.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-30</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.D.Wilson.2</idno>
+            <fn>books/whist.d.wilson.2.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>printed for Peter Wilson</shortImprint>
+            <statedEdition>"fifth" edition</statedEdition>
+            <description>first Wilson edition, second issue</description>
+            <pubYear>1752</pubYear>
+            <pubDate>1752-02-25</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>2</issue>
+            <categoryID>60</categoryID>
+            <workID>20</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Peter</forename>
+                    <surname>Wilson</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Dublin Gazette</publication>
+                <pubDate>1752-02-25</pubDate>
+                <notes>
+                    <note>“This day is published, by Peter Wilson, opposite the old Horse Guard, in
+                        Dame-Street, with two additional chapters to the game of whist, (not in any
+                        former edition;) containing a dictionary of Whist, which resolves almost all
+                        the critical cases that may happen in the game, and thirteen new cases, now first
+                        published, [price a British shilling.] The Polite Gamester...Note,
+                        the treatise on Whist, with the two additional chapters and artifical memory,
+                        may be had separately, price 4d. ☞Be careful to ask for Wilson's
+                        edition of the Polite Gamester.”</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>4</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T164119</idno>
+                <notes>
+                    <note> (Memory only)</note>
+                </notes>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel e.642</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.573</shelfmark>
+                <idno>Polite.Wilson</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>CSmH</holder>
+                <shelfmark>356641</shelfmark>
+                <idno>Polite.Wilson</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.H86 1752</shelfmark>
+                <idno>Polite.Wilson</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F52D</shelfmark>
+                <idno>Polite.Wilson</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1791</shelfmark>
+                <idno>Polite.Wilson</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>Gsu</holder>
+                <shelfmark>Special Coll. Anderson</shelfmark>
+                <idno>Polite.Wilson</idno>
+                <sequence>1</sequence>
+            </holding>
+        </holdings>
+        <notes>
+            <note>This is the second issue of the Wilson's </note>
+            <note rend="italic">Whist</note>
+            <note>, distingusihed from </note>
+            <note url="whist.d.wilson.1.xml">Whist.D.Wilson.1</note>
+            <note> by the inserted F gathering. From the advertisement it
+                appears that the two treatises, </note>
+            <note rend="italic">Whist </note>
+            <note>and </note>
+            <note rend="italic">Memory </note>
+            <note>were sold only as a single volume. The only surviving copy not part of </note>
+            <note rend="italic">The Polite Gamester </note>
+            <note>is at the Bodleian Library and contains both works, although the ECCO surrogate
+                and the ESTC listing are of </note>
+            <note rend="italic">Memory </note>
+            <note>only.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>D</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>E</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>F</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>2</dupSeq>
+                        <sigStart>A</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <signingErrors>
+                    <signingError>
+                        <sigRef>F1</sigRef>
+                        <badSig>F2</badSig>
+                    </signingError>
+                    <signingError>
+                        <sigRef>F2</sigRef>
+                        <badSig>F3</badSig>
+                    </signingError>
+                </signingErrors>
+            </collationFormula>
+            <totalLeaves>29</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>45</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>46</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>2</dupSeq>
+                        <start>1</start>
+                        <end>3</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <dupSeq>2</dupSeq>
+                        <start>4</start>
+                        <end>8</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.d.wilson.1.xml">Whist.D.Wilson.1</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <RTPart>see </RTPart>
+                    <RTPart url="whist.d.wilson.1.xml">Whist.D.Wilson.1</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>38</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.d.wilson.1.xml">Whist.D.Wilson.1</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>F1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>39</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>46</pageRef>
+                    </pageTo>
+                    <contentPart>‘CHAP. XV. | </contentPart>
+                    <contentPart rend="italic">Additional </contentPart>
+                    <contentPart rend="smallcap">Cases </contentPart>
+                    <contentPart rend="italic">at </contentPart>
+                    <contentPart rend="smallcap">Whist, </contentPart>
+                    <contentPart rend="italic">never publiſhed | till </contentPart>
+                    <contentPart>1748. | [...] CHAP. XVI. | </contentPart>
+                    <contentPart rend="italic">A </contentPart>
+                    <contentPart>DICTIONARY </contentPart>
+                    <contentPart rend="italic">for </contentPart>
+                    <contentPart rend="smallcap">Whist, </contentPart>
+                    <contentPart rend="italic">which reſolves | almoſt all the Critical Casſes that
+                        may happen at | that </contentPart>
+                    <contentPart rend="smallcap">Game, </contentPart>
+                    <contentPart rend="italic">by way of Queſtion and Anſwer. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="whist.d.wilson.1.xml">Whist.D.Wilson.1</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

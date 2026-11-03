@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Pigott.3.4</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-04-13</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Pigott.3.4</idno>
+			<fn>books/pigott.3.4.xml</fn>
+			<shortTitle>New Hoyle</shortTitle>
+			<shortImprint>printed for J. Ridgway</shortImprint>
+			<statedEdition>"new" edition</statedEdition>
+			<description>third London edition, fourth issue</description>
+			<pubYear>1805</pubYear>
+			<pubDate>1804-11-22</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>4</edition>
+			<issue>1</issue>
+			<categoryID>30</categoryID>
+			<workID>90</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Pigott</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Thomas</forename>
+					<surname>Sutton</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>Buchanan</forename>
+					<surname>McMillan</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>James</forename>
+					<surname>Ridgway</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>The Morning Chronicle</publication>
+				<pubDate>1804-11-22</pubDate>
+				<notes>
+					<note>"Play well your game, for there the profit lies! This day is published,
+						price 3s. 6d. bound, New Hoyle...by Charles Pigott, Esq...N. B. The public
+						are requested to be particular in their orders for Mr. Pigott's
+						Hoyle."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>3</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<note>bound</note>
+				<evidence>advertisement</evidence>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Horr</reference>
+				<idno>1024</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>88</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.617</shelfmark>
+			</holding>
+			<holding isSeen="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H G5P</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>This is a reissue of </note>
+			<note url="pigott.3.1.xml">Pigott.3.1</note>
+			<note> (1802) with new π and P gatherings. The original book was printed by Thomas
+				Sutton and the new material by Buchanan McMillan.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>18</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>π</sigStart>
+						<leaves>2</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>2</leaves>
+						<alteration>
+							<alterationType>+</alterationType>
+							<sigRef>A2</sigRef>
+							<count>1</count>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<sigEnd>N</sigEnd>
+						<leaves>9</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>O</sigStart>
+						<leaves>6</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<sigRef>O6</sigRef>
+							<note> missing, blank?</note>
+						</alteration>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>P</sigStart>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="false">
+						<sigStart>Q</sigStart>
+						<leaves>4</leaves>
+						<alteration>
+							<alterationType>−</alterationType>
+							<sigRef>Q4</sigRef>
+							<note> missing, blank?</note>
+						</alteration>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>127</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>2</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>i</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>ii</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>iii</start>
+						<end>iv</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>v</start>
+						<end>viii</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>226</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<dupSeq>2</dupSeq>
+						<start>1</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>2</start>
+						<end>16</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>17</start>
+						<end>18</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart>NEW HOYLE: | OR, | </titlePart>
+			<titlePart rend="italic">A GENERAL REPOSITORY OF GAMES; | </titlePart>
+			<titlePart>CONTAINING EASY RULES FOR PLAYING IN A | SUPERIOR MANNER, | [nine
+				lines to left of double rule] Loo, | Whist, | Cribbage, | Quadrille, |
+				Piquet, | Quinze, | Reversis, | Vingt-un, | Put, | [nine lines between two
+				double rules] Backgammon, | Draughts, | Billiards, | Cricket, | Tennis, |
+				Goff, | Faro, | Hazard, | Rouge et Noir, | [nine lines to right of double rule]
+				Cassino, | Tennis, | All Fours, | Connexions, | Domino, | Matrimony, |
+				Speculation, | Lottery, | Chess: | With Tables of Odds, calculated for
+				betting equitably and | advantageously; and their Laws as settled at </titlePart>
+			<titlePart rend="smallcap">Brookes's, | White's, </titlePart>
+			<titlePart>the </titlePart>
+			<titlePart rend="smallcap">Union, </titlePart>
+			<titlePart>and </titlePart>
+			<titlePart rend="smallcap">Jockey Clubs; | </titlePart>
+			<titlePart>&amp;c. &amp;c. | [short rule] | </titlePart>
+			<titlePart rend="smallcap">By </titlePart>
+			<titlePart>CHARLES PIGOT, </titlePart>
+			<titlePart rend="smallcap">Esq. | </titlePart>
+			<titlePart>[short rule] | NEW EDITION, IMPROVED. | [short reverse oxford rule] | LONDON:
+				| PRINTED FOR J. RIDGWAY, 170, OPPOSITE | BOND-STREET, PICCADILLY. | [small
+				rule] | 1805. | [short rule] | {</titlePart>
+			<titlePart rend="italic">Price, bound in red, 3s. 6d.</titlePart>
+			<titlePart>}</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1r</sigRef>
+					</sigFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π1v</sigRef>
+					</sigFrom>
+					<contentPart>‘[two lines to left of brace] Printed by B. M</contentPart>
+					<contentPart rend="super">c</contentPart>
+					<contentPart>Millan, | Bow-Street, Covent-Garden.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>π2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>π2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>ii</pageRef>
+					</pageTo>
+					<contentPart>‘GENERAL CONTENTS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>O5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>226</pageRef>
+					</pageTo>
+					<contentPart>see </contentPart>
+					<contentPart url="pigott.3.1.xml">Pigott.3.1</contentPart>
+					<contentPart> (1802)</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>O5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>226</pageRef>
+					</pageTo>
+					<RTPart>see </RTPart>
+					<RTPart url="pigott.3.1.xml">Pigott.3.1</RTPart>
+					<RTPart> (1802)</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>Quadrille</game>
+					<game>Cribbage</game>
+					<game>Piquet</game>
+					<game>Matrimony</game>
+					<game>Lansquenet</game>
+					<game>Quinze</game>
+					<game>Chess</game>
+					<game>Backgammon</game>
+					<game>Draughts</game>
+					<game>Billiards</game>
+					<game>Cricket</game>
+					<game>Tennis</game>
+					<game>Golf</game>
+					<game>Faro</game>
+					<game>Hazard</game>
+					<game>Rouge et Noir</game>
+					<game>Cassino</game>
+					<game>All Fours</game>
+					<game>Connexions</game>
+					<game>Put</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+				<subject>
+					<subject1>Gaming</subject1>
+					<subject2>laws of (statute)</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+				<subject>
+					<subject1>Draughts</subject1>
+					<subject2>Payne on</subject2>
+				</subject>
+				<subject>
+					<subject1>Billiards</subject1>
+					<subject2>Dew on</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>P1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>P1v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>2</pageRef>
+					</pageTo>
+					<contentPart>‘APPENDIX. | [short reverse oxford rule] | </contentPart>
+					<contentPart rend="italic">The Game of Loo. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>P1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<RTPart>‘LOO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Loo</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>P2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>P2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>4</pageRef>
+					</pageTo>
+					<contentPart rend="italic">‘The Game of Lottery. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>P2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<RTPart>‘LOTTERY.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Lottery</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>P2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>P3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>5</pageRef>
+					</pageTo>
+					<contentPart>‘[...] | </contentPart>
+					<contentPart rend="italic">The Game of Domino, | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>P2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<RTPart>‘DOMINO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Domino</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>P3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>P4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>8</pageRef>
+					</pageTo>
+					<contentPart>‘[...] | </contentPart>
+					<contentPart rend="italic">The Game of Commerce. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>P3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>P4r</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>7</pageRef>
+					</pageTo>
+					<RTPart>‘COMMERCE.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Commerce</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>P4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>8</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>P5v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>10</pageRef>
+					</pageTo>
+					<contentPart>‘[...] | </contentPart>
+					<contentPart rend="italic">Vingt-un, of the Game of Twenty-one, | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>P4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>8</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>P5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>9</pageRef>
+					</pageTo>
+					<RTPart>‘VINGT-UN.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Vingt-Un</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>P5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>10</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Q2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>15</pageRef>
+					</pageTo>
+					<contentPart>‘[...] | </contentPart>
+					<contentPart rend="italic">The Game of Reversis. | </contentPart>
+					<contentPart>[...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>P5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>10</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Q2r</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>15</pageRef>
+					</pageTo>
+					<RTPart>‘REVERSIS.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Reversis</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Q2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>16</pageRef>
+					</pageFrom>
+					<contentPart rend="italic">‘The Game of Speculation, | </contentPart>
+					<contentPart>[...] | [colophon]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Speculation</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>Q3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>17</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>Q3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<dupSeqPage>2</dupSeqPage>
+						<pageRef>18</pageRef>
+					</pageTo>
+					<contentPart>publisher's advertisements</contentPart>
+				</content>
+			</section>
+		</sections>
+		<plates>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>H4r</sigRef>
+				<pageRef>115</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note rend="smallcap">‘[...] | The Draught Table’</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘[two lines to left of brace] Printed by B. M</note>
+				<note rend="super">c</note>
+				<note>Millan, | Bow-Street, Covent-Garden.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

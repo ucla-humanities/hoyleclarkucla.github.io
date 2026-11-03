@@ -1,0 +1,13 @@
+#row-label{
+    font-weight:bold;
+    text-align:right;
+    vertical-align:text-top;
+}
+td{
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+#italic{
+    font-style:italic;
+}

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Memory.1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2012-01-22</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Memory.1</idno>
+			<fn>books/memory.1.xml</fn>
+			<shortTitle>An Artificial Memory at the Game of Whist</shortTitle>
+			<shortImprint>printed for F. Cogan</shortImprint>
+			<description>first London edition</description>
+			<pubYear>1743</pubYear>
+			<pubDate>1743-11-17</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>10</categoryID>
+			<workID>4</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Francis</forename>
+					<surname>Cogan</surname>
+				</persName>
+				<share>100</share>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>John</forename>
+					<surname>Watts</surname>
+				</persName>
+				<evidence>ornaments</evidence>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>General Evening Post</publication>
+				<pubDate>1743-11-17</pubDate>
+				<notes>
+					<note>"This day was published, (price 1s. 6d)..." </note>
+					<note>Advertised with </note>
+					<note url="whist.4.xml">Whist.4</note>
+					<note>, </note>
+					<note url="laws.1">Laws.1</note>
+					<note>, and </note>
+					<note url="backgammon.1.xml">Backgammon.1</note>
+					<note>.</note>
+				</notes>
+			</periodicalReference>
+			<periodicalReference periodicalType="notice">
+				<publication>The Scots Magazine</publication>
+				<pubDate>1743-11</pubDate>
+				<notes>
+					<note>(</note>
+					<note url="https://books.google.com/books?id=AS8oAAAAYAAJ&amp;pg=PA528">Google</note>
+					<note>)</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>1</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>N15047</idno>
+			</bibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>784</idno>
+				<notes>
+					<note> (Jessel incorrectly gives the date as 1743, but corrects it in two of the
+						three copies of his bibliography, Jessel d.136 and d.137.)</note>
+				</notes>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>14</idno>
+				<notes>
+					<note> (Rather, following Jessel, lists a 1743 edition of this work as item 8. It
+						is a ghost.)</note>
+				</notes>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>L</holder>
+				<shelfmark>1568/6344(2)</shelfmark>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>12 Theta 1318(2)</shelfmark>
+				<idno>Cogan.D</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.543(2)</shelfmark>
+				<idno>Cogan.D</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.586</shelfmark>
+				<surrogate>ECCO</surrogate>
+				<idno shelfmark="Jessel f.580">Cogan.D</idno>
+				<sequence>3</sequence>
+			</holding>
+			<holding isSeen="true">
+				<holder>NvLN</holder>
+				<shelfmark>GV1243.H7 1744</shelfmark>
+				<notes>
+					<note> (lacking the title page A1, and miscatalogued as </note>
+					<note url="memory.d.1.xml">Memory.D.1</note>
+					<note>)</note>
+				</notes>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>Levy</holder>
+				<shelfmark>1537</shelfmark>
+				<idno>Cogan.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false">
+				<holder>CtY-BR</holder>
+				<shelfmark>NLp80 744H</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>ICU</holder>
+				<shelfmark>GV1277.H89 1743</shelfmark>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>InU-Li</holder>
+				<shelfmark>GV1277.H89 1743</shelfmark>
+				<idno>Cogan.C</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false">
+				<holder>NN</holder>
+				<shelfmark>KC 1744 82-1245</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<leaves>6</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+				<anomSignatures>
+					<anomSignature>
+						<anomType>−</anomType>
+						<sigRef>A2</sigRef>
+					</anomSignature>
+				</anomSignatures>
+			</collationFormula>
+			<totalLeaves>18</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>30</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>31</start>
+						<end>36</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+			<totalPages>36</totalPages>
+		</collation>
+		<titlePage titleType="title" imageFN="memory.1">
+			<titlePart rend="roman">AN | </titlePart>
+			<titlePart rend="smallcap">Artificial Memory, | </titlePart>
+			<titlePart>OR, AN | EASY METHOD | OF | Aſſiſting the </titlePart>
+			<titlePart rend="smallcap">Memory </titlePart>
+			<titlePart>of thoſe | that play at the Game of </titlePart>
+			<titlePart rend="smallcap">Whist. | </titlePart>
+			<titlePart>To which are added, | Several </titlePart>
+			<titlePart rend="smallcap">Cases </titlePart>
+			<titlePart>not hitherto Publiſh'd. | [rule] | </titlePart>
+			<titlePart rend="italic">By </titlePart>
+			<titlePart rend="smallcap">Edmund Hoyle, </titlePart>
+			<titlePart rend="italic">Gent. </titlePart>
+			<titlePart>| [double rule] | LONDON: | Printed for </titlePart>
+			<titlePart rend="smallcap">F. Cogan </titlePart>
+			<titlePart>at the | </titlePart>
+			<titlePart rend="italic">Middle-Temple-Gate. </titlePart>
+			<titlePart>1744. | Price One Shilling and Six Pence.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>‘[</contentPart>
+					<contentPart url="https://compositor.bham.ac.uk/ornaments/251089">headpiece</contentPart>
+					<contentPart>] | TO THE | READER. | T</contentPart>
+					<contentPart rend="super">2</contentPart>
+					<contentPart rend="italic">HE Author has thought | proper to inform the
+						Pub-|lick, That no Copies of theſe Books | are genuine, but ſuch as are |
+						ſigned by him. </contentPart>
+					<contentPart>[autograph of Edmond Hoyle] | [</contentPart>
+					<contentPart url="https://compositor.bham.ac.uk/ornaments/251089">headpiece</contentPart>
+					<contentPart>]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>30</pageRef>
+					</pageTo>
+					<contentPart>‘[</contentPart>
+					<contentPart url="https://compositor.bham.ac.uk/ornaments/251139">headpiece</contentPart>
+					<contentPart>] | AN </contentPart>
+					<contentPart rend="smallcap">Artificial Memory, </contentPart>
+					<contentPart>| OR | An Eaſy Method of aſſiſting the | </contentPart>
+					<contentPart rend="smallcap">Memory </contentPart>
+					<contentPart>of thoſe that play at | the Game of </contentPart>
+					<contentPart rend="smallcap">Whist. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>6</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>30</pageRef>
+					</pageTo>
+					<RTPart rend="italic">‘A Treatiſe on </RTPart>
+					<RTPart rend="smallcap">Whist.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>31</pageRef>
+					</pageFrom>
+					<contentPart>‘[</contentPart>
+					<contentPart url="https://compositor.bham.ac.uk/ornaments/250922">headpiece</contentPart>
+					<contentPart>] | To the </contentPart>
+					<contentPart rend="smallcap">Reader. | </contentPart>
+					<contentPart>[...] | [advertisement for </contentPart>
+					<contentPart url="laws.1.xml">Laws.1</contentPart>
+					<contentPart>]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>32</pageRef>
+					</pageFrom>
+					<contentPart>advertisement for </contentPart>
+					<contentPart url="whist.4.xml">Whist.4</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>33</pageRef>
+					</pageFrom>
+					<contentPart>‘[</contentPart>
+					<contentPart url="https://compositor.bham.ac.uk/ornaments/251033">headpiece</contentPart>
+					<contentPart>] | ☛ Whoever Pirates either of theſe | Works will be ſued.
+						The Proprietor | has already obtained an Injunction | againſt Nine Perſons
+						for pirating or | ſelling pirated Editions of one of | them. |
+						[</contentPart>
+					<contentPart url="https://compositor.bham.ac.uk/ornaments/251032">headpiece</contentPart>
+					<contentPart>]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>34</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>36</pageRef>
+					</pageTo>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+		</sections>
+
+	</text>
+</entry>

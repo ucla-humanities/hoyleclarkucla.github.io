@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Cogan.D</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2021-12-21</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Cogan.D</idno>
+            <fn>books/cogan.d.xml</fn>
+            <shortTitle>Collection</shortTitle>
+            <shortImprint>printed for F. Cogan</shortImprint>
+            <description>fourth collection</description>
+            <pubYear>1744</pubYear>
+            <pubDate>1744-10-31</pubDate>
+            <evidence>included work</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>20</categoryID>
+            <workID>1</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <collectedParts>
+            <collectedPart>
+                <idno>Whist.5</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Memory.1</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Quadrille.1.1</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Piquet.1.1</idno>
+            </collectedPart>
+            <collectedPart>
+                <idno>Backgammon.1</idno>
+            </collectedPart>
+        </collectedParts>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Francis</forename>
+                    <surname>Cogan</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>12 Theta 1318</shelfmark>
+                <holdingParts>
+                    <holdingPart seq="1">
+                        <idno>Whist.5</idno>
+                        <shelfmark>12 Theta 1318(1)</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="2">
+                        <idno>Memory.1</idno>
+                        <shelfmark>12 Theta 1318(2)</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="3">
+                        <idno>Quadrille.1.1</idno>
+                        <shelfmark>12 Theta 1318(3)</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="4">
+                        <idno>Piquet.1.1</idno>
+                        <shelfmark>12 Theta 1318(4)</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="5">
+                        <idno>Backgammon.1</idno>
+                        <shelfmark>12 Theta 1318(5)</shelfmark>
+                    </holdingPart>
+                </holdingParts>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.543</shelfmark>
+                <holdingParts>
+                    <holdingPart seq="1">
+                        <idno>Whist.5</idno>
+                        <shelfmark>Jessel f.543(1)</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="2">
+                        <idno>Memory.1</idno>
+                        <shelfmark>Jessel f.543(2)</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="3">
+                        <idno>Quadrille.1.1</idno>
+                        <shelfmark>Jessel f.543(3)</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="4">
+                        <idno>Piquet.1.1</idno>
+                        <shelfmark>Jessel f.543(4)</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="5">
+                        <idno>Backgammon.1</idno>
+                        <shelfmark>Jessel f.543(5)</shelfmark>
+                    </holdingPart>
+                </holdingParts>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.580</shelfmark>
+                <holdingParts>
+                    <holdingPart seq="1">
+                        <idno>Quadrille.1.1</idno>
+                        <shelfmark>Jessel f.583</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="2">
+                        <idno>Whist.5</idno>
+                        <shelfmark>Jessel f.542</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="3">
+                        <idno>Memory.1</idno>
+                        <shelfmark>Jessel f.586</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="4">
+                        <idno>Piquet.1.1</idno>
+                        <shelfmark>Jessel f.580(1)</shelfmark>
+                    </holdingPart>
+                    <holdingPart seq="5">
+                        <idno>Backgammon.1</idno>
+                        <shelfmark>Jessel f.580(2)</shelfmark>
+                    </holdingPart>
+                </holdingParts>
+            </holding>
+        </holdings>
+        <notes>
+            <note>For the story of O [Jessel f.580), and of the Cogan collections generally see the </note>
+            <note
+                url="http://edmondhoyle.blogspot.com/2011/10/were-there-cogan-collections-of-hoyle.html"
+                >essay</note>
+            <note> "Were there Cogan collections of Hoyle?"</note>
+        </notes>
+    </bookDesc>
+</entry>

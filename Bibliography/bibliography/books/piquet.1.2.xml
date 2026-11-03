@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Piquet.1.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-12-21</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Piquet.1.2</idno>
+            <fn>books/piquet.1.2.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Piquet</shortTitle>
+            <shortImprint>printed for T. Osborne et al</shortImprint>
+            <description>first London edition, second issue</description>
+            <pubYear>1745</pubYear>
+            <pubDate>1745-11-09</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>2</issue>
+            			<categoryID>10</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Osborne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Hildyard</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>M.</forename>
+                    <surname>Bryson</surname>
+                </persName>
+            </respItem>
+            <respItem respType="distributor">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Leake</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Watts</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>London Evening Post</publication>
+                <pubDate>1745-10-26</pubDate>
+                <notes>
+                    <note>"A Treatise on the Game of Piquet , price 1s." Advertised with </note>
+                    <note url="whist.6.xml">Whist.6</note>
+                    <note>, </note>
+                    <note url="quadrille.1.2.xml">Quadrille.1.2</note>
+                    <note>, </note>
+                    <note url="backgammon.2.xml">Backgammon.2</note>
+                    <note>, </note>
+                    <note url="laws.2.xml">Laws.2</note>
+                    <note>, and Osborne </note>
+                    <note url="../osborne.xml">collection</note>
+                    <note>.</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>1</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>N22954</idno>
+            </bibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>649</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>21</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.544(3)</shelfmark>
+                <idno>Osborne.A</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>CLU-C</holder>
+                <shelfmark>*GV1295.P7H8.1745</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>PPL</holder>
+                <shelfmark>Iu Hoyl Allen 333 no.3</shelfmark>
+                <idno>Osborne.A</idno>
+                <sequence>3</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>2097</shelfmark>
+                <idno>Osborne.A</idno>
+                <sequence>3</sequence>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Jessel 779a in his handwritten corrections to his bibliography. </note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>A1</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>D</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>E</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>E3</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>E4</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>42</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>79</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>80</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="piquet.1.2">
+            <titlePart>A SHORT | TREATISE | On the GAME of | PIQUET. | Directing with Moral
+                Certainty how to Diſ-|card any Hand to Advantage, by ſhewing | the Chances
+                of taking in any one, two, | three, four, or five certain Cards. | </titlePart>
+            <titlePart rend="smallcap">Computations </titlePart>
+            <titlePart>for thoſe who Bet their | Money at the Game. | Alſo the </titlePart>
+            <titlePart rend="smallcap">Laws </titlePart>
+            <titlePart>of the </titlePart>
+            <titlePart rend="smallcap">Game. | </titlePart>
+            <titlePart>To which are added, | Some </titlePart>
+            <titlePart rend="smallcap">Rules </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">Observations </titlePart>
+            <titlePart>for play-|ing well at </titlePart>
+            <titlePart rend="smallcap">Chess. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmond Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">LONDON: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">T. Osborne, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Gray's Inn; | </titlePart>
+            <titlePart rend="smallcap">J. Hildyard, </titlePart>
+            <titlePart>at </titlePart>
+            <titlePart rend="italic">York; </titlePart>
+            <titlePart rend="smallcap">M. Bryson, </titlePart>
+            <titlePart>at | </titlePart>
+            <titlePart rend="italic">Newcaſtle; </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="smallcap">J. Leake, </titlePart>
+            <titlePart>at </titlePart>
+            <titlePart rend="italic">Bath, </titlePart>
+            <titlePart>1745. | {Price One Shilling.}</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title | autograph of Edmond
+                        Hoyle</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="piquet.1.1.xml">Piquet.1.1</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>79</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="piquet.1.1.xml">Piquet.1.1</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>79</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="piquet.1.1.xml">Piquet.1.1</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Piquet</game>
+                    <game>Chess</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>80</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

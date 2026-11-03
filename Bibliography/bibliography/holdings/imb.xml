@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\imb.xml</fn><home>../index.xml</home></footer><id>IMB</id><fn>imb</fn><name>Biblioteca Civica Centrale</name><location>Monza, Italy</location><books><book><id>Whist.Fr.C.1765.Reycends</id><fn>../books/whist.fr.c.1765.reycends.xml</fn><shortTitle>Traité du Jeu de Whist</shortTitle><shortImprint>Chez les Freres Reycends et al</shortImprint><pubDate>1765</pubDate><shelfmarks><shelfmark>ZUC.001-G-019</shelfmark></shelfmarks></book></books></holder>

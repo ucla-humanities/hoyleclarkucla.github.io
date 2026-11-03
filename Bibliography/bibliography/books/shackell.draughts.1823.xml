@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Shackell.Draughts.1823</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Shackell.Draughts.1823</idno>
+			<fn>books/shackell.draughts.1823.xml</fn>
+			<shortTitle>A Treatise on the Game of Draughts</shortTitle>
+			<shortImprint>published by W. Wright</shortImprint>
+			<pubYear>1823</pubYear>
+			<pubDate>1823</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>70</workID>
+			<subWorkID>40</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="pseudonym">
+				<persName>
+					<forename>Bob</forename>
+					<surname>Short</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>William</forename>
+					<surname>Wright</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<respGroup seq="2">Shackell</respGroup>
+				<orgName>Shackell and Arrowsmith</orgName>
+			</respItem>
+		</respStmt>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1620</shelfmark>
+			</holding>
+			<holding isSeen="false">
+				<holder>AWn</holder>
+				<shelfmark>PR1474.E58</shelfmark>
+			</holding>
+		</holdings>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>10.9</height>
+				<width>6.1</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>12</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>3</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+						<end>24</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title" imageFN="shackell.draughts.1823">
+			<titlePart>HOYLE ABRIDGED. | [short rule] | A TREATISE | ON THE | GAME OF DRAUGHTS; | OR, | </titlePart>
+			<titlePart rend="blackletter">Short Rules for Short Memories. | </titlePart>
+			<titlePart>WITH THE | LAWS OF THE GAME AND EXERCISES. | ALSO OF | CONSTITUTIONAL CHECKERS, | AND | POLISH DRAUGHTS. | [short rule] | BY BOB SHORT. | [printer's device] | LONDON: | PUBLISHED BY W. WRIGHT, | 46, FLEET-STREET. | [short rule] | 1823.</titlePart>
+		</titlePage>
+		<sections>
+		<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>‘[short rule] | LONDON: | SHACKELL AND ARROWSMITH, JOHNSON'S-|COURT, FLEET-STREET. | [short rule]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A10r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>19</pageRef>
+					</pageTo>
+					<contentPart>‘THE | GAME OF DRAUGHTS. | [...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Draughts</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A10v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>20</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A11r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>21</pageRef>
+					</pageTo>
+					<contentPart>‘CONSTITUTIONAL CHECKERS. | [...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Constitutional Checkers</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A11v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>22</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A12v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>24</pageRef>
+					</pageTo>
+					<contentPart>‘THE GAME | OF | </contentPart>
+					<contentPart rend="blackletter">Polish Draughts. | </contentPart>
+					<contentPart>[...] | [colophon]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Polish Draughts</game>
+				</gamesCovered>
+			</section>
+		</sections>
+		<plates>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>A2r</sigRef>
+				<pageRef>3</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>A couple playing draughts</note>
+				</notes>
+			</plate>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>A3r</sigRef>
+				<pageRef>5</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>Draught Table</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘LONDON: | Shackell and Arrowsmith, Johnson's-court.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

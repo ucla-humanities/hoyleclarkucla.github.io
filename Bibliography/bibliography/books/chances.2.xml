@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Chances.2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2022-06-19</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Chances.2</idno>
+            <fn>books/chances.2.xml</fn>
+            <shortTitle>The Doctrine of Chances</shortTitle>
+            <shortImprint>printed for T. Osborne et al</shortImprint>
+            <statedEdition>"a new edition, corrected"</statedEdition>
+            <description>second London edition</description>
+            <pubYear>1764</pubYear>
+            <pubDate>1764-06-07</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>2</edition>
+            <issue>1</issue>
+            			<categoryID>10</categoryID>
+            <workID>8</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Osborne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Baldwin</respGroup>
+                <persName>
+                    <forename>Richard</forename>
+                    <surname>Baldwin</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Richardson</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Samuel</forename>
+                    <surname>Clark</surname>
+                </persName>
+                <evidence>ornaments</evidence>
+            </respItem>
+            <respItem respType="dedicatee">
+                <orgName>Earl of Egmont</orgName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>St. James Chronicle</publication>
+                <pubDate>1764-06-07</pubDate>
+                <notes>
+                    <note>"This day was published, price 2s. 6d. sewed, a new edition,
+                        corrected...☞No copies of this book are genuine, but those that are signed
+                        by the proprietors on the back of the title." Advertised with </note>
+                    <note url="games.4.xml">Games.4</note>
+                    <note> and </note>
+                    <note url="chess.1">Chess.1</note>
+                    <note>.</note>
+                </notes>
+            </periodicalReference>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Gazetteer and New Daily Advertiser</publication>
+                <pubDate>1769-12-26</pubDate>
+                <notes>
+                    <note>price 2s.</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>2</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+                <evidence>advertisement</evidence>
+            </price>
+            <price>
+                <priceComponent>
+                    <amount>2</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T87536</idno>
+            </bibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>671</idno>
+                <notes>
+                    <note> (incorrectly dated 1761</note>
+                </notes>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>796</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>48</idno>
+            </bibl>
+        </listBibl>
+
+        <holdings>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>8505.b.39</shelfmark>
+                <surrogate>ECCO</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>50b.9</shelfmark>
+                <surrogate url="http://books.google.com/books?id=FmcFAAAAQAAJ">Google</surrogate>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel e.648</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>QA273.H87 1764</shelfmark>
+                <notes>
+                    <note> (lacking gathering F)</note>
+                </notes>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1302.H8</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1663</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1831</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Eu</holder>
+                <shelfmark>D.S.h.10.19/2</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>MRc</holder>
+                <shelfmark>4C1-52(1)</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>O</holder>
+                <shelfmark>Rigaud e.420(2)</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LEI</holder>
+                <shelfmark>645 B 21: 1</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CtY-BR</holder>
+                <shelfmark>QA273.H68 1764</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>GAT</holder>
+                <shelfmark>QA273.H87 1764</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LU</holder>
+                <shelfmark>QA273.H87 1764</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>MdBJ</holder>
+                <shelfmark>QA273.H7 1764</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>At the Osborne trade sale of 1767-07-28, 200 copies went unsold.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>I</sigEnd>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>K</sigStart>
+                        <leaves>4</leaves>
+                        <alteration>
+                            <alterationType>+</alterationType>
+                            <sigRef>K4</sigRef>
+                            <count>1</count>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>41</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>iii</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>iv</start>
+                        <end>viii</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>73</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>74</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="chances.2">
+            <titlePart>AN | ESSAY | </titlePart>
+            <titlePart rend="smallcap">Towards making the | </titlePart>
+            <titlePart>DOCTRINE | OF | CHANCES | EASY to thoſe who underſtand | </titlePart>
+            <titlePart rend="smallcap">Vulgar Arithmetick </titlePart>
+            <titlePart>only. | To which are added, | Some Uſeful TABLES on </titlePart>
+            <titlePart rend="smallcap">Annuities | </titlePart>
+            <titlePart>for </titlePart>
+            <titlePart rend="smallcap">Lives, </titlePart>
+            <titlePart rend="italic">&amp;c &amp;c. &amp;c. | </titlePart>
+            <titlePart>[rule] | By Mr. </titlePart>
+            <titlePart rend="italic">HOYLE. | </titlePart>
+            <titlePart>[rule] | A New EDITION Corrected. | [rule] | </titlePart>
+            <titlePart rend="italic">LONDON: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">T. Osborne, </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Gray's-Inn, </titlePart>
+            <titlePart>and | </titlePart>
+            <titlePart rend="smallcap">R. Baldwin, </titlePart>
+            <titlePart>at the </titlePart>
+            <titlePart rend="italic">Roſe </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Pater-noſter Row. | </titlePart>
+            <titlePart rend="smallcap">M.dcc.lxiv. | </titlePart>
+            <titlePart>(Price Two Shillings and Sixpence.) | No Copies of this Book are
+                genuine, but thoſe that are | ſigned by the Proprietors on the Back of this
+                Title.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>autographs of Tho. Osborne and R. Baldwin</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>iv</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/1190218">headpiece</contentPart>
+                    <contentPart> </contentPart>
+                    <contentPart url="https://ourarchive.otago.ac.nz/handle/10523/2470">Maslen</contentPart>
+                    <contentPart> R046 with R332 inset] | TO THE | RIGHT HONOURABLE | THE | EARL of
+                        EGMONT. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘DEDICATION.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>v</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>viii</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/1190163">headpiece</contentPart>
+                    <contentPart> </contentPart>
+                    <contentPart url="https://ourarchive.otago.ac.nz/handle/10523/2470">Maslen</contentPart>
+                    <contentPart> R039] | THE | PREFACE. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vi</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>viii</pageRef>
+                    </pageTo>
+                    <RTPart>‘The </RTPart>
+                    <RTPart rend="italic">PREFACE.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K4+1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>73</pageRef>
+                    </pageTo>
+                    <contentPart>‘[</contentPart>
+                    <contentPart url="https://compositor.bham.ac.uk/ornaments/1190215">headpiece</contentPart>
+                    <contentPart> </contentPart>
+                    <contentPart url="https://ourarchive.otago.ac.nz/handle/10523/2470">Maslen</contentPart>
+                    <contentPart> R055] | AN | ESSAY | ON THE | Doctrine of Chances, &amp;c. |
+                        […]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>K4+1r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>73</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘An </RTPart>
+                    <RTPart rend="smallcap">Essay </RTPart>
+                    <RTPart rend="italic">on the | </RTPart>
+                    <RTPart rend="smallcap">Doctrine </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart rend="smallcap">Chances.’</RTPart>
+                </RT>
+                <subject>
+                    <subject1>Chances</subject1>
+                    <subject2>Doctrine of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>K4+1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>74</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>D1r</sigRef>
+                <pageRef>17</pageRef>
+                <cwFoot rend="italic">Firſt,</cwFoot>
+                <cwHead rend="italic">Firſt</cwHead>
+            </catchword>
+        </catchwords>
+        <pressFigures>
+            <pressFigure>
+                <sigRef>B4v</sigRef>
+                <pageRef>8</pageRef>
+                <forme>o</forme>
+                <mark>6</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>D4v</sigRef>
+                <pageRef>24</pageRef>
+                <forme>o</forme>
+                <mark>3</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>E2v</sigRef>
+                <pageRef>28</pageRef>
+                <forme>o</forme>
+                <mark>6</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>G4v</sigRef>
+                <pageRef>48</pageRef>
+                <forme>o</forme>
+                <mark>5</mark>
+            </pressFigure>
+            <pressFigure>
+                <sigRef>K4v</sigRef>
+                <pageRef>72</pageRef>
+                <forme>o</forme>
+                <mark>3</mark>
+            </pressFigure>
+        </pressFigures>
+    </text>
+</entry>

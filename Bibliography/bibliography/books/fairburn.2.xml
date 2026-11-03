@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Fairburn.2</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Fairburn.2</idno>
+			<fn>books/fairburn.2.xml</fn>
+			<shortTitle>Hoyle's Games in Miniature</shortTitle>
+			<shortImprint>printed and published by John Fairburn</shortImprint>
+			<description>printed for John Fairburn</description>
+			<pubYear>1825</pubYear>
+			<pubDate isUncertain="true">1825</pubDate>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>45</categoryID>
+			<workID>25</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<persName>
+					<forename>John</forename>
+					<surname>Fairburn</surname>
+				</persName>
+			</respItem>
+			<respItem respType="printer">
+				<persName>
+					<forename>John</forename>
+					<surname>Fairburn</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>title</evidence>
+			</price>
+		</prices>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Copisarow</holder>
+			</holding>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>2160</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>The first 64 pages are the same setting of type as </note>
+			<note url="fairburn.1.xml">Fairburn.1</note>
+			<note>, reimposed in sixes and with the same frontispiece. The wrapper is reset, although unlike the title page, it ignores the added material on the games of brag and domino from pages 65-72. </note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>11.0</height>
+				<width>7.0</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<sigEnd>D</sigEnd>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<dupSeq>2</dupSeq>
+						<sigStart>D</sigStart>
+						<leaves>6</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>E</sigStart>
+						<leaves>6</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$1,3</signatureLeaves>
+				<signaturePattern>$3 as '$2'</signaturePattern>
+			</collationFormula>
+			<totalLeaves>36</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>5</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>6</start>
+						<end>22</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>23</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>24</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>25</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>26</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>27</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>28</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>29</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>30</start>
+						<end>34</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>35</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>36</start>
+						<end>50</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>51</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>52</start>
+						<end>53</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>54</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>55</start>
+						<end>56</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>57</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>58</start>
+						<end>61</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>62</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>63</start>
+						<end>64</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>65</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>66</start>
+						<end>69</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>70</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>71</start>
+						<end>72</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="wrapper" imageFN="fairburn.2.wrapper">
+			<titlePart>[within a border of type ornaments] HOYLE'S | GAMES, | IN | MINIATURE; | CONTAINING | RULES AND DIRECTIONS | FOR | [five lines to left of rule] WHIST, | PUT, | SEPCULATION, | CONNEXIONS, | MATRIMONY, | [five lines to right of rule] CRIBBAGE, | LOO, | CASSINO, | VINGT-UN, | ALL-FOURS. | [short decorative rule] | </titlePart>
+			<titlePart rend="smallcap">By BOB SHORT, Jun. | </titlePart>
+			<titlePart>[short decorative rule] | </titlePart>
+			<titlePart rend="italic">LONDON: | </titlePart>
+			<titlePart>Printed for JOHN FAIRBURN, 2, Broadway, | Ludgate-Hill. | (PRICE SIXPENCE.)</titlePart>
+		</titlePage>
+		<titlePage titleType="title" imageFN="fairburn.2">
+			<titlePart>HOYLE'S | GAMES, | IN | MINIATURE: | CONTAINING | RULES AND DIRECTIONS | FOR | [six lines to left of rule] WHIST, | PUT, | SEPCULATION, | CONNEXIONS, | MATRIMONY, | CRIBBAGE, | [six lines to right of rule] LOO, | CASSINO, | VINGT-UN, | ALL-FOURS, | BRAGG, | DOMINO. | [short rule] </titlePart>
+			<titlePart rend="smallcap">By BOB SHORT, Jun. | </titlePart>
+			<titlePart>[short rule] | </titlePart>
+			<titlePart rend="italic">LONDON: | </titlePart>
+			<titlePart>Printed and published by JOHN FAIRBURN, | 2, Broadway, Ludgate-Hill. | (PRICE SIXPENCE.)</titlePart>
+		</titlePage>
+		<titlePage titleType="frontispiece" imageFN="fairburn.2.frontispiece"/>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<contentPart>‘CONTENTS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>5</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>E2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>64</pageRef>
+					</pageTo>
+					<contentPart>See </contentPart>
+					<contentPart url="fairburn.1.xml">Fairburn.1</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>6</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>E2v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>64</pageRef>
+					</pageTo>
+					<RTPart>See </RTPart>
+					<RTPart url="fairburn.1.xml">Fairburn.1</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+					<game>Speculation</game>
+					<game>Connexions</game>
+					<game>Matrimony</game>
+					<game>Cassino</game>
+					<game>Cribbage</game>
+					<game>Put</game>
+					<game>Loo</game>
+					<game>Vingt-Un</game>
+					<game>All Fours</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>E3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>65</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>E5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>69</pageRef>
+					</pageTo>
+					<contentPart>‘BRAG. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>E3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>66</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>E5r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>69</pageRef>
+					</pageTo>
+					<RTPart>‘BRAG.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Brag</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>E5v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>70</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>E6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>72</pageRef>
+					</pageTo>
+					<contentPart>‘DOMINO. | [...] | [colophon]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>E6r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>71</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>E6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>72</pageRef>
+					</pageTo>
+					<RTPart>‘DOMINO.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Domino</game>
+				</gamesCovered>
+			</section>
+		</sections>
+		<plates>
+			<plate plateLocation="Frontispiece">
+				<plateRelation>opposite</plateRelation>
+				<sigRef>A1r</sigRef>
+				<pageRef>1</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>A hand-colored array of playing cards</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘[rule] | Printed by John Fairburn, 2, Broadway, | Ludgate-Hill.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

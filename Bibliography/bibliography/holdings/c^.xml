@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\c^.xml</fn><home>../index.xml</home></footer><id>C*</id><fn>c^</fn><name>California State Library</name><location>Sacramento, CA</location><books><book><id>Games.7.P.1</id><fn>../books/games.7.p.1.xml</fn><shortTitle>Mr. Hoyle's Games</shortTitle><shortImprint>printed for P. Charles</shortImprint><statedEdition>"seventeenth" edition</statedEdition><description>piracy of seventh edition</description><pubDate>1775</pubDate><shelfmarks><shelfmark>795.H867</shelfmark></shelfmarks></book></books></holder>

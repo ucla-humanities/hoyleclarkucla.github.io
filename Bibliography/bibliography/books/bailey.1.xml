@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Bailey.1</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2022-06-27</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Bailey.1</idno>
+			<fn>books/bailey.1.xml</fn>
+			<shortTitle>Hoyle's Scientific Game of Whist</shortTitle>
+			<shortImprint>printed and published by J. Bailey</shortImprint>
+			<description>printed and published by J. Bailey</description>
+			<pubYear>1825</pubYear>
+			<pubDate>1825</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>50</categoryID>
+			<workID>85</workID>
+			<subWorkID>10</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="printer">
+				<persName>
+					<forename>Joseph</forename>
+					<surname>Bailey</surname>
+				</persName>
+				<evidence>colophon</evidence>
+			</respItem>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Joseph</forename>
+					<surname>Bailey</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>Jessel</reference>
+				<idno>821</idno>
+			</bibl>
+			<bibl>
+				<reference>Rather</reference>
+				<idno>121</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.634</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>The title page describes this as "Bailey's New Edition" with an address of 188, Fleet Street. The frontispiece shows an address of 66 Gray's Inn, suggesting that there may have been an earlier edition published from the Gray's Inn address. </note>
+			<note rend="paragraph"></note>
+			<note>Bailey apparently also published a Companion to the Card Table, but no copies have survived. See the note on B12v(48).</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<leaves>12</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$1–3</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>24</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>3</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>4</start>
+						<end>47</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>48</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart>BAILEY'S NEW EDITION. | [short reverse oxford rule] | HOYLE'S | SCIENTIFIC | GAME OF WHIST; | </titlePart>
+			<titlePart rend="blackletter">correctly stated, | </titlePart>
+			<titlePart>AND | </titlePart>
+			<titlePart rend="italic">LAID DOWN IN A CLEAR AND COMPREHENSIVE | MANNER FOR THE | </titlePart>
+			<titlePart>EASY ACQUIREMENT OF BEGINNERS; | [five lines to left of woodblock] WITH | USEFUL | </titlePart>
+			<titlePart rend="italic">HINTS | </titlePart>
+			<titlePart>TO | PROFICIENTS. | [five lines to right of woodblock] AND | </titlePart>
+			<titlePart rend="italic">CALCULATIONS | </titlePart>
+			<titlePart>NECESSARY | FOR | BETTING. | </titlePart>
+			<titlePart rend="blackletter">London: | </titlePart>
+			<titlePart>PRINTED AND PUBLISHED BY J. BAILEY, | 188, FLEET STREET. | 1825.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B12r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>47</pageRef>
+					</pageTo>
+					<contentPart rend="italic">‘Hoyle's Game of Whist. | </contentPart>
+					<contentPart>[...] | [colophon]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B12r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>47</pageRef>
+					</pageTo>
+					<RTPart>‘THE GAME OF WHIST.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>Odds of holding number of trumps</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>rules of</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B12v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>48</pageRef>
+					</pageFrom>
+					<contentPart>‘[rule] | </contentPart>
+					<contentPart rend="italic">Also just published, uniform with this  | edition, a Companion to the Card | Table, containing the Games mow | in practice. | </contentPart>
+					<contentPart>[rule]’</contentPart>
+				</content>
+			</section>
+		</sections>
+		<plates>
+			<plate plateLocation="Frontispiece">
+				<plateRelation>opposite</plateRelation>
+				<sigRef>A1r</sigRef>
+				<pageRef>1</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>A gentleman and three ladies playing at whist, with the caption Hoyle's Game of Whist. J. Bailey Publisher, 66, Gray's Inn Lane, Holburn, London</note>
+				</notes>
+			</plate>
+			<plate>
+				<plateRelation>on</plateRelation>
+				<sigRef>A1r</sigRef>
+				<pageRef>1</pageRef>
+				<plateType>woodblock</plateType>
+				<notes>
+					<note>a playing card, the club king</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘[short rule] | </note>
+				<note rend="italic">Printed by J. Bailey, 188, Fleet Street.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

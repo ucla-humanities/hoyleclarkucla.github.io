@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.D.5</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-03-28</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.D.5</idno>
+            <fn>books/whist.d.5.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>printed for George and Alexander Ewing</shortImprint>
+            <statedEdition>"fourteenth" edition</statedEdition>
+            <description>fifth Ewing edition</description>
+            <pubYear>1762</pubYear>
+            <pubDate>1762</pubDate>
+            <evidence>title</evidence>
+            <edition>5</edition>
+            <issue>1</issue>
+            <categoryID>60</categoryID>
+            <workID>10</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Ewing</respGroup>
+                <persName>
+                    <forename>George and Alexander</forename>
+                    <surname>Ewing</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T118624</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true" isCollection="true">
+                <holder>D</holder>
+                <shelfmark>Dublin1761(21)</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>L</holder>
+                <shelfmark>1607/4733</shelfmark>
+                <surrogate>ECCO</surrogate>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>L</holder>
+                <shelfmark>1607/527</shelfmark>
+                <idno>Polite.C</idno>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.574</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.H86 1761</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F61D</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1241.H8P 1761</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1745</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1804</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>C</holder>
+                <shelfmark>Hib.7.761.25</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>HAG</holder>
+                <shelfmark>KW 364 G 168</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>LU-S</holder>
+                <shelfmark>GV1241.H86 1761</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>NNStJ</holder>
+                <shelfmark>GV1241.H86 1761</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>NNU-F</holder>
+                <shelfmark>GV1241.H6 1761</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>NjP</holder>
+                <shelfmark>42845.479.31</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>RP</holder>
+                <shelfmark>795 H868 1761 SpecColT</shelfmark>
+                <idno>Polite.C</idno>
+                <sequence>1</sequence>
+            </holding>
+        </holdings>
+        <notes>
+            <note>It appears that </note>
+            <note url="memory.d.3.xml">Memory.D.3*</note>
+            <note> was always publisted as a part of Whist.D.5. </note>
+            <note> As with </note>
+            <note url="whist.d.4.xml">Whist.D.4</note>
+            <note>, chapter XV has only the single line, “Contained in the Artificial Memory,” and
+                the only chapter in </note>
+            <note rend="italic">Memory </note>
+            <note>is numbered XV. </note>
+            <note rend="paragraph"/>
+            <note>Gatherings B and C are the same setting of type as </note>
+            <note url="whist.d.4.xml">Whist.D.4</note>
+            <note>. Note that the two books have the same catchword anomolies, including those
+                mentioned in the note to Whist.D.4.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>E</sigEnd>
+                        <leaves>8/4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>F</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>2</dupSeq>
+                        <sigStart>A</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>36</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>56</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <dupSeq>2</dupSeq>
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>3</start>
+                        <end>12</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.d.5">
+            <titlePart>A SHORT | TREATISE | On the GAME </titlePart>
+            <titlePart>of | WHIST. | CONTAINING | The LAWS of the GAME: | AND ALSO | Some </titlePart>
+            <titlePart rend="smallcap">Rules, </titlePart>
+            <titlePart>whereby a Beginner may, with due | Attention to them, attain to the
+                Playing it well. | </titlePart>
+            <titlePart rend="smallcap">Calculations </titlePart>
+            <titlePart>for thoſe who will bet the Odds on any Points | of the Score of the
+                Game then playing and depending. | </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>ſtated, to ſhew what may be effected by a very good Player | in
+                critical Parts of the Game. | </titlePart>
+            <titlePart rend="smallcap">References </titlePart>
+            <titlePart>to </titlePart>
+            <titlePart rend="smallcap">Cases, </titlePart>
+            <titlePart>viz. </titlePart>
+            <titlePart>at the End of the Rule, you are di-|rected how to find them. | </titlePart>
+            <titlePart rend="smallcap">Calculations, </titlePart>
+            <titlePart>directing with moral Certainty, how to play | well any Hand or Game,
+                by ſhewing the Chances of your Part-|ner’s having 1, 2, or 3 Certain Cards.
+                | With variety of </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>added in the </titlePart>
+            <titlePart>Appendix. | [rule] | </titlePart>
+            <titlePart rend="italic">By </titlePart>
+            <titlePart rend="smallcap">Edmond Hoyle, </titlePart>
+            <titlePart rend="italic">Gent. | </titlePart>
+            <titlePart>[rule] | The </titlePart>
+            <titlePart rend="smallcap">Fourteenth Edition </titlePart>
+            <titlePart>with great </titlePart>
+            <titlePart rend="smallcap">Additions | </titlePart>
+            <titlePart>To the Laws of the Game, and an Explanation of the Calculations |
+                which are neceſſary to be underſtood by thoſe who would play | it well. |
+                And alſo, | A </titlePart>
+            <titlePart rend="smallcap">Dictionary </titlePart>
+            <titlePart>for </titlePart>
+            <titlePart rend="smallcap">Whist, </titlePart>
+            <titlePart rend="italic">which reſolves almoſt all | the critical Caſes that may
+                happen at the Game. | </titlePart>
+            <titlePart>To which is added, | An ARTIFICIAL MEMORY; | Or, an eaſy Method of
+                aſſiſting the Memory of thoſe | that play at the GAME of WHIST. | And
+                ſeveral </titlePart>
+            <titlePart rend="smallcap">Cases, </titlePart>
+            <titlePart>not hitherto publiſhed. | To the Edition are alſo added, | A whole
+                Chapter of Thirteen new Caſes, never pub-|liſh'd before. | [double rule] |
+                DUBLIN: | </titlePart>
+            <titlePart rend="smallcap">Printed for </titlePart>
+            <titlePart rend="smallcap">GEORGE and ALEXANDER EWING. | m,dcc,lxii.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <contentPart>‘[double rule] | THE | CONTENTS. | WHIST. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <RTPart>‘The CONTENTS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>56</pageRef>
+                    </pageTo>
+                    <contentPart>‘[double rule] | A SHORT | TREATISE | On the GAME of | WHIST. |
+                        [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>55</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘A ſhort </RTPart>
+                    <RTPart rend="smallcap">Treatise </RTPart>
+                    <RTPart rend="italic">on | the </RTPart>
+                    <RTPart rend="smallcap">Game </RTPart>
+                    <RTPart rend="italic">of </RTPart>
+                    <RTPart rend="smallcap">Whist.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>12</pageRef>
+                    </pageTo>
+                    <contentPart>See </contentPart>
+                    <contentPart url="memory.d.3.xml">Memory.D.3*</contentPart>
+                    <contentPart> (1762)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>A6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <dupSeqPage>2</dupSeqPage>
+                        <pageRef>12</pageRef>
+                    </pageTo>
+                    <RTPart>See </RTPart>
+                    <RTPart url="memory.d.3.xml">Memory.D.3*</RTPart>
+                    <RTPart> (1762)</RTPart>
+                </RT>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>B5r</sigRef>
+                <pageRef>9</pageRef>
+                <cwFoot>XVI.</cwFoot>
+                <cwHead>XVII.</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>C3v</sigRef>
+                <pageRef>22</pageRef>
+                <cwFoot>III.</cwFoot>
+                <cwHead>IV.</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

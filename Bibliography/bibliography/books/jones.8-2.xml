@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Jones.8-2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-01-16</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.8-2</idno>
+            <fn>books/jones.8-2.xml</fn>
+            <shortTitle>Mr. Hoyle's Game of Chess</shortTitle>
+            <shortImprint>printed for R. Baldwin et al</shortImprint>
+            <description>extracted from the eighth London edition</description>
+            <pubYear>1808</pubYear>
+            <pubDate>1808-05-24</pubDate>
+            <evidence>Longman Archives</evidence>
+            <edition>8</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <copiesPrinted>2000</copiesPrinted>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <respGroup seq="2">Baldwin</respGroup>
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Baldwin I</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lowndes</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="4">Wilkie</respGroup>
+                <orgName>Wilkie and Robinson</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>J.</forename>
+                    <surname>Walker</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Scatcherd</respGroup>
+                <orgName>Scatcherd and Letterman</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Longman</respGroup>
+                <orgName>Longman, Hurst, Rees, and Orme</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Lackington</respGroup>
+                <orgName>Lackington, Allen and Co.</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Stewart</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Crosby</respGroup>
+                <orgName>B. Crosby and Co.</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Joseph</forename>
+                    <surname>Mawman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Asperne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Charles</forename>
+                    <surname>Whittingham</surname>
+                </persName>
+                <evidence>colophon</evidence>
+                <evidence>Longman Archives</evidence>
+            </respItem>
+            <respItem respType="dedicatee">
+                <orgName>Earl of Northumberland</orgName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Hereford Journal</publication>
+                <pubDate>1808-03-09</pubDate>
+                <notes>
+                    <note>"...Of whom may be had, likewise just published...Hoyle's Games of Chess,
+                        now first including his chess lectures, and some selections from other
+                        authors, 2s. in extra boards."</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>2</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+                <evidence>cover</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>96</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>L</holder>
+                <shelfmark>7915.aaa.57</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>38472 f.40</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>OCl</holder>
+                <shelfmark>789 G8h3</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>PPL</holder>
+                <shelfmark>Iu Hoyl Allen 340</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1630</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DUu</holder>
+                <shelfmark>SC 09510</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>EXDc</holder>
+                <shelfmark>794.1</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>Lv</holder>
+                <shelfmark>CLE Q32</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>HAG</holder>
+                <shelfmark>KW 972 F 36</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>ICR</holder>
+                <shelfmark>Fiskesafn 794.1 Hoy</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CtY</holder>
+                <shelfmark>381 M79 1808L</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>MH</holder>
+                <shelfmark>SG 3652.208</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NN</holder>
+                <shelfmark>MZED (Hoyle, E. Mr. Hoyl's game of chess)</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NjP</holder>
+                <shelfmark>4284.05.479.2</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>PP</holder>
+                <shelfmark>A794.17 H85</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>WU</holder>
+                <shelfmark>VRSJ H85</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Pages 1-89 are the same text and largely the same setting of type as pages 166-255
+                of </note>
+            <note url="jones.8.xml">Jones.8.</note>
+            <note rend="paragraph"></note>
+            <note>The book was issued in blue printed paper over boards with the title "Hoyle's Treatise Upon Chess."</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>18</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>a</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>H</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>I</sigStart>
+                        <leaves>4</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1,3</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>I3</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+                <signaturePattern>$3 as '$2'</signaturePattern>
+            </collationFormula>
+            <totalLeaves>54</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>i</start>
+                        <end>v</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>vi</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>vii</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>viii</start>
+                        <end>x</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>xi</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>xii</start>
+                        <end>xvi</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>92</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="wrapper">
+            <titlePart>[within a decorative border] </titlePart>
+            <titlePart rend="italic">HOYLE's | </titlePart>
+            <titlePart>TREATISE | UPON | CHESS | [short oxford rule] | PRICE 2s. EXTRA BOARDS</titlePart>
+        </titlePage>
+        <titlePage titleType="halfTitle">
+            <titlePart rend="italic">HOYLE'S | </titlePart>
+            <titlePart>GAME OF CHESS | ENLARGED | C. WHITTINGHAM, Printer, | 103, </titlePart>
+            <titlePart rend="italic">Goswell Street.</titlePart>
+        </titlePage>
+        <titlePage titleType="title" imageFN="jones.8-2">
+            <titlePart rend="italic">MR. HOYLE'S | </titlePart>
+            <titlePart>GAME OF CHESS | INCLUDING | HIS CHESS LECTURES | WITH SELECTIONS FROM
+                | OTHER AMATEURS | [short oxford rule] | </titlePart>
+            <titlePart rend="italic">LONDON | </titlePart>
+            <titlePart>PRINTED FOR R. BALDWIN; W. LOWNDES; WILKIE AND ROBINSON; | J. WALKER; LONGMAN, HURST, REES AND ORME; W. STEWART; | B. CROSBY AND
+                CO.; LACKINGTON, ALLEN AND CO.; J. MAWMAN; | AND J. ASPERNE. | [short rule] | 1808
+            </titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>i</pageRef>
+                    </pageFrom>
+                    <contentPart>half title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>ii</pageRef>
+                    </pageFrom>
+                    <contentPart>frontispiece</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>v</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>vi</pageRef>
+                    </pageTo>
+                    <contentPart>‘TO THE | RIGHT HONOURABLE | THE | </contentPart>
+                    <contentPart rend="italic">EARL OF NORTHUMBERLAND. </contentPart>
+                    <contentPart>| [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vi</pageRef>
+                    </pageFrom>
+                    <RTPart>‘DEDICATION.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>x</pageRef>
+                    </pageTo>
+                    <contentPart rend="italic">‘PREFACE. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>viii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>x</pageRef>
+                    </pageTo>
+                    <RTPart>‘PREFACE.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>xi</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>a2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>xvi</pageRef>
+                    </pageTo>
+                    <contentPart>‘THE | MORALS OF CHESS. | BY | </contentPart>
+                    <contentPart rend="italic">DR. BENJAMIN FRANKLIN. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>xii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>a2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>xvi</pageRef>
+                    </pageTo>
+                    <RTPart>‘THE MORALS OF CHESS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>a2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>xvi</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | </contentPart>
+                    <contentPart rend="italic">CONTENTS. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>B5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>9</pageRef>
+                    </pageTo>
+                    <contentPart>‘[tailpiece] | THE | GAME OF CHESS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>92</pageRef>
+                    </pageTo>
+                    <RTPart>‘CHESS.’</RTPart>
+                </RT>
+                <subject>
+                    <subject1>Chess</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>10</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>23</pageRef>
+                    </pageTo>
+                    <contentPart>‘MR. HOYLE'S RULES FOR CHESS. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Chess</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>C6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>23</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>24</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | LAWS OF CHESS. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>25</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>44</pageRef>
+                    </pageTo>
+                    <contentPart>‘MR. HOYLE'S CHESS LECTURES. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>45</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I3r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>89</pageRef>
+                    </pageTo>
+                    <contentPart>‘PHILIDOR'S SELECT GAMES AT CHESS. | [...]’</contentPart>
+                </content>
+                <subject>
+                    <subject1>Chess</subject1>
+                    <subject2>Philidor on</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>89</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>I4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>91</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | ANECDOTES OF CELEBRATED CHESS PLAYERS. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I4r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>91</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | SOVEREIGN PRINCES CELEBRATED AS CHESS PLAYERS. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>I4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>92</pageRef>
+                    </pageFrom>
+                    <contentPart>‘OPINIONS RESPECTING CHESS. | [...] | [colophon]’</contentPart>                </content>
+            </section>
+        </sections>
+        <plates>
+            <plate plateLocation="Frontispiece">
+                <plateRelation>on</plateRelation>
+                <sigRef>A1r</sigRef>
+                <pageRef>ii</pageRef>
+                <plateType>woodblock</plateType>
+                <notes>
+                    <note>‘CHESS MEN. | [...] | THE CHESS BOARD.’</note>
+                </notes>
+            </plate>
+        </plates>
+        <colophon>
+            <notes>
+                
+                <note>‘[oxford rule] | C. WHITTINGHAM, Printer, 103 </note>
+                <note rend="italic">Goswell Street. | </note>
+                <note>[reverse oxford rule]’</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

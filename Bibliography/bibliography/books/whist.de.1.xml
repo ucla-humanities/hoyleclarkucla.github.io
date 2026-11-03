@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>Collation formula temporarily simplified. Can't handle inserted bifolium.</todo>
+    <fileDesc>
+        <title>Whist.De.1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-30</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.De.1</idno>
+            <fn>books/whist.de.1.xml</fn>
+            <shortTitle>Kurzgefaßte Anweisung zum Whist-Spiele</shortTitle>
+            <description>first edition</description>
+            <pubYear>1754</pubYear>
+            <pubDate>1754</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>40</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>de</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1277.H6915 1754</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1554</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DE-15</holder>
+                <shelfmark>53-8-5211</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DE-17</holder>
+                <shelfmark>Gü 14077</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>DE-24</holder>
+                <shelfmark>Sport.oct.75</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The collation formula has been temporarily simplified. It should be 8</note>
+            <note rend="super">o</note>
+            <note>: A</note>
+            <note rend="super">8</note>
+            <note> (A1+</note>
+            <note rend="red">∗</note>
+            <note rend="superred">2</note>
+            <note>) B-E</note>
+            <note rend="super">8</note>
+            <note> F</note>
+            <note rend="super">6</note>
+            <note>.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>8</leaves>
+                        <alteration>
+                            <alterationType>+</alterationType>
+                            <sigRef>A1</sigRef>
+                            <count>2</count>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>E</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>F</sigStart>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–5</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>48</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>3</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>4</start>
+                        <end>8</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>9</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>10</start>
+                        <end>91</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>92</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.de.1">
+            <titlePart>Kurzgefaßte | Anweiſung | zum | Whist=Spiele, | aus dem Engliſchen | des Herrn Hoyle | nach der neueſten Ausgabe überfeket. | [tailpiece] | [rule] | Im Jahr 1754.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1+1r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A1+2v</sigRef>
+                    </sigTo>
+                    <contentPart>‘[row of type orn] | Inhalt. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A1+1v</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A1+2v</sigRef>
+                    </sigTo>
+                    <RTPart>‘Inhalt.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | Borbericht. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <RTPart>‘Borbericht.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>9</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>91</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | Das erste hauptstadt | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>10</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F6r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>91</pageRef>
+                    </pageTo>
+                    <RTPart>‘Das [ordinal chapter number] Hauptstadt.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>F6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>92</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>A1+1r</sigRef>
+                <cwFoot>tergehen</cwFoot>
+                <cwHead>gehen</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>D7r</sigRef>
+                <pageRef>61</pageRef>
+                <cwFoot>müſſet.</cwFoot>
+                <cwHead>müſſet?</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Scott.11</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2023-11-26</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Scott.11</idno>
+			<fn>books/scott.11.xml</fn>
+			<shortTitle>Easy Rules of Whist</shortTitle>
+			<shortImprint>printed for E. Cox and Son</shortImprint>
+			<description>"tenth" edition</description>
+			<pubYear>1815</pubYear>
+			<pubDate>1815-10-20</pubDate>
+			<evidence>frontispiece</evidence>
+			<edition>11</edition>
+			<issue>1</issue>
+			<categoryID>40</categoryID>
+			<workID>20</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<respGroup seq="3">Cox</respGroup>
+				<orgName>E. Cox and Son</orgName>
+			</respItem>
+			<respItem respType="dedicatee">
+				<orgName>Duke of Wellington</orgName>
+			</respItem>
+			<respItem respType="printer">
+				<orgName>Plummer and Brewis</orgName>
+				<evidence>colophon</evidence>
+			</respItem>
+		</respStmt>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>2</amount>
+					<unit>s.</unit>
+				</priceComponent>
+				<priceComponent>
+					<amount>6</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>label</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>Horr</reference>
+				<idno>1153</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>Levy</holder>
+				<shelfmark>1708</shelfmark>
+			</holding>
+		</holdings>
+		<notes>
+			<note>With no recorded institutional copies, how did Horr know of this book to include it in his bibliography? It is also noted in Courtney, </note>
+			<note rend="italic">English Whist and Whist Players, </note>
+			<note>London: Richard Bentley and Son, 1894, page 370. </note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>8</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="false">
+						<sigStart>A</sigStart>
+						<leaves>8</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>B</sigStart>
+						<leaves>8</leaves>
+					</gatheringRange>
+					<gatheringRange signed="true">
+						<sigStart>C</sigStart>
+						<leaves>4</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$¼</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>20</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>i</start>
+						<end>v</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>vi</start>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>vii</start>
+						<end>viii</end>
+					</pageRange>
+					<pageRange numbered="false">
+						<start>9</start>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>10</start>
+						<end>40</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="label">
+			<titlePart>[within a rectangular border] </titlePart>
+			<titlePart rend="italic">SCOTT'S | </titlePart>
+			<titlePart>GAME OF WHIST. | [short rule] | Price 2s. 6d.</titlePart>
+		</titlePage>
+		<titlePage titleType="halfTitle">
+			<titlePart>[double rule] | EASY RULES OF WHIST, | </titlePart>
+			<titlePart rend="italic">&amp;c. &amp;c. | </titlePart>
+			<titlePart>[double rule]</titlePart>
+		</titlePage>
+		<titlePage titleType="frontispiece" imageFN="scott.11.frontispiece"/>
+		<titlePage titleType="title" imageFN="scott.11">
+			<titlePart>EASY | RULES OF WHIST, | WITH | </titlePart>
+			<titlePart rend="blackletter">Maxims, | </titlePart>
+			<titlePart>AND | THE LAWS OF THE GAME, | DEDICATED TO THE | DUKE OF WELLINGTON, | BY | </titlePart>
+			<titlePart rend="italic">LIEUT.-GENERAL SCOTT. | </titlePart>
+			<titlePart>[short rule] | “He diverted himself, as </titlePart>
+			<titlePart rend="italic">usual, </titlePart>
+			<titlePart>with the conversation of his | Friends; and </titlePart>
+			<titlePart rend="italic">sometimes, </titlePart>
+			<titlePart>in the evening, with a party, at his | </titlePart>
+			<titlePart rend="italic">favourite Game </titlePart>
+			<titlePart>of WHIST.” </titlePart>
+			<titlePart rend="italic">Dr Smith's Life of HUME. | </titlePart>
+			<titlePart>[short rule] | </titlePart>
+			<titlePart rend="blackletter">Tenth Edition. | </titlePart>
+			<titlePart>[short rule] | LONDON: | PRINTED FOR E. COX AND SON, HIGH STREET, | BOROUGH. | [short rule] | 1815.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>i</pageRef>
+					</pageFrom>
+					<contentPart>half title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>ii</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iii</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>iv</pageRef>
+					</pageFrom>
+					<contentPart>‘[short rule] | Plummer and Brewis, Printers, | Love-Lane, Eastcheap.’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A3r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>v</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A3v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>vi</pageRef>
+					</pageTo>
+					<contentPart>‘TO | HIS GRACE | </contentPart>
+					<contentPart rend="italic">FIELD MARSHALL | </contentPart>
+					<contentPart>THE DUKE OF WELLINGTON, K. B. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A4r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>vii</pageRef>
+					</pageFrom>
+					<contentPart>‘CONTENTS. | [...]’</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A4v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>viii</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A5r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>9</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>B6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>28</pageRef>
+					</pageTo>
+					<contentPart>‘THE RULES OF WHIST. | [...]’</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>B6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>28</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C3r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>37</pageRef>
+					</pageTo>
+					<contentPart>‘[...] | THE LAWS OF WHIST. | [...]’</contentPart>
+				</content>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>scoring with tokens</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>C3v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>38</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>C4v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>40</pageRef>
+					</pageTo>
+					<contentPart>‘ORIGIN AND DESIGN | OF | CARD-PLAYING. | [...] | [colophon]’</contentPart>
+				</content>
+			</section>
+		</sections>
+		<plates>
+			<plate plateLocation="Frontispiece">
+				<plateRelation>opposite</plateRelation>
+				<sigRef>A2r</sigRef>
+				<pageRef>iii</pageRef>
+				<plateType>hand-colored engraving</plateType>
+				<notes>
+					<note>Portrait of the author, captioned "Lieut. General Scott." with note "London Publiſhed Oct.</note>
+					<note rend="super">r </note>
+					<note>20</note>
+					<note rend="super">th</note>
+					<note>, 1815, by E. Cox &amp; Son. 39 High Street, Southwark."</note>
+				</notes>
+			</plate>
+		</plates>
+		<colophon>
+			<notes>
+				<note>‘Plummer and Brewis, Printers, | Love-Lane, Eastcheap.’</note>
+			</notes>
+		</colophon>
+	</text>
+</entry>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Borradaile.1.6</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-28</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Borradaile.1.6</idno>
+            <fn>books/borradaile.1.6.xml</fn>
+            <shortTitle>Hoyle's Improved Edition</shortTitle>
+            <shortImprint>John Locken</shortImprint>
+            <description>first American edition, sixth issue, by Locken</description>
+            <pubYear>1849</pubYear>
+            <pubDate>1849</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>6</issue>
+            <categoryID>70</categoryID>
+            <workID>80</workID>
+            <subWorkID>1</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Locken</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <listBibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>695</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>838</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>157</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>PPL</holder>
+                <shelfmark>Am 1849 Hoy</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>0083</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>CtY</holder>
+                <shelfmark>WA 1906</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LU</holder>
+                <shelfmark>GV1243.H6 1849</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>OCl</holder>
+                <shelfmark>789.87H K9p</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>TxCM</holder>
+                <shelfmark>GV1243.H6 1849</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The same setting of type as </note>
+            <note url="borradaile.1.1.xml">Borradaile.1.1</note>
+            <note> (1830) without the fronispiece, extra engraved title, and chess engraving (despite the title page promise). The plates for backgammon and draughts are the same as </note>
+            <note url="borradaile.1.3.xml">Borradaile.1.3</note>
+            <note> (1838). The title page is the same setting of type as </note>
+            <note url="borradaile.1.5.xml">Borradaile.1.5</note>
+            <note> (1842) with only the date changed.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation isNumeric="true">
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>1</sigStart>
+                        <sigEnd>18</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>144</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>5</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>6</start>
+                        <end>159</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>160</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>161</start>
+                        <end>173</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>174</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>175</start>
+                        <end>205</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>206</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>207</start>
+                        <end>288</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="borradaile.1.6">
+            <titlePart>HOYLE'S | IMPROVED EDITION | OF | THE RULES | FOR PLAYING | FASHIONABLE GAMES: | CONTAINING COPIOUS DIRECTIONS FOR | [11 lines to left of rule] WHIST, | QUADRILLE, | PIQUET, | QUINZE, |
+                VINGT-UN, | LANSQUENET, | PHARO, | ROUGE ET NOIR, | CRIBBAGE, | MATRIMONY, |
+                CASSINO, | [11 lines between two rules] REVERSIS, | PUT, | CONNEXIONS, |
+                ALL FOURS, | SPECULATION, | LOTTERY, | POPE JOAN, | COMMERCE, | PAM LOO, | BRAG | DOMINO, | [11 lines to right of rule] BACK-GAMMON, | DRAUGHTS, |
+                HAZARD, | CHESS, | GOFF, OR GOLF, | CRICKET, | BILLIARDS, | TENNIS, | HORSE-RACING, | AND | COCKING. | TOGETHER WITH AN ANALYSIS OF THE GAME OF | CHESS, AND AN ENGRAVED PLATE FOR THE | INSTRUCTION OF BEGINNERS. | [short rule] | CAREFULLY REVISED FROM THE LAST LONDON EDITION | WITH SEVERAL ADDITIONS. | [short rule] | PHILADELPHIA: | JOHN LOCKEN, 311 MARKET ST. | ······ | 1849.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>1.1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>10.8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>159</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="borradaile.1.1.xml">Borradaile.1.1</contentPart>
+                    <contentPart> (1830)</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>1.2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>18.8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>288</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="borradaile.1.1.xml">Borradaile.1.1</RTPart>
+                    <RTPart> (1830)</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Dummy Whist</game>
+                    <game>Quadrille</game>
+                    <game>Mediateur</game>
+                    <game>Piquet</game>
+                    <game>Quinze</game>
+                    <game>Vingt-Un</game>
+                    <game>Lansquenet</game>
+                    <game>Faro</game>
+                    <game>Rouge et Noir</game>
+                    <game>Cribbage</game>
+                    <game>Matrimony</game>
+                    <game>Cassino</game>
+                    <game>Reversis</game>
+                    <game>Put</game>
+                    <game>Connexions</game>
+                    <game>All Fours</game>
+                    <game>Speculation</game>
+                    <game>Lottery</game>
+                    <game>Pope Joan</game>
+                    <game>Commerce</game>
+                    <game>Loo</game>
+                    <game>Brag</game>
+                    <game>Domino</game>
+                    <game>Backgammon</game>
+                    <game>Draughts</game>
+                    <game>Hazard</game>
+                    <game>Chess</game>
+                    <game>Golf</game>
+                    <game>Cricket</game>
+                    <game>Billiards</game>
+                    <game>Tennis</game>
+                    <game>Horse Racing</game>
+                    <game>Game Cocks</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Mathews on</subject2>
+                </subject>
+                <subject>
+                    <subject1>Backgammon</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Chess</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+                <subject>
+                    <subject1>Draughts</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+                <subject>
+                    <subject1>Cricket</subject1>
+                    <subject2>laws of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Billiards</subject1>
+                    <subject2>Dew on</subject2>
+                </subject>
+                <subject>
+                    <subject1>Chess</subject1>
+                    <subject2>Philidor on</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>10.8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>160</pageRef>
+                    </pageFrom>
+                    <contentPart>see </contentPart>
+                    <contentPart url="borradaile.1.3.xml">Borradaile.1.3</contentPart>
+                    <contentPart> (1838)</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>11.1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>161</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>11.7r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>173</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="borradaile.1.1.xml">Borradaile.1.1</contentPart>
+                    <contentPart> (1830)</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>11.7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>174</pageRef>
+                    </pageFrom>
+                    <contentPart>see </contentPart>
+                    <contentPart url="borradaile.1.4.xml">Borradaile.1.3</contentPart>
+                    <contentPart> (1838)</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>11.8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>175</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>18.8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>288</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="borradaile.1.1.xml">Borradaile.1.1</contentPart>
+                    <contentPart> (1830)</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

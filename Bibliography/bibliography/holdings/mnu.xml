@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\mnu.xml</fn><home>../index.xml</home></footer><id>MnU</id><fn>mnu</fn><name>University of Minnesota</name><location>Minneapolis, Minnesota</location><books><book><id>Polite.1.2</id><fn>../books/polite.1.2.xml</fn><shortTitle>The Polite Gamester</shortTitle><shortImprint>printed by James Hoey</shortImprint><description>first Dublin edition, second issue</description><pubDate>1776</pubDate><shelfmarks><shelfmark>795.4.H851</shelfmark></shelfmarks></book></books></holder>

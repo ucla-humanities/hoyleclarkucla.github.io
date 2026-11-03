@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.Fr.C.1794.Desoer.1794</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.C.1794.Desoer</idno>
+            <fn>books/whist.fr.c.1794.desoer.xml</fn>
+            <shortTitle>Traité du Jeu de Whist</shortTitle>
+            <shortImprint>Chez J. F. Desoer</shortImprint>
+            <statedEdition>nouvelle édition augmentée</statedEdition>
+            <pubYear>1794</pubYear>
+            <pubDate>1794</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Desoer</respGroup>
+                <orgName>Chez J. F. Desoer</orgName>
+            </respItem>
+        </respStmt>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.592</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1277.H87f 1794</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1254</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>NNPM</holder>
+                <shelfmark>E3 092 B 079421</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "C" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>G</sigEnd>
+                        <leaves>12</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>H</sigStart>
+                        <leaves>10</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>94</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>3</start>
+                        <end>186</end>
+                    </pageRange>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>2</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.fr.c.1794.desoer">
+            <titlePart>TRAITÉ | DU JEU | DE WHIST, | </titlePart>
+            <titlePart rend="italsmallcap">Traduit de l'Anglois | </titlePart>
+            <titlePart>D'EDMOND HOYLE, | </titlePart>
+            <titlePart rend="smallcap">Nouvelle Édition augmentée; | </titlePart>
+            <titlePart rend="italic">SUIVI | </titlePart>
+            <titlePart>DU JEU DE TROIS-SEPT, | DU JEU DE PIQUET, | DU JEU DE DEZ ANGLOIS |
+                OU CRABS, | </titlePart>
+            <titlePart rend="italic">Avec ſes Chances &amp; Différences, | </titlePart>
+            <titlePart>&amp; | DU JEU DE BILLIARD. | [short decorative rule] | </titlePart>
+            <titlePart rend="italic">A LIEGE, | </titlePart>
+            <titlePart>Chez J. F. DESOER, Imprimeur-Libraire, | à la Croix d'or, ſur le
+                Pont-d'Iſle. | [short decorative rule] | </titlePart>
+            <titlePart rend="italic">1794.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>4</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | AVANT-PROPOS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <RTPart rend="smallcap">‘Avant-Propos.’</RTPart>
+                </RT>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <contentPart>‘[decorative rule] | EXPLICATION | </contentPart>
+                    <contentPart rend="italic">De quelque termes, ou mots techniques | employés dans
+                        ce Traité, à l'uſage des | Commençans. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A3v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>6</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Explication.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>9</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>88</pageRef>
+                    </pageTo>
+                    <contentPart>‘[headpiece] | TRAITÉ | </contentPart>
+                    <contentPart rend="italic">DU JEU | </contentPart>
+                    <contentPart>DE WHIST. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>10</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D9r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>89</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Traité | du Jeu de Whiſt.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D9r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>89</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>D9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>90</pageRef>
+                    </pageTo>
+                    <contentPart>‘[decorative rule] | EXTRAIT | De l'</contentPart>
+                    <contentPart rend="italic">Avant-Coureur, </contentPart>
+                    <contentPart>feuille hebdoma-|daire de Paris, en date du 29 Juil-|let 1765,
+                        N</contentPart>
+                    <contentPart rend="super">o</contentPart>
+                    <contentPart>. 30, page 467. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>D9v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>90</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Traité du Jeu de Whiſt.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>D10r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>91</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E5v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>106</pageRef>
+                    </pageTo>
+                    <contentPart>‘[decorative rule] | LE JEU | </contentPart>
+                    <contentPart rend="italic">DU | </contentPart>
+                    <contentPart>TROIS-SEPT. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>D10v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>92</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>E5r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>105</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Le Jeu | de Trois-Sept.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Tressette</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>E5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>106</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Le Jeu de Trois-Sept.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>E6r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>107</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>152</pageRef>
+                    </pageTo>
+                    <contentPart>‘[decorative rule] | LE JEU | </contentPart>
+                    <contentPart rend="italic">DE | </contentPart>
+                    <contentPart>PIQUET, | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>E6v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>108</pageRef>
+                    </pageFrom>
+                    <RTPart rend="smallcap">‘Avant-Propos.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>E7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>110</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G4r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>151</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Le Jeu | de Piquet.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Piquet</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>G4v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>152</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Le Jeu de Piquet.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>153</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>158</pageRef>
+                    </pageTo>
+                    <contentPart>‘[decorative rule] | LE JEU | </contentPart>
+                    <contentPart rend="italic">DE | </contentPart>
+                    <contentPart>DEZ ANGLOIS. | [...]i’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>G5v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>154</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G7r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>157</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Le Jeu | de Dez Anglois.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Dez Anglois</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>G7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>158</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Le Jeu de Dez Anglois.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>159</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>182</pageRef>
+                    </pageTo>
+                    <contentPart>‘[decorative rule] | LE JEU | DE BILLIARD | AVEC SES REGLES. |
+                        [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>G8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>160</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H7r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>181</pageRef>
+                    </pageTo>
+                    <RTPart rend="italic">‘Le Jeu | de Billiard.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Billiards</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <RT isOn="true">
+                    <sigFrom>
+                        <sigRef>H7r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>181</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘ae Billiard.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <RT>
+                    <sigFrom>
+                        <sigRef>H7v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>182</pageRef>
+                    </pageFrom>
+                    <RTPart rend="italic">‘Le Jeu de Billiard.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>183</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>186</pageRef>
+                    </pageTo>
+                    <contentPart>‘[decorative rule] | TABLE | DES PRINCIPAUX ARTICLES | Contenus dans ce Livre. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>H8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>184</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>H9v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>186</pageRef>
+                    </pageTo>
+                    <RTPart>‘TABLE.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H10r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>H10v</sigRef>
+                    </sigTo>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+        </sections>
+    </text>
+</entry>

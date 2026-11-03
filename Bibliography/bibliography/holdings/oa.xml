@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\oa.xml</fn><home>../index.xml</home></footer><id>Oa</id><fn>oa</fn><name>Oxford University All Souls College Codrington Library</name><location>Oxford, England</location><books><book><id>Whist.1.P.1.2</id><fn>../books/whist.1.p.1.2.xml</fn><shortTitle>A Short Treatise on the Game of Whist</shortTitle><shortImprint>printed for W. Webster</shortImprint><description>first piracy of the first edition, second edition</description><pubDate>1743</pubDate><shelfmarks><shelfmark>WX.1.7[2]</shelfmark></shelfmarks></book></books></holder>

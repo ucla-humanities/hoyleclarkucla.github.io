@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Brag.D.1.xml</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2024-02-07</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Brag.D.1</idno>
+            <fn>books/brag.d.1.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Brag</shortTitle>
+            <shortImprint>printed for John Exshaw</shortImprint>
+            <description>first Dublin edition</description>
+            <pubYear>1751</pubYear>
+            <pubDate>1751-03-02</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>60</categoryID>
+            <workID>15</workID>
+            <subWorkID>60</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>John</forename>
+                    <surname>Exshaw</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Dublin Courant</publication>
+                <pubDate>1751-03-02</pubDate>
+                <notes>
+                    <note>"Thursday next will be publish'd by John Exshaw, price 4d. A Short
+                        Treatise on the Game of Brag...N. B. The price of the London </note>
+                    <note url="brag.1.xml">edition</note>
+                    <note> is half a guinea."</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>4</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>N60977</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>793</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>35</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>Dp</holder>
+                <shelfmark>Gilbert Library 7A (7)</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1241.H86 1752</shelfmark>
+                <idno>Polite.Wilson</idno>
+                <sequence>6</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F45d</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>6</sequence>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1747</shelfmark>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>Gsu</holder>
+                <shelfmark>Special Coll. Anderson</shelfmark>
+                <idno>Polite.Wilson</idno>
+                <sequence>6</sequence>
+            </holding>
+            <holding isSeen="false">
+                <holder>L</holder>
+                <shelfmark>D-7913.bb.52.(3.)</shelfmark>
+                <notes>
+                    <note> (destroyed)</note>
+                </notes>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>C</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>+</anomType>
+                        <sigRef>B4</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+                <signingErrors>
+                    <signingError>
+                        <sigRef>A3</sigRef>
+                        <badSig>A2</badSig>
+                    </signingError>
+                </signingErrors>
+            </collationFormula>
+            <totalLeaves>18</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>1</start>
+                        <end>32</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="brag.d.1">
+            <titlePart>A Short | TREATISE | OF THE | </titlePart>
+            <titlePart rend="smallcap">Game </titlePart>
+            <titlePart>of BRAG, | Containing the | LAWS of the GAME. | ALSO | CALCULATIONS,
+                ſhewing the Odds | of winning or loſing certain Hands dealt. | [rule] | By
+                Mr. </titlePart>
+            <titlePart rend="italic">EDMOND HOYLE. | </titlePart>
+            <titlePart>[rule] | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for </titlePart>
+            <titlePart rend="smallcap">John Exshaw, </titlePart>
+            <titlePart>at the </titlePart>
+            <titlePart rend="smallcap">Bible </titlePart>
+            <titlePart>on | </titlePart>
+            <titlePart rend="smallcap">Cork-Hill. </titlePart>
+            <titlePart>MDCCLI.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title page</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <contentPart>‘CONTENTS | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>C6v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>32</pageRef>
+                    </pageTo>
+                    <contentPart>‘[...] | [double rule] | A Short | TREATISE | OF THE | </contentPart>
+                    <contentPart rend="smallcap">Game </contentPart>
+                    <contentPart>of BRAG. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Brag</game>
+                </gamesCovered>
+            </section>
+        </sections>
+    </text>
+</entry>

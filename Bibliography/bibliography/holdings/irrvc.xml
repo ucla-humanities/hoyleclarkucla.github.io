@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\irrvc.xml</fn><home>../index.xml</home></footer><id>IRRVC</id><fn>irrvc</fn><name>Rock Valley College</name><location>Rockford, Illinois</location><books><book><id>Walker.1</id><fn>../books/walker.1.xml</fn><shortTitle>The New Hoyle</shortTitle><shortImprint>printed for G. Walker</shortImprint><statedEdition>new edition, improved</statedEdition><description>fifth London edition</description><pubDate>1817</pubDate><shelfmarks><shelfmark>GV1243.H84 1817</shelfmark></shelfmarks></book></books></holder>

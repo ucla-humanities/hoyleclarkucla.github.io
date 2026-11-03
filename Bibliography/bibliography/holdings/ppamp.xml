@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\ppamp.xml</fn><home>../index.xml</home></footer><id>PPAmP</id><fn>ppamp</fn><name>American Philosophical Society</name><location>Philadelphia, Pennsylvania</location><books><book><id>Chess.1</id><fn>../books/chess.1.xml</fn><shortTitle>An Essay on Chess</shortTitle><shortImprint>printed for T. Osborne et al</shortImprint><description>first London edition</description><pubDate>1761</pubDate><shelfmarks><shelfmark>PMP v.57, no.3</shelfmark></shelfmarks></book></books></holder>

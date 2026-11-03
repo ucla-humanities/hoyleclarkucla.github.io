@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\gat.xml</fn><home>../index.xml</home></footer><id>GAT</id><fn>gat</fn><name>Georgia Institute of Technology</name><location>Atlanta, Georgia</location><books><book><id>Chances.2</id><fn>../books/chances.2.xml</fn><shortTitle>The Doctrine of Chances</shortTitle><shortImprint>printed for T. Osborne et al</shortImprint><statedEdition>"a new edition, corrected"</statedEdition><description>second London edition</description><pubDate>1764</pubDate><shelfmarks><shelfmark>QA273.H87 1764</shelfmark></shelfmarks></book></books></holder>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Whist.D.3</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-03-31</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.D.3</idno>
+            <fn>books/whist.d.3.xml</fn>
+            <shortTitle>A Short Treatise on the Game of Whist</shortTitle>
+            <shortImprint>printed for G. and A. Ewing</shortImprint>
+            <statedEdition>"fifth" edition</statedEdition>
+            <description>third Ewing edition</description>
+            <pubYear>1745</pubYear>
+            <pubDate>1745</pubDate>
+            <evidence>title</evidence>
+            <edition>3</edition>
+            <issue>1</issue>
+            <categoryID>60</categoryID>
+            <workID>10</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>Edmond</forename>
+                    <surname>Hoyle</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Ewing</respGroup>
+                <persName>
+                    <forename>George and Alexander</forename>
+                    <surname>Ewing</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>Quadrille.D.1</publication>
+                <pubDate>1745</pubDate>
+                <notes>
+                    <note>price 6½d., all bound together and lettered. Price a British half
+                        crown.</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>6.5</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>ESTC</reference>
+                <idno>T88042</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>787</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true" isCollection="false">
+                <holder>Dt</holder>
+                <shelfmark>OLS X-2-128 no.6</shelfmark>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>L</holder>
+                <shelfmark>7917 de.73</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.570(1)</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.571(1)</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H F45D</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="true" isCollection="true">
+                <holder>Levy</holder>
+                <shelfmark>1609</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>C</holder>
+                <shelfmark>Hib.7.745.29</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>CaOTP</holder>
+                <shelfmark>795 H598</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="false">
+                <holder>CtY-BR</holder>
+                <shelfmark>NLp80 745H</shelfmark>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>ICD</holder>
+                <shelfmark>SPC. 795 H868P</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>WaS</holder>
+                <shelfmark>R795 H852P</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>1</sequence>
+            </holding>
+            <holding isSeen="false" isCollection="true">
+                <holder>AuNU</holder>
+                <shelfmark>RB 4645.44</shelfmark>
+                <idno>Polite.A</idno>
+                <sequence>1</sequence>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>12</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <sigEnd>D</sigEnd>
+                        <leaves>8/4</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>E</sigStart>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>F</sigStart>
+                        <leaves>4</leaves>
+                        <alteration>
+                            <alterationType>−</alterationType>
+                            <sigRef>F4</sigRef>
+                            <note> missing, blank?</note>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>35</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>1</start>
+                        <end>66</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.d.3">
+            <titlePart>A SHORT | TREATISE | On the </titlePart>
+            <titlePart rend="smallcap">Game </titlePart>
+            <titlePart>of | WHIST. | CONTAINING | The LAWS of the GAME: | AND ALSO | Some </titlePart>
+            <titlePart rend="smallcap">Rules, </titlePart>
+            <titlePart>whereby a Beginner | may, with due Attention to them, | attain to the
+                Playing it well. | </titlePart>
+            <titlePart rend="smallcap">Calculations </titlePart>
+            <titlePart>for thoſe who will Bet | the Odds on any Point of the Score of the |
+                Game then playing and depending. | </titlePart>
+            <titlePart rend="smallcap">Cases </titlePart>
+            <titlePart>ſtated, to ſhew what may be effected | by a very good Player in
+                Critical Parts of | the Game. | </titlePart>
+            <titlePart rend="smallcap">References </titlePart>
+            <titlePart>to </titlePart>
+            <titlePart rend="smallcap">Cases, </titlePart>
+            <titlePart rend="italic">viz. </titlePart>
+            <titlePart>at the | End of the Rule you are directed how to | find them. | </titlePart>
+            <titlePart rend="smallcap">Calculations, </titlePart>
+            <titlePart>directing with moral | Certainty, how to play well any Hand or |
+                Game, by ſhewing the Chances of your | Partner’s having 1, 2, or 3 Certain
+                Cards. | With variety of Caſes added in the </titlePart>
+            <titlePart rend="smallcap">Appendix. </titlePart>
+            <titlePart>| [rule] | By </titlePart>
+            <titlePart rend="italic">EDMUND HOYLE, </titlePart>
+            <titlePart>Gent. | [rule] | THE FIFTH EDITION. | With great Additions to the </titlePart>
+            <titlePart rend="italic">Laws of the Game, </titlePart>
+            <titlePart>and an Ex-|planation of the Calculations which are neceſſary to be
+                un-|derſtood by thoſe who would play it well, </titlePart>
+            <titlePart rend="italic">&amp;c. &amp;c. </titlePart>
+            <titlePart>| [rule] | </titlePart>
+            <titlePart rend="italic">DUBLIN: | </titlePart>
+            <titlePart>Printed for G. and A. EWING at the | </titlePart>
+            <titlePart rend="italic">Angel </titlePart>
+            <titlePart>and </titlePart>
+            <titlePart rend="italic">Bible </titlePart>
+            <titlePart>in </titlePart>
+            <titlePart rend="italic">Dame-ſtreet, </titlePart>
+            <titlePart>1745.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <contentPart>‘[double rule] | THE | CONTENTS. | [...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <RTPart>‘CONTENTS.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>F3v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>66</pageRef>
+                    </pageTo>
+                    <contentPart>‘[row of type orn] | A SHORT | TREATISE | On the </contentPart>
+                    <contentPart rend="smallcap">Game </contentPart>
+                    <contentPart>of | WHIST. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+        </sections>
+        <catchwords>
+            <catchword>
+                <sigRef>C2r</sigRef>
+                <pageRef>23</pageRef>
+                <cwFoot rend="smallcap">Par-</cwFoot>
+                <cwHead>CHAP.</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>E5r</sigRef>
+                <pageRef>53</pageRef>
+                <cwFoot rend="italic">The</cwFoot>
+                <cwHead>VI. </cwHead>
+                <cwHead rend="italic">The</cwHead>
+            </catchword>
+            <catchword>
+                <sigRef>E6r</sigRef>
+                <pageRef>55</pageRef>
+                <cwFoot>In</cwFoot>
+                <cwHead>II. In</cwHead>
+            </catchword>
+        </catchwords>
+    </text>
+</entry>

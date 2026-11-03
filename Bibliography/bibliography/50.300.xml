@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="books/xsl/title.xsl"?>
+<work><header><dateUpdate>2022/06/27</dateUpdate></header><footer><fn>bibliography/50.300.xml</fn><home>index.xml</home></footer><shortTitle>Burgdorfer</shortTitle><subWork><name>Whist</name><books><book><idno>Burgdorfer.Whist.1808</idno><fn>books/burgdorfer.whist.1808.xml</fn><shortTitle>Hoyle en Abregé</shortTitle><shortImprint>chez Burgdorfer</shortImprint><pubYear>1808</pubYear><pubDate>1808</pubDate><evidence>title</evidence><edition>1</edition><issue>1</issue><categoryID>50</categoryID><workID>300</workID><subWorkID>10</subWorkID><textLang>fr</textLang></book></books></subWork></work>

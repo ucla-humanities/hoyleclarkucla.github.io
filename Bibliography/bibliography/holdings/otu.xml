@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="xsl/$holder.xsl"?>
+<holder><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>..\bibliography\holdings\otu.xml</fn><home>../index.xml</home></footer><id>OTU</id><fn>otu</fn><name>University of Toledo</name><location>Toledo, Ohio</location><books><book><id>TJones.2</id><fn>../books/tjones.2.xml</fn><shortTitle>Hoyle's Games Improved</shortTitle><shortImprint>printed for T. Wood</shortImprint><description>second London edition</description><pubDate>1779</pubDate><shelfmarks><shelfmark>GV1243.H85 1779</shelfmark></shelfmarks></book></books></holder>

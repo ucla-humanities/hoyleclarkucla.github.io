@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <todo>Need to verify contents; check catchwords; handle Rather I</todo>
+    <fileDesc>
+        <title>Whist.Fr.C.1779.Staatman</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-17</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Whist.Fr.C.1779.Staatman</idno>
+            <fn>books/whist.fr.c.1779.staatman.xml</fn>
+            <shortTitle>Traité du Jeu de Whist</shortTitle>
+            <shortImprint>Chez F. Staatman</shortImprint>
+            <statedEdition>nouvelle edition</statedEdition>
+            <pubYear>1779</pubYear>
+            <pubDate>1779</pubDate>
+            <evidence>title</evidence>
+            <edition>1</edition>
+            <issue>1</issue>
+            <categoryID>80</categoryID>
+            <workID>30</workID>
+            <subWorkID>10</subWorkID>
+            <textLang>fr</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <orgName>Chez F. Staatman</orgName>
+            </respItem>
+        </respStmt>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>12</amount>
+                    <unit>sol.</unit>
+                </priceComponent>
+                <evidence>title</evidence>
+            </price>
+        </prices>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.590</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>NvLN</holder>
+                <shelfmark>GV1277.H6914 1779</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>TNJ</holder>
+                <shelfmark>GV1277.H87f 1779</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1815</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>LEu</holder>
+                <shelfmark>Anglo-French 3 1779 HOY</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>HAG</holder>
+                <shelfmark>KW BRIDGE 1615</shelfmark>
+            </holding>
+            <holding isSeen="false">
+                <holder>SKk</holder>
+                <shelfmark>139 B</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>Translation "C" as described in Thierry Depaulis, "Hoyle Abroad, II: Hoyle in French" in </note>
+            <note rend="italic">The Playing Card</note>
+            <note>, Volume 43, Number 4, page 226.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>8</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>8</leaves>
+                        <alteration>
+                            <alterationType>±</alterationType>
+                            <sigRef>A1</sigRef>
+                        </alteration>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>G</sigEnd>
+                        <leaves>8</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>H</sigStart>
+                        <leaves>1</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <dupSeq>2</dupSeq>
+                        <sigStart>H</sigStart>
+                        <leaves>6</leaves>
+                        <alteration>
+                            <alterationType>+</alterationType>
+                            <dupSeq>2</dupSeq>
+                            <sigRef>H6</sigRef>
+                            <count>1</count>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$1–4</signatureLeaves>
+                <anomSignatures>
+                    <anomSignature>
+                        <anomType>−</anomType>
+                        <sigRef>G4</sigRef>
+                    </anomSignature>
+                    <anomSignature>
+                        <anomType>+</anomType>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>H5</sigRef>
+                    </anomSignature>
+                </anomSignatures>
+            </collationFormula>
+            <totalLeaves>64</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                        <end>2</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>3</start>
+                        <end>112</end>
+                    </pageRange>
+                    <pageRange numbered="false" isUncounted="true">
+                        <start>2</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>113</start>
+                        <end>126</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="title" imageFN="whist.fr.c.1779.staatman">
+            <titlePart>TRAITÉ | DU | JEU DE WHIST, | Traduit de l'Anglois | </titlePart>
+            <titlePart rend="smallcap">d'EDMOND HOYLE, | </titlePart>
+            <titlePart rend="italic">Augmenté du |</titlePart>
+            <titlePart rend="smallcap">JEU de l'ANTI-WHIST | ou le FRANCION, | </titlePart>
+            <titlePart>Et de celui | </titlePart>
+            <titlePart rend="smallcap">de TROIS-SEPT. | </titlePart>
+            <titlePart rend="italic">NOUVELLE EDITION. | </titlePart>
+            <titlePart>[short rule] | Prix 12. Sols. | [short rule] | [arrangement of type orn] | </titlePart>
+            <titlePart rend="italic">A LA HAYE, | </titlePart>
+            <titlePart rend="smallcap">Chez F. STAATMAN, | MDCCLXXIX.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>2</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>3</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A2v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>4</pageRef>
+                    </pageTo>
+                    <contentPart>rules for whist</contentPart>
+                </content>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A3r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>5</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>A4v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>8</pageRef>
+                    </pageTo>
+                    <contentPart>‘[row of type orn] | EXPLICATION | </contentPart>
+                    <contentPart rend="italic">De quelques termes, ou mots techniques em-|ployés dans ce Traité à l'uſsage des Com-|mençans. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A5r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>9</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G7v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>110</pageRef>
+                    </pageTo>
+                    <contentPart>‘[arrangement of type orn] | TRAITÉ | DU JEU | </contentPart>
+                    <contentPart rend="italic">DE WHIST. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G8r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>111</pageRef>
+                    </pageTo>
+                    <RTPart>‘TRAITÉ DU JEU | DE WHIST.’</RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                </gamesCovered>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>G8r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>111</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>G8v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>112</pageRef>
+                    </pageTo>
+                    <contentPart>‘[oxford rule] | EXTRAIT | DE L'AVANT-COUREUR | </contentPart>
+                    <contentPart rend="italic">FEUILLE HEBDOMADAIRE DE PARIS, | En date du 29 Julliet 1765, N</contentPart>
+                    <contentPart rend="super">o</contentPart>
+                    <contentPart rend="italic">. 30 page 467. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>G8v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>112</pageRef>
+                    </pageFrom>
+                    <RTPart>‘TRAITÉ DU JEU &amp;c.’</RTPart>
+                </RT>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>H1r</sigRef>
+                    </sigFrom>
+                    <sigTo>
+                        <sigRef>H1v</sigRef>
+                    </sigTo>
+                    <contentPart>‘[oxford rule] | TABLE | Des principaux Articles du Traité | </contentPart>
+                    <contentPart rend="smallcap">Du Jeu de Whist. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>H1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>113</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <dupSeqSig>2</dupSeqSig>
+                        <sigRef>H6+1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>126</pageRef>
+                    </pageTo>
+                    <contentPart>‘LE JEU | DE | TROIS-SEPT. | [...]’</contentPart>
+                </content>
+                <gamesCovered>
+                    <game>Tressette</game>
+                </gamesCovered>
+            </section>
+        </sections>
+    </text>
+</entry>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Jones.10-2</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2025-04-29</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.10-2</idno>
+            <fn>books/jones.10-2.xml</fn>
+            <shortTitle>Companion to the Card Table</shortTitle>
+            <shortImprint>printed for W. Lowndes et al</shortImprint>
+            <description>extracted from the tenth London edition</description>
+            <pubYear>1820</pubYear>
+            <pubDate>1820-02-01</pubDate>
+            <evidence>Longman Archives</evidence>
+            <edition>10</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <copiesPrinted>1000</copiesPrinted>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lowndes</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Longman</respGroup>
+                <orgName>Longman, Hurst, Rees, Orme, and Brown</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="4">Baldwin</respGroup>
+                <orgName>Baldwin, Cradock, and Joy</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Whittaker</respGroup>
+                <persName>
+                    <forename>G. and W. B.</forename>
+                    <surname>Whittaker</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Scatcherd</respGroup>
+                <orgName>Scatcherd and Letterman</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lackington</respGroup>
+                <orgName>Lackington, Hughes, Harding, Mavor, and Jones</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>J.</forename>
+                    <surname>Richardson</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Joseph</forename>
+                    <surname>Mawman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Asperne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Stewart</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Hamilton</respGroup>
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Hamilton</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>J.</forename>
+                    <surname>Walker</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Allman</respGroup>
+                <persName>
+                    <forename>T. and J.</forename>
+                    <surname>Allman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Hughes</respGroup>
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Hughes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <respGroup seq="1">Shackell</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Shackell</surname>
+                </persName>
+                <evidence>colophon</evidence>
+                <evidence>Longman Archives</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>The Morning Post</publication>
+                <pubDate>1820-02-11</pubDate>
+                <notes>
+                    <note>"This day is published, price 8s. bound in red sheep, a new edition,
+                        considerably enlarged, of Hoyle's Games Imrpoved...Revised and corrected. By
+                        Charles Jones. Esq...Of whom may be had, separately, Hoyle's Games Improved
+                        and Selected, as a Companion to the Card Table, price 3s. 6d. boards. or 4s.
+                        6d. in paper case, with gilt edges. Also Hoyle's Games of Whist and
+                        Quadrille, price 2s. boards."</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>3</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <note>boards</note>
+                <evidence>advertisement</evidence>
+                <evidence>label</evidence>
+            </price>
+            <price>
+                <priceComponent>
+                    <amount>4</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <note>slip case</note>
+                <evidence>advertisement</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>927</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>ABu</holder>
+                <shelfmark>MN.13.280</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>BFl</holder>
+                <shelfmark>I.795/JONE (b1163080)</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.609</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1833</shelfmark>
+            </holding>
+        </holdings>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>18</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="true">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>R</sigEnd>
+                        <leaves>6</leaves>
+                        <alteration>
+                            <alterationType>+</alterationType>
+                            <sigRef>R6</sigRef>
+                            <count>1</count>
+                        </alteration>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+            </collationFormula>
+            <totalLeaves>99</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange numbered="false">
+                        <start>iii</start>
+                        <end>vi</end>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>vii</start>
+                        <end>viii</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>192</end>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="wrapper" imageFN="jones.10-2.wrapper">
+            <titlePart>[seven lines within oxford border] HOYLE'S GAMES; | OR, | </titlePart>
+            <titlePart rend="blackletter">Companion | </titlePart>
+            <titlePart>FOR THE | CARD TABLE | [short decorateive rule] | </titlePart>
+            <titlePart rend="italic">Price 3s. 6d.</titlePart>
+        </titlePage>
+        <titlePage titleType="title" imageFN="jones.10-2">
+            <titlePart>HOYLE'S GAMES | </titlePart>
+            <titlePart rend="italic">IMPROVED | </titlePart>
+            <titlePart>AND SELECTED AS A COMPANION TO THE | CARD TABLE: | CONSISTING OF |
+                PRACTICAL TREATISES | ON | [8 lines to left of rule] WHIST | QUADRILLE |
+                PIQUET | QUINZE | VINGT-UN | LANSQUENET | FARO or PHARO | ROUGE &amp; NOIR | 
+                [8 lines between two rules] CRIBBAGE | MATRIMONY | CASSINO | CONNEXIONS |
+                REVERSIS | PUT | ALL-FOURS | SPECULATION | [8 lines to right of rule] LOO or
+                LUE | LOTTERY | COMMERCE | POPE | BRAG | DOMINO | LOTO, &amp; | BOSTON. |
+                WHEREIN ARE COMPRISED | CALCULATIONS FOR BETTING | </titlePart>
+            <titlePart rend="italic">UPON EQUAL OR ADVANTAGEOUS TERMS. | </titlePart>
+            <titlePart>[short decorative rule] | REVISED AND CORRECTED | </titlePart>
+            <titlePart rend="smallcap">By </titlePart>
+            <titlePart>CHARLES JONES </titlePart>
+            <titlePart rend="smallcap">Esq. | </titlePart>
+            <titlePart>[short decorative rule] | A NEW EDITION CONSIDERABLY ENLARGED. | [short double
+                rule] | LONDON: | </titlePart>
+            <titlePart>PRINTED FOR W. LOWNDES; LONGMAN, HURST, REES,| ORME AND BROWN; BALDWIN, CRADOCK, AND JOY; | G. AND W. B. WHITTAKER; SCATCHERD AND LET-|TERMAN; LACKINGTON, HUGHES, HARDING, MAVOR | AND JONES; J. RICHARDSON; J. MAWMAN; J; | 
+                ASPERNE; W. STEWART; T. HAMILTON; J. WALKER; | T. AND J. ALLMAN, AND T. HUGHES | [short rule] | 1820</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iii</pageRef>
+                    </pageFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>iv</pageRef>
+                    </pageFrom>
+                    <contentPart>colophon</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>v</pageRef>
+                    </pageFrom>
+                    <contentPart>‘CONTENTS. | [...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vi</pageRef>
+                    </pageFrom>
+                    <contentPart>blank</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>R6+1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>192</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="jones.10.xml">Jones.10</contentPart>
+                    <contentPart>. </contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>vii</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>R6+1v</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>192</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="jones.10.xml">Jones.10</RTPart>
+                    <RTPart>. </RTPart>
+                </RT>
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Quadrille</game>
+                    <game>Mediateur</game>
+                    <game>Piquet</game>
+                    <game>Quinze</game>
+                    <game>Vingt-Un</game>
+                    <game>Lansquenet</game>
+                    <game>Faro</game>
+                    <game>Rouge et Noir</game>
+                    <game>Cribbage</game>
+                    <game>Matrimony</game>
+                    <game>Cassino</game>
+                    <game>Connexions</game>
+                    <game>Reversis</game>
+                    <game>Put</game>
+                    <game>All Fours</game>
+                    <game>Speculation</game>
+                    <game>Loo</game>
+                    <game>Lottery</game>
+                    <game>Commerce</game>
+                    <game>Pope Joan</game>
+                    <game>Brag</game>
+                    <game>Domino</game>
+                    <game>Loto</game>
+                    <game>Boston</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Odds of holding number of trumps</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+            </section>
+        </sections>
+        <colophon>
+            <notes>
+                <note>‘[rule] | W. Shackell, Printer, Johnson's-court, Fleet-street.’</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>

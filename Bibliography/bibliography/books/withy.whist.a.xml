@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Withy.Whist.A</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2020-07-24</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Withy.Whist.A</idno>
+			<fn>books/withy.whist.a.xml</fn>
+			<shortTitle>Twelve Rules for Whist</shortTitle>
+			<description>first London edition</description>
+			<pubYear>1781</pubYear>
+			<pubDate>1781-01-31</pubDate>
+			<evidence>advertisement</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>30</categoryID>
+			<workID>7</workID>
+			<subWorkID>1</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="publisher">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Withy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<periodicalReferences>
+			<periodicalReference periodicalType="advertisement">
+				<publication>Morning Herald and Daily Advertiser</publication>
+				<pubDate>1781-01-31</pubDate>
+				<notes>
+					<note>"No Puff Poz. This day is published, neatly printed on a card. The fourth
+						edition, with additions. Price only 2d. or 1s. a dozen. A New Year's gift
+						for grown masters and misses. Hoyle Abridged; or Twelve Short Standing Rules
+						for Short Memories, at the Game of Whist. By Bob Short...N. B. Signed by the
+						author in such a manner as to defy all counterfeits."</note>
+				</notes>
+			</periodicalReference>
+		</periodicalReferences>
+		<prices>
+			<price>
+				<priceComponent>
+					<amount>2</amount>
+					<unit>d.</unit>
+				</priceComponent>
+				<evidence>advertisement</evidence>
+			</price>
+		</prices>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>T191866</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true">
+				<holder>O</holder>
+				<shelfmark>John Johnson Trade Cards 2 (56)</shelfmark>
+				<surrogate>ECCO</surrogate>
+			</holding>
+		</holdings>
+		<notes>
+			<note>Withy advertised and sold a card with twelve rules for whist on one side and an advertisement for his brokerage business on the other. I have elected to treat the whist rules as the recto. </note>
+			<note rend="paragraph"/>
+			<note>In 1785, Withy expanded the twelve rules to twenty four as </note>
+			<note url="withy.whist.b.1.xml">Withy.Whist.B.1</note>
+			<note>. In 1791, he produced a much-expanded
+				chapbook version of the rules with added laws and odds as </note>
+			<note url="withy.whist.c.1.xml">Withy.Whist.C.1</note>
+			<note>.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<dimensions>
+				<height>6.3</height>
+				<width>9.2</width>
+			</dimensions>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>1</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>unsigned</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>1</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false" isUncounted="true">
+						<start>2</start>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart>Twelve Short </titlePart>
+			<titlePart rend="smallcap">Standing Rules | </titlePart>
+			<titlePart>for ſhort Memories at the | Game of Whiſt. | By </titlePart>
+			<titlePart rend="smallcap">Bob. Short. </titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<contentPart>title</contentPart>
+				</content>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+				<subject>
+					<subject1>Whist</subject1>
+					<subject2>short rules</subject2>
+				</subject>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<contentPart>‘ROBERT WITHY, | STOCK BROKER and AUCTIONEER, | BEGS Leave to
+						inform his Friends and the Public, | That he continues to Buy and Sell by
+						Commiſſion, | at Public or Private Sale, </contentPart>
+					<contentPart rend="smallcap">Estates, Life Annuities, | Mortgages, Reversions, |
+						Governement </contentPart>
+					<contentPart>and all | other </contentPart>
+					<contentPart rend="smallcap">Securities, </contentPart>
+					<contentPart>alſo the ſame valued, and </contentPart>
+					<contentPart rend="smallcap">Lives | Insured </contentPart>
+					<contentPart>on the moſt Reaſonable Terms. | [...]’</contentPart>
+				</content>
+			</section>
+		</sections>
+	</text>
+</entry>

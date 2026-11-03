@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+	<fileDesc>
+		<title>Memory.D.2*</title>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>David</forename>
+					<surname>Levy</surname>
+				</persName>
+			</respItem>
+		</respStmt>
+		<header>
+			<dateUpdate>2024-02-07</dateUpdate>
+		</header>
+		<footer>
+			<home>../index.xml</home>
+		</footer>
+	</fileDesc>
+	<bookDesc>
+		<bookKeys>
+			<idno>Memory.D.2*</idno>
+			<fn>books/memory.d.2.xml</fn>
+			<shortTitle>An Artificial Memory at the Game of Whist</shortTitle>
+			<shortImprint>printed for George and Alexander Ewing</shortImprint>
+			<description>second Dublin edition</description>
+			<pubYear>1751</pubYear>
+			<pubDate>1751</pubDate>
+			<evidence>title</evidence>
+			<edition>1</edition>
+			<issue>1</issue>
+			<categoryID>60</categoryID>
+			<workID>10</workID>
+			<subWorkID>30</subWorkID>
+			<textLang>en</textLang>
+		</bookKeys>
+		<respStmt>
+			<respItem respType="author">
+				<persName>
+					<forename>Edmond</forename>
+					<surname>Hoyle</surname>
+				</persName>
+			</respItem>
+			<respItem respType="publisher">
+				<respGroup seq="2">Ewing</respGroup>
+				<persName>
+					<forename>George and Alexander</forename>
+					<surname>Ewing</surname>
+				</persName>
+				<share>100</share>
+			</respItem>
+		</respStmt>
+		<listBibl>
+			<bibl>
+				<reference>ESTC</reference>
+				<idno>N12394</idno>
+			</bibl>
+		</listBibl>
+		<holdings>
+			<holding isSeen="true" isCollection="true">
+				<holder>D</holder>
+				<shelfmark>393.h3</shelfmark>
+				<idno>Polite.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>O</holder>
+				<shelfmark>Jessel f.572</shelfmark>
+				<idno>Polite.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>OCl</holder>
+				<shelfmark>789.87H F45D</shelfmark>
+				<idno>Polite.A</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1241.H8P 1752b c.1</shelfmark>
+				<idno>Polite.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>TNJ</holder>
+				<shelfmark>GV1241.H8P 1752b c.2</shelfmark>
+				<idno>Polite.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="true" isCollection="true">
+				<holder>TxU</holder>
+				<shelfmark>Ak.H852.B752p</shelfmark>
+				<idno>Polite.B</idno>
+				<sequence>2</sequence>
+			</holding>
+			<holding isSeen="false" isCollection="true">
+				<holder>MH-H</holder>
+				<shelfmark>SG 3652.152*</shelfmark>
+				<surrogate>ECCO</surrogate>
+				<idno>Polite.B</idno>
+				<sequence>2</sequence>
+			</holding>
+		</holdings>
+		<notes>
+			<note>It is unlikely that this book was ever issued without </note>
+			<note url="whist.d.4.xml">Whist.D.4</note>
+			<note> and copies survive only in various compilations of </note>
+			<note rend="italic">The Polite Gamester. </note>
+			<note url="quadrille.d.2.xml">Quadrille.D.2*</note>
+			<note> advertises </note>
+			<note rend="italic">Memory.D.2* </note>
+			<note>as a separate publication for 3d., but that advertisement is almost certainly
+				inaccurate.</note>
+			<note rend="paragraph"/>
+			<note>The OCl copy is particularly unusual in that it contains all the parts of the 1745 </note>
+			<note rend="italic" url="polite.1.xml">Polite Gamester</note>
+			<note> but with this 1751 edition of </note>
+			<note rend="italic">Memory </note>
+			<note>and the 1751 Exshaw edition of the treatise on </note>
+			<note url="brag.d.1.xml">Brag</note>
+			<note>.</note>
+		</notes>
+	</bookDesc>
+	<text>
+		<collation>
+			<format>12</format>
+			<collationFormula>
+				<gatherings>
+					<gatheringRange signed="true">
+						<sigStart>A</sigStart>
+						<leaves>6</leaves>
+					</gatheringRange>
+				</gatherings>
+				<signatureLeaves>$½</signatureLeaves>
+			</collationFormula>
+			<totalLeaves>6</totalLeaves>
+			<pagination>
+				<pageRanges>
+					<pageRange numbered="false">
+						<start>1</start>
+						<end>2</end>
+					</pageRange>
+					<pageRange numbered="true">
+						<start>3</start>
+						<end>12</end>
+					</pageRange>
+				</pageRanges>
+			</pagination>
+		</collation>
+		<titlePage titleType="title">
+			<titlePart rend="roman">AN | Artificial Memory. | OR, AN | EASY METHOD | OF |
+				Aſſiſting the </titlePart>
+			<titlePart rend="smallcap">Memory </titlePart>
+			<titlePart>of thoſe | that play at the Game of </titlePart>
+			<titlePart rend="smallcap">Whist. | </titlePart>
+			<titlePart>To which are added, | Several </titlePart>
+			<titlePart rend="smallcap">Cases </titlePart>
+			<titlePart>not hitherto Publiſh'd. | [rule] | </titlePart>
+			<titlePart rend="italic">By </titlePart>
+			<titlePart rend="smallcap">Edmund Hoyle, </titlePart>
+			<titlePart rend="italic">Gent. </titlePart>
+			<titlePart>| [double rule] | </titlePart>
+			<titlePart rend="italic">DUBLIN: | </titlePart>
+			<titlePart>Printed for </titlePart>
+			<titlePart rend="smallcap">George </titlePart>
+			<titlePart>and </titlePart>
+			<titlePart rend="smallcap">Alexander Ewing | </titlePart>
+			<titlePart>at the </titlePart>
+			<titlePart rend="italic">Angel </titlePart>
+			<titlePart>and </titlePart>
+			<titlePart rend="italic">Bible </titlePart>
+			<titlePart>in </titlePart>
+			<titlePart rend="italic">Dame-ſtreet. </titlePart>
+			<titlePart>1751.</titlePart>
+		</titlePage>
+		<sections>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>1</pageRef>
+					</pageFrom>
+					<contentPart>title</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A1v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>2</pageRef>
+					</pageFrom>
+					<contentPart>blank</contentPart>
+				</content>
+			</section>
+			<section>
+				<content>
+					<sigFrom>
+						<sigRef>A2r</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>3</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A6v</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>12</pageRef>
+					</pageTo>
+					<contentPart>‘[double rule] | AN | </contentPart>
+					<contentPart rend="smallcap">Artificial Memory, </contentPart>
+					<contentPart>| OR, | An eaſy Method of aſſiſting the </contentPart>
+					<contentPart rend="smallcap">Memory | </contentPart>
+					<contentPart>of thoſe that play at the Game of | </contentPart>
+					<contentPart rend="smallcap">Whist. | [...]’</contentPart>
+				</content>
+				<RT>
+					<sigFrom>
+						<sigRef>A2v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>4</pageRef>
+					</pageFrom>
+					<sigTo>
+						<sigRef>A6r</sigRef>
+					</sigTo>
+					<pageTo>
+						<pageRef>11</pageRef>
+					</pageTo>
+					<RTPart rend="italic">‘An </RTPart>
+					<RTPart rend="smallcap">Artificial | </RTPart>
+					<RTPart>MEMORY.’</RTPart>
+				</RT>
+				<gamesCovered>
+					<game>Whist</game>
+				</gamesCovered>
+			</section>
+			<section>
+				<RT>
+					<sigFrom>
+						<sigRef>A6v</sigRef>
+					</sigFrom>
+					<pageFrom>
+						<pageRef>12</pageRef>
+					</pageFrom>
+					<RTPart rend="italic">‘An </RTPart>
+					<RTPart rend="smallcap">Artificial, </RTPart>
+					<RTPart rend="italic">&amp;c.’</RTPart>
+				</RT>
+			</section>
+		</sections>
+	</text>
+</entry>

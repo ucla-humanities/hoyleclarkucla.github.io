@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="books/xsl/title.xsl"?>
+<work><header><dateUpdate>2025/10/08</dateUpdate></header><footer><fn>bibliography/60.30.xml</fn><home>index.xml</home></footer><shortTitle>Printed by R. M. Butler</shortTitle><subWork><name>Epitome of Hoyle</name><books><book><idno>Jockey.D.1</idno><fn>books/jockey.d.1.xml</fn><shortTitle>Epitome of Hoyle</shortTitle><shortImprint>printed by R. M. Butler</shortImprint><description>first Dublin edition</description><pubYear>1791</pubYear><pubDate>1791</pubDate><evidence>title</evidence><edition>1</edition><issue>1</issue><categoryID>60</categoryID><workID>30</workID><subWorkID>1</subWorkID><textLang>en</textLang></book></books></subWork></work>

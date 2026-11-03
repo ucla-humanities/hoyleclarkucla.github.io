@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="xsl/book.xsl"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../xsd/book.xsd">
+    <fileDesc>
+        <title>Jones.7-1</title>
+        <respStmt>
+            <respItem respType="author">
+                <persName>
+                    <forename>David</forename>
+                    <surname>Levy</surname>
+                </persName>
+            </respItem>
+        </respStmt>
+        <header>
+            <dateUpdate>2023-11-18</dateUpdate>
+        </header>
+        <footer>
+            <home>../index.xml</home>
+        </footer>
+    </fileDesc>
+    <bookDesc>
+        <bookKeys>
+            <idno>Jones.7-1</idno>
+            <fn>books/jones.7-1.xml</fn>
+            <shortTitle>Companion to the Card Table</shortTitle>
+            <shortImprint>printed for R. Baldwin et al</shortImprint>
+            <description>extracted from the seventh London edition</description>
+            <pubYear>1803</pubYear>
+            <pubDate>1803-02-01</pubDate>
+            <evidence>advertisement</evidence>
+            <edition>7</edition>
+            <issue>1</issue>
+            <categoryID>30</categoryID>
+            <workID>5</workID>
+            <subWorkID>1</subWorkID>
+            <copiesPrinted>1000</copiesPrinted>
+            <textLang>en</textLang>
+        </bookKeys>
+        <respStmt>
+            <respItem respType="publisher">
+                <respGroup seq="2">Baldwin</respGroup>
+                <persName>
+                    <forename>Robert</forename>
+                    <surname>Baldwin I</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Payne</respGroup>
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Payne</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="2">Lowndes</respGroup>
+                <persName>
+                    <forename>William</forename>
+                    <surname>Lowndes</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="3">Wilkie</respGroup>
+                <persName>
+                    <forename>George</forename>
+                    <surname>Wilkie</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Scatcherd</respGroup>
+                <persName>
+                    <forename>James</forename>
+                    <surname>Scatcherd</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Longman</respGroup>
+                <orgName>Longman and Rees</orgName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>James</forename>
+                    <surname>Nunn</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>William</forename>
+                    <surname>Stewart</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <respGroup seq="1">Crosby</respGroup>
+                <persName>
+                    <forename>Benjamin</forename>
+                    <surname>Crosby</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Thomas</forename>
+                    <surname>Hurst</surname>
+                </persName>
+            </respItem>
+            <respItem respType="publisher">
+                <persName>
+                    <forename>Joseph</forename>
+                    <surname>Mawman</surname>
+                </persName>
+            </respItem>
+            <respItem respType="printer">
+                <persName>
+                    <forename>Charles</forename>
+                    <surname>Whittingham</surname>
+                </persName>
+                <evidence>Chiswick Press Papers</evidence>
+                <evidence>colophon</evidence>
+                <evidence>Longman Archives</evidence>
+            </respItem>
+        </respStmt>
+        <periodicalReferences>
+            <periodicalReference periodicalType="advertisement">
+                <publication>The Star</publication>
+                <pubDate>1803-02-01</pubDate>
+                <notes>
+                    <note>"A pocket edition, printed on fine wove paper, hot-pressed, price 3s. 6d. in a case like an almanack, or at various other prices in different elegant and fancy bindings; of Hoyle's Games Improved and selected as a Companion to the Card Table." Also advertised is </note>
+                    <note url="jones.6.xml">Jones.6</note>
+                    <note> indicating that there were unsold copies of the prior edition when Jones.7-1 was issued.</note>
+                </notes>
+            </periodicalReference>
+        </periodicalReferences>
+        <prices>
+            <price>
+                <priceComponent>
+                    <amount>3</amount>
+                    <unit>s.</unit>
+                </priceComponent>
+                <priceComponent>
+                    <amount>6</amount>
+                    <unit>d.</unit>
+                </priceComponent>
+                <evidence>advertisement</evidence>
+                <evidence>slip case</evidence>
+            </price>
+        </prices>
+        <listBibl>
+            <bibl>
+                <reference>Horr</reference>
+                <idno>680</idno>
+            </bibl>
+            <bibl>
+                <reference>Jessel</reference>
+                <idno>927</idno>
+            </bibl>
+            <bibl>
+                <reference>Rather</reference>
+                <idno>83</idno>
+            </bibl>
+        </listBibl>
+        <holdings>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>38473 f.12</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>O</holder>
+                <shelfmark>Jessel f.606</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>OCl</holder>
+                <shelfmark>789.87H G3L</shelfmark>
+            </holding>
+            <holding isSeen="true">
+                <holder>Levy</holder>
+                <shelfmark>1253</shelfmark>
+            </holding>
+        </holdings>
+        <notes>
+            <note>The card games from </note>
+            <note rend="italic">Jones.7</note>
+            <note>, almost entirely the same setting of type. </note>
+            <note rend="paragraph"/>
+            <note>This book was issued before </note>
+            <note rend="italic">Jones.7</note>
+            <note>. The Chiswick Press Papers show that Lowndes paid for printing 4000 copies of five sheets on January 25, 1803. This would have been 1000 copies of </note>
+            <note rend="italic">Jones.7.1</note>
+            <note> (advertised in February) and 3000 copies of the first part of </note>
+            <note rend="italic">Jones.7</note>
+            <note>.  On May 22, Lowndes paid for 3000 copies of six sheets, the second part of </note>
+            <note rend="italic">Jones.7</note>
+            <note>. The Longman Archive gives a date of August 3 for the publication of </note>
+            <note rend="italic">Jones.7</note>
+            <note>. </note>
+            <note rend="paragraph"/>
+            <note>Lackington, Allen &amp; Co. does not appear on the imprint of this work, although they do on </note>
+            <note rend="italic">Jones.7, </note>
+            <note>suggesting they bought into the copyright between February and August.</note>
+        </notes>
+    </bookDesc>
+    <text>
+        <collation>
+            <format>18</format>
+            <collationFormula>
+                <gatherings>
+                    <gatheringRange signed="false">
+                        <sigStart>A</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>B</sigStart>
+                        <sigEnd>Q</sigEnd>
+                        <leaves>6</leaves>
+                    </gatheringRange>
+                    <gatheringRange signed="true">
+                        <sigStart>R</sigStart>
+                        <leaves>2</leaves>
+                    </gatheringRange>
+                </gatherings>
+                <signatureLeaves>$½</signatureLeaves>
+                <signingErrors>
+                    <signingError>
+                        <sigRef>G3</sigRef>
+                        <badSig>G</badSig>
+                    </signingError>
+                </signingErrors>
+            </collationFormula>
+            <totalLeaves>94</totalLeaves>
+            <pagination>
+                <pageRanges>
+                    <pageRange isUncounted="true" numbered="false">
+                        <start>4</start>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>1</start>
+                    </pageRange>
+                    <pageRange numbered="true">
+                        <start>2</start>
+                        <end>183</end>
+                    </pageRange>
+                    <pageRange numbered="false">
+                        <start>184</start>
+                    </pageRange>
+                </pageRanges>
+            </pagination>
+        </collation>
+        <titlePage titleType="slipcase" imageFN="jones.7-1.slipcase">
+            <titlePart>[five lines within decorative wreath] </titlePart>
+            <titlePart rend="italic">HOYLE's GAMES. | </titlePart>
+            <titlePart>OR | COMPANION | FOR THE | CARD TABLE. | </titlePart>
+            <titlePart rend="italic">Price 3s. 6d.</titlePart>
+        </titlePage>
+        <titlePage titleType="title" imageFN="jones.7-1">
+            <titlePart>HOYLE'S GAMES | IMPROVED AND SELECTED | AS A | COMPANION | TO | </titlePart>
+            <titlePart rend="italic">THE CARD TABLE | </titlePart>
+            <titlePart>CONSISTING OF | PRACTICAL TREATISES ON | [6 lines to left of rule]
+                WHIST | QUADRILLE | PIQUET | QUINZE | VINGT-UN | LANSQUENET | [6 lines
+                between two rules] FARO or PHARO | ROUGE &amp; NOIR | CRIBBAGE | MATRIMONY |
+                CASSINO | CONNEXIONS | [6 lines to right of rule] REVERSIS | PUT |
+                ALL-FOURS | SPECULATION | LOO and | LOTTERY | WHEREIN ARE COMPRISED |
+                CALCULATIONS FOR BETTING | UPON | </titlePart>
+            <titlePart rend="italic">EQUAL OR ADVANTAGEOUS TERMS | </titlePart>
+            <titlePart>[short oxford rule] | </titlePart>
+            <titlePart rend="italic">LONDON | </titlePart>
+            <titlePart>PRINTED FOR R. BALDWIN, T. PAYNE, W. LOWNDES, G. WILKIE, | J.
+                SCATCHERD, LONGMAN AND REES. J. NUNN, W. STEWART, | B. CROSBY, T. HURST, AND
+                J. MAWMAN. | [decorative rule] | 1803.</titlePart>
+        </titlePage>
+        <sections>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1r</sigRef>
+                    </sigFrom>
+                    <contentPart>title</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A1v</sigRef>
+                    </sigFrom>
+                    <contentPart>‘[oxford rule] | C. WHITTINGHAM, Printer, Dean Street, Fetter Lane.
+                        | [reverse oxford rule]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2r</sigRef>
+                    </sigFrom>
+                    <contentPart>"The proprietors of Hoyle's Games Improved, ambitious of retaining
+                        that patronage which those who endeavour to serve or amuse the public
+                        generally acquire, have had the whole work carefully revised and enlarged
+                        with, as they hope, material corrections throughout; and supposing that the
+                        same might with propriety be divided into nearly two equal portions, one
+                        calculated for the card table, and most suitable for ladies, the other
+                        appropriate to the male sex, as containing games that require stronger
+                        exertion or more intense application; the proprietors consequently now first
+                        publish, in a convenient size and elegant manner, that part which they trust
+                        will prove most acceptable to their fair country-women, intending soon to
+                        print the rest in a similar form, so as to give a complete edition of a book
+                        containing the most fashionable games, both of skill and
+                        chance."</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>A2v</sigRef>
+                    </sigFrom>
+                    <contentPart rend="italic">‘CONTENTS. | </contentPart>
+                    <contentPart>[...]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>B1r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>1</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>R2r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>183</pageRef>
+                    </pageTo>
+                    <contentPart>see </contentPart>
+                    <contentPart url="jones.7.xml">Jones.7</contentPart>
+                </content>
+                <RT>
+                    <sigFrom>
+                        <sigRef>B2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>4</pageRef>
+                    </pageFrom>
+                    <sigTo>
+                        <sigRef>R2r</sigRef>
+                    </sigTo>
+                    <pageTo>
+                        <pageRef>183</pageRef>
+                    </pageTo>
+                    <RTPart>see </RTPart>
+                    <RTPart url="jones.7.xml">Jones.7</RTPart>
+                </RT>
+
+                <gamesCovered>
+                    <game>Whist</game>
+                    <game>Quadrille</game>
+                    <game>Piquet</game>
+                    <game>Quinze</game>
+                    <game>Vingt-Un</game>
+                    <game>Lansquenet</game>
+                    <game>Faro</game>
+                    <game>Rouge et Noir</game>
+                    <game>Cribbage</game>
+                    <game>Matrimony</game>
+                    <game>Cassino</game>
+                    <game>Connexions</game>
+                    <game>Reversis</game>
+                    <game>Put</game>
+                    <game>All Fours</game>
+                    <game>Speculation</game>
+                    <game>Loo</game>
+                    <game>Lottery</game>
+                </gamesCovered>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>short rules</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>scoring with tokens</subject2>
+                </subject>
+                <subject>
+                    <subject1>Whist</subject1>
+                    <subject2>Payne on</subject2>
+                </subject>
+                <subject>
+                    <subject1>Piquet</subject1>
+                    <subject2>rules of</subject2>
+                </subject>
+                <subject>
+                    <subject1>Slip case</subject1>
+                    <subject2>book issued in</subject2>
+                </subject>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>R2r</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>183</pageRef>
+                    </pageFrom>
+                    <contentPart>‘[...] | [colophon]’</contentPart>
+                </content>
+            </section>
+            <section>
+                <content>
+                    <sigFrom>
+                        <sigRef>R2v</sigRef>
+                    </sigFrom>
+                    <pageFrom>
+                        <pageRef>184</pageRef>
+                    </pageFrom>
+                    <contentPart>‘BOOKS | PUBLISHED BY | THE PROPRIETORS OF THIS WORK. |
+                        [...]’</contentPart>
+                </content>
+            </section>
+        </sections>
+        <plates>
+            <plate>
+                <plateRelation>on</plateRelation>
+                <sigRef>O3r</sigRef>
+                <pageRef>149</pageRef>
+                <plateType>woodblock</plateType>
+                <notes>
+                    <note>a tapis or cloth covering the Rouge et Noir table</note>
+                </notes>
+            </plate>
+        </plates>
+        <colophon>
+            <notes>
+                <note>‘[oxford rule] | C. WHITTINGHAM, </note>
+                <note rend="italic">Printer, </note>
+                <note>Dean Street, Fetter-Lane. | [reverse oxford rule].’</note>
+            </notes>
+        </colophon>
+    </text>
+</entry>
