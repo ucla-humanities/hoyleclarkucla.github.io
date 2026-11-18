@@ -1,0 +1,205 @@
+/* ==========================================================================
+   1. GLOBAL DESKTOP BASE (Restores all vertical column alignments perfectly)
+   ========================================================================== */
+.content {
+    max-width: 1300px;
+    width: 95%;
+    padding: 20px 15px;
+    margin: 0 auto;
+}
+
+table {
+    empty-cells: show;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, td {
+    border: double 1px gray;
+}
+
+td {
+    padding: 10px;
+    vertical-align: middle;
+}
+
+/* 
+   FIX: Centered vertical alignment for the Title text, Collation data,
+   and ALL data / header cells in the Contents table.
+*/
+table:first-of-type tr td:not(.row-label):not(.image),
+.contents-table tr td {
+    vertical-align: middle !important;
+}
+
+/* Row Labels ("Title:", "Collation:", etc.) */
+td.row-label {
+    font-weight: bold;
+    text-align: right;
+    width: 140px;
+}
+
+/* FIX: Forces the main "Contents:" rowspan label to center vertically over its 9 rows */
+.contents-table td.row-label[rowspan] {
+    vertical-align: middle !important;
+}
+
+/* ----------------------------------------------------------------------
+   FIX: ELIMINATE THE SECOND STUBBORN IMAGE ASSIGNED BORDER
+   ---------------------------------------------------------------------- */
+td.image {
+    width: 240px;
+    padding: 0 !important; /* Remove cell padding so background masks inner cell grid */
+    background-color: #ffffff !important; 
+    position: relative;
+    vertical-align: middle;
+}
+
+td.image img {
+    width: calc(100% - 20px); /* Re-creates 10px visual padding spacing */
+    height: auto;
+    max-height: 450px;
+    display: block;
+    margin: 10px auto; 
+    object-fit: contain;
+    background-color: #ffffff !important;
+    
+    /* Wipes out any HTML or inherited border outlines on the image itself */
+    border: 0 none transparent !important; 
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+/* Force neighboring text cells to cleanly align their internal lines */
+td.image + td {
+    border-left: double 1px gray !important;
+}
+
+tr:has(> td.image) + tr td {
+    border-top: double 1px gray !important;
+}
+
+/* Stack tables closely together */
+table + table {
+    margin-top: -20px;
+}
+
+/* Desktop sizing for your specific colgroup classes */
+.w30  { width: 30%; }
+.w10  { width: 10%; }
+.w60  { width: 60%; }
+.w08  { width: 8%;  }
+.w37  { width: 37%; }
+.w90  { width: 90%; }
+
+/* ==========================================================================
+   2. ISOLATED MOBILE RULES (Targets phone layouts up to 950px wide)
+   ========================================================================== */
+@media screen and (max-width: 950px) {
+    
+    /* Safely scale text down slightly for mobile viewing and force alignment */
+    td {
+        font-size: 13px !important;
+        padding: 6px 8px !important;
+        vertical-align: middle !important; /* FIXED: Prevents vertical misalignment on mobile */
+    }
+
+    /* DYNAMIC FIX: Class-based catch-all for structural row labels.
+       Forces "Title:", "Collation:", "Catchwords:", "Publisher:", etc.
+       to stay cleanly shrunk down in both portrait and landscape phone views.
+    */
+    td.row-label {
+        font-weight: bold;
+        font-size: 11px !important;
+        line-height: 1.2 !important;
+        width: 45px !important;       /* FIXED: Bumped from 36px to stop the colon from bleeding */
+        min-width: 45px !important;
+        max-width: 45px !important;
+        padding-right: 4px !important;
+        text-align: right;            /* Keeps text pushed against the main content */
+    }
+
+    /* FIXED: Matches the colgroup to the new cell width */
+    table colgroup col.w10 {
+        width: 45px !important;       /* FIXED: Bumped from 36px */
+    }
+
+    /* Force Table 1 column layout to fit the adjusted mobile image width */
+    table colgroup col.w30 {
+        width: 150px !important;      /* FIXED: Shifted down from 159px to balance the grid math */
+    }
+
+    /* Override the Contents Table colgroup widths dynamically for mobile screen sizes */
+    .contents-table colgroup col:nth-child(1) { width: 85px !important; }  /* Contents rowspan label */
+    .contents-table colgroup col:nth-child(2) { width: 60px !important; }  /* Left Ref Column */
+    .contents-table colgroup col:nth-child(3) { width: auto !important; }  /* Left Text Column */
+    .contents-table colgroup col:nth-child(4) { width: 60px !important; }  /* Right Ref Column */
+    .contents-table colgroup col:nth-child(5) { width: auto !important; }  /* Right Text Column */
+
+    /* Image mobile sizing adjustments */
+    td.image {
+        width: 150px !important;     /* FIXED: Matches the updated colgroup width */
+        min-width: 150px !important;
+        max-width: 150px !important;
+    }
+
+    td.image img {
+        width: calc(100% - 2px) !important;
+        margin: 2px auto !important;
+        max-height: 250px !important;
+        border: 0 none transparent !important;
+    }
+}
+
+/* ==========================================================================
+   3. SHORTHAND "REF" TEXT ENGINE (Applies to all phone modes up to 1024px)
+   ========================================================================== */
+@media screen and (max-width: 1024px) {
+    /* 
+       Safe text replacement targeting the explicit content text strings 
+       WITHOUT relying on column indices which break due to rowspans.
+    */
+    .contents-table tr:first-child td .bold {
+        visibility: hidden !important;
+        position: relative;
+        display: inline-block;
+    }
+
+    /* Hide the original long text boundaries clean out of frame layout */
+    .contents-table tr:first-child td .bold {
+        font-size: 0 !important;
+    }
+
+    /* Clean, rock-solid injection of shorthand label over the broken elements */
+    .contents-table tr:first-child td .bold::before {
+        visibility: visible;
+        font-size: 11px !important;
+        font-weight: bold !important;
+        display: inline-block;
+    }
+
+    /* 
+       FIXED COUNTERS: Because td:nth-child(1) is the "Contents:" label, 
+       the cells follow a shifted index pattern:
+       - child(2) = First "Signature (Page) Reference" -> changes to "Ref"
+       - child(3) = Column Header "Contents" -> stays "Contents"
+       - child(4) = Second "Signature (Page) Reference" -> changes to "Ref"
+       - child(5) = Column Header "Running Titles" -> stays "Running Titles"
+    */
+    .contents-table tr:first-child td:nth-child(2) .bold::before,
+    .contents-table tr:first-child td:nth-child(4) .bold::before {
+        content: "Ref";
+    }
+
+    .contents-table tr:first-child td:nth-child(3) .bold::before {
+        content: "Contents";
+        font-size: 12px !important;
+    }
+
+    .contents-table tr:first-child td:nth-child(5) .bold::before {
+        content: "Running Titles";
+        font-size: 12px !important;
+    }
+}

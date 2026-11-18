@@ -1,1 +1,0 @@
-# hoyleclarkucla.github.io

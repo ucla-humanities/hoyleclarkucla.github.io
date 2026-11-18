@@ -1,0 +1,44 @@
+/* ==========================================================================
+   INDEX-SPECIFIC LAYOUT OVERRIDES (Wider Print Display)
+   ========================================================================== */
+
+.content {
+    max-width: 1300px;     /* Extends the content layout baseline significantly */
+    width: 95%;            /* Spans almost fully across compressed viewports */
+    padding: 20px 15px;    /* Slashes side padding margins to allow maximal data usage */
+    margin: 0 auto;
+}
+
+/* ==========================================================================
+   INDEX TABLES, COLUMNS & CELLS
+   ========================================================================== */
+table {
+    empty-cells: show;
+}
+
+table, td {
+    border: double 1px gray;
+}
+
+table.none { 
+    width: 100%; 
+    border: none; 
+}
+
+table.w78 { 
+    width: 100%;           /* Forces specific table classes to stretch flush into layout */
+}
+
+/* Extensions to Global Columns */
+col.w15   { width: 15%; }
+col.w20   { width: 20%; }
+col.w10px { width: 10px; }
+
+/* Structural Cell Modifiers */
+td.top    { border-bottom: none; }
+td.middle { border-bottom: none; border-top: none; }
+td.bottom { border-top: none; }
+
+td.left   { text-align: left; border: none; }
+td.right  { text-align: right; border: none; padding: 2px; }
+td.none   { border: none; padding: 2px; }

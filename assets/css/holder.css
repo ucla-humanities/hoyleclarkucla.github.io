@@ -1,0 +1,25 @@
+/* ==========================================================================
+   HOLDER LAYOUT OVERRIDES (Mirroring Index System Settings)
+   ========================================================================== */
+.content {
+    max-width: 1300px;     /* Opens display area to match index layouts */
+    width: 95%;
+    padding: 20px 15px;
+    margin: 0 auto;
+}
+
+/* ==========================================================================
+   HOLDER TABLES & CELL RESTRUCTURING
+   ========================================================================== */
+table {
+    empty-cells: show;
+}
+
+table, td {
+    border: double 1px gray;
+}
+
+/* Structural Cell Modifiers */
+td.top    { border-bottom: none; }
+td.middle { border-bottom: none; border-top: none; }
+td.bottom { border-top: none; }

@@ -1,0 +1,191 @@
+/* ==========================================================================
+   1. MASTER LAYOUT RESET & BASE FONTS
+   ========================================================================== */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Libre Baskerville', 'Baskerville', serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.4;
+    color: #212529;
+    background-color: #ffffff;
+    margin: 0; 
+    padding: 0;
+}
+
+.content {
+    margin: 0 auto;             /* Center content blocks layout neatly */
+    padding: 40px 20px;         /* Generous vertical spacing, safe mobile side margins */
+    max-width: 80ch;            /* Standard comfortable text reading width */
+    width: 100%;
+}
+
+/* --- Custom layout modifier for tighter margins --- */
+.content.tight-margins {
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 120ch; /* Makes the readable area wider, pushing text closer to the screen edges */
+}
+
+/* --- Sidebar Adaptability Rule --- */
+body:has(.sidebar) .content {
+    margin-left: 240px;         /* Automatically shifts the text content right if a sidebar exists */
+}
+
+/* ==========================================================================
+   2. GENERAL BASE ELEMENTS & UTILITIES
+   ========================================================================== */
+img {
+    border: 1px solid black;
+    width: auto;
+    max-height: 500px;
+}
+
+hr {
+    border-width: 3px;
+    border-color: white;
+    color: gray;
+}
+
+/* --- Global Centered Utilities --- */
+p.center,
+h2.center {
+    text-align: center;
+}
+
+h2.center {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+p.center {
+    margin-top: 0;
+    margin-bottom: 0.5rem;      /* Keeps stacked localized meta text close together */
+}
+
+p.right{
+    text-align: right;
+}
+
+/* ==========================================================================
+   3. TEXT & FONT UTILITIES (SPAN CLASSES)
+   ========================================================================== */
+span.smallcap,
+span.italsmallcap,
+span.smallcapred {
+    font-variant: small-caps;
+}
+
+span.italic,
+span.italsmallcap,
+span.italicred {
+    font-style: italic;
+}
+
+span.red,
+span.smallcapred,
+span.italicred,
+span.superred {
+    color: red;
+}
+
+span.super,
+span.superred,
+span.sub {
+    font-size: .83em;
+}
+
+span.bold {
+    font-weight: bold;
+}
+
+span.super,
+span.superred {
+    vertical-align: super;
+}
+
+span.sub {
+    vertical-align: sub;
+}
+
+/*
+span.blackletter {
+    font-family: "Mathematica6 Bold", "Old English Text MT", "Engravers Old English BT", 
+                 "Old English", "Collins Old English", "New Old English";
+}
+ */
+
+@font-face {
+  font-family: 'Cloister Black';
+  /* The path goes up one level (..) to assets, then into fonts/ */
+  src: url('../fonts/cloister-black.woff2') format('woff2');
+  font-display: swap;
+}
+
+.blackletter {
+  font-family: 'Cloister Black', serif;
+  letter-spacing: -0.05em; /* Adjust this value to get the look you want */
+  font-size: 1.1em;
+  word-spacing: -0.2em;
+}
+
+/* ==========================================================================
+   4. GLOBAL TABLES & CELLS
+   ========================================================================== */
+table {
+    border-collapse: collapse;
+    table-layout: fixed;        /* Prevents massive tables from breaking container parameters */
+    width: 100%;
+    margin: 20px 0;
+}
+
+td {
+    padding: 6px;
+}
+
+td.bold {
+    font-weight: bold;
+}
+
+td.row-label {
+    font-weight: bold;
+    text-align: right;
+    vertical-align: middle;
+}
+
+td.image {
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* --- Global Column Framework Widths --- */
+col.w08 { width: 8%; }
+col.w10 { width: 10%; }
+col.w15 { width: 15%; }
+col.w30 { width: 30%; }
+col.w37 { width: 37%; }
+col.w50 { width: 50%; }
+col.w55 { width: 55%; }
+col.w60 { width: 60%; }
+col.w65 { width: 65%; }
+col.w90 { width: 90%; }
+
+.split-line {
+  position: relative; /* Gives the right-text an anchor point */
+  text-align: center; /* Centers the main content */
+  width: 100%;
+  margin: 0;
+}
+
+.right-text {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
